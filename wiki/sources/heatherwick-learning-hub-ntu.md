@@ -19,6 +19,14 @@ The second major design problem was material: Singapore's building codes and sus
 
 Environmentally, the building's permeable central atrium is naturally ventilated; the tutorial rooms use silent convection cooling rather than air conditioning fans. It received Green Mark Platinum from the Singapore Building and Construction Authority (BCA).
 
+**PL:** Learning Hub na Nanyang Technological University (NTU) w Singapurze, zaprojektowany przez [[Heatherwick Studio]] z CPG Consultants jako głównym architektem, to 14 000 m², 8-piętrowy budynek edukacyjny oparty na zasadzie inwersji programowej: zamiast konwencjonalnego budynku uczelni (korytarze łączące izolowane pudełkowe sale wykładowe), jest dwanaście betonowych wież z zaokrąglonymi salami tutorialowymi wokół centralnego atrium. 56 sal bez narożników, bez wyraźnego frontu ani tyłu — zaprojektowane, by rozpuścić frontalną hierarchię tradycyjnego nauczania.
+
+Brief wyrósł z odczytania przez NTU rewolucji cyfrowej: jeśli studenci mają dostęp do wiedzy wszędzie, podstawową funkcją kampusu nie jest już wykład, lecz spotkanie. Budynek to zatem *maszyna społeczna* — przeplatana otwartymi przestrzeniami, nieformalnymi tarasami i niszami sprzyjającymi przypadkowym interakcjom.
+
+Drugie poważne wyzwanie projektowe to materiał: singapurskie przepisy budowlane wymagały betonu. Odpowiedzią był rozbudowany program rzemiosła odlewniczego: 700 rysunków Sary Fanelli trójwymiarowo odlanych w betonowe jądra; 61 ukośnych kolumn z indywidualnie opracowanymi teksturami; zakrzywione panele fasady z unikalnym wzorem reliefowym z dziesięciu regulowanych form silikonowych. Efekt ma czytać się jakby budynek był „wykonany ręcznie z mokrej gliny."
+
+Środowiskowo, centralne atrium jest naturalnie wentylowane; sale tutorialowe używają cichego chłodzenia konwekcyjnego. Uzyskał Green Mark Platinum od singapurskiego BCA.
+
 ## Key Points
 
 - **Location**: Nanyang Technological University (NTU), Singapore
@@ -30,6 +38,16 @@ Environmentally, the building's permeable central atrium is naturally ventilated
 - **Passive design**: naturally ventilated atrium; silent convection in rooms; Green Mark Platinum (highest BCA rating)
 - **Lead architect**: CPG Consultants (executed design); Heatherwick Studio (design architect)
 - **Heatherwick quote**: "the most important commodity on a campus is social space to meet and bump into and learn from each other"
+
+**PL:**
+- **Lokalizacja**: Nanyang Technological University (NTU), Singapur
+- **Program**: 56 sal tutorialowych, centralne atrium, otwarte przestrzenie, tarasy; 14 000 m² PUB; 8 pięter, 38,3 m
+- **Forma**: 12 betonowych wież (każda stos zaokrąglonych sal) zwężających się ku podstawie wokół centralnego atrium
+- **Argument pedagogiczny**: sale bez narożników i bez frontu/tyłu — rozpuszcza hierarchię nauczyciel-z-przodu/studenci-z-tyłu; zaprojektowane dla aktywnej nauki i przypadkowych spotkań
+- **Mandat materiałowy**: singapurskie przepisy budowlane + brief zrównoważony = beton konieczny; wyzwanie projektowe = uczynić beton pięknym
+- **Odpowiedź rzemieślnicza**: 700 ilustracji Sary Fanelli odlanych 3D w betonowe jądra; 61 teksturowanych kolumn; 10 form silikonowych do paneli fasady
+- **Projekt pasywny**: naturalnie wentylowane atrium; ciche chłodzenie konwekcyjne w salach; Green Mark Platinum (najwyższa ocena BCA)
+- **Główny architekt**: CPG Consultants (projekt wykonawczy); Heatherwick Studio (architekt projektu)
 
 ## Entities Mentioned
 
@@ -46,6 +64,13 @@ Environmentally, the building's permeable central atrium is naturally ventilated
 - Sara Fanelli's 700 illustrations cast into concrete are described as "deliberately ambiguous thought triggers" — aspirational framing; whether users experience them as such or simply stop noticing them is unknown.
 - The building is widely referred to as "The Hive" but this name does not appear in the source.
 - No date of completion stated in source. (From external knowledge: 2015.)
+
+**PL:**
+- Źródło to własny opis Heatherwick Studio + cytaty NTU/CPG — wszystko promocyjne. Brak niezależnej oceny, czy model przestrzenny faktycznie generuje przypadkowe spotkania.
+- Twierdzenie, że „sale bez narożników" wspierają kolaboratywną naukę, to hipoteza architektoniczna, nie udowodniony wynik. Brak badania post-occupancy.
+- 700 ilustracji Sary Fanelli odlanych w beton opisane jako „celowo niejednoznaczne wyzwalacze myśli" — narracja aspiracyjna; czy użytkownicy ich w ten sposób doświadczają, czy po prostu przestają je zauważać — nieznane.
+- Budynek powszechnie nazywany „The Hive", ale ta nazwa nie pojawia się w źródle.
+- Data ukończenia niepodana w źródle. (Z wiedzy zewnętrznej: 2015.)
 
 ## Quotes
 

@@ -18,6 +18,12 @@ The Green Oasis at the building's core (levels approx. 17–20) is a 35m open-ai
 
 [[Bjarke Ingels]] and Brian Yang were BIG's partners-in-charge. [[Carlo Ratti]] led CRA's team.
 
+**PL:** CapitaSpring to 51-piętrowy, 93 000 m² wieżowiec wielofunkcyjny w singapurskim CBD — wybudowany na miejscu dawnego publicznego parkingu i hawker centre. Zaprojektowany wspólnie przez [[Carlo Ratti Associati]] (CRA) i [[BIG — Bjarke Ingels Group]], explicite marketowany jako „biofiliczny wieżowiec": ponad 80 000 roślin zintegrowanych na wielu poziomach i czteropiętrowy otwarty „Green Oasis" w środku budynku, dając GPR 1:1,4 — 140% powierzchni działki jest zagospodarowane zielenią.
+
+Projekt pełni podwójną funkcję: prestiżowa wieża biurowa klasy A i obsługiwana rezydencja Citadines, jednocześnie odtwarzając historycznie znaczące Market Street Hawker Centre (56 stanowisk) na piętrach 2–3 i upieszczając Market Street na poziomie gruntu. 18-metrowy „City Room" u podstawy stanowi zadaszony plac publiczny. Dach mieści najwyższą singapurską farmę miejską — 150+ gatunków.
+
+Partnerzy prowadzący [[Bjarke Ingels]] i Brian Yang (BIG). [[Carlo Ratti]] prowadził zespół CRA.
+
 ## Key Points
 
 - 51 storeys; 93,000 m²; Singapore CBD; on site of former car park and hawker centre.
@@ -30,6 +36,18 @@ The Green Oasis at the building's core (levels approx. 17–20) is a 35m open-ai
 - Program: Grade A office (top 29 floors), Citadines serviced residence (floors 1–8), hawker centre, restaurants, public space.
 - Collaboration between two globally prominent firms: CRA and BIG.
 - BIG partners-in-charge: Bjarke Ingels, Brian Yang.
+
+**PL:**
+- 51 pięter; 93 000 m²; CBD Singapuru; na miejscu dawnego parkingu i hawker centre.
+- [[Biophilic Design]]: 80 000+ roślin; GPR 1:1,4; 8 300 m² łącznej powierzchni zielonej.
+- „Green Oasis": 4 połączone poziomy otwartego ogrodu w jądrze budynku; 35 m; wzorowany na hierarchii roślin tropikalnego lasu deszczowego.
+- Dachowa farma miejska: najwyższa w Singapurze; 150+ gatunków; dostarcza do restauracji na dachu.
+- Market Street Hawker Centre odtworzone (56 stanowisk, piętra 2–3) — zachowanie kulturowe i społecznościowe.
+- Market Street upieszczona — przywrócona przestrzeń publiczna.
+- „City Room": 18-metrowa zadaszana przestrzeń publiczna u podstawy; łączy lobby biurowe, rezydencjalne, handlowe i centrum gastronomiczne.
+- Program: biura klasy A (30 najwyższych pięter), Citadines (piętra 1–8), hawker centre, restauracje, przestrzeń publiczna.
+- Współpraca dwóch globalnie prominentnych pracowni: CRA i BIG.
+- Partnerzy prowadzący BIG: Bjarke Ingels, Brian Yang.
 
 ## Entities Mentioned
 
@@ -46,6 +64,13 @@ The Green Oasis at the building's core (levels approx. 17–20) is a 35m open-ai
 - "Green Plot Ratio of 1:1.4" is a Singapore planning metric — how meaningful it is versus actual biodiversity or ecological performance is an open question.
 - The hawker centre recreation is presented as cultural preservation, but the original was demolished to build this tower — the framing warrants scrutiny.
 - 99%+ of office and retail committed at time of publication suggests commercial success, but the "public benefit" of a private Grade A tower is a legitimate critical question.
+
+**PL:**
+- Źródło to materiał promocyjny/prasowy — brak recenzji krytycznej, oceny post-occupancy ani badań użytkowników.
+- 80 000 roślin w klimatyzowanym wieżowcu: długoterminowe obciążenie konserwacyjne i wykonalność ekosystemu w tej skali nieomówione.
+- „GPR 1:1,4" to singapurska metryka planistyczna — jak znacząca jest w porównaniu z rzeczywistą bioróżnorodnością lub efektywnością ekologiczną — pytanie otwarte.
+- Odtworzenie hawker centre przedstawiane jest jako zachowanie kulturowe, ale oryginał wyburzono, by wybudować tę wieżę — narracja wymaga weryfikacji.
+- 99%+ biur i handlu zakontraktowanych w chwili publikacji sugeruje sukces komercyjny, ale „korzyść publiczna" prywatnej wieży klasy A to prawomocne pytanie krytyczne.
 
 ## Quotes
 

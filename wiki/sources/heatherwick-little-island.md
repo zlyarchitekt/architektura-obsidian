@@ -17,6 +17,12 @@ The project began with a brief for a waterfront pavilion. Heatherwick rejected t
 
 The concrete planters — "pots" — that hold the park's 100+ species of indigenous plants were formally derived from a natural phenomenon observed at the site: the mosaic of ice that forms around the wooden piles when the Hudson freezes. The design team reinterpreted this as a tessellated geometric pattern that reads as organic but is composed of standardised, locally fabricated precast elements. Three performance venues are cut into the park's topography: a 700-seat acoustically optimised amphitheatre, a 200-seat spoken word stage, and a 3,500-capacity flexible venue.
 
+**PL:** Little Island to 2,4-akrowy park miejski i miejsce performatywne zbudowane ponad rzeką Hudson na miejscu dawnego Pier 54, Nowy Jork, zaprojektowane przez [[Heatherwick Studio]] z architektami krajobrazu [[MNLA]] i inżynierami [[Arup]]. Projekt trwał ponad osiem lat od koncepcji do otwarcia. Źródłem jest komunikat prasowy Heatherwick Studio przy otwarciu.
+
+Projekt zaczął się od briefa na pawilony nabrzeżny. Heatherwick odrzucił to na rzecz przedefiniowania mola jako nowej topografii — uniesienia parku na istniejących fundamentach zamiast dodawania budynku na płaskim pomoście. Istniejące drewniane pale w Hudsonie, chronione siedlisko morskie i tarlisko, stały się strukturalnym i konceptualnym generatorem: ich zróżnicowane wysokości kształtują bezpośrednio krajobraz parku. Struktura i krajobraz są explicite nierozłączne: „molo i jego podpory są jednym."
+
+Betonowe doniczki — „poty" — wyprowadzono formalnie z mozaiki lodu obserwowanej wokół pali gdy Hudson zamarza. Trzy sceny wycięte w topografii: amfiteatr na 700 miejsc, scena spoken word na 200 miejsc i elastyczna przestrzeń na 3 500 widzów.
+
 ## Key Points
 
 - **Location**: Hudson River, New York City; Hudson River Park; site of former Pier 54
@@ -29,6 +35,18 @@ The concrete planters — "pots" — that hold the park's 100+ species of indige
 - **Performance**: 700-seat amphitheatre, 200-seat spoken word stage, 3,500-capacity flexible venue — all carved into the topography
 - **Access**: two "gangplanks" aligned with NYC street grid; timber-planked
 - **Brief rejected**: team converted a pavilion brief into a new urban landscape — a recurring Heatherwick pattern of reframing the commission
+
+**PL:**
+- **Lokalizacja**: rzeka Hudson, Nowy Jork; Hudson River Park; teren dawnego Pier 54
+- **Skala**: 2,4 akra; 8+ lat w realizacji
+- **Zespół projektowy**: [[Heatherwick Studio]] (projekt), [[MNLA]] (architektura krajobrazu), [[Arup]] (inżynieria)
+- **Koncepcja strukturalna**: park uniesiony na istniejących drewnianych palach różnych wysokości → topografia zdeterminowana przez wysokości pali; siedlisko morskie zachowane poniżej; molo i struktura są jednym
+- **Ekologia morska**: istniejące pale to chronione tarlisko ryb; narożnik mola uniesiony by wpuszczać światło słoneczne do środowiska morskiego
+- **Doniczki**: forma wyprowadzona z mozaiki lodu rzecznego wokół drewnianych pali → mozaikowy wzór → standaryzowane prefabrykowane elementy betonowe; wykonane lokalnie i złożone łodzią
+- **Nasadzenia**: 100+ gatunków rodzimych dostosowanych do nadrzecznego klimatu Nowego Jorku; nacisk na bioróżnorodność
+- **Sceny**: amfiteatr na 700 miejsc, scena spoken word na 200 miejsc, elastyczna przestrzeń na 3 500 widzów — wykrojone w topografii
+- **Dostęp**: dwa „trapaki" wyrównane z siatką ulic NYC; deskowane drewnem
+- **Odrzucony brief**: zespół zamienił brief na pawilon w nowy krajobraz miejski — powtarzający się wzorzec Heatherwicta
 
 ## Entities Mentioned
 
@@ -45,6 +63,13 @@ The concrete planters — "pots" — that hold the park's 100+ species of indige
 - 100+ indigenous species is an ambitious ecological claim; no data on survival rates, biodiversity outcomes, or maintenance costs.
 - The "tessellated ice mosaic" origin story for the pot form is compelling but unverifiable from the source alone — a design narrative may be retrospectively tidied.
 - Performance venue completion dates and operational details absent.
+
+**PL:**
+- Źródło to komunikat prasowy Heatherwick Studio przy otwarciu — całkowicie promocyjne; brak niezależnej oceny krytycznej.
+- Odrzucenie briefa („czuliśmy, że to stracona szansa") jest przedstawiane jako heroiczne przedefiniowanie; w rzeczywistości taka negocjacja briefa wymaga chętnego klienta. Tożsamość głównego fundatora (z wiedzy zewnętrznej: Barry Diller i Diane von Furstenberg, 260 mln dolarów darowizny) nie jest wzmiankowana — źródło przedstawia projekt jako Hudson River Park, co jest niepełne.
+- 100+ gatunków rodzimych to ambitne twierdzenie ekologiczne; brak danych o wskaźnikach przeżycia, wynikach bioróżnorodności ani kosztach konserwacji.
+- Historia „mozaiki lodowej" jako genezy formy doniczek jest przekonująca, ale niesprawdzalna z samego źródła — narracja projektowa mogła być retrospektywnie uporządkowana.
+- Daty ukończenia scen i szczegóły operacyjne nieobecne.
 
 ## Quotes
 

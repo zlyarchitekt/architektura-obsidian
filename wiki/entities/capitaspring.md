@@ -49,21 +49,39 @@ CapitaSpring is a 51-storey, 93,000 m² mixed-use skyscraper at the heart of Sin
 - **Rooftop urban farm**: operated by 1-Group; 150+ species of fruit, vegetables, herbs, flowers across 5 thematic plots; supplies rooftop restaurants with fresh produce.
 - **Total landscaped area**: 8,300 m² — more than the entire building footprint.
 
+**PL:**
+- **Green Oasis**: 4 połączone poziomy, 35 m wysokości; otwarty na zewnątrz; w jądrze budynku między częścią rezydencjalną a biurową. Zaprojektowany zgodnie z pionową hierarchią roślinną tropikalnego lasu deszczowego — duże, cieniolubne liście u podstawy, mniejsze gatunki koronowe u góry. Najbardziej charakterystyczny element przestrzenny.
+- **Ogrody niebne**: na wielu poziomach; elementy strukturalne „rozciągnięte", by umożliwić widoki na wewnętrzną zieleń.
+- **Dachowa farma miejska**: prowadzona przez 1-Group; 150+ gatunków owoców, warzyw, ziół i kwiatów na 5 tematycznych poletkach; dostarcza świeżych produktów do restauracji na dachu.
+- **Łączna powierzchnia terenów zielonych**: 8 300 m² — więcej niż cały obrys budynku.
+
 ## Urban / Public Dimension
 
 - **City Room**: 18m-high sheltered public space at base; entrance hub connecting offices, residences, retail, food centre.
 - **Market Street Hawker Centre**: recreated at floors 2–3 with 56 stalls — preserving (in relocated form) the hawker centre that occupied the site before demolition.
 - **Market Street pedestrianisation**: stretch of Market Street pedestrianised at ground level; new landscaped public space created.
 
+**PL:**
+- **City Room**: 18-metrowa zadaszana przestrzeń publiczna przy podstawie budynku; centrum wejściowe łączące biura, rezydencje, handel i centrum gastronomiczne.
+- **Market Street Hawker Centre**: odtworzony na piętrach 2–3 z 56 straganami — zachowując (w formie przeniesionej) hawker centre, które przed rozbiórką zajmowało tę działkę.
+- **Pieszość Market Street**: odcinek ulicy Market Street upieszczoniony na poziomie gruntu; nowa zagospodarowana przestrzeń publiczna.
+
 ## Context: Singapore Garden City
 
 CapitaSpring explicitly positions itself within Singapore's "Garden City" vision — Lee Kuan Yew's 1967 policy commitment to making Singapore green, clean, and liveable. The Green Plot Ratio (GPR) is a Singapore Urban Redevelopment Authority metric that quantifies landscaping relative to site area. CapitaSpring's GPR of 1:1.4 is among the highest in the city's commercial building stock.
+
+**PL:** CapitaSpring expressis verbis wpisuje się w singapurską wizję „Miasta-Ogrodu" — polityczne zobowiązanie Lee Kuan Yewa z 1967 roku, by uczynić Singapur zielonym, czystym i mieszkalnym. Wskaźnik Zielonej Działki (GPR) to metryka Singapurskiego Urzędu Przebudowy Miejskiej (URA) określająca ilość nasadzeń w stosunku do powierzchni działki. GPR CapitaSpring wynoszący 1:1,4 należy do najwyższych w komercjalnym zasobie budowlanym miasta.
 
 ## Contradictions / Open Questions
 
 - The site's original hawker centre was demolished to build this tower; the "recreation" of the hawker centre is presented as cultural preservation but is fundamentally a displacement.
 - 80,000 plants in an air-conditioned tower: long-term maintenance cost, water use, and ecological viability at this scale are unaddressed.
 - As a private commercial development, the "public benefit" of the City Room and pedestrianised street requires scrutiny — how genuinely public is it?
+
+**PL:**
+- Oryginalne hawker centre na tej działce zostało wyburzone w celu budowy wieżowca; „odtworzenie" go jest przedstawiane jako zachowanie dziedzictwa kulturowego, lecz stanowi w istocie przesiedlenie.
+- 80 000 roślin w klimatyzowanym wieżowcu: długoterminowe koszty konserwacji, zużycie wody i ekologiczna opłacalność w tej skali pozostają nieomówione.
+- Jako prywatna inwestycja komercyjna, „korzyść publiczna" City Room i upieszczonej ulicy wymaga weryfikacji — na ile jest naprawdę publiczna?
 
 ## See Also
 

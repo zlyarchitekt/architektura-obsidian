@@ -16,6 +16,12 @@ The masterplan is conceived as a "point of connection" between Shanghai's histor
 
 The most architecturally distinctive element is the cultural centre at the heart of the scheme: an exhibition, events, and performance venue whose exterior is a **kinetic moving veil** — a facade element that shifts to reveal or conceal the stage on the building's balcony, adapting the building's public face to its changing programme. The cultural centre is inspired by the open stages of traditional Chinese theatres. Materiality across the development is defined by hand-crafted granite and bronze details — edges of each volume taper as they rise, creating an impression of solidity at the base transitioning to transparency at the top.
 
+**PL:** Bund Finance Centre to 420 000 m² inwestycja wielofunkcyjna na słynnym nabrzeżu Szanghaju, wspólnie zaprojektowana przez [[Foster + Partners]] i [[Heatherwick Studio]]. Osiem budynków łączy prestiżowe biura, butikowy hotel, centrum kulturalne i luksusowy handel, zorganizowane wokół zagospodarowanego publicznego placu. Dwie wieże 180 m zakotwiczają południowy kraniec działki; budynki frontujące nabrzeże są schodkowane wysokościowo, by nawiązać skalą i rytmem do XIX-wiecznych neoklasycznych zabytków Bund.
+
+Plan pomyślany jako „punkt połączenia" między historycznym starym miastem a dzielnicą finansową Pudong — wysoce przepuszczalny dla pieszych, z budynkami definiującymi „punkt końcowy" Bund jako promenady.
+
+Najbardziej architektonicznie wyróżniający się element to centrum kulturalne w sercu kompleksu, którego zewnętrzna część to **kinetyczna ruchoma zasłona** — element fasady przesuwający się, by odsłonić lub zasłonić scenę. Inspirowane otwartymi scenami tradycyjnych chińskich teatrów. Materialność definiowana przez ręcznie obrobiony granit i detale z brązu — krawędzie zwężają się ku górze, od masy ku transparencji.
+
 ## Key Points
 
 - 420,000 m²; 8 buildings; Shanghai Bund waterfront.
@@ -26,6 +32,16 @@ The most architecturally distinctive element is the cultural centre at the heart
 - Material palette: hand-crafted granite (edges taper as they rise), bronze details — "jewel-like quality."
 - Public landscaped plaza at the heart of the scheme.
 - Program: premium offices, boutique hotel, cultural centre, luxury retail (boutiques, concept stores, luxury mall, restaurants).
+
+**PL:**
+- 420 000 m²; 8 budynków; nabrzeże Bund w Szanghaju.
+- Współprojektowany przez [[Foster + Partners]] i [[Heatherwick Studio]] — dwie globalne firmy we współpracy.
+- Dwie wieże 180 m na południu; budynki frontowe schodkowane do skali i rytmu XIX-wiecznego Bund.
+- Masterplan jako łącznik miejski: stare miasto ↔ dzielnica finansowa Pudong; centralna jest przepuszczalność piesza.
+- Centrum kulturalne z **kinetyczną ruchomą zasłoną**: fasada przesuwa się, by odsłonić/zasłonić scenę; inspirowane tradycyjnymi chińskimi teatrami z otwartą sceną.
+- Paleta materiałowa: ręcznie obrobiony granit (krawędzie zwężające się ku górze), detale z brązu — „klejnotowa jakość."
+- Zagospodarowany publiczny plac w sercu kompleksu.
+- Program: prestiżowe biura, butikowy hotel, centrum kulturalne, luksusowy handel.
 
 ## Entities Mentioned
 
@@ -42,6 +58,13 @@ The most architecturally distinctive element is the cultural centre at the heart
 - "Inspired by traditional Chinese open theatres" is a framing by Western architects about Chinese cultural heritage — the authenticity and depth of the engagement is unverifiable from this source alone.
 - No information on the actual kinetic mechanism, maintenance, or performance of the moving veil.
 - The staggering of waterfront buildings to "relate in scale and rhythm" to the historic Bund is a contextual design claim — how well it succeeds is a matter of architectural criticism not addressed by this source.
+
+**PL:**
+- Tekst źródłowy w dużej mierze pochodzi ze strony projektu Foster + Partners — promocyjny, bez głosu krytycznego.
+- „Centrum kulturalne" w luksusowej inwestycji komercyjnej rodzi pytania o to, komu faktycznie służy i jak niezależne jest od interesów komercyjnych dewelopera.
+- „Inspirowany tradycyjnymi chińskimi teatrami" to narracja zachodnich architektów o chińskim dziedzictwie — autentyczność zaangażowania jest niesprawdzalna z tego jednego źródła.
+- Brak informacji o faktycznym mechanizmie kinetycznym, konserwacji ani działaniu ruchomej zasłony.
+- Schodkowanie budynków jako „nawiązanie skalą i rytmem" do historycznego Bund to twierdzenie projektowe — jak dobrze to się udaje, wykracza poza zakres tego źródła.
 
 ## Quotes
 

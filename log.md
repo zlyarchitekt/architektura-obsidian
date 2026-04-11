@@ -96,6 +96,15 @@ Parse tip: `grep "^## \[" log.md | tail -10`
 
 ---
 
+## [2026-04-11] setup | Bilingual mode enabled (EN + PL)
+
+- **Action**: Switched wiki to bilingual format. Added `## Language` section to CLAUDE.md. Added inline Polish translations (`**PL:**`) to all existing wiki pages. Updated index.md Description column to EN / PL format.
+- **Pages created**: _(none)_
+- **Pages updated**: CLAUDE.md, index.md, all 39 wiki pages (15 concepts, 15 entities, 7 sources, 2 operational)
+- **Notes**: Format: English primary and always present in full; Polish translation added inline below each section, marked `**PL:**`. Section headings, filenames, frontmatter fields, and wikilinks `[[...]]` remain in English only, never translated. Sources may continue to arrive in any language — output always bilingual.
+
+---
+
 ## [2026-04-10] setup | Wiki Initialized
 
 - **Action**: Created full wiki scaffold — CLAUDE.md schema, index.md catalog, log.md, folder structure (`raw/`, `raw/assets/`, `wiki/entities/`, `wiki/concepts/`, `wiki/sources/`, `wiki/analyses/`).

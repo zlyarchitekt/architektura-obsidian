@@ -18,6 +18,14 @@ Site restoration was central to the masterplan: grasses were harvested ahead of 
 
 The project was delivered under [[NOT A HOTEL]]'s fractional ownership model — shared ownership of luxury vacation homes across Japan — making it as much a real-estate product as an architectural one.
 
+**PL:** NOT A HOTEL Setouchi to luksusowy resort na Sagishimie, odległej wyspie na Morzu Wewnętrznym Seto w Japonii — pierwszy ukończony projekt [[BIG — Bjarke Ingels Group]] na japońskiej ziemi. Kompleks obejmuje trzy czterosypialnowe wille (nazwane '180', '270' i '360' od kątów panoramicznych), restaurację nadmorską i prywatną plażę na 30 000 m² terenu. Budowa trwała poniżej dwóch lat.
+
+Projekt definiuje dialog między skandynawskim racjonalizmem a japońskim rzemiosłem wernakullarnym. Ściany z [[Rammed Earth]] zbudowane z ziemi pozyskanej bezpośrednio na miejscu odsłaniają geologiczne warstwy w kolorze i teksturze. Szklane fasady reinterpretują ekrany shoji; wzory czarnych łupkowych podłóg nawiązują do siatek tatami. Dachy pokryte niskorefleksyjnymi dachówkami solarnymi — technologiczna reinterpretacja tradycyjnej japońskiej formy dachu.
+
+Renaturalizacja terenu była centralna: trawy zebrano przed budową, a oliwki, cytryny i rodzime rośliny zostały przywrócone. Wille wycięte w istniejących konturach terenu — krajobraz czyta się jako ciągły po budowie. Każda willa rozwija się „jak wstęga wijąca się po zboczu wzgórza."
+
+Projekt realizowany w modelu własności frakcyjnej [[NOT A HOTEL]] — współwłasność luksusowych domów wakacyjnych w całej Japonii — co czyni go równie produktem nieruchomościowym co architektonicznym.
+
 ## Key Points
 
 - BIG's first completed buildings in Japan.
@@ -30,6 +38,18 @@ The project was delivered under [[NOT A HOTEL]]'s fractional ownership model —
 - Fractional ownership model — [[NOT A HOTEL]] brand sells shared stakes in each villa.
 - Partners-in-Charge: Bjarke Ingels, Leon Rost. Design Lead: Ryohei Koike.
 - Collaborators: Maeda Corporation, ARUP Japan, 1moku, NOSIGHT, BOCS, Mir, LIT design.
+
+**PL:**
+- Pierwsze ukończone budynki BIG w Japonii.
+- Trzy wille nazwane wg stopni panoramicznego widoku: 180°, 270°, 360°.
+- Nośne ściany z ubijanej ziemi pozyskanej z działki — strukturalne i wykończeniowe, odsłaniające geologiczne warstwy.
+- Szklane fasady nawiązują do ekranów shoji; wzór łupkowej podłogi do mat tatami.
+- Dachowe dachówki solarne jako współczesna reinterpretacja tradycyjnego japońskiego dachu.
+- Pasywne chłodzenie przez otwieralne fasady i okapy; zbieranie deszczówki na nawadnianie.
+- Renaturalizacja terenu: rodzima roślinność przywrócona po budowie.
+- Model własności frakcyjnej — [[NOT A HOTEL]] sprzedaje współudziały w każdej willi.
+- Partnerzy prowadzący: Bjarke Ingels, Leon Rost. Lider projektu: Ryohei Koike.
+- Współpracownicy: Maeda Corporation, ARUP Japan, 1moku, NOSIGHT, BOCS, Mir, LIT design.
 
 ## Entities Mentioned
 
@@ -45,6 +65,12 @@ The project was delivered under [[NOT A HOTEL]]'s fractional ownership model —
 - No information on structural engineering specifics (how rammed earth performs in island humidity/seismic context).
 - The "Scandinavian-Japanese dialogue" framing is Ingels' own; worth cross-referencing with criticism of BIG's self-narrative.
 - Fractional ownership: no detail on how the shares are structured legally or what access each fraction grants.
+
+**PL:**
+- Źródło to opis projektu / esej fotograficzny — z natury promocyjne. Brak głosu krytycznego ani oceny post-occupancy.
+- Brak informacji o specyfice inżynierii konstrukcyjnej (jak ubijana ziemia sprawuje się w wilgotnym / sejsmicznym kontekście wyspy).
+- Narracja „skandynawsko-japońskiego dialogu" to własna framing Ingelsa; warto zestawić z krytyką self-narracji BIG.
+- Własność frakcyjna: brak szczegółów dotyczących struktury prawnej udziałów ani dostępu przyznawanego przez każdą frakcję.
 
 ## Quotes
 

@@ -29,20 +29,39 @@ Pracownia znana jest z ikonicznych realizacji w różnych skalach: od lotnisk i 
 - **The Bund Finance Centre** (2017, Shanghai) — co-designed with [[Heatherwick Studio]]; 420,000 m² Bund waterfront development. [[The Bund Finance Centre]]
 - **Apple Park** (2017, Cupertino) — ring-shaped campus
 
+**PL:**
+- **Willis Faber & Dumas Building** (1975, Ipswich) — zakrzywiona szklana kurtyna; wczesna ikona High-Tech
+- **Hong Kong and Shanghai Banking Corporation HQ** (1986, Hongkong) — odkryty stalowy szkielet zewnętrzny; radykalny przekrój
+- **Stansted Airport** (1991, Londyn) — klarowny diagram strukturalny; zmienił projektowanie lotnisk
+- **Kopuła Reichstagu** (1999, Berlin) — szklana kopuła na historycznym budynku parlamentu; symbol zjednoczenia
+- **30 St Mary Axe / „Gherkin"** (2003, Londyn) — z Arup; forma aerodynamiczna; spiralna siatka diagonalna
+- **The Bund Finance Centre** (2017, Szanghaj) — współprojektowany z [[Heatherwick Studio]]; 420 000 m² zabudowy nad nabrzeżem Bund. [[The Bund Finance Centre]]
+- **Apple Park** (2017, Cupertino) — pierścieniowy kampus
+
 ## Ideas & Influences
 
 Foster + Partners' core intellectual position is that engineering rigour and architectural elegance are inseparable. The High-Tech lineage (shared with Richard Rogers, Renzo Piano, and Michael Hopkins) insists on honesty of structure and services — the building as a legible machine. In later work, sustainability has become increasingly central: natural ventilation, daylighting, and energy performance are integrated into formal decisions rather than added on.
 
 The Bund Finance Centre shows a different strand: contextual responsiveness (matching the Bund's 19th-century scale) and craft materiality (hand-cut granite, bronze) that is less typical of the firm's High-Tech reputation.
 
+**PL:** Fundamentalne stanowisko intelektualne Foster + Partners to nierozłączność rygoru inżynieryjnego i elegancji architektonicznej. Linia High-Tech (dzielona z Richardem Rogersem, Renzo Piano i Michaelem Hopkinsem) kładzie nacisk na uczciwość konstrukcji i instalacji — budynek jako czytelna maszyna. W późniejszych pracach zrównoważenie stało się coraz bardziej centralne: naturalna wentylacja, doświetlenie i efektywność energetyczna są zintegrowane z decyzjami formalnymi, a nie dodawane po fakcie.
+
+The Bund Finance Centre pokazuje inny nurt: kontekstualna responsywność (dopasowanie do skali XIX-wiecznego Bund) i rzemieślnicza materialność (granit cięty ręcznie, brąz) — mniej typowe dla reputacji High-Tech pracowni.
+
 ## In the Sources
 
 - [[bund-finance-centre-foster-heatherwick]]: Co-designer of Bund Finance Centre with [[Heatherwick Studio]]. Contextual massing, crafted stone and bronze palette.
+
+**PL:** [[bund-finance-centre-foster-heatherwick]]: Współprojektant Bund Finance Centre z [[Heatherwick Studio]]. Kontekstualna bryłowanie, wykończenie z kamienia i brązu.
 
 ## Contradictions / Open Questions
 
 - The firm's enormous scale (hundreds of staff, dozens of simultaneous projects) raises questions about design authorship and consistency across projects.
 - The shift from High-Tech to sustainability-led practice is genuine in some projects but critics argue the firm often prioritises formal spectacle over deep environmental performance.
+
+**PL:**
+- Ogromna skala pracowni (setki pracowników, dziesiątki równoległych projektów) rodzi pytania o autorstwo projektowe i spójność między realizacjami.
+- Przejście od praktyki High-Tech do praktyki nastawionej na zrównoważenie jest autentyczne w niektórych projektach, lecz krytycy twierdzą, że pracownia często przedkłada formalne spektakl nad głęboką efektywność środowiskową.
 
 ## See Also
 
