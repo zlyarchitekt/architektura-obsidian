@@ -11,10 +11,14 @@
             "id": "f14bd0950686c713",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Podgląd grafu"
+              "type": "markdown",
+              "state": {
+                "file": "raw/RZUT - Dookoła, czyli typ i miasto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RZUT - Dookoła, czyli typ i miasto"
             }
           }
         ]
@@ -189,10 +193,12 @@
   },
   "active": "f14bd0950686c713",
   "lastOpenFiles": [
+    "raw/RZUT - Sceny z życia stararchitektów.md",
+    "raw/RZUT - Dookoła, czyli typ i miasto.md",
+    "raw/RZUT - Ustanowiony chaos, czyli planowanie przestrzenne w potransformacyjnej Polsce.md",
     "wiki/concepts/landscape-urbanism.md",
     "wiki/concepts/vernacular-architecture.md",
     "wiki/concepts/scandinavian-japanese-design-dialogue.md",
-    "raw/Ustanowiony chaos, czyli planowanie przestrzenne w potransformacyjnej Polsce.md",
     "LICENSE",
     "wiki/concepts/critical-regionalism.md",
     "wiki/concepts/concrete-as-craft.md",
@@ -215,7 +221,6 @@
     "raw/Thomas Heatherwick - Vessel.md",
     "raw/Thomas Heatherwick, Hufton + Crow, Luke Hayes.md",
     "raw/Thomas Heatherwick, Timothy Schenck.md",
-    "raw/Thomas Heatherwick, Iwan Baan.md",
     "raw/assets/Pasted image 20260410220313.png",
     "raw/assets/Pasted image 20260410220302.png",
     "raw/assets/Pasted image 20260410220250.png",

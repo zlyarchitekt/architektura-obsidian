@@ -1,0 +1,94 @@
+---
+title: "Dookoła, czyli typ i miasto"
+source: "https://www.kwartalnikrzut.pl/dookola-czyli-typ-i-miasto/?v=288404204e3d"
+author:
+  - "[[Krzysztof Jaraczewski]]"
+published:
+created: 2026-04-11
+description: "Wrodzona umiejętność rozróżniania, grupowania, klasyfikowania i nazywania ma fundamentalne znaczenie dla naszego przetrwania i zdolności funkcjonowania jako społeczność. Jest to jeden ze sposobów, w jaki porządkujemy otaczające nas środowisko, które w przeciwnym razie pozostałoby w naszych oczach całkowicie chaotyczne."
+tags:
+  - "clippings"
+---
+W 2023 roku przyjąłem uprzejme zaproszenie Grzegorza Rytla do wygłoszenia na Wydziale Architektury Politechniki Warszawskiej trzech wykładów na temat typów i typologii w architekturze. Temat ten zawsze był dla mnie pewną tajemnicą. Mam takie wspomnienie ze studiów w Londynie, gdy podczas którejś z ocen końcowych projektów (tzw. *crits*) jeden z członków jury powiedział o rysunkach mojego kolegi: „ten projekt jest niezwykły, to zupełnie nowy typ budynku”. Wszyscy spojrzeliśmy po sobie, nie rozumiejąc, co naprawdę wykładowca miał na myśli ani nie doceniając wygłoszonej pochwały. Był to koniec lat 70. XX wieku, początek ery postmodernizmu. My nadal byliśmy bardziej modernistami – nastawionymi na rozwiązywanie problemów i przekonanymi, że wszystkie projekty muszą być wyjątkowe. Wypowiedź jurora w jakiś sposób nawiązywała do „magicznych rozwiązań” dotyczących pewnych niedociągnięć modernizmu, które zaczynały wychodzić na jaw, zwłaszcza w zakresie urbanistyki, partycypacji i znaczenia. Wciąż pamiętam mętlik, jaki ta opinia wywołała w naszych głowach.
+
+Dlatego byłem wdzięczny za propozycję, która po 50 latach pozwoliła mi podjąć próbę uporządkowania myśli na fundamentalny, ale – jak się okazuje – często pomijany temat. W dalszej części tekstu zamieszczam skróconą wersję wspomnianych wykładów.
+
+Nie chcę, żeby to brzmiało jak akademicki dyskurs. Chcę po prostu podzielić się przemyśleniami, które towarzyszyły mi przez ostatnie miesiące, kiedy zajmowałem się tematem typologii. Wiem, że
+
+> w głębi duszy, poza definicją zagadnienia, szukałem czegoś prostego, praktycznego z architektonicznego punktu widzenia i pomocnego w procesie projektowania, a także czegoś, co mogłoby mieć znaczenie społeczne oraz kulturowe.
+
+Najpierw moje myśli skierowały się ku Umberto Eco i jego książce *Szaleństwo katalogowania*, z której wyniosłem przekonanie, że ludzie lubią klasyfikować, ale też bawić się klasyfikacjami. Sprawia im to przyjemność. Dodatkowo sięgnąłem po dzieło Granta Hildebranda *Źródła przyjemności architektonicznej*, gdzie autor twierdzi, że ludzie potrzebują „pewnego rodzaju porządku, a także możliwości uchwycenia subtelnych różnic w jego ramach”.
+
+Na nowo narodzonego człowieka czeka okres intensywnego rozwoju. W ciągu pierwszych kilku lat życia opanowuje podstawy języka, a wraz z nimi umiejętność rozróżniania i klasyfikowania. Dzięki temu, gdy małe dziecko widzi zwierzę, mówi „pies”. Oznacza to, że rozpoznaje kategorię zwaną „psem”, czyli wie, że nie jest to np. kot. Ma pewność, że to pies, niezależnie od tego, czy widzi pudla, czy owczarka niemieckiego. Chociaż te dwie rasy wyglądają zupełnie inaczej, dziecko w obu przypadkach użyje słowa „pies”.
+
+> Ta wrodzona umiejętność rozróżniania, grupowania, klasyfikowania i nazywania ma fundamentalne znaczenie dla naszego przetrwania i zdolności funkcjonowania jako społeczność. Jest to jeden ze sposobów, w jaki porządkujemy otaczające nas środowisko, które w przeciwnym razie pozostałoby w naszych oczach całkowicie chaotyczne.
+
+Jeśli to samo dziecko powie „pies” we Francji, nie będzie to nic znaczyło. Francuz nie zrozumie przekazu. On bowiem nie używa słowa „pies”, tylko „chien”. Słowo, nie kategoria, ma znaczenie tylko w kontekście konkretnego języka, do którego należy, a – jak wiemy – słowo „pies” należy do języka polskiego, a „chien” do francuskiego. Idąc dalej, jeśli dziecko powie „hau-hau” w Polsce, wszyscy będą wiedzieć, że ma na myśli psa. Jednak to samo „hau-hau” w Anglii straci jakiekolwiek znaczenie, ponieważ tam psy, które szczekają, wydają odgłos „woof-woof”. Chociaż pies może być ten sam, słowne opisy już takie same nie są. Nasz opis nie jest uniwersalny, dlatego że żaden język nie jest uniwersalny.
+
+> A zatem, chociaż umiejętność posługiwania się językiem może być wrodzona, to konkretny język – konwencja, którą się posługujemy, zależy od tego, gdzie przebywamy.
+
+W praktyce zrozumienie słowa „pies” jest zależne od wyższego porządku, czyli właśnie języka. W naszym przypadku jest to język polski.
+
+Jeśli idziemy z naszym zwierzęciem do weterynarza, nie wystarczy, że w recepcji powiemy „pies” w języku, który jest zrozumiały. Powinniśmy być bardziej precyzyjni i nie tylko opisać objawy, które nas niepokoją, ale również podać rasę zwierzęcia, masę jego ciała, wiek, wielkość, historię medyczną itd. Informacje te często są zapisywane w książeczce zdrowia. Dzięki temu weterynarz zyskuje cenne dane, które mogą pomóc w zdiagnozowaniu naszego czworonoga. Osobniki tej samej rasy miewają podobne schorzenia, a to może podpowiedzieć weterynarzowi, jak prawidłowo zastosować lek w zależności od indywidualnych cech i dolegliwości psa.
+
+Jeśli podczas operacji weterynarz otworzy jamę brzuszną psa i zobaczy ciemną plamę, to jako specjalista będzie wiedział, czy widzi jedynie efekt jakiegoś urazu, czy też jest to symptom choroby, takiej jak rak. Diagnoza dokonana przez weterynarza, a następnie nazwanie schorzenia, automatycznie sprawiają, że personel medyczny wie, co dalej należy zrobić. Nie byłoby to możliwe bez wcześniejszych badań naukowych i bez zidentyfikowania, określenia oraz klasyfikacji chorób. Aby wiedza stała się użyteczna, musi być odpowiednio uporządkowana i zapisana. Precyzyjne opisy mogą pomóc w radzeniu sobie z bardzo złożonymi problemami. Wracając do psa – nawet jeśli w wyniku operacji straci on nogę, ogon i ucho, dla nas, dorosłych i dzieci, nadal pozostanie „psem”.
+
+Gdybym zgubił nie „jakiegoś” psa, tylko „mojego” psa, opis, który umieściłbym w ogłoszeniu, najprawdopodobniej zawierałby inne dane niż te wymienione do tej pory. Opis ten ani nie składałby się z jednego słowa: „pies”, ani nie miałby charakteru czysto naukowego. Najprawdopodobniej byłaby to mieszanina informacji i szczerych wyrazów emocji. Takie ogłoszenia są praktyczne, a zarazem motywujące. Nie mówimy po prostu „zgubiłem psa”, ponieważ nikt nie byłby w stanie odróżnić mojego psa od psa należącego do innej osoby. Dlatego opisujemy zaginione zwierzę najlepiej, jak potrafimy, i zgodnie z naszym stanem emocjonalnym:
+
+ZAGINĄŁ PIES. Nazywa się Burek. Mały, czarny kundelek. Dużo szczeka, ale jest przyjazny. Ostatnio widziano go 14 września o godzinie 11:00 rano w pobliżu poczty. Ma czerwoną obrożę. Proszę o pomoc, Burek jest członkiem rodziny, dzieci go kochają. Kontakt…
+
+Chociaż z klinicznego i naukowego punktu widzenia taki opis jest nieprecyzyjny, to w konkretnych okolicznościach okazuje się całkowicie właściwy. Przekazuje potrzebne informacje, choć w sposób dość chaotyczny. Doświadczenie pokazuje, że często skutecznie pomaga sprowadzić psa z powrotem do domu i na nowo zjednoczyć rodzinę.
+
+![mały piesek z czerwoną obrożą](https://www.kwartalnikrzut.pl/wp-content/uploads/2026/03/chris-arthur-collins-qGkVJ7Tx36s-unsplash-2048x1360.jpg)
+
+fot. Lucrezia Carnelos on Unsplash
+
+Jeśli weźmiemy pod uwagę zachodnią encyklopedię, zawarte w niej definicje słów i terminów są przez nas, ludzi Zachodu, uważane za obiektywne, a zatem – w domyśle – uniwersalne. Początki encyklopedii sięgają XVII lub XVIII wieku. Odzwierciedlały one idee oświecenia, pierwsze badania nauk przyrodniczych oraz koncepcję racjonalnych lub naukowych klasyfikacji. Dlatego pies w zachodniej encyklopedii jest opisany jako: „Pies, ssak (*Canis lupus familiaris*), podgatunek…”
+
+W chińskiej encyklopedii, jak wskazuje Demetri Porphyrios, pod hasłem „zwierzęta” znajduje się lista, na której widnieje np. „bezpański pies”. Pozostała jej część wydaje się stanowić wyliczenie osobistych obserwacji i doświadczeń. Nie tylko pies nie jest sklasyfikowany według rasy, ale również inne zwierzęta są traktowane tak samo subiektywnie. Nagłówki wyglądają następująco: a) należące do cesarza, b) zabalsamowane, c) oswojone, d) prosięta, e) syreny, f) baśniowe, g) bezpańskie psy itp. Wiemy, że zwierzę należące do cesarza jest najprawdopodobniej warte więcej niż życie przeciętnego człowieka.
+
+> Widać więc, że to wyższy porządek, w tym wypadku światopogląd naukowy czy empiryczny, regulują sposób zarówno tworzenia klasyfikacji, jak i ich wykorzystania, a ostatecznie sposób ich rozumienia.
+
+Wiemy, że język, a w nim rola klasyfikacji, to bardzo złożone zagadnienie. Celem opowieści o „psie” było wyłącznie pokazanie, że język jest w praktyce strukturą częściowo uniwersalną, a częściowo wynikającą z lokalnych konwencji. Jak widać, w codziennym życiu posługujemy się nim w sposób nieprecyzyjny. Mimo tego, że nie przestrzegamy wszystkich zasad, pozostaje on wystarczający do życia w społeczeństwie, a także pozwala czerpać z codziennej egzystencji pewną osobistą przyjemność. Jest jednym z elementów formujących nasz światopogląd.
+
+Jacques-FrançoisBlondel, którego nazwisko często pojawia się w kontekście pochodzenia idei typu w architekturze, nie używał określenia „typ”, tylko raczej francuskiego *genre* – gatunek. Doprowadziło mnie to do innego wątku, związanego przede wszystkim z kinem.
+
+Ogół społeczeństwa potrafi wymienić gatunki filmowe i określić, w jaki sposób każdy z nich może emocjonalnie wpłynąć na odbiorcę. Wśród nich znajdują się: komedie, dramaty, westerny, romanse, *science fiction*, epopeje, a nawet produkcje Bollywood (zwykle kojarzone z indyjskimi musicalami), filmy dokumentalne czy popularne obecnie seriale. Lista jest długa i, jak to często bywa z listami, zmienna. Dla bardziej wymagających widzów istnieją również inne kategoryzacje – filmy można dzielić na grupy według aktorów, reżyserów, krajów, w których powstały, producentów itp. Ostatecznie jednak dla przeciętnego widza to gatunek filmowy jest na ogół głównym kryterium kategoryzacji.
+
+Dzięki określeniu gatunku filmu wiemy, czego się po nim spodziewać, ponieważ każdy typ rządzi się własnymi konwencjami. Przykładowo: komedia jest przeciwieństwem horroru. W ramach danego gatunku chętnie dajemy się zaskoczyć jakimś szczegółem, nową sceną, o ile pozostajemy w strefie komfortu, to znaczy są spełniane nasze oczekiwania.
+
+> Zatem nieodłącznym elementem idei typu jest zachowanie pewnego formatu – konwencji, a we wprowadzaniu nowości należy zachować granice.
+
+Jeśli reżyser tę konwencję ignoruje, robi to na własne ryzyko. Jako przykład może posłużyć klasyczna scena, w której ktoś poślizgnął się na skórce od banana. W komedii, zwłaszcza w starych filmach niemych, taki widok automatycznie wywoływał śmiech, mimo że wszyscy wiedzieli, czego się spodziewać. Natomiast ta sama scena w horrorze wydawałaby się zupełnie nie na miejscu – mogłaby zburzyć napięcie, poczucie fikcji i w efekcie podważyć sens filmu, pozostawiając widza w stanie głębokiego zakłopotania. We współczesnym, szybkim i złożonym świecie, akceptowalna konwencja polega na niemal automatycznym, „sformatowanym” sposobie myślenia.
+
+Koncepcja gatunku jest pomocna nie tylko dla widzów, ale również dla członków branży filmowej. Stanowi dla nich wskazówkę, jak powinna wyglądać organizacja produkcji danego filmu i jak w takim procesie należy uczestniczyć. Od samego początku, bez dodatkowych wyjaśnień, wszyscy zawodowcy wiedzą, czego się od nich oczekuje, są świadomi, w co się zaangażują i co wspólnie tworzą. Dzięki tej prostej koncepcji gatunku – czyli typu – zyskują wspólny „język” działania.
+
+Przez cały proces produkcji filmu zespół wie, choćby w bardzo ogólnym ujęciu, jaki ma być ostateczny efekt. Przykładowo: czy będzie to komedia, czy horror. Ta cudownie nieprecyzyjna, a mimo to wystarczająca rama pozwala każdemu, w zakresie własnej specjalizacji, znaleźć miejsce na osobistą kreatywność. W ten sposób idea gatunku nie jest postrzegana przez wysoce wrażliwe środowisko artystyczne jako ograniczenie wolności, ale wręcz przeciwnie – zostaje zaakceptowana jako zjawisko praktyczne, pozwalające wykorzystywać posiadane możliwości. Wszyscy znamy wielkie gwiazdy filmowe, genialnych reżyserów, mistrzowskich operatorów, kreatywnych projektantów kostiumów, utalentowanych scenarzystów. Ogólnie rzecz biorąc, oświetleniowiec wie, że do filmu grozy potrzebne jest oświetlenie przytłumione, ponieważ ciemność wywołuje u ludzi strach. Z kolei komedia potrzebuje jasnego światła, które dodaje scenom lekkości, otwartości i spontaniczności.
+
+Najważniejsze są dla nas środki wyrazu, które sprawiają, że poszczególne gatunki (rodzaje) odnoszą tak wielki sukces. W kinie jest to forma „kontrolującego” porządku. Dla własnych potrzeb nazwałem to „parasolem”– dającym osłonę i utrzymującym wszystko w jednym miejscu.
+
+Ważne jest, aby zdawać sobie sprawę, że działalność Hollywood – branży zarabiającej miliardy dolarów rocznie – opiera się na niezwykle prostej, choć jednocześnie nie do końca jasnej koncepcji budowania narracji (*storytelling*). Od 200 tysięcy lat, od momentu pojawienia się języka, opowiadamy historie i ich słuchamy. Dziś ta starożytna praktyka stanowi podstawę funkcjonowania nowoczesnego, globalnego medium – kina. Każdy film jest opowieścią: komedia – o błędach i obyczajowości, western – o powstaniu i upadku cywilizacji, kryminał – o moralności i sprawiedliwości, *science fiction* – o nauce, społeczeństwie i kulturze. To nie walory poszczególnych filmów – nawet hitów kinowych – sprawiają, że Hollywood działa z takim powodzeniem, ale siła starej konwencji – narracja, opowiadanie historii. Właśnie to przyniosło sukces całej kinematografii.
+
+Niektórzy mogą zapytać, czy również dla architektury istnieje jakiś „parasol”, który mógłby być odpowiednikiem narracji filmowej. I będzie to pytanie całkowicie uzasadnione.
+
+Typ w architekturze jest zagadnieniem znacznie starszym niż współczesne kino. We francuskim świecie akademickim był on przedmiotem dyskusji od XVIII wieku. Szukano modelu architektury, badano różnorodność budynków i ich rodzaje oraz próbowano opisywać ich charakter. Klasyfikowano je pod względem cech kompozycyjnych i morfologicznych. Modernistyczna dyscyplina architektury stłumiła ten temat, ograniczając badania nad typami architektonicznymi do kwestii funkcji. W ten sposób funkcja (czyli przeznaczenie) budynku nie była już jedynie dostosowaniem do oderwanej od kontekstu morfologii, ale odwrotnie – stała się zasadą nadrzędną, a forma architektoniczna podążała za nią. Na początku XX wieku typy w architekturze, jeśli w ogóle były brane pod uwagę, klasyfikowano głównie według przeznaczenia. Postmodernizm zaś wrócił do typologii jako do czegoś istotnego – wspomniałem o tym momencie we wstępie.
+
+Anthony Vidler wskazuje na trzy typologie, jakie pojawiły się w czasie rozwoju dyscypliny w architekturze. Pierwsza czerpała z propozycji zawartej w *Essai sur l’Architecture* Marca-Antoine’a Laugiera i krążyła wokół idei prymitywnej chaty jako modelu dla całej architektury. Druga została opisana przez Le Corbusiera jako „oparta na procesie produkcji”. Trzecia – będąca najbardziej współczesną koncepcją zidentyfikowaną przez Vidlera – koncentruje się na przedindustrialnym, tradycyjnym mieście jako przedmiocie zainteresowania architektury.
+
+Architekci, tacy jak bracia Leon i Robert Krierowie, Aldo Rossi czy Álvaro Siza, z jednej strony identyfikowali typy architektoniczne jako morfologie miejskie: domy szeregowe, budynki narożne, bloki itp., biorąc też pod uwagę elementy o mniejszej skali, np. hole wejściowe, klatki schodowe, balkony. Z drugiej zaś strony wprowadzili typy przestrzeni miejskich – takich jak ulice, bulwary, aleje, place, parki. Idea klasyfikowania obszarów zewnętrznych (poza placem i osią) jako typów architektonicznych jest więc historycznie nowa.
+
+Tradycyjne miasto wyobrażamy sobie na ogół jako miejsce istotne i spójne. Współcześnie trudno jest nam pojąć, jak ważne było ono kiedyś, ponieważ mamy z nim do czynienia od dawna. Od 10–15 tysięcy lat budujemy osady, wioski, miasteczka i metropolie. Dzisiaj praktycznie każdy obywatel względnie łatwo, niemal instynktownie obcuje z miastem, a ponad połowa ludności świata żyje i „oddycha” nim na co dzień. Można powiedzieć, że miasto stało się częścią naszej natury, podobnie jak narracja (*storytelling*).
+
+Wydaje się, że taki wybór typologii – „parasola” jest mądry. Słowo „miasto” (*The City*) należy do kultury humanizmu, skupia się na idei człowieka, ma wydźwięk inkluzywny oraz potencjał, by uporządkować sposób, w jaki myślimy oraz mówimy o architekturze i mieście jako o całości. Może to pomóc zaangażować obywateli w dyskusję, a także dotrzeć do innych specjalistów – socjologów, ekonomistów, ekologów, polityków itp. (nazwijmy ich „miastologami”) – i skoncentrować podejmowane przez nich wysiłki wokół zjawiska kulturowego, którym jest właśnie miasto. Ich myślenie nie zatrzymałoby się np. na systemach komunikacyjnych (inżynierii drogowej), ponieważ wiadomo, że to miasto jest produktem końcowym. Oczekiwania wobec ich pracy byłyby więc większe, co ostatecznie skutkowałoby powstaniem ulic, bulwarów i innych „typów” – części składowych miasta.
+
+Nie tylko inżynierowie drogowi mają dziś tendencję do myślenia i projektowania w izolacji. Cała filozofia nowoczesnego ruchu architektonicznego bazuje na idei obiektów samodzielnych i wolnostojących. Doświadczenie jednak pokazuje, że obiekty te zawsze mają sąsiadów. Zatem każda nowa – projektowana i wznoszona – budowla stanowi z punktu widzenia mieszkańców nową część miasta. Projektując, powołuje się do życia jednocześnie i miasto, i budynek. Nie można tego uniknąć i właśnie to mam na myśli, mówiąc, że budynki nie są obiektami samodzielnymi. Tak wygląda bezwzględna rzeczywistość.
+
+> To właśnie miasto stanowi nadrzędną strukturę, nadającą głębię i znaczenie zarówno całości, jak i wszystkim pojedynczym budowlom. Każdy budynek odzwierciedla miasto, a miasto z kolei wzmacnia każdy budynek.
+
+Budynek staje się więc bogatszy i zyskuje na znaczeniu dzięki kontekstowi, w którym się znajduje. Gdy sobie to uświadomimy – typy w projektowaniu architektury oraz miasta nabierają znaczenia.
+
+Była to podróż, która zaskoczyła mnie samego. To, co początkowo brzmiało akademicko, okazało się też bardzo praktyczne. Aby się o tym przekonać, zachęcam do spojrzenia na „dzielnicę mieszkalną” Quinta da Malagueira w portugalskim mieście Évora, powstałą w 1997 roku według projektu Álvaro Sizy
+
+```
+Tekst pochodzi z +39 numeru Kwartalnika, pt. Typologie
+```
