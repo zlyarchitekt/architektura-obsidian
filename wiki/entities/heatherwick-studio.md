@@ -2,11 +2,11 @@
 type: entity
 entity_type: firm
 name: "Heatherwick Studio"
-aliases: ["Heatherwick Studio", "Thomas Heatherwick", "Heatherwick"]
+aliases: ["Heatherwick Studio", "Heatherwick"]
 founded: 1994
 nationality: British (headquarters: London)
 tags: [architecture, design, craft, sculpture, tactile, organic, thomas-heatherwick]
-source_count: 4
+source_count: 5
 ---
 
 ## Overview
@@ -21,26 +21,34 @@ Studio jest często kontrowersyjne. Admiratorzy wskazują na jego zdolność do 
 
 ## Key Works / Projects
 
-- **East Beach Café** (c. 2007, Littlehampton, West Sussex) — seafront café; undulating weathered steel ribbons derived from roller shutter integration; "interesting seaside object" aesthetic; fabricated locally by two men. [[East Beach Café]]
-- **Paternoster Vents** (2000, London) — early public work; cast iron ventilation shafts
-- **Learning Hub, NTU Singapore** (2015) — "The Hive"; 12 concrete towers of rounded tutorial rooms around public atrium; 700 Sara Fanelli relief drawings cast into concrete; Green Mark Platinum. [[Learning Hub NTU]]
-- **UK Pavilion, Shanghai Expo** (2010) — "Seed Cathedral"; 60,000 fibre optic rods
-- **Garden Bridge** (proposed, London) — plant-covered bridge over Thames; cancelled after years of controversy and public money spent
-- **Little Island** (2021, New York) — 2.4-acre public park on Hudson River; existing piles → topography; river ice mosaic → pot form; 100+ indigenous species; 3 performance venues; with [[MNLA]] + [[Arup]]. [[Little Island]]
-- **Vessel** (2019, Hudson Yards, New York) — climbable steel honeycomb structure; later closed after multiple suicides
-- **The Bund Finance Centre** (2017, Shanghai) — co-designed with [[Foster + Partners]]; kinetic moving veil on cultural centre. [[The Bund Finance Centre]]
-- **Maggie's Leeds** (2020) — cancer care centre; sculptural rammed earth form
+- **Rolling Bridge**, Paddington Basin (2002) — canal bridge curling into a circle; early kinetic work. [[Rolling Bridge]]
+- **East Beach Café**, Littlehampton (2007) — seafront café; undulating rust-fixed steel ribbons from roller shutters; RIBA National Award 2008. [[East Beach Café]]
+- **Seed Cathedral / UK Pavilion**, Shanghai Expo (2010) — 60,000 fibre-optic rods with Kew Gardens seeds; BIE gold medal; RIBA Lubetkin Prize. [[Seed Cathedral]]
+- **2012 Olympic cauldron** — 204 copper petals; design dispute with Atopia settled out of court. [[Olympic Cauldron 2012]]
+- **Learning Hub / The Hive**, NTU Singapore (2015) — 12 concrete towers; 56 cornerless rooms; Green Mark Platinum. [[Learning Hub NTU]]
+- **Bombay Sapphire Distillery**, Laverstoke (2014) — first conservation project; former banknote mill; BREEAM Outstanding. [[Bombay Sapphire Distillery]]
+- **Garden Bridge**, London (proposed 2013, cancelled 2017) — pedestrian park-bridge over Thames; £46M public money lost; conflict of interest. [[Garden Bridge]]
+- **Zeitz MOCAA**, Cape Town (2017) — grain silo conversion; 42 concrete tubes carved into galleries. [[Zeitz MOCAA]]
+- **Bund Finance Centre**, Shanghai (2017) — co-designed with [[Foster + Partners]]; kinetic moving veil. [[Bund Finance Centre]]
+- **Coal Drops Yard**, King's Cross (2018) — adaptive reuse of 1850 freight buildings; merged rooflines. [[Coal Drops Yard]]
+- **Vessel**, Hudson Yards, NYC (2019) — 2,500-step climbable structure; closed 2021 after 4 suicides; partially reopened 2024. [[Vessel]]
+- **1,000 Trees**, Shanghai (2021) — biophilic mixed-use with trees on column-capitals. [[1000 Trees]]
+- **Little Island**, NYC (2021) — 2.4-acre public park on Hudson River piles; with [[MNLA]] + [[Arup]]. [[Little Island]]
 
 **PL:**
-- **East Beach Café** (ok. 2007, Littlehampton, West Sussex) — kawiarnia nadmorska; faliste wstęgi ze stali kortenowskiej wywiedzione z integracji rolet; estetyka „ciekawego nadmorskiego obiektu"; wykonana lokalnie przez dwóch mężczyzn. [[East Beach Café]]
-- **Paternoster Vents** (2000, Londyn) — wczesna praca publiczna; żeliwne szyby wentylacyjne
-- **Learning Hub, NTU Singapore** (2015) — „The Hive"; 12 betonowych wież z zaokrąglonymi salami tutorialowymi wokół publicznego atrium; 700 reliefów Sary Fanelli odlanych w betonie; Green Mark Platinum. [[Learning Hub NTU]]
-- **Pawilon UK, Shanghai Expo** (2010) — „Seed Cathedral"; 60 000 prętów światłowodowych
-- **Garden Bridge** (projekt, Londyn) — most porośnięty roślinami nad Tamizą; anulowany po latach kontrowersji i wydaniu środków publicznych
-- **Little Island** (2021, Nowy Jork) — 2,4-akrowy park publiczny na rzece Hudson; istniejące pale → topografia; rzeczny lód → forma doniczki; 100+ gatunków rodzimych; 3 sceny; z [[MNLA]] + [[Arup]]. [[Little Island]]
-- **Vessel** (2019, Hudson Yards, Nowy Jork) — wspinalna stalowa struktura o plastrze miodu; zamknięta po serii samobójstw
-- **The Bund Finance Centre** (2017, Szanghaj) — współprojektowany z [[Foster + Partners]]; kinetyczna ruchoma zasłona na centrum kulturalnym. [[The Bund Finance Centre]]
-- **Maggie's Leeds** (2020) — ośrodek onkologiczny; rzeźbiarska forma z ubijanej ziemi
+- **Rolling Bridge**, Paddington Basin (2002) — most zwijający się w okrąg; wczesna praca kinetyczna. [[Rolling Bridge]]
+- **East Beach Café**, Littlehampton (2007) — kawiarnia nadmorska; fale stalowe z rolet zafiksowane olejem; Nagroda Narodowa RIBA 2008. [[East Beach Café]]
+- **Seed Cathedral / Pawilon UK**, Expo Szanghaj (2010) — 60 000 prętów światłowodowych z nasionami Kew; złoty medal BIE; Nagroda Lubetkin RIBA. [[Seed Cathedral]]
+- **Kocioł olimpijski 2012** — 204 miedziane płatki; spór autorski z Atopią ugodą pozasądową. [[Olympic Cauldron 2012]]
+- **Learning Hub / The Hive**, NTU Singapur (2015) — 12 betonowych wież; 56 sal bez narożników; Green Mark Platinum. [[Learning Hub NTU]]
+- **Destylarnia Bombay Sapphire**, Laverstoke (2014) — pierwszy projekt konserwatorski; wytwórnia banknotów; BREEAM Outstanding. [[Bombay Sapphire Distillery]]
+- **Garden Bridge**, Londyn (projekt 2013, anulowany 2017) — £46M publicznych pieniędzy straconych; konflikt interesów. [[Garden Bridge]]
+- **Zeitz MOCAA**, Kapsztad (2017) — silos zbożowy; 42 rury betonowe wyrzeźbione w galerie. [[Zeitz MOCAA]]
+- **Bund Finance Centre**, Szanghaj (2017) — z [[Foster + Partners]]; kinetyczna ruchoma zasłona. [[Bund Finance Centre]]
+- **Coal Drops Yard**, King's Cross (2018) — adaptacja budynków towarowych z 1850; połączone dachy. [[Coal Drops Yard]]
+- **Vessel**, Hudson Yards (2019) — 2 500 stopni; zamknięty 2021 po 4 samobójstwach; częściowo ponownie otwarty 2024. [[Vessel]]
+- **1 000 Trees**, Szanghaj (2021) — biofiliczna zabudowa z drzewami na kolumnach. [[1000 Trees]]
+- **Little Island**, Nowy Jork (2021) — z [[MNLA]] + [[Arup]]. [[Little Island]]
 
 ## Ideas & Influences
 
@@ -52,29 +60,33 @@ Influences: art and craft traditions more than architectural theory; admiration 
 
 ## In the Sources
 
-- [[heatherwick-little-island]]: Little Island, New York. Opening press announcement. Documents the structural-landscape concept (pile heights → topography), the planter derivation from river ice, and the performance venue integration. Heatherwick's largest public realm project in the wiki.
+- [[heatherwick-little-island]]: Little Island, New York. Opening press announcement. Documents the structural-landscape concept (pile heights → topography), the planter derivation from river ice, and the performance venue integration.
 - [[heatherwick-learning-hub-ntu]]: Learning Hub, NTU Singapore. Documents the studio's approach to making concrete "feel beautiful" through craft-casting (Sara Fanelli relief drawings, silicone moulds, textured columns) and its spatial argument for 21st-century collaborative learning.
-- [[heatherwick-east-beach-cafe]]: East Beach Café, Littlehampton. First-person account of the design problem and process. Documents the studio's method of deriving form from functional constraint (roller shutters → building envelope) and their explicit rejection of seaside architectural pastiche.
-- [[bund-finance-centre-foster-heatherwick]]: Co-designer of Bund Finance Centre with [[Foster + Partners]]. The kinetic moving veil on the cultural centre — a facade that shifts to reveal the stage — is characteristic of Heatherwick's interest in animated, tactile surfaces.
+- [[heatherwick-east-beach-cafe]]: East Beach Café, Littlehampton. First-person account of the design problem and process. Documents form-from-constraint method (roller shutters → building envelope) and rejection of seaside pastiche.
+- [[bund-finance-centre-foster-heatherwick]]: Co-designer of Bund Finance Centre with [[Foster + Partners]]. Kinetic moving veil on the cultural centre.
+- [[thomas-heatherwick-wikipedia|Thomas Heatherwick — Wikipedia]]: encyclopaedic biography, full works chronology, design philosophy, and documented controversies (Garden Bridge conflict of interest, Vessel suicides, Olympic cauldron dispute, B of the Bang structural failure). Most critical source on the studio in the wiki.
 
 **PL:**
-- [[heatherwick-little-island]]: Little Island, Nowy Jork. Ogłoszenie prasowe otwarcia. Dokumentuje koncepcję strukturalno-krajobrazową (wysokości pali → topografia), wyprowadzenie formy doniczek z lodu rzecznego i integrację scen.
-- [[heatherwick-learning-hub-ntu]]: Learning Hub, NTU Singapur. Dokumentuje podejście studia do nadania betonowi „piękna" poprzez rzemieślnicze odlewanie (reliefy Sary Fanelli, formy silikonowe, teksturowane kolumny) i argument przestrzenny za kolaboratywnym uczeniem w XXI wieku.
-- [[heatherwick-east-beach-cafe]]: East Beach Café, Littlehampton. Relacja w pierwszej osobie o problemie projektowym i procesie. Dokumentuje metodę wyprowadzania formy z ograniczenia funkcjonalnego (rolety → obudowa budynku) i wyraźne odrzucenie nadmorskiego pastiszu.
-- [[bund-finance-centre-foster-heatherwick]]: Współprojektant Bund Finance Centre z [[Foster + Partners]]. Kinetyczna ruchoma zasłona na centrum kulturalnym — fasada przesuwająca się, by odsłonić scenę — jest charakterystyczna dla zainteresowania Heatherwicta animowanymi, dotykowymi powierzchniami.
+- [[heatherwick-little-island]]: Little Island, Nowy Jork. Ogłoszenie prasowe otwarcia. Dokumentuje koncepcję strukturalno-krajobrazową i wyprowadzenie formy doniczek z lodu rzecznego.
+- [[heatherwick-learning-hub-ntu]]: Learning Hub, NTU Singapur. Dokumentuje rzemieślnicze odlewanie betonu i argument przestrzenny za kolaboratywnym uczeniem.
+- [[heatherwick-east-beach-cafe]]: East Beach Café, Littlehampton. Relacja w pierwszej osobie o metodzie wyprowadzania formy z ograniczenia funkcjonalnego i odrzuceniu nadmorskiego pastiszu.
+- [[bund-finance-centre-foster-heatherwick]]: Współprojektant Bund Finance Centre z [[Foster + Partners]]. Kinetyczna ruchoma zasłona na centrum kulturalnym.
+- [[thomas-heatherwick-wikipedia|Thomas Heatherwick — Wikipedia]]: encyklopedyczna biografia, pełna chronologia prac, filozofia projektowania i udokumentowane kontrowersje. Najbardziej krytycznie informatywne źródło o studiu w wiki.
 
 ## Contradictions / Open Questions
 
-- **Vessel controversy**: after multiple suicides, the structure was closed and then reopened with safety modifications. Raises questions about the responsibilities of public sculptural architecture.
-- **Garden Bridge**: cancelled after £53 million of public money was spent on a project that never materialised — significant governance and accountability failure.
+- **Garden Bridge**: £46M of public money irrecoverably lost; Heatherwick was sole founding member of Garden Bridge Trust while repeatedly denying it; appointments of the studio and [[Arup]] found "not open, fair or competitive" (Hodge Report, 2017). See [[Garden Bridge]].
+- **Vessel**: four suicides in under two years after opening; closed 2021; partially reopened 2024 after safety nets installed. The open staircase-without-barriers was the direct form that enabled the harm. See [[Vessel]].
+- **Olympic cauldron 2012**: out-of-court settlement acknowledged key design elements were present in Atopia's prior 2007 proposal. Heatherwick denied copying; his denial was not retracted.
 - **Anti-box rhetoric**: Heatherwick's public position that contemporary architecture is too "boring" and box-like is contested by architects who argue it misrepresents the field and valorises visual novelty over substance.
-- How much of Heatherwick's output at scale (large buildings, masterplans) successfully translates the tactile interest of his smaller works into architectural space is a genuine critical question.
+- How much of Heatherwick's output at scale successfully translates the tactile interest of smaller works into architectural space is a genuine critical question.
 
 **PL:**
-- **Kontrowersje wokół Vessel**: po serii samobójstw struktura została zamknięta i ponownie otwarta z modyfikacjami bezpieczeństwa. Rodzi pytania o odpowiedzialność rzeźbiarskiej architektury publicznej.
-- **Garden Bridge**: anulowany po wydaniu 53 mln funtów środków publicznych na projekt, który nigdy nie powstał — poważna wada zarządzania i rozliczalności.
-- **Retoryka anty-pudełkowa**: publiczne stanowisko Heatherwicta, że współczesna architektura jest zbyt „nudna" i pudełkowa, jest kwestionowane przez architektów argumentujących, że błędnie przedstawia dziedzinę i waloryzuje wizualną nowość kosztem substancji.
-- Na ile twórczość Heatherwicta w skali (duże budynki, masterplany) skutecznie przekłada dotykowy interes mniejszych prac na przestrzeń architektoniczną — to autentyczne pytanie krytyczne.
+- **Garden Bridge**: £46M publicznych pieniędzy straconych nieodwracalnie; Heatherwick był jedynym założycielem Garden Bridge Trust, zaprzeczając temu; mianowania pracowni i [[Arup]] uznane za „nieotwarte, nieuczciwe ani niekonkurencyjne" (Raport Hodge, 2017). Zob. [[Garden Bridge]].
+- **Vessel**: cztery samobójstwa w ciągu niecałych dwóch lat; zamknięty 2021; częściowo ponownie otwarty 2024 po instalacji siatek. Otwarta klatka schodowa bez barier była bezpośrednią formą umożliwiającą szkodę. Zob. [[Vessel]].
+- **Kocioł olimpijski 2012**: ugoda pozasądowa potwierdziła kluczowe elementy w propozycji Atopii z 2007. Heatherwick zaprzeczył kopiowaniu; zaprzeczenie nie zostało cofnięte.
+- **Retoryka anty-pudełkowa**: kwestionowana przez architektów argumentujących, że błędnie przedstawia dziedzinę i waloryzuje wizualną nowość kosztem substancji.
+- Na ile twórczość studia w skali przekłada dotykowy interes mniejszych prac na przestrzeń architektoniczną — autentyczne pytanie krytyczne.
 
 ## See Also
 

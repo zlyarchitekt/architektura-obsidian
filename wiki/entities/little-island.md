@@ -7,7 +7,7 @@ location: "Hudson River, New York City, USA"
 architect: "Heatherwick Studio (design); MNLA (landscape); Arup (engineering)"
 completed: 2021
 tags: [landscape, park, public-space, performance, heatherwick, new-york, hudson-river, ecology]
-source_count: 1
+source_count: 2
 ---
 
 ## Overview
@@ -45,9 +45,9 @@ Little Island is a 2.4-acre public park and performance venue built above the Hu
 
 ## Context and Funding
 
-Little Island replaces Pier 54, which had fallen into disrepair. It restores a public performance and gathering function that the pier historically served. The project was funded by a private donation from Barry Diller and Diane von Furstenberg (reported at approximately $260 million) — not mentioned in the source — and is owned and operated by Hudson River Park Trust. The source presents it simply as Hudson River Park's project.
+Little Island replaces Pier 54, which had fallen into disrepair. It restores a public performance and gathering function that the pier historically served. Wikipedia confirms the principal funder was the Furstenberg Family Foundation (Diane von Fürstenberg), who selected Heatherwick Studio following a design competition in 2012; the park officially opened on 21 May 2021. The project is owned and operated by Hudson River Park Trust. The Heatherwick Studio promotional source presented it simply as Hudson River Park's project, omitting the private funder entirely.
 
-**PL:** Little Island zastępuje Pier 54, który popadł w ruinę. Przywraca publiczną funkcję performatywną i spotkań, którą molo historycznie pełniło. Projekt był finansowany z prywatnej darowizny Barry'ego Dillera i Diane von Furstenberg (szacunkowo ok. 260 mln dolarów) — nieobjęte źródłem — i jest własnością oraz zarządzany przez Hudson River Park Trust. Źródło przedstawia go po prostu jako projekt Hudson River Park.
+**PL:** Little Island zastępuje Pier 54, który popadł w ruinę. Wikipedia potwierdza, że głównym fundatorem była Furstenberg Family Foundation (Diane von Fürstenberg), która wybrała Heatherwick Studio po konkursie projektowym w 2012 r.; park oficjalnie otwarto 21 maja 2021 r. Projekt jest własnością i zarządzany przez Hudson River Park Trust. Promocyjne źródło Heatherwick Studio przedstawiało go jako projekt Hudson River Park, pomijając prywatnego fundatora.
 
 ## Ideas & Influences
 
@@ -58,17 +58,18 @@ Little Island is the clearest example in the wiki of [[Landscape Urbanism]] in p
 ## In the Sources
 
 - [[heatherwick-little-island]]: Opening press announcement. Documents vision, structural concept, planter derivation from river ice, planting programme, and performance venues.
+- [[thomas-heatherwick-wikipedia|Thomas Heatherwick — Wikipedia]]: confirms funder (Furstenberg Family Foundation / Diane von Fürstenberg); design competition 2012; opening date 21 May 2021.
 
 ## Contradictions / Open Questions
 
-- Private funding ($260M from Diller/von Furstenberg) not disclosed in source — the "public park" framing is partially misleading about who paid.
-- The project was contested during its development (Hudson River Park opponents challenged it legally); none of this context appears in the source.
-- Ecological outcomes (actual biodiversity achieved, marine habitat health) not reported.
+- Funder now confirmed: Furstenberg Family Foundation (Diane von Fürstenberg) — the "public park" framing in the promotional source is correct spatially but misleads on who paid. The Wikipedia source names the funder but does not give the $260M figure.
+- The project was contested during development (Hudson River Park opponents challenged it legally); none of this context appears in either source.
+- Ecological outcomes (actual biodiversity achieved, marine habitat health) not reported in any source.
 
 **PL:**
-- Prywatne finansowanie (260 mln dol. od Dillera/von Furstenberg) nieujawnione w źródle — narracja „parku publicznego" jest częściowo myląca co do tego, kto zapłacił.
-- Projekt był kwestionowany podczas realizacji (przeciwnicy Hudson River Park zaskarżyli go sądownie); żaden z tych kontekstów nie pojawia się w źródle.
-- Wyniki ekologiczne (osiągnięta bioróżnorodność, zdrowie siedliska morskiego) nieraportowane.
+- Fundator potwierdzony: Furstenberg Family Foundation (Diane von Fürstenberg) — narracja „parku publicznego" jest poprawna przestrzennie, ale myląca co do tego, kto zapłacił. Wikipedia wymienia fundatora, ale nie podaje kwoty 260 mln dol.
+- Projekt był kwestionowany sądownie podczas realizacji; żaden kontekst nie pojawia się w żadnym ze źródeł.
+- Wyniki ekologiczne nieraportowane w żadnym źródle.
 
 ## See Also
 

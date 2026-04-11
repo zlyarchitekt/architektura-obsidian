@@ -11,32 +11,13 @@
             "id": "f14bd0950686c713",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "raw/RZUT - Dookoła, czyli typ i miasto.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RZUT - Dookoła, czyli typ i miasto"
-            }
-          },
-          {
-            "id": "5880ede5d98e3ac4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/concepts/weathering-steel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "weathering-steel"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Podgląd grafu"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,36 +187,38 @@
       "bases:Stwórz nową bazę danych": false
     }
   },
-  "active": "5880ede5d98e3ac4",
+  "active": "f14bd0950686c713",
   "lastOpenFiles": [
-    "raw/RZUT - Dookoła, czyli typ i miasto.md",
-    "raw/RZUT - Sceny z życia stararchitektów.md",
-    "raw/RZUT - Ustanowiony chaos, czyli planowanie przestrzenne w potransformacyjnej Polsce.md",
-    "wiki/concepts/landscape-urbanism.md",
-    "wiki/concepts/vernacular-architecture.md",
-    "wiki/concepts/scandinavian-japanese-design-dialogue.md",
-    "LICENSE",
-    "wiki/concepts/critical-regionalism.md",
-    "wiki/concepts/concrete-as-craft.md",
-    "wiki/sources/big-not-a-hotel-setouchi.md",
-    "wiki/concepts/irish-vernacular-architecture.md",
-    "wiki/concepts/fractional-ownership.md",
-    "wiki/entities/big-bjarke-ingels-group.md",
-    "wiki/entities/arup.md",
+    "wiki/entities/muzeum-narodowe-poznan.md",
+    "wiki/entities/filippo-brunelleschi.md",
+    "wiki/entities/copenhill.md",
+    "wiki/entities/casa-de-musica.md",
+    "wiki/entities/louvre-pyramid.md",
+    "wiki/entities/guggenheim-bilbao.md",
+    "wiki/entities/daniel-libeskind.md",
+    "wiki/entities/im-pei.md",
+    "wiki/entities/zaha-hadid.md",
+    "wiki/entities/oma.md",
+    "wiki/sources/rzut-sceny-stararchitekci.md",
+    "wiki/entities/rem-koolhaas.md",
+    "wiki/entities/rem-koolhaas.md.tmp.20120.1775941847185",
     "index.md",
-    "wiki/concepts/weathering-steel.md",
-    "raw/Critical regionalism - wiki.md",
-    "raw/JEMS Architekci – Wikipedia, wolna encyklopedia.md",
-    "raw/Bjarke Ingels - wiki.md",
-    "wiki/entities/mnla.md",
-    "wiki/entities/little-island.md",
-    "raw/Thomas Heatherwick - wiki.md",
-    "wiki/sources/heatherwick-little-island.md",
-    "raw/BIG - Bjarke Ingels Group, Kenta Hasegawa.md",
+    "wiki/entities/frank-gehry.md",
+    "wiki/concepts/deconstructivism.md",
+    "wiki/concepts/bigness.md",
+    "wiki/concepts/bilbao-effect.md",
+    "wiki/concepts/starchitecture.md",
+    "Bez nazwy.base",
+    "wiki/entities/bund-finance-centre.md",
+    "log.md",
+    "raw/RZUT - Dookoła, czyli typ i miasto.md",
+    "wiki/sources/bund-finance-centre-foster-heatherwick.md",
+    "wiki/entities/bombay-sapphire-distillery.md",
+    "wiki/sources/thomas-heatherwick-wikipedia.md",
+    "wiki/entities/thomas-heatherwick.md",
+    "wiki/entities/olympic-cauldron-2012.md",
+    "LICENSE",
     "Bez nazwy.canvas",
-    "raw/Thomas Heatherwick - Vessel.md",
-    "raw/Thomas Heatherwick, Hufton + Crow, Luke Hayes.md",
-    "raw/Thomas Heatherwick, Timothy Schenck.md",
     "raw/assets/Pasted image 20260410220313.png",
     "raw/assets/Pasted image 20260410220302.png",
     "raw/assets/Pasted image 20260410220250.png",
@@ -252,7 +235,6 @@
     "wiki/concepts",
     "wiki/entities",
     "wiki",
-    "raw/assets",
-    "raw"
+    "raw/assets"
   ]
 }

@@ -5,9 +5,9 @@ name: "Learning Hub NTU"
 aliases: ["Learning Hub NTU", "The Hive NTU", "NTU Learning Hub", "Learning Hub"]
 location: "Nanyang Technological University, Singapore"
 architect: "Heatherwick Studio (design); CPG Consultants (lead architect)"
-completed: "2015 (not confirmed in source)"
+completed: "2015 (confirmed by Wikipedia)"
 tags: [architecture, heatherwick, education, singapore, concrete, craft, tropical, campus]
-source_count: 1
+source_count: 2
 ---
 
 ## Overview
@@ -57,21 +57,24 @@ Program rzemiosła betonowego rozszerza szersze zaangażowanie Heatherwicta w bu
 ## In the Sources
 
 - [[heatherwick-learning-hub-ntu]]: Heatherwick Studio's own account of the brief, design strategy, material decisions, and environmental performance. Promotional; no independent critical assessment.
+- [[thomas-heatherwick-wikipedia|Thomas Heatherwick — Wikipedia]]: confirms completion 2015; confirms "The Hive" as the building's nickname; confirms 56 rooms (not 57); notes WAN Concrete in Architecture shortlist 2015 and BCA Creativity in Concrete Award win.
 
-**PL:** [[heatherwick-learning-hub-ntu]]: Własna relacja Heatherwick Studio o briefie, strategii projektowej, decyzjach materiałowych i efektywności środowiskowej. Promocyjna; brak niezależnej oceny krytycznej.
+**PL:**
+- [[heatherwick-learning-hub-ntu]]: Własna relacja Heatherwick Studio o briefie, strategii projektowej, decyzjach materiałowych i efektywności środowiskowej. Promocyjna; brak niezależnej oceny krytycznej.
+- [[thomas-heatherwick-wikipedia|Thomas Heatherwick — Wikipedia]]: potwierdza ukończenie 2015; potwierdza „The Hive" jako przydomek; potwierdza 56 sal; odnotowuje shortlistę WAN Concrete in Architecture 2015 i nagrodę BCA Creativity in Concrete.
 
 ## Contradictions / Open Questions
 
-- The spatial hypothesis (rooms without corners → collaborative learning) is an architectural claim not an evidenced outcome. No post-occupancy study cited.
-- "The Hive" nickname widely used elsewhere but absent from source.
-- Completion date not given in source (c. 2015 from external knowledge).
-- CPG Consultants' role as "lead architect" — i.e., the licensed party responsible for building compliance — means the design credit split is not straightforward. Standard in Singapore practice for foreign firms.
+- The spatial hypothesis (rooms without corners → collaborative learning) is an architectural claim, not an evidenced outcome. No post-occupancy study cited.
+- "The Hive" nickname: now confirmed by Wikipedia; absent from the Heatherwick Studio's own Divisare text.
+- Completion 2015: confirmed by Wikipedia.
+- CPG Consultants' role as "lead architect" — the licensed party responsible for building compliance — means the design credit split is not straightforward. Standard in Singapore practice for foreign firms.
 
 **PL:**
-- Hipoteza przestrzenna (sale bez narożników → nauka kolaboratywna) to twierdzenie architektoniczne, nie udowodniony wynik. Brak cytowanego badania post-occupancy.
-- Przydomek „The Hive" szeroko używany gdzie indziej, ale nieobecny w źródle.
-- Data ukończenia nie podana w źródle (ok. 2015 z wiedzy zewnętrznej).
-- Rola CPG Consultants jako „głównego architekta" — tj. licencjonowanej strony odpowiedzialnej za zgodność budowlaną — oznacza, że podział zasług projektowych nie jest prosty. Standard w singapurskiej praktyce dla firm zagranicznych.
+- Hipoteza przestrzenna (sale bez narożników → nauka kolaboratywna) to twierdzenie architektoniczne, nie udowodniony wynik. Brak badania post-occupancy.
+- „The Hive": potwierdzony przez Wikipedię; nieobecny w tekście Divisare samego studia.
+- Ukończenie 2015: potwierdzone przez Wikipedię.
+- Rola CPG Consultants jako „głównego architekta" oznacza, że podział zasług projektowych nie jest prosty. Standard w singapurskiej praktyce dla firm zagranicznych.
 
 ## See Also
 

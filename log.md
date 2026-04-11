@@ -5,6 +5,32 @@ Parse tip: `grep "^## \[" log.md | tail -10`
 
 ---
 
+## [2026-04-11] ingest | Sceny z życia stararchitektów — Katarzyna Kapusta / Kwartalnik RZUT
+
+- **Action**: Ingested `raw/RZUT - Sceny z życia stararchitektów.md` — critical cultural essay, RZUT quarterly no. 27 (theme: RYNEK), published 2024-11-18. Polish language. First critical/analytical source in the wiki (all previous sources were promotional or encyclopaedic).
+- **Pages created**:
+  - `wiki/sources/rzut-sceny-stararchitekci.md`
+  - `wiki/concepts/starchitecture.md`
+  - `wiki/concepts/bilbao-effect.md`
+  - `wiki/concepts/bigness.md`
+  - `wiki/concepts/deconstructivism.md`
+  - `wiki/entities/frank-gehry.md`
+  - `wiki/entities/zaha-hadid.md`
+  - `wiki/entities/rem-koolhaas.md`
+  - `wiki/entities/oma.md`
+  - `wiki/entities/im-pei.md`
+  - `wiki/entities/daniel-libeskind.md`
+  - `wiki/entities/guggenheim-bilbao.md`
+  - `wiki/entities/louvre-pyramid.md`
+  - `wiki/entities/casa-de-musica.md`
+  - `wiki/entities/copenhill.md`
+  - `wiki/entities/filippo-brunelleschi.md` (stub)
+  - `wiki/entities/muzeum-narodowe-poznan.md` (stub)
+- **Pages updated**: `wiki/entities/big-bjarke-ingels-group.md` (source_count 2→3; Copenhill added; rzut source added), `wiki/entities/bjarke-ingels.md` (source_count 1→2; Copenhill added; documentary profile added), `index.md` (9 sources; 9 new entities; 4 new concepts)
+- **Notes**: Source is the first explicitly critical piece in the wiki — Kapusta's argument is coherent: starchitecture as neoliberal capitalism's need for a brand-architect, enabled by CATIA and museum expansion, born at Bilbao 1997, in crisis after 2008 (authoritarian patronage, gender scandal, Pritzker shift). Key patterns: (1) the gap between starchitect theory and practice — Gehry explains titanium as a market accident, not an aesthetic theory; (2) "fuck the context" as competition strategy, not philosophy — Casa de Música reused a rejected Dutch house concept; (3) BIG/Ingels as next-generation starchitect, but Copenhill smoke rings show the same "unsolicited solutions" logic; (4) Polish thread through Libeskind (Złota 44, POLIN loss, Nexus 21 Łódź) and Poznań Museum (Silvestrin tube, unrealised). Critical source on Zaha Hadid: Pritzker 2004 (first woman), RIBA Gold 2016 (first individually named woman), controversies (Heydar Aliyev, Al Wakrah/BBC), Arabic calligraphy in late work, death March 2016. Denise Scott Brown petition 2013 → Pritzker shift toward contextual/modest/women architects.
+
+---
+
 ## [2026-04-10] ingest | Little Island — Heatherwick Studio / Timothy Schenck
 
 - **Action**: Ingested `raw/Thomas Heatherwick, Timothy Schenck.md` — Divisare project page / opening press release for Little Island, New York, 2021.
@@ -93,6 +119,27 @@ Parse tip: `grep "^## \[" log.md | tail -10`
   - `wiki/concepts/site-specific-architecture.md`
 - **Pages updated**: `index.md`
 - **Notes**: BIG's first completed Japan project. Key themes: rammed earth from site soil, Scandinavian-Japanese synthesis, fractional ownership, site restoration. Source is promotional only — no critical review. Open questions: rammed earth durability in humid/typhoon climate; authenticity of Scandinavian-Japanese framing. Stub pages implied but not yet created: [[Rem Koolhaas]], [[OMA]], [[Vernacular Architecture]], [[NOT A HOTEL]] (brand).
+
+---
+
+## [2026-04-11] ingest | Thomas Heatherwick — Wikipedia
+
+- **Action**: Ingested `raw/Thomas Heatherwick - wiki.md` — Wikipedia article on Thomas Heatherwick: biography, full chronological works list, design philosophy, documented controversies.
+- **Pages created**:
+  - `wiki/sources/thomas-heatherwick-wikipedia.md`
+  - `wiki/entities/thomas-heatherwick.md`
+  - `wiki/entities/vessel.md`
+  - `wiki/entities/seed-cathedral.md`
+  - `wiki/entities/coal-drops-yard.md`
+  - `wiki/entities/zeitz-mocaa.md`
+  - `wiki/entities/garden-bridge.md`
+  - `wiki/entities/1000-trees.md`
+  - `wiki/entities/bombay-sapphire-distillery.md`
+  - `wiki/entities/rolling-bridge.md`
+  - `wiki/entities/olympic-cauldron-2012.md`
+  - `wiki/concepts/adaptive-reuse.md`
+- **Pages updated**: `wiki/entities/heatherwick-studio.md` (source_count 4→5; aliases corrected; Key Works expanded; In the Sources + Contradictions updated), `wiki/entities/east-beach-cafe.md` (source_count 1→2; steel treatment corrected; RIBA Award 2008 added; date confirmed), `wiki/concepts/weathering-steel.md` (source_count 1→2; East Beach Café steel treatment correction applied), `wiki/entities/little-island.md` (source_count 1→2; funder confirmed; opening date confirmed 21 May 2021), `wiki/entities/learning-hub-ntu.md` (source_count 1→2; 2015 confirmed; The Hive confirmed), `wiki/sources/heatherwick-east-beach-cafe.md` (Contradictions updated with steel correction), `index.md`
+- **Notes**: Most critical source on Heatherwick so far — Wikipedia vs. promotional Divisare sources. Key corrections: (1) East Beach Café steel was deliberately rusted then oil-fixed, NOT self-forming COR-TEN patina — important for weathering-steel concept page; (2) Little Island funder confirmed as Furstenberg Family Foundation (Diane von Fürstenberg). Key controversies documented: Garden Bridge (£46M lost, conflict of interest, sole Trust founder while denying membership); Vessel (4 suicides, closed 2021); Olympic cauldron (out-of-court settlement acknowledged key design elements in Atopia's prior proposal); B of the Bang (structural failure, £1.7M settlement). Thomas Heatherwick now has a dedicated person entity page separate from the studio. 11 new entity stubs created for projects across Heatherwick's career.
 
 ---
 

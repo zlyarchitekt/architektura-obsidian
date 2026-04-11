@@ -55,15 +55,14 @@ Projekt powstał niemal w całości z jednego ograniczenia funkcjonalnego: potrz
 ## Contradictions / Open Questions
 
 - Source is Heatherwick Studio's own description — entirely promotional; no independent critical assessment of whether the building performs as claimed or how the "eroded object" reading reads in person.
-- Raw weathered steel on a marine seafront is a borderline case for the material: salt air can prevent the stable protective patina from forming correctly, leading to ongoing corrosion rather than stabilisation. Source does not address this.
-- Date of completion not stated in source. (From external knowledge: c. 2007 — not confirmed here.)
+- **Steel treatment correction** (from Wikipedia): this source describes the exterior as "raw weathered metal," implying COR-TEN self-patinating behaviour. Wikipedia contradicts this: the steel was "allowed to rust before the resulting colours were fixed with an oil-based coating." Controlled-rust-then-sealed, not autonomous COR-TEN patination. The [[Weathering Steel]] concept page and [[East Beach Café]] entity page reflect this correction.
+- Completion date 2007 confirmed by Wikipedia; RIBA National Award 2008 confirmed — absent from this source.
 - Local fabrication by two men is an attractive narrative but gives no structural or specification detail.
 
 **PL:**
-- Źródło to własny opis Heatherwick Studio — całkowicie promocyjne; brak niezależnej oceny krytycznej, czy budynek funkcjonuje zgodnie z zapowiedziami ani jak odczytanie „erodowanego obiektu" wygląda w rzeczywistości.
-- Surowa stal kortenowska na morskim nadbrzeżu to przypadek graniczny: słone powietrze może uniemożliwić tworzenie się stabilnej ochronnej patyny, prowadząc do ciągłej korozji zamiast stabilizacji. Źródło tego nie omawia.
-- Data ukończenia niepodana w źródle. (Z wiedzy zewnętrznej: ok. 2007 — nieopatrzone przypisem.)
-- Lokalne wykonawstwo przez dwóch mężczyzn to atrakcyjna narracja, ale bez szczegółów strukturalnych ani specyfikacyjnych.
+- **Korekta traktowania stali** (z Wikipedii): źródło opisuje zewnętrze jako „surowy wietrzejący metal", sugerując COR-TEN. Wikipedia temu przeczy: stal była „celowo skorodowana, a kolory zafiksowane powłoką olejową." Kontrolowana rdza, potem zapieczętowanie — nie autonomiczna patynacja COR-TEN. Strony [[Weathering Steel]] i [[East Beach Café]] odzwierciedlają tę korektę.
+- Data ukończenia 2007 potwierdzona przez Wikipedię; Nagroda Narodowa RIBA 2008 potwierdzona — nieobecna w tym źródle.
+- Lokalne wykonawstwo przez dwóch mężczyzn to atrakcyjna narracja bez szczegółów strukturalnych.
 
 ## Quotes
 

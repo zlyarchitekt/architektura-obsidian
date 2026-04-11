@@ -6,7 +6,7 @@ aliases: ["Bjarke Ingels"]
 born: 1974
 nationality: Danish
 tags: [architecture, denmark, pragmatic-utopianism, sustainability, BIG]
-source_count: 1
+source_count: 2
 ---
 
 ## Overview
@@ -43,8 +43,11 @@ Trained under Rem Koolhaas, Ingels absorbed OMA's programmatic thinking and larg
 ## In the Sources
 
 - [[big-not-a-hotel-setouchi]]: Partner-in-Charge on NOT A HOTEL Setouchi. Quote: "a culture that has had a profound impact on myself and my understanding of architecture; a place where fearless Futurism and deep traditional roots coexist in contrasting harmony."
+- [[rzut-sceny-stararchitekci]]: Kapusta profiles Ingels as the next-generation starchitect — pragmatic, media-friendly, documented in three Netflix films (*Abstract* 2017, *Lego House* 2018, *Big Time* 2017). Copenhill smoke rings anecdote from *Big Time*: insisting on an unsolicited feature that nearly killed the project as an expression of BIG's "solutions nobody asked for" principle. Subtly sceptical framing.
 
-**PL:** [[big-not-a-hotel-setouchi]]: Partner-in-Charge w NOT A HOTEL Setouchi. Cytat: „a culture that has had a profound impact on myself and my understanding of architecture; a place where fearless Futurism and deep traditional roots coexist in contrasting harmony."
+**PL:**
+- [[big-not-a-hotel-setouchi]]: Partner-in-Charge w NOT A HOTEL Setouchi. Cytat: „a culture that has had a profound impact on myself and my understanding of architecture; a place where fearless Futurism and deep traditional roots coexist in contrasting harmony."
+- [[rzut-sceny-stararchitekci]]: Kapusta portretuje Ingelsa jako stararchitekta nowej generacji — pragmatycznego, medianalnego, dokumentowanego w trzech filmach Netflix. Anegdota o pierścieniach dymu z *Big Time* z subtelnie sceptycznym tonem.
 
 ## Contradictions / Open Questions
 
@@ -57,4 +60,4 @@ Trained under Rem Koolhaas, Ingels absorbed OMA's programmatic thinking and larg
 
 ## See Also
 
-[[BIG — Bjarke Ingels Group]], [[NOT A HOTEL Setouchi]], [[Scandinavian-Japanese Design Dialogue]], [[Rem Koolhaas]]
+[[BIG — Bjarke Ingels Group]], [[NOT A HOTEL Setouchi]], [[Copenhill]], [[Scandinavian-Japanese Design Dialogue]], [[Rem Koolhaas]], [[Starchitecture]]

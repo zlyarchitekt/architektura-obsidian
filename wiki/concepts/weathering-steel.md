@@ -4,7 +4,7 @@ name: "Weathering Steel"
 aliases: ["Weathering Steel", "Corten Steel", "COR-TEN", "Cor-Ten"]
 domain: materials, construction
 tags: [materials, steel, weathering, patina, corten, facade, structure]
-source_count: 1
+source_count: 2
 ---
 
 ## Definition
@@ -29,12 +29,12 @@ Eero Saarinen, Richard Serra (sculpture), [[Heatherwick Studio]] (East Beach Caf
 
 ## Key Examples
 
-- **East Beach Café** (Littlehampton, c. 2007) — [[Heatherwick Studio]]; undulating weathered steel ribbons form the entire exterior shell (roof and walls); chosen to evoke an eroded, sea-worn object found on the beach. [[east-beach-cafe]]
+- **East Beach Café** (Littlehampton, 2007) — [[Heatherwick Studio]]; undulating steel ribbons form the entire exterior shell (roof and walls); chosen to evoke an eroded, sea-worn object found on the beach. **Note**: Wikipedia confirms the steel was deliberately rusted then fixed with an oil-based coating — a controlled rust process, NOT a self-forming COR-TEN patina. [[East Beach Café]]
 - **John Deere Headquarters** (1964, Moline, IL) — Eero Saarinen; first major architectural use of COR-TEN.
 - **Maggie's Leeds** (2020) — [[Heatherwick Studio]]; sculptural rammed earth form with weathering steel elements.
 
 **PL:**
-- **East Beach Café** (Littlehampton, ok. 2007) — [[Heatherwick Studio]]; faliste wstęgi stali atmosferycznej tworzą całą zewnętrzną powłokę (dach i ściany); wybrana, by ewokować erodowany, morski obiekt znaleziony na plaży. [[east-beach-cafe]]
+- **East Beach Café** (Littlehampton, 2007) — [[Heatherwick Studio]]; faliste wstęgi stalowe tworzą całą zewnętrzną powłokę. **Uwaga**: Wikipedia potwierdza, że stal była celowo skorodowana, a następnie zafiksowana powłoką olejową — kontrolowany proces rdzewienia, NIE samotworzącą się patyna COR-TEN. [[East Beach Café]]
 - **John Deere Headquarters** (1964, Moline, IL) — Eero Saarinen; pierwsze znaczące zastosowanie COR-TEN w architekturze.
 - **Maggie's Leeds** (2020) — [[Heatherwick Studio]]; rzeźbiarska forma z ubijanej ziemi z elementami stali atmosferycznej.
 
@@ -56,8 +56,11 @@ Eero Saarinen, Richard Serra (sculpture), [[Heatherwick Studio]] (East Beach Caf
 ## In the Sources
 
 - [[heatherwick-east-beach-cafe]]: "While the outside is raw weathered metal, the interior was sprayed with rigid insulating foam." Material chosen to evoke found-object beach aesthetic; no discussion of durability in marine context.
+- [[thomas-heatherwick-wikipedia|Thomas Heatherwick — Wikipedia]]: confirms East Beach Café steel was "allowed to rust before the resulting colours were fixed with an oil-based coating" — a deliberate and then sealed process, correcting the COR-TEN self-patinating framing.
 
-**PL:** [[heatherwick-east-beach-cafe]]: „While the outside is raw weathered metal, the interior was sprayed with rigid insulating foam." Materiał wybrany dla ewokowania estetyki znalezionego obiektu plażowego; brak omówienia trwałości w kontekście morskim.
+**PL:**
+- [[heatherwick-east-beach-cafe]]: „While the outside is raw weathered metal, the interior was sprayed with rigid insulating foam." Materiał wybrany dla estetyki znalezionego obiektu; brak omówienia trwałości.
+- [[thomas-heatherwick-wikipedia|Thomas Heatherwick — Wikipedia]]: potwierdza, że stal East Beach Café była „celowo skorodowana, a kolory zafiksowane powłoką olejową" — celowy i następnie zapieczętowany proces, korygujący ujęcie samopatynującego się COR-TEN.
 
 ## See Also
 

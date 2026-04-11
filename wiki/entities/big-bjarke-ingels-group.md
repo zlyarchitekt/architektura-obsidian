@@ -6,7 +6,7 @@ aliases: ["BIG — Bjarke Ingels Group", "BIG", "Bjarke Ingels Group"]
 founded: 2005
 nationality: Danish (headquarters: Copenhagen + New York)
 tags: [architecture, parametric, denmark, pragmatic-utopianism, sustainability]
-source_count: 2
+source_count: 3
 ---
 
 ## Overview
@@ -52,10 +52,12 @@ Influenced: a generation of parametric and "fun" architecture practices.
 
 - [[big-not-a-hotel-setouchi]]: BIG's first Japan project. Rammed earth villas on Sagishima island. Partners-in-Charge: Bjarke Ingels, Leon Rost.
 - [[capitaspring-cra-big]]: Biophilic skyscraper in Singapore's CBD, co-designed with CRA. Partners-in-Charge: Bjarke Ingels, Brian Yang.
+- [[rzut-sceny-stararchitekci]]: Katarzyna Kapusta's critical essay uses BIG and [[Copenhill]] to close her account of the starchitect era — Ingels as next-generation starchitect: pragmatic, media-savvy, Netflix-documented. The Copenhill smoke rings anecdote (Ingels insisting on an unsolicited feature that nearly killed the project) is presented with sceptical framing: "solutions nobody asked for" as BIG's self-styled virtue.
 
 **PL:**
 - [[big-not-a-hotel-setouchi]]: Pierwszy projekt BIG w Japonii. Wille z ubijanej ziemi na wyspie Sagishima. Partners-in-Charge: Bjarke Ingels, Leon Rost.
 - [[capitaspring-cra-big]]: Biofiliczny wieżowiec w CBD Singapuru, współprojektowany z CRA. Partners-in-Charge: Bjarke Ingels, Brian Yang.
+- [[rzut-sceny-stararchitekci]]: Esej Kapusty używa BIG i [[Copenhill]] do zamknięcia narracji o erze stararchitekta — Ingels jako stararchitekt nowej generacji: pragmatyczny, medialny, dokumentowany na Netflixie. Anegdota o pierścieniach dymu w Copenhill z subtelnie sceptycznym tonem.
 
 ## Contradictions / Open Questions
 
@@ -70,4 +72,4 @@ Influenced: a generation of parametric and "fun" architecture practices.
 
 ## See Also
 
-[[Bjarke Ingels]], [[NOT A HOTEL Setouchi]], [[Scandinavian-Japanese Design Dialogue]], [[Pragmatic Utopianism]]
+[[Bjarke Ingels]], [[NOT A HOTEL Setouchi]], [[Copenhill]], [[Scandinavian-Japanese Design Dialogue]], [[Starchitecture]], [[Rem Koolhaas]], [[OMA]]
