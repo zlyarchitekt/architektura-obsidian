@@ -1,13 +1,14 @@
 ---
-title: "Dookoła, czyli typ i miasto"
-source: "https://www.kwartalnikrzut.pl/dookola-czyli-typ-i-miasto/?v=288404204e3d"
+title: Dookoła, czyli typ i miasto
+source: https://www.kwartalnikrzut.pl/dookola-czyli-typ-i-miasto/?v=288404204e3d
 author:
   - "[[Krzysztof Jaraczewski]]"
+  - "[[Kwartalnik RZUT]]"
 published:
 created: 2026-04-11
-description: "Wrodzona umiejętność rozróżniania, grupowania, klasyfikowania i nazywania ma fundamentalne znaczenie dla naszego przetrwania i zdolności funkcjonowania jako społeczność. Jest to jeden ze sposobów, w jaki porządkujemy otaczające nas środowisko, które w przeciwnym razie pozostałoby w naszych oczach całkowicie chaotyczne."
+description: Wrodzona umiejętność rozróżniania, grupowania, klasyfikowania i nazywania ma fundamentalne znaczenie dla naszego przetrwania i zdolności funkcjonowania jako społeczność. Jest to jeden ze sposobów, w jaki porządkujemy otaczające nas środowisko, które w przeciwnym razie pozostałoby w naszych oczach całkowicie chaotyczne.
 tags:
-  - "clippings"
+  - clippings
 ---
 W 2023 roku przyjąłem uprzejme zaproszenie Grzegorza Rytla do wygłoszenia na Wydziale Architektury Politechniki Warszawskiej trzech wykładów na temat typów i typologii w architekturze. Temat ten zawsze był dla mnie pewną tajemnicą. Mam takie wspomnienie ze studiów w Londynie, gdy podczas którejś z ocen końcowych projektów (tzw. *crits*) jeden z członków jury powiedział o rysunkach mojego kolegi: „ten projekt jest niezwykły, to zupełnie nowy typ budynku”. Wszyscy spojrzeliśmy po sobie, nie rozumiejąc, co naprawdę wykładowca miał na myśli ani nie doceniając wygłoszonej pochwały. Był to koniec lat 70. XX wieku, początek ery postmodernizmu. My nadal byliśmy bardziej modernistami – nastawionymi na rozwiązywanie problemów i przekonanymi, że wszystkie projekty muszą być wyjątkowe. Wypowiedź jurora w jakiś sposób nawiązywała do „magicznych rozwiązań” dotyczących pewnych niedociągnięć modernizmu, które zaczynały wychodzić na jaw, zwłaszcza w zakresie urbanistyki, partycypacji i znaczenia. Wciąż pamiętam mętlik, jaki ta opinia wywołała w naszych głowach.
 

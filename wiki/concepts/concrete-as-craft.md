@@ -3,7 +3,7 @@ type: concept
 name: "Concrete as Craft"
 aliases: ["Concrete as Craft", "Ornamental Concrete", "Tactile Concrete", "Cast Concrete"]
 domain: materials, construction, theory
-tags: [concrete, craft, texture, ornament, casting, materiality, heatherwick, le-corbusier, ando]
+tags: [concrete, craft, texture, ornament, casting, materiality, brutalism, beton-brut]
 source_count: 1
 ---
 
