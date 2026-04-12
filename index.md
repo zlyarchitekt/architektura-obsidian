@@ -1,6 +1,6 @@
 # Wiki Index
 
-_Last updated: 2026-04-12 — 14 sources ingested_
+_Last updated: 2026-04-12 — 20 sources ingested_
 
 ---
 
@@ -22,6 +22,11 @@ _Last updated: 2026-04-12 — 14 sources ingested_
 | [[rzut-modele-zawlaszczania-ziemi]] | Modele zawłaszczania ziemi — Kwartalnik RZUT | Romea Muryń | 2022-06-29 | 2026-04-12 |
 | [[le-corbusier-wikipedia]] | Le Corbusier — Wikipedia | Wikipedia contributors | 2001–2026 | 2026-04-12 |
 | [[rzut-uspoleczniamy-berlin]] | Uspołeczniamy Berlin — Kwartalnik RZUT | Joanna Kusiak / Marcin Szczodry | 2022-09-15 | 2026-04-12 |
+| [[jems-architekci-wikipedia]] | JEMS Architekci — Wikipedia | Wikipedia contributors (pl) | 2006–2026 | 2026-04-12 |
+| [[critical-regionalism-wiki]] | Critical Regionalism — Wikipedia | Wikipedia contributors (en) | 2003–2026 | 2026-04-12 |
+| [[heatherwick-vessel-divisare]] | Vessel — Divisare / Heatherwick Studio | Heatherwick Studio | 2019 | 2026-04-12 |
+| [[bjarke-ingels-wikipedia]] | Bjarke Ingels — Wikipedia | Wikipedia contributors (en) | 2008–2026 | 2026-04-12 |
+| [[heatherwick-coal-drops-yard-divisare]] | Coal Drops Yard — Divisare / Heatherwick Studio | Heatherwick Studio | 2018 | 2026-04-12 |
 
 ---
 
@@ -79,7 +84,18 @@ _Last updated: 2026-04-12 — 14 sources ingested_
 | [[romea-muryn\|Romea Muryń]] | person | Polish architect-researcher; land commodification, rural planning; "Modele zawłaszczania ziemi" (2022) | Polska architektka-badaczka; utowarowienie ziemi, planowanie wiejskie; "Modele zawłaszczania ziemi" (2022) |
 | [[saskia-sassen\|Saskia Sassen]] | person | Dutch-American sociologist; *Expulsions* (2014); global city; land commodification and state sovereignty | Holendersko-amerykańska socjolożka; *Expulsions* (2014); globalne miasto; utowarowienie ziemi |
 | [[joanna-kusiak\|Joanna Kusiak]] | person | Polish sociologist, Cambridge; *Chaos Warszawa*; DWE activist-researcher; "radical legality" | Polska socjolożka, Cambridge; *Chaos Warszawa*; aktywistka-badaczka DWE; "radykalna praworządność" |
+| [[bjarke-ingels\|Bjarke Ingels]] | architect | b. 1974 Copenhagen; founder BIG; hedonistic sustainability; Yes Is More; VM Houses, Amager Bakke, Google HQ (w/ Heatherwick); source_count 3 | ur. 1974 Kopenhaga; założyciel BIG; hedonistyczna zrównoważoność; Yes Is More; VM Houses, Amager Bakke |
 | [[deutsche-wohnen-und-co-enteignen\|Deutsche Wohnen und Co enteignen]] | organization | Berlin citizen initiative (2018–); Vergesellschaftung under Art. 15 GG; Sept. 2021 referendum majority | Berlińska inicjatywa obywatelska (2018–); Vergesellschaftung z art. 15 GG; referendum wrzesień 2021 |
+| [[jems-architekci\|JEMS Architekci]] | firm | Warsaw practice founded 1988; modernism + high-tech; tectonic clarity; Agora, MCK Katowice, Browary Warszawskie; SARP Honorowa Nagroda 2002 + 2012 | Warszawska pracownia 1988; modernizm + high-tech; tektonika; Agora, MCK Katowice, Browary Warszawskie; Honorowa Nagroda SARP 2002 + 2012 |
+| [[olgierd-jagiello\|Olgierd Jagiełło]] | architect | b. 1947; WAPW; co-founder JEMS (1988); ESPEA cooperative; formative Norman Foster collaboration | ur. 1947; WAPW; współzałożyciel JEMS; spółdzielnia ESPEA; formatywna współpraca z Fosterem |
+| [[maciej-milobedzki\|Maciej Miłobędzki]] | architect | b. 1959; WAPW; co-founder JEMS (1988); teaches WAPW + Politechnika Poznańska | ur. 1959; WAPW; współzałożyciel JEMS; zajęcia WAPW + PP |
+| [[jerzy-szczepanik-dzikowski\|Jerzy Szczepanik-Dzikowski]] | architect | b. 1945; WAPW; co-founder JEMS; SARP Warsaw president 1984–87; KIA secretary 2001–05 | ur. 1945; WAPW; współzałożyciel JEMS; prezes SARP Warszawa; sekretarz KIA |
+| [[marcin-sadowski\|Marcin Sadowski]] | architect | b. 1965; WAPW; JEMS partner from 1996; SARP Honorowa Nagroda 2012; teaches WAPW | ur. 1965; WAPW; wspólnik JEMS od 1996; Honorowa Nagroda SARP 2012; zajęcia WAPW |
+| [[agora-headquarters-warsaw\|Agora Headquarters Warsaw]] | building | JEMS Architekci, 2001, Warsaw; democratic open-plan corporate space; "żyletki" brise-soleil; "one of Poland's best offices" | JEMS 2001, Warszawa; demokratyczna przestrzeń korporacyjna; "żyletki"; "jeden z najlepszych biurowców w Polsce" |
+| [[mck-katowice\|Międzynarodowe Centrum Kongresowe Katowice]] | building | JEMS Architekci, 2015, Katowice; SARP Nagroda Roku 2015; Grand Prix Nagrody Polityki 2016; six further awards | JEMS 2015, Katowice; SARP NR 2015; Grand Prix Nagrody Polityki 2016 |
+| [[hala-koszyki\|Hala Koszyki]] | building | JEMS Architekci, 2016, Warsaw; 1906–1908 iron-and-glass market hall adaptive reuse; food hall | JEMS 2016, Warszawa; hala targowa 1906–1908 adaptowana na food hall |
+| [[browary-warszawskie\|Browary Warszawskie]] | building | JEMS Architekci, 2022, Warsaw; 19th-c. brewery adaptive reuse; SARP Nagroda Roku 2021; Grand Prix Nagrody Polityki 2021 | JEMS 2022, Warszawa; browar XIX w. adaptowany; SARP NR 2021; Grand Prix Polityki 2021 |
+| [[biblioteka-raczynskich-poznan\|Biblioteka Raczyńskich Poznań]] | building | JEMS Architekci, 2013, Poznań; extension of 1829 neo-classical library; Grand Prix Polski Cement 2014 | JEMS 2013, Poznań; rozbudowa biblioteki z 1829; Grand Prix Polski Cement 2014 |
 
 ---
 
@@ -93,7 +109,7 @@ _Last updated: 2026-04-12 — 14 sources ingested_
 | [[site-specific-architecture\|Site-Specific Architecture]] | theory, methodology | Building form determined by geology, topography, ecology, culture of the specific site | Forma budynku determinowana przez geologię, topografię, ekologię i kulturę konkretnego miejsca |
 | [[vernacular-architecture\|Vernacular Architecture]] | theory, history | Building without architects using local materials and tradition; contemporary re-engagement | Budowanie bez architektów z lokalnych materiałów i tradycji; współczesne nawiązania |
 | [[irish-vernacular-architecture\|Irish Vernacular Architecture]] | history, materials | Rural farmhouse typology; wet dash, drystone, slate; early 20th century Co. Clare | Typologia wiejskiej zagrody; mokry tynk, suchy mur, łupek; Co. Clare pocz. XX w. |
-| [[critical-regionalism\|Critical Regionalism]] | theory | Frampton 1983; contemporary architecture rooted in local place without nostalgic imitation | Frampton 1983; współczesna architektura zakorzeniona w miejscu bez nostalgicznego naśladownictwa |
+| [[critical-regionalism\|Critical Regionalism]] | theory | Frampton 1983 + Tzonis/Lefaivre 1981; tectonic form, climate, topography over scenography; Salingaros critique: perpetuates Modernism's form language | Frampton 1983 + Tzonis/Lefaivre 1981; forma tektoniczna, klimat, topografia; krytyka Salingarosa: powiela język formalny modernizmu |
 | [[biophilic-design\|Biophilic Design]] | theory, environmental design | Nature integration in buildings; Wilson's biophilia hypothesis; CapitaSpring as key example | Integracja natury w budynkach; hipoteza biofilii Wilsona; CapitaSpring jako przykład kluczowy |
 | [[mixed-use-development\|Mixed-Use Development]] | urbanism, real estate | Multiple programmes in one building/site; corrective to single-use zoning | Wiele programów w jednym budynku lub kwartale; korekta monofunkcyjnego zagospodarowania |
 | [[kinetic-architecture\|Kinetic Architecture]] | technology, design | Moving facades and elements; Bund Finance Centre moving veil as key example | Ruchome elewacje i elementy; kinetyczna zasłona Bund Finance Centre jako przykład kluczowy |
@@ -127,6 +143,9 @@ _Last updated: 2026-04-12 — 14 sources ingested_
 | [[socialization-vergesellschaftung\|Socialization (Vergesellschaftung)]] | law, urbanism, politics | Art. 15 German Basic Law; never invoked; sector-wide transfer; democratic management; DWE's legal mechanism | Art. 15 Ustawy Zasadniczej; nieużyty; sektorowe przejęcie; zarządzanie demokratyczne; mechanizm prawny DWE |
 | [[housing-crisis\|Housing Crisis]] | urbanism, economics, politics | Structural unaffordability caused by financialization; Berlin: +44% rent 2015–2020; 85% renters | Strukturalna niedostępność mieszkań; Berlin: +44% czynsze 2015–2020; 85% wynajmujących |
 | [[vienna-housing-model\|Vienna Housing Model]] | urbanism, housing, politics | Public land retention → political leverage → structural affordability; 60% subsidized housing; Gemeindebauten | Zachowanie publicznej ziemi → dźwignia polityczna → strukturalna dostępność; 60% subsydiowanych; Gemeindebauten |
+| [[high-tech-architecture\|High-Tech Architecture]] | architecture, technology, aesthetics | Late-1970s style; expressive use of structure, steel, glass, services; Foster, Rogers, Piano; JEMS as Polish continuation | Styl późnych lat 70.; ekspresja struktury, stali, szkła; Foster, Rogers, Piano; JEMS jako polska kontynuacja |
+| [[tectonics\|Tectonics]] | architecture, theory, aesthetics | Aesthetic dimension of construction; legibility of load-transfer and assembly; Bötticher, Semper, Frampton; JEMS's defining value | Estetyczny wymiar konstruowania; czytelność przenoszenia obciążeń i montażu; Bötticher, Semper, Frampton; wartość definiująca JEMS |
+| [[hedonistic-sustainability\|Hedonistic Sustainability]] | architecture, theory, environmental design | BIG/Ingels concept; sustainability as gain not sacrifice; Amager Bakke ski slope as canonical example; critiqued as aestheticisation of pollution | Pojęcie BIG/Ingels; zrównoważoność jako zysk nie wyrzeczenie; stok narciarski Amager Bakke jako przykład kanoniczny; krytykowane jako estetyzacja zanieczyszczenia |
 
 ---
 

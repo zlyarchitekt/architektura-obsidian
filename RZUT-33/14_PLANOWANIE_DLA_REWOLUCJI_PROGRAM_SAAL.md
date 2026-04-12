@@ -13,7 +13,6 @@ Przez swoją powszechność bunkry stopniowo stały się niezauważalne dla mies
 - 6 M.L. Galaty, S.R. Stocker, Ch. Watkinson, The Snake That Bites. The Albanian Experience of Collective Trauma as Reflected in an Evolving Landscape, „The Trauma Controversy: Philosophical and Interdisciplinary Dialogues” 2009, nr 9, s. 172.
 - 7 V. Turner, Liminality and Communitas, „The Ritual Process: Structure and Anti-Structure” 1969, s. 359.
 
-
 PLANOWANIE DLA REWOLUCJI: PROGRAM SAAL
 
 W I K T O R M A R T I N
@@ -28,7 +27,6 @@ W tym samym roku złe nastroje społeczne dodatkowo nasiliły się za sprawą kr
 
 - 2 Instituto Nacional de Estatística, Anuário Estatístico. Continente e Ilhas Adjacentes: 1973, Lizbona 1974.
 - 3 Tamże.
-
 
 1 N. Mota, An Archaeology of the Ordinary,
 
@@ -60,10 +58,8 @@ Nowa władza, nie chcąc utracić poparcia i ponownego rozchwiania państwa, szu
 - 7 Tłum. własne.
 - 8 SAALConselho Nacional, Livro Branco do SAAL
 
-
 - 4 K. Kubiak, Portugalska „rewolucja goździków” w 1974 roku. Przyczyny – przebieg – następstwa, „Klio – Czasopismo Poświęcone Dziejom Polski i Powszechnym” 2021, t. 59, nr 3, s. 193–222.
 - 5 Deklaracja Nuno Portasa, zob. J. Dias, As Operações SAAL, film dokumentalny, reż. Maria de Lurdes Oliveira, Midas Filmes, 2007.
-
 
 1974–1976,cz. 1, Porto 1976.
 
@@ -87,10 +83,8 @@ Pod każdą delegaturą stworzono Brigadas de Construção13, małe terenowe zes
 - 10 Kooperatywa, spółdzielnia – źródła naprzemiennie wykorzystują obie formy.
 - 11 M. Brochado Coelho, Um Processo Organizativo de Moradores (SAAL/Norte – 1974/76), „Revista Crítica de Ciências Socias” 1986, nr 18, 19, 20, s. 645–671.
 
-
 - 12 N. Mota,SAAL, SWEAT AND TEARS, archis. org/volume/saal-sweat-and-tears/ (data dostępu: 2.02.2023).
 - 13 Brygady konstrukcyjne – w terminologii SAAL były to działające w terenie zespoły architektów. Brygadą zarządzał architekt prowadzący, określany mianem mobilnego technika.
-
 
 SAAL, pełniąc funkcję mediatora pomiędzy sąsiedzkimi kooperatywami a gminami i rządem. Do ich poprowadzenia zaproszono najlepszych portugalskich architektów, m.in. Gonçalo Byrne’a, Artura Rosę, Álvaro Sizę, Fernando Távorę czy Manuela Vicente. Każdy z powołanych zespołów otrzymał pełną autonomię w pracach projektowych, co pozwalało architektom przybrać postawę raczej interpretatora społecznego głosu aniżeli wykonawcy odgórnych poleceń. Polityka SAAL podkreślała, że brygady mają oferować pomoc mieszkańcom i nie powinny autorytarnie podejmować wszystkich decyzji. Praca architektów powinna skupić się wokół rozwiązywania problemów technicznych14.
 
@@ -110,10 +104,8 @@ W rzeczywistości SAAL był silnie powiązany z polityką. Już samo jego powoł
 - 17 M. Coelho, Uma Experiência de Transformação no Sector Habitacional do Estado. SAAL 1974–1976, „Revista Crítica de Ciências Sociais” 1986, nr 18, 19, 20, s. 619–634.
 - 18 N. Mota, SAAL, SWEAT AND TEARS, archis.org/volu-
 
-
 - 14 Tamże.
 - 15 SAAL Conselho Nacional, Livro Branco do SAAL 1974–1976, cz. 1, Porto 1976.
-
 
 me/saal-sweat-and-tears (data dostępu: 2.02.2023).
 
@@ -122,7 +114,6 @@ me/saal-sweat-and-tears (data dostępu: 2.02.2023).
 ![image 2](14_PLANOWANIE_DLA_REWOLUCJI_PROGRAM_SAAL_images/imageFile2.png)
 
 - Il. 2. Ilha de São Victor, slumsy znajdujące się w centrum Porto, fot. Joaquim Madureira, 1938
-
 
 respektował uprzednio ogłoszonych postulatów. Obywatelom ograniczono obiecane prawo do miejsca, co w połączeniu z naciskiem na pracę self-helpwkrótce doprowadziło do protestów. Połączone związki sąsiedzkie lizbońskich slumsów wystosowały 15 lutego 1975 r. kartę roszczeń, w której przedstawiały swoje stanowisko: „Metoda self-helpto działanie podwójnego wyzysku. Po całym dniu pracy, który napełnia kapitalistyczne kieszenie, mieszkańcom każe się jeszcze fizycznie pracować do późnych godzin przy budowie domów”19. Temat wkrótce podłapały komunistyczne partie, m.in. Liga Comunista Internacionalista, która już 15 maja wydała deklarację „Nie dla zabudowy self-help. Koniec z wyzyskiem proletariatu na rzecz kapitalizmu”. W odpowiedzi 26 maja 1975 r. podczas posiedzenia plenarnego delegatury SAAL Lisboa e Centro-Sul ogłoszono, że operacje SAAL
 
@@ -144,7 +135,6 @@ Model organizacji ukierunkowany na podnoszenie standardu peryferyjnych dzielnic 
 
 - Il. 3. Przykład zabudowy ilha. A - główna ulica, B – miejska kamienica właściciela parceli, C – wernakularne domy biedoty, D – latryny, rys. Wiktor Martin
 
-
 Proletariat nie osadzał się poza miastem jak w przypadku Lizbony, lecz mieszkał w jego ścisłym centrum. W przypadku Porto ludzie nie walczyli o lepsze domy, dla nich liczyło się przede wszystkim pozostanie w miejscu, w którym zawsze żyli.
 
 Ilhasto linearne osiedla powstające pośrodku kwartałów miejskich kamienic klasy średniej. Schowane za głównym budynkiem, tworzyły jeden lub kilka rzędów wąskiej zabudowy o wernakularnym charakterze. Każdy z nich formowały szeregowo ułożone małe jednostki mieszkalne o rozmiarze około 4 × 4 m. Brak bezpośredniego dostępu ilhasdo przestrzeni publicznej miasta sprzyjał zawiązywaniu się społecznych relacji o wysoce wspólnotowych wartościach.
@@ -156,10 +146,8 @@ W północnej delegaturze zdecydowano, że z powodu charakterystycznej morfologi
 - 21 Ilhas– wyspy.
 - 22 V. Borges Pereira, Uma Imensa Espera de Concretizações: Ilhas, Bairros e Classes Laboriosas Brevemente Perspectivados a Partir da Cidade do Porto, „Revista da Faculdade de Letras: Sociologia” 2003, nr 13, s. 139–148.
 
-
 - 23 N. Mota, An Archaeology of the Ordinary, Delft 2014, s. 211.
 - 24 Á. Siza, Imagining the Evident, Lizbona 2021, s. 100.
-
 
 Skupiono się na najbardziej problematycznych osiedlach Porto, o najniższym standardzie życia. Brygady, wybierając drogę środka, respektowały zastany stan rzeczy celem utrzymania równowagi społecznej w historycznej części Porto. Fundamentalnym założeniem działań SAAL Norte było rozwiązanie problemu przeludnienia się degradujących osiedli i zapobieganie tworzeniu homogenicznych gett na peryferiach aglomeracji.
 
@@ -189,10 +177,8 @@ Fascynacja przenikaniem przeszłości w teraźniejszość sięga początków jeg
 - 28 G. Hasegawa, Conversations with European Architects, Tokio 2015, s. 22.
 - 29 Tamże.
 
-
 - 25 A. Alves Costa, 1974–1975, o SAAL e os Anos da Revolução[w:] Portugal: Arquitectura do Século XX, pod red. S. Dabinnus i in., Portugal–Frankfurt 1997, s. 69.
 - 26 T. Emerson, Á. Siza, C. Muro, Aberaturas / Openings, Porto 2019.
-
 
 12633 —RZUT+
 
@@ -224,13 +210,11 @@ Delft 2014, s. 220–235.
 
 - Il. 6. Budynek A1, stan obecny, fot. Wiktor Martin, 2022
 
-
 129 — — planowaniehistoria
 
 ![image 7](14_PLANOWANIE_DLA_REWOLUCJI_PROGRAM_SAAL_images/imageFile7.png)
 
 - Il. 7. Wychodzenie sfery prywatnej mieszkania w przestrzeń przed budynkiem, fot. Wiktor Martin, 2022
-
 
 ![image 8](14_PLANOWANIE_DLA_REWOLUCJI_PROGRAM_SAAL_images/imageFile8.png)
 
@@ -238,7 +222,6 @@ Delft 2014, s. 220–235.
 
 - Il. 8. Rzut operacji SAAL Bouça przy Rua da Boavista. Schemat przedstawia zakres pierwszej fazy projektu, ukończonej w 1978 roku, rys. Wiktor Martin
 - Il. 9. Rzut jednostki mieszkalnej w budynku A1. A – strefa dzienna, B – przestrzeń sypialniana, rys. Wiktor Martin
-
 
 ![image 9](14_PLANOWANIE_DLA_REWOLUCJI_PROGRAM_SAAL_images/imageFile9.png)
 
@@ -260,17 +243,14 @@ W czasie gdy realizowano projekt Sao Victor, mieszkańcy kilku sąsiadujących i
 - 32 C. Pimenta do Vale, The social rise of a housing intervention: Álvaro Siza project for Bouça neighbourhood, Porto 2018.
 - 33 Fundo de Fomento da Habitação – Fundusz Promocji Mieszkalnictwa.
 
-
 - 34 A. Aalto, budynki Karhu i Päivölä w zabudowie mieszkaniowej Sunila, Kotka, Finlandia, 1939.
 - 35 B. Taut, budynek Rote Front w wielkim zespole mieszkaniowym Britz, Berlin, 1925–1930.
-
 
 13233 —RZUT+
 
 ![image 10](14_PLANOWANIE_DLA_REWOLUCJI_PROGRAM_SAAL_images/imageFile10.png)
 
 - Il. 10. João, mieszkaniec osiedla od 1978 roku, fot. Wiktor Martin, 2022
-
 
 ![image 11](14_PLANOWANIE_DLA_REWOLUCJI_PROGRAM_SAAL_images/imageFile11.png)
 
@@ -281,7 +261,6 @@ W czasie gdy realizowano projekt Sao Victor, mieszkańcy kilku sąsiadujących i
 ![image 12](14_PLANOWANIE_DLA_REWOLUCJI_PROGRAM_SAAL_images/imageFile12.png)
 
 - Il. 12. Główne wejście do mieszkania, fot. Wiktor Martin, 2022
-
 
 ![image 13](14_PLANOWANIE_DLA_REWOLUCJI_PROGRAM_SAAL_images/imageFile13.png)
 

@@ -15,7 +15,6 @@ Takie sytuacje w Polsce są normą, ale normą ukrytą w małych miejscowościac
 - 2 Główny Urząd Statystyczny, Sytuacja osób starszych w Polsce w 2020 roku, https://stat.gov.pl/ obszary-tematyczne/osoby-starsze/osoby-starsze/ sytuacja-osob-starszych-w-polsce-w-2020-roku,2,3. html (data dostępu: 5.02.2023).
 - 3 Główny Urząd Statystyczny, Trwanie życia w zdrowiu w 2021 r., https://stat.gov.pl/obszary-tematyczne/ ludnosc/trwanie-zycia/trwanie-zycia-w-zdrowiu-w-
 
-
 1 Historia prawdziwa ze zmienionymi danymi.
 
 -2021-r-,5,2.html (data dostępu: 5.02.2023).
@@ -36,7 +35,6 @@ i 2128 zł brutto. Polki dostają więc ponad 1000 zł miesięcznie mniej, a po 
 
 - mężczyzn wyprawia na tamten świat żona, która żyje jeszcze później średnio 10 lat.
 
-
 Ponadto z powodu wieku emerytalnego
 
 4 P. Pacewicz, Żona musi być młodsza, czyli dwa nieszczęścia. Młodzi kawalerowie i umierające w samotności wdowy, https://oko.press/zona-musi-
@@ -52,7 +50,6 @@ prześcigają się w oferowaniu polis na pokrycie kosztów pochówku. Cmentarze 
 ![image 3](15_FUNERALNE_PLANOWANIE_images/imageFile3.png)
 
 - nęła inflacja, a koszty od początku pandemii wyraźnie wzrosły. W dużych miastach cena miejsca na cmentarzu to już kilka tysięcy złotych, a wszystkie koszty pogrzebu wahają się od 8 tys. zł w mniejszych miejscowościach, do 14 680 zł w Warszawie6. Jest jeszcze zasiłek pogrzebowy od państwa, który obecnie wynosi raptem 4 tys. zł. Może i wszyscy jesteśmy równi wobec śmierci, ale na pewno nie jesteśmy równi w kwestii ceny pochówku.
-
 
 cmentarze w polsce a l aicyzacja społeczeństwa
 
@@ -85,11 +82,9 @@ wiele gmin dysponuje kilkunastoma lub nawet kilkudziesięcioma cmentarzami komun
 - 7 Główny Urząd Statystyczny, Mały Rocznik Statystyczny Polski 2022, https://stat.gov.pl/obszary-tematyczne/roczniki-statystyczne/roczniki-statystyczne/maly-rocznik-statystyczny-polski-2022,1,24.html (data dostępu: 5.02.2023).
 - 8 Instytut Statystyki Kościoła Katolickiego, Annuarium Statisticum Ecclesiae in Polonia 2021, https://www. iskk.pl/badania/roczniki-statystyczne/374-annuarium-statisticum-ecclesiae-in-polonia-dane-za-
 
-
 - 9 Tamże.
 - 10 Sytuacja polskich cmentarzy – wyniki ankiety, https://www.gov.pl/web/cyfryzacjamiejscpamieci/ sytuacja-polskich-cmentarzy--wyniki-ankiety (data dostępu: 5.02.2023).
 - 11 Najwyższa Izba Kontroli, Zarządzanie cmentarzami komunalnymi. Informacja o wynikach kontroli, https://www.nik.gov.pl/plik/id,12230,vp,14613.pdf (data dostępu: 5.02.2023).
-
 
 -rok-2021 (data dostępu: 5.02.2023).
 
@@ -150,7 +145,6 @@ podkarpackie małopolskie
 128
 
 - Il. 3. Rozmieszczenie cmentarzy komunalnych według województw (opracowanie własne na podstawie danych GUS i NIK z 2016 roku)
-
 
 podlaskie znaczna część gmin (głównie wiejskich) nie ma na swoim terenie żadnego. Raport NIK, z którego pochodzą te dane, sugeruje również powód tak dużych dysproporcji w liczbie cmentarzy:
 
@@ -222,7 +216,6 @@ podkarpackie małopolskie
 
 - Il. 4. Odsetek cmentarzy komunalnych wśród wszystkich cmentarzy w danym województwie (opracowanie własne na podstawie danych GUS i NIK z 2016 roku)
 
-
 Spisu Powszechnego 201114 w województwie podlaskim mieszka 1,169 mln ludzi, z czego 120 tys. to wyznawcy prawosławia. Stanowi to ponad 10% mieszkańców Podlasia, przy czym 18,7% mieszkańców nie należy w ogóle do kościoła rzymskokatolickiego. Jest to więc obszar o najmniejszym odsetku katolików w kraju, który wynosi 81,3%. Te 120 tys. osób to największa w kraju społeczność osób prawosławnych (76,6% wszystkich wyznawców w Polsce), do której należy również liczna mniejszość białoruska (83,6% całej ich populacji w Polsce), co wskazuje, że w województwie potrzeba nie tylko cmentarzy różnych wyznań, ale i cmentarzy komunalnych.
 
 województwa notuje spadki liczby ludności powyżej 10% względem 2011 r., co jest ewenementem nawet w skali szybko starzejącego się kraju, choć jest częściowo wywołane ujemnym saldem migracji15 (GUS 2021). Oprócz tego w województwie podlaskim odsetek osób powyżej 60 roku życia należy do największych w całym kraju i wynosi 25,4%. W niektórych gminach, jak Dubicze Cerkiewne czy Orla, około 15% ludności ma ponad 80 lat. Te dane dobitnie pokazują, jak ważnym tematem na tym obszarze jest dostępność cmentarzy.
@@ -238,7 +231,6 @@ Ponadto najnowsze dane z Narodowego Spisu Powszechnego 2021 pokazują, jak szybk
 - -etniczna, językowa i wyznaniowa ludności Polski
 - - NSP 2011, https://stat.gov.pl/spisy-powszechne/ nsp-2011/nsp-2011-wyniki/struktura-narodowo-etniczna-jezykowa-i-wyznaniowa-ludnosci-polski-
 - -nsp-2011,22,1.html (data dostępu: 5.02.2023).
-
 
 -wynikach-narodowego-spisu-powszechnego-ludnosci-i-mieszkan-2021-na-poziomie-wojewodztw-powiatow-i-gmin,1,1.html (data dostępu: 5.02.2023).
 
@@ -301,7 +293,6 @@ podkarpackie małopolskie
 26424
 
 - Il. 5. Liczba mieszkańców przypadająca na jeden cmentarz komunalny (opracowanie własne na podstawie danych GUS i NIK z 2016 roku).
-
 
 cmentarzy województwa i jest to drugi najniższy wskaźnik w Polsce, mniejszy procentowy udział cmentarzy komunalnych jest tylko w województwie łódzkim (ok. 1,9%). Wiele województw ma ten współczynnik na poziomie wynoszącym ponad 10%, a w województwie lubuskim aż 58% ogółu cmentarzy to cmentarze komunalne (opracowanie własne na podstawie danych GUS i NIK z 2016 r.).
 

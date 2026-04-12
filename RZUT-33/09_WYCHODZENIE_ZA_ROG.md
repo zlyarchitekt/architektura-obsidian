@@ -39,7 +39,6 @@ Na plan pierwszy wysuwają się spacery przyrodoznawcze prowadzone przez zaprosz
 - i przyszłym kształcie przestrzeni publicznych. Na potrzeby tego artykułu nazwę je zbiorczo sieciami kultury. Sieci te obejmu-
 - ją wiele współzależnych od siebie podmiotów, które działają w bezpośredniej (stałej lub okresowej) współpracy, wymiennie lub komplementarnie, kształtując to, co roboczo nazywam sferą naturokultury w mieście.
 
-
 w terenie
 
 Podczas obserwacji uczestniczących szczególnie istotne było dla mnie przyjrzenie się, jak organizatorzy i uczestnicy przyrodniczych wydarzeń wchodzą w relacje z odwiedzanymi przestrzeniami i jakie one są. Jakie budzą emocje? Czy są przyjmowane entuzjastycznie, czy uczestnicy mają z nimi osobistą więź, czy wymieniają się odczuciami, historiami na ich temat? Jakie pytania zadają, czemu się
@@ -66,7 +65,6 @@ przykolejowe, zaplecza, zapomniane zieleńce, przedepty przez nieużytki itp. Ic
 
 - 4 Czasem przedstawiano sugestie i pomysły zagospodarowania. Większość mówiła jednak o zachowaniu charakteru miejsca, wskazywano jedynie na konieczność oczyszczenia ze śmieci, zwiększenia bezpieczeństwa czy udrożnienia ścieżek.
 - 5 Szczególnym zainteresowaniem cieszą się: uprawa permakulturowa, miejskie pszczelarstwo, poszukiwanie i rozpoznawanie roślin dziko rosnących, spacery ornitologiczne, zielarstwo.
-
 
 3 Pojawiały się tu inspiracje ekologią głęboką (deep ecology) Arne Naessa z lat 70., a także odwołania do postaci takich jak James Lovelock (Ziemia jako żywy, podmiotowy organizm), Peter Wohleben (życie lasu) czy Piet Oudolf (naturalizm w ogrodach).
 
@@ -95,7 +93,6 @@ Wartością dodaną edukacji środowiskowej w sferze kultury jest jej inkluzywno
 - 6 A.W. Nowak, Dezindustrializacja – wiedza utracona [w:] Perfumy. Posłowie do dezindustrializacji, red. M. Radwański, Szczecin–Bytom 2016, s. 154–156.
 - 7 Tamże.
 - 8 Wysoki poziom ekspercki zniechęca wiele osób do uczestnictwa w wydarzeniach organizowanych przez jednostki specjalistyczne (np. ogrody botaniczne). Są to również najczęściej wydarzenia płatne (obejmujące cenę biletu wstępu lub bilet wstępu i dodatkowo udział w wydarzeniu), nie mają więc waloru pełnej inkluzywności. Nie odbywają się też zwykle w najbliższym sąsiedztwie.
-
 
 w ydarzenia i procesy
 

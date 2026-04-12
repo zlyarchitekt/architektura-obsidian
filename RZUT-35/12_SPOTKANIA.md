@@ -28,8 +28,6 @@ rozwoju architektonicznego leży właśnie na styku dziedzin. Dobrze jest naświ
 
 ## 83 — kształcenie
 
-
-
 ![image 2](12_SPOTKANIA_images/imageFile2.png)
 
 Il. 1. OSSA 2019 – Bajka, Warszawa, fot. archiwum OSSY

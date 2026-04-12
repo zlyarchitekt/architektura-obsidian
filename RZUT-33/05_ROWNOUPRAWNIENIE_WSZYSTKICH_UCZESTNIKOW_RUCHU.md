@@ -100,7 +100,6 @@ Jest to kwestia polityczna. Gdybyśmy wraz z założeniami przestrzennymi mieli 
 
 - cę w miejsce, gdzie wszyscy uczestnicy ruchu czują się tak samo dobrze i bezpiecznie. Co za tym idzie mieszkańcy, którzy może do tej pory myśleli o rowerze, ale trochę się obawiali i uważali, że to jest
 
-
 TO POZWOLI NAM PRZEKSZTAŁCIĆ ULICĘ W MIEJSCE, GDZIE WSZYSCY UCZESTNICY RUCHU CZUJĄ SIĘ TAK SAMO DOBRZE I BEZPIECZNIE
 
 ~ Czy niższe wskaźniki miejsc parkingowych dla zabudowy mieszkaniowej nie spowodują większego zatłoczenia parkowania samochodów na ulicach?
@@ -153,11 +152,9 @@ ULICE Z PARKAMI LINEARNYMI
 |---|---|
 | | |
 
-
 | | |
 |---|---|
 | | |
-
 
 1 4 12 5 4 8 9/4 7 4 5 1
 
@@ -166,7 +163,6 @@ ZIELONE PIERŚCIENIE
 | | | | | |
 |---|---|---|---|---|
 | | | | | |
-
 
 4 5 2 4
 
@@ -178,19 +174,16 @@ strefa frontowa budynku strefa piesza pas społeczno-kulturowy strefa zieleni dr
 - 4
 - 5
 
-
 - 6
 - 7
 - 8
 - 9
 - 10
 
-
 przestrzeń współdzielona w ruchu pieszym i kołowym
 
 - 11
 - 12
-
 
 rozwiązania oparte na przyrodzie przebudowy całych ulic. Dzisiaj wiadomo, że łatwiej jest przebudowywać małymi kroczkami. Wprowadzanie punktowych interwencji pokazuje mieszkańcom zmianę i kierunek, w którym można pójść. Przykładem takich małych zmian mogą być przejścia dla pieszych zamiast przejść podziemnych, jak to miało miejsce przy rondzie Dmowskiego. Wielu mieszkańców korzysta z tych zmian i docierają do nas pozytywne opinie na temat poprawy jakości przemieszczania się w tym rejonie. Z kolei za chwilę pod Alejami Jerozolimskimi będzie wielka dziura wynikająca z modernizacji linii średnicowej na odcinku od ronda de Gaulle’a do Ochoty. Poruszanie się będzie utrudnione o tyle, że ulica przestanie istnieć w obecnym kształcie. Pojawi się szansa, żeby zbudować ją na nowo. Miasto już szykuje nakładkę. Ma ona spowodować, że Aleje Jerozolimskie staną się wreszcie pełnoprawną ulicą miejską. Wyposażamy je we wszystkie elementy pozwalające w tej przestrzeni przebywać, a nie tylko przez nią przejeżdżać.
 

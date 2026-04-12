@@ -70,7 +70,6 @@ E.J.: Jesteśmy jeszcze wychowane w przeświadczeniu, że dziewczynka ma być sk
 
 - oceniane? Faceci mają to w nosie!
 
-
 planujesz zrobić i chciałabyś zrobić w przyszłości”. Musimy się uczyć, jak się promować i jak to zrobić, żebyśmy były widoczne. Tak jak Ewelina mówi, czasem nie tylko jest to związane z brakiem czasu. Przeprowadzone zostały badania, z których wynika, że istnieje coś takiego jak prokrastynacja emocjonalna1. W połączeniu z depresją występuje przede wszystkim u kobiet. Przyczyny tego nierównego rozkładu płci nie są do końca jasne, ale uważa się, że są częściowo biologiczne (wahania poziomu hormonów: PMS, ciąża, depresja poporodowa, perimenopauza i menopauza), częściowo psychologiczne (nierówna władza i status; przeciążenie pracą – odpłatną i nieodpłatną; seksism, mobbing), częściowo społeczno-kulturowe. Badania pokazują, że właśnie prokrastynacja często wynika z rozregulowania emocjonalnego. Kobiety poprzez społeczne uwarunkowanie nadal wmawiają sobie, że jeszcze nie są gotowe, a ich projekt nie jest jeszcze wystarczająco dobry, żeby go opublikować. Dlatego często nie publikują nic, przez co nie przebijają się do mainstreamu. Czyli nadal pozostają niewidzialne. Mogłybyście opublikować na profilu BALu takie badania, bo jak coś jest udowodnione i zbadane sajentyfikalnie2, to bardzo pomaga. Mnie pomogło. Od razu coś opublikowałam.
 
 J.A.: A słyszałyście, co powiedział jakiś czas temu jeden z członków komisji egzaminacyjnej na rozdaniu uprawnień?
@@ -81,7 +80,6 @@ B.N.: Tak. Powiedział, że to bardzo smutne, że tyle kobiet zdało uprawnienia
 
 - 1 https://www.sciencedirect.com/science/article/ pii/S1041608016302187 (data dostępu: 1.07.2023). https://www.mayoclinic.org/diseases-conditions/ depression/in-depth/depression/art-20047725 (data dostępu: 1.07.2023).
 - 2 Honorata od 15 lat nie mieszka w Polsce i w trakcie naszej rozmowy stworzyła kilka nowych, pięknie brzmiących słów. To nasze ulubione, więc zostawiamy.
-
 
 29 — — płećwidzieć
 
@@ -148,7 +146,6 @@ J.A.: Wypracowałyśmy grubą skórę, dlatego możemy sobie mówić prawdę. Je
 - 4 https://www.pps.org/article/the-power-of-10 (data dostępu: 6.05.2023).
 - 5 https://warszawa.wyborcza.pl/warszawa/7,54420,25268713,jakich-pomnikow-nam-potrzeba-ofiary-kapitalizmu-i-korpoludzie.html?disableRedirects=true (data dostępu: 18.06.2023).
 
-
 E.J.: Tak. Przede wszystkim ze względu na dodatkowe obowiązki, które ciążą na kobietach. Wszystkie trzy mamy dzieci i przez to zupełnie inny model prowadzenia biura niż nasi życiowi partnerzy. Czasami musimy łączyć tyle spraw zawodowych i domowych, że obserwujemy efekt przegrzania. Najnormalniej w świecie nie wyrabiamy. Uważam, że do dobrej współpracy ważna jest świadomość i zrozumienie, że nie zawsze jestem dostępna.
 
 J.A.: W wybieraniu partnerek biznesowych ważne jest, żeby się przyjaźnić. Kiedy kobiety znajdą między sobą nić porozumienia, zgrają się emocjonalnie, to otwiera się przed nimi możliwość współpracy.
@@ -160,7 +157,6 @@ E.J.: A u was jak to wygląda?
 B.N.: Dlatego założyłyśmy BAL, na którym nic, tylko robimy hajsy6 (śmiech). Bardzo boję się wszelkiego generalizowania i przyporządkowywania cech względem płci, ale faktycznie, z Wilczyńską zaczęło się tak, że się przyjaźniłyśmy i robiłyśmy razem projekty, a potem to sformalizowałyśmy.
 
 - E.J.: I już się nie przyjaźnicie?
-
 
 D.J.: Ostatnio byłam z nimi przez miesiąc na rezydencji zagranicznej, bywa ciężko! (śmiech)
 

@@ -40,7 +40,6 @@ bardzo długą rozmowę i stwierdziłyśmy, że może po 2020 roku nie będziemy
 - Il. 2. Warsztaty 2021, Dębina, grupa JEJU, fot. Dawid Majewski
 - Il. 3. Warsztaty 2020, Cieszyn, grupa Żurawski, fot. Dawid Majewski
 
-
 ![image 2](04_DOSWIADCZANIE_RZECZYWISTOSCI_images/imageFile2.png)
 
 ![image 3](04_DOSWIADCZANIE_RZECZYWISTOSCI_images/imageFile3.png)
@@ -88,7 +87,6 @@ Budżet warsztatów rósł z czasem. Teraz przy największej edycji wynosi okoł
 - Il. 4. Warsztaty 2020, Cieszyn, grupa Szparkowski, fot. Dawid Majewski
 - Il. 5. Warsztaty 2017, Poznań, grupa Smoleński, fot. Dawid Majewski
 - Il. 6. Warsztaty 2015, Poznań, grupa BudCud, fot. Dawid Majewski
-
 
 ![image 5](04_DOSWIADCZANIE_RZECZYWISTOSCI_images/imageFile5.png)
 

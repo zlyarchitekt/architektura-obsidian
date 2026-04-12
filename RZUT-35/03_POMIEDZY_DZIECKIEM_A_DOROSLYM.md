@@ -16,7 +16,6 @@ Moja córka skończyła w Danii studia inżynierskie, podjęła pracę zawodową
 
 - Il. 1. Autorka pracy i zdjęcia: Barbara Krysztofiak
 
-
 15 — kształcenie się odwróciły – kiedyś to ja byłam dla niej inspiracją, teraz ona stanowi inspirację dla mnie. Jest ekspertem w zakresie budownictwa ekologicznego i nadawania certyfikatów DGNB. Kategorie systemu opierają się na zasadach zrównoważonego rozwoju: aspektach środowiskowych, ekonomicznych, technicznych i społecznych. Ten ostatni zawsze wyjątkowo mnie interesuje. Greta opowiada mi, jakie warunki są potrzebne do spełnienia takich standardów, że ważny jest nie tylko budynek, ale również przestrzeń i przede wszystkim człowiek.
 
 ~W.M.: Prowadzi pani zajęcia z projektowania w szkołach średnich, w technikum budowlanym i poligraficznym. Zaskakujące jest to, że obecnie ponad 60% uczniów w Polsce wybiera szkoły inne niż licea ogólnokształcące. Jak jest zorganizowana nauka w takich szkołach? K.D.-S.: Uczę w poznańskim Zespole Szkół Budownictwa nr 1, w którym znajdują się liceum, technikum i szkoła branżowa. Prowadzę pracownię architektury i designu w liceum, a także zajęcia z aranżacji wnętrz. W technikum wprowadziliśmy w tym roku przygotowanie do zawodu projektanta wnętrz. Jesteśmy chyba drudzy w Polsce, którym po kilku latach starań udało się taki pomysł wdrożyć. Co więcej, spotkał się on z ogromnym zainteresowaniem młodzieży i rodziców. Po pięciu latach nauki w technikum i po zdaniu egzaminów państwowych, dających kwalifikacje zawodowe, nasi uczniowie będą mogli wykonywać zawód projektanta wnętrz.

@@ -6,7 +6,7 @@ location: "King's Cross, London, UK"
 year_completed: 2018
 designer: "Heatherwick Studio"
 tags: [adaptive-reuse, london, heatherwick, heritage, retail, public-space, kings-cross]
-source_count: 1
+source_count: 2
 aliases: ["Coal Drops Yard"]
 ---
 
@@ -24,12 +24,17 @@ Definiującym ruchem projektowym jest traktowanie linii dachowych: dwa oryginaln
 
 - **Location**: King's Cross, London, UK
 - **Completed**: October 2018
+- **Commission**: 2014, King's Cross Central Limited Partnership (KCCLP)
+- **Construction began**: early 2016
 - **Planning approved**: December 2015
 - **Designer**: [[Heatherwick Studio]]
-- **Developer**: Argent LLP / King's Cross Central Limited Partnership
-- **Original use**: 1850 coal freight buildings (railway infrastructure)
-- **Design move**: two Victorian rooflines stretched and merged at central point → new storey + covered yard below
-- **Programme**: retail, public space, event venue
+- **Developer**: King's Cross Central Limited Partnership (KCCLP) / Argent LLP
+- **Original use**: 1850s coal freight railway buildings (received coal from Northern England, distributed around London by barge and cart)
+- **Heritage status**: Victorian ornate cast iron and brick; previously sealed-off infrastructure, never fully public
+- **Design key move**: two Victorian gabled roofs extended with new flowing steel canopies, rising toward each other until they touch — forms entirely new floating third storey
+- **Structural logic**: new steel structure entirely freestanding, threaded through historic fabric; Victorian walls bear no new load
+- **Programme**: ~60 retail units (160–20,000+ sq ft); restaurants, bars; permeable public yard + routes
+- **Studio milestone**: first major building completion in London for Heatherwick Studio
 
 **PL:**
 - **Lokalizacja**: King's Cross, Londyn
@@ -47,11 +52,13 @@ Definiującym ruchem projektowym jest traktowanie linii dachowych: dwa oryginaln
 
 ## In the Sources
 
-- [[thomas-heatherwick-wikipedia|Thomas Heatherwick — Wikipedia]]: design description, historical context of freight buildings, developer identity, planning and completion dates.
+- [[thomas-heatherwick-wikipedia|Thomas Heatherwick — Wikipedia]]: design description, historical context, developer, planning and completion dates.
+- [[heatherwick-coal-drops-yard-divisare|Coal Drops Yard — Divisare]]: Heatherwick Studio's own account — commission process (KCCLP 2014), structural logic ("entirely freestanding new structure"), full programme breakdown, quotes from Thomas Heatherwick and Lisa Finlay (Group Leader). Notes concurrent projects at time of opening: Google North Bayshore HQ (with [[BIG Bjarke Ingels Group]]), Olympia London.
 
 **PL:**
-- [[thomas-heatherwick-wikipedia|Thomas Heatherwick — Wikipedia]]: opis projektu, kontekst historyczny budynków towarowych, deweloper, daty pozwolenia i ukończenia.
+- [[thomas-heatherwick-wikipedia|Thomas Heatherwick — Wikipedia]]: opis, kontekst, deweloper, daty.
+- [[heatherwick-coal-drops-yard-divisare|Coal Drops Yard — Divisare]]: własny opis Heatherwick Studio — zlecenie (KCCLP 2014), logika strukturalna (całkowicie samonosąca nowa konstrukcja), program, cytaty Heatherwicska i Finlay. Wzmianka o równoległych projektach: Google North Bayshore (z [[BIG Bjarke Ingels Group]], Olimpia.
 
 ## See Also
 
-[[Heatherwick Studio]], [[Thomas Heatherwick]], [[Adaptive Reuse]]
+[[Heatherwick Studio]], [[Thomas Heatherwick]], [[Adaptive Reuse]], [[Mixed-Use Development]], [[Site-Specific Architecture]], [[BIG Bjarke Ingels Group]], [[Browary Warszawskie]], [[Zeitz MOCAA]]

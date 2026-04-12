@@ -107,12 +107,10 @@ Druk: Drukarnia EFEKT Piotrowski sp.j., ul. Podkowy 99c, 04-937 Warszawa
 | | | |
 | | | |
 
-
 | | | |
 |---|---|---|
 | | | |
 | | | |
-
 
 ![image 26](13_AUTORZY_I_ROZMOWCY_images/imageFile26.png)
 

@@ -5,7 +5,61 @@ Parse tip: `grep "^## \[" log.md | tail -10`
 
 ---
 
+## [2026-04-12] ingest | Bjarke Ingels — Wikipedia + Coal Drops Yard — Divisare (×2 files)
+
+- **Action**: Triple ingest — (1) `raw/Bjarke Ingels - wiki.md` (en.Wikipedia biography and career overview); (2+3) `raw/Thomas Heatherwick, Hufton + Crow, Luke Hayes.md` and `raw/Thomas Heatherwick, Iwan Baan.md` — both identical Divisare project pages for Coal Drops Yard, consolidated into one source page.
+- **Pages created**:
+  - `wiki/sources/bjarke-ingels-wikipedia.md`
+  - `wiki/sources/heatherwick-coal-drops-yard-divisare.md` (consolidates 2 identical raw files)
+  - `wiki/concepts/hedonistic-sustainability.md` (new concept)
+- **Pages updated**:
+  - `wiki/entities/bjarke-ingels.md` (source_count 2→3; Key Works expanded from 6 to full list incl. VM Houses, Mountain Dwellings, 8 House, Google HQ w/ Heatherwick, DryLine, 2WTC; Ideas & Influences expanded with hedonistic sustainability, Yes Is More, Worldcraft; new In the Sources entry; See Also expanded)
+  - `wiki/entities/coal-drops-yard.md` (source_count 1→2; commission 2014 + construction 2016 added; structural logic "entirely freestanding" new canopy detailed; programme breakdown added; quotes from Heatherwick and Lisa Finlay added; note on concurrent Google HQ + Olympia projects; See Also expanded with BIG + Browary + Zeitz MOCAA)
+  - `index.md` (20 sources; 1 new entity row — Bjarke Ingels; 1 new concept row — Hedonistic Sustainability; 2 new source rows)
+- **Notes**: Two raw files are identical duplicates (same Divisare project, same URL, different Obsidian clipping titles). Consolidated to avoid double-counting. Coal Drops Yard entity page already existed from previous Heatherwick ingest — significantly enriched. Bjarke Ingels entity page already existed (source_count 2) from RZUT Sceny stararchitektów and NOT A HOTEL Setouchi ingests — now anchored with the main biographical Wikipedia source. Key strategic link established: BIG–Heatherwick Studio collaboration on Google North Bayshore HQ is now noted in both Bjarke Ingels and Coal Drops Yard pages, but lacks its own entity page — recommended for future ingest. Hedonistic Sustainability is a new concept page; the Salingaros-style internal critique (aestheticisation vs. elimination of pollution) is the most productive tension to develop with future sources.
+
+---
+
+## [2026-04-12] ingest | Critical Regionalism — Wikipedia + Vessel — Divisare
+
+
+- **Action**: Dual ingest — `raw/Critical regionalism - wiki.md` (en.Wikipedia overview of Critical Regionalism theory) and `raw/Thomas Heatherwick - Vessel.md` (Divisare promotional project page for Vessel, Hudson Yards, 2019).
+- **Pages created**:
+  - `wiki/sources/critical-regionalism-wiki.md`
+  - `wiki/sources/heatherwick-vessel-divisare.md`
+- **Pages updated**:
+  - `wiki/concepts/critical-regionalism.md` (source_count 2→3; Tzonis/Lefaivre distinction fully documented; Aalto + Säynätsalo added to proponents; Zumthor, Wang Shu, Carlo Scarpa, Murcutt, WOHA, Minnette de Silva added; Salingaros critique formalized as strongest internal dissent; In the Sources + See Also expanded with Tectonics + Modernism)
+  - `wiki/entities/vessel.md` (source_count 1→2; Key Facts expanded with Divisare data — 2,465 steps, Cimolai fabrication, 6 shipments, 3-year assembly, copper cladding, bespoke joints; new Design Rationale section; In the Sources updated)
+  - `index.md` (17 sources; 2 new source rows; Critical Regionalism description updated)
+- **Notes**: Critical Regionalism Wikipedia is the first source that formally documents the concept's theoretical foundations for this wiki — previously the concept page existed but drew entirely on secondary references from other ingests. Key addition: the Tzonis/Lefaivre vs. Frampton distinction (two different theories sharing a name, coined in 1981 and 1983 respectively). Salingaros critique is the most useful internal contradiction: if CR in practice "perpetuates Modernism's form language" then the term may be a sophisticated way of labeling sensitive modernism. Vessel Divisare is a pure promotional source — valuable for design intent and fabrication detail, but must be read against the Wikipedia Heatherwick source (which documents the suicides and closure). Together the two Vessel sources model the gap between design intent and real-world consequence that runs through the Heatherwick corpus. No new entity or concept pages created (all referenced entities already in wiki; no new concepts warranted).
+
+---
+
+## [2026-04-12] ingest | JEMS Architekci — Wikipedia (pl)
+
+
+- **Action**: Ingested `raw/JEMS Architekci – Wikipedia, wolna encyklopedia.md` — Polish Wikipedia article; covers full history (1988–2022), founding team biographies, design style, complete selected works table (27 projects), competition record, and awards list (1998–2022). First source in the wiki dedicated to a Polish architectural practice.
+- **Pages created**:
+  - `wiki/sources/jems-architekci-wikipedia.md`
+  - `wiki/entities/jems-architekci.md`
+  - `wiki/entities/olgierd-jagiello.md` (stub)
+  - `wiki/entities/maciej-milobedzki.md` (stub)
+  - `wiki/entities/jerzy-szczepanik-dzikowski.md` (stub)
+  - `wiki/entities/marcin-sadowski.md` (stub)
+  - `wiki/entities/agora-headquarters-warsaw.md` (flagship building)
+  - `wiki/entities/mck-katowice.md` (flagship building)
+  - `wiki/entities/hala-koszyki.md` (flagship building)
+  - `wiki/entities/browary-warszawskie.md` (flagship building)
+  - `wiki/entities/biblioteka-raczynskich-poznan.md` (flagship building)
+  - `wiki/concepts/high-tech-architecture.md` (new concept)
+  - `wiki/concepts/tectonics.md` (new concept)
+- **Pages updated**: `wiki/concepts/modernism.md` (source_count 1→2; JEMS example + source added; See Also expanded), `wiki/concepts/adaptive-reuse.md` (source_count 1→2; Hala Koszyki + Browary added throughout), `index.md` (15 sources; 10 new entities; 2 new concepts)
+- **Notes**: JEMS is the first Polish architectural firm with a dedicated wiki entry. Source is encyclopaedic and affirmative — no critical reception present. Key formal concepts *tektonika* and *high-tech architecture* codified as new concept pages. Norman Foster early collaboration (1988) links JEMS to global High-Tech tradition but details sparse. Browary Warszawskie is now the wiki's primary Polish urban-scale adaptive reuse example — directly comparable to Coal Drops Yard and Zeitz MOCAA. Partner stubs (Jagiełło, Miłobędzki, Szczepanik-Dzikowski, Sadowski) created; can be expanded when dedicated sources are ingested. Open question: JEMS's relationship to Polish urbanism/planning discourse entirely absent from this source.
+
+---
+
 ## [2026-04-12] ingest | Ustanowiony chaos — Zofia Piotrowska / Piotr Uściński / Kwartalnik RZUT
+
 
 - **Action**: Ingested `raw/RZUT - Ustanowiony chaos, czyli planowanie przestrzenne w potransformacyjnej Polsce.md` — interview conducted by Zofia Piotrowska with Piotr Uściński, Secretary of State at the Polish Ministry of Development and Technology, published 2022-09-18 on kwartalnikrzut.pl. Polish language. First source in the wiki dealing with planning law, policy, and Polish urban governance (as opposed to architectural theory or individual buildings).
 - **Pages created**:

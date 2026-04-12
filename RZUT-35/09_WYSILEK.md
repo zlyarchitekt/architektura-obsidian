@@ -26,8 +26,6 @@ fot. Zofia Piotrowska
 
 fot. Karol Żurawski
 
-
-
 ![image 7](09_WYSILEK_images/imageFile7.png)
 
 fot. Barbara Mac

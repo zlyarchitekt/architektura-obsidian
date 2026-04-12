@@ -63,7 +63,6 @@ nych, środowiskowych, ekonomicznych
 - i politycznych, że rzeczywiście można
 - ją uznać za jeden z największych problemów miast.
 
-
 Początkowo, kiedy badane osoby zamieszkały na przedmieściach, bardzo silnie odczuwały, że spełniły ważną życiową misję. Nie tylko taką, którą sobie same wyznaczyły, ale scedowaną na nich przez społeczeństwo czy rodziców lub teściów. Posiadanie domu było uważane za coś właściwego. Niektóre analizy zakorzenione w studiach kultury polskiej pokazują, że dom jednorodzinny ma być wszystkim, czym nie było zamieszkiwanie w blokach wielorodzinnych – odcięciem od niechcianego sąsiedztwa, mieszkaniem w miejscu przez siebie wybranym, a nie odgórnie przydzielonym, w przestrzeni przesegregowanej, wśród ludzi podobnych do nas.
 
 Natomiast nie do końca o to chodzi, żeby wskazywać mieszkanie w domu jednorodzinnym jako coś złego. Nie potępiajmy tego sposobu zamieszkiwania, ale raczej zwróćmy uwagę na to, że rozlewanie się miast w formie zabudowy jednorodzinnej stało się w istniejących warunkach politycznych właściwie jedyną odpowiedzią, i to odpowiedzią wygenerowaną oddolnie, na bardzo przykry fakt abdykacji państwa z kształtowania polityki mieszkaniowej. To, że tak wiele osób decyduje się albo na zakup, albo samodzielną budowę domu jednorodzinnego, bardzo często nie jest efektem napędzanego kulturowo wyboru, ale przymusu ekonomicznego. Jest to bardzo kosztowne pod względem infrastrukturalnym. Dlatego często tej infrastruktury nie ma. Gmin nie stać na pociągnięcie niepoliczalnych kilometrów rur, dróg, kabli, światłowodów. Domy podmiejskie
@@ -86,7 +85,6 @@ Powstawanie osiedli podmiejskich opartych na rdzeniu starych wsi generuje wiele 
 
 - o dzisiejszych warunkach, ale sytuacji sprzed kilku lat). Te dane zderzają z informacjami z lokalnego rynku mieszkaniowego, szybko dochodzą do wniosku, że to, co są w stanie kupić w mieście, albo nie jest wystarczająco duże, albo jest za drogie. Szukają więc coraz dalej i dalej
 - od miasta, aż znajdą coś, co jest dla nich akceptowalne. Dzieci są na razie małe, więc nie ma jeszcze problemu dowożenia ich do szkoły.
-
 
 POWSTAWANIE OSIEDLI PODMIEJSKICH OPARTUCH NA RDZENIU STARYCH WSI GENERUJE WIELE BARDZO CIEKAWYCH I SPECYFICZNYCH DLA TEJ CZĘŚCI EUROPY ZJAWISK
 
