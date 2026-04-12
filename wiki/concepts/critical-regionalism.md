@@ -4,7 +4,7 @@ name: "Critical Regionalism"
 aliases: ["Critical Regionalism"]
 domain: theory
 tags: [theory, regionalism, kenneth-frampton, vernacular, place, identity]
-source_count: 2
+source_count: 3
 ---
 
 ## Definition
@@ -21,23 +21,35 @@ Frampton's essay appeared in Hal Foster's anthology *The Anti-Aesthetic* (1983),
 
 The theoretical lineage draws on Paul Ricoeur's essay "Universal Civilisation and National Cultures" (1961) and on the phenomenology of Heidegger — particularly the concept of *dwelling* as a form of being that is necessarily particular and placed.
 
-**PL:** Esej Framptona ukazał się w antologii Hala Fostera *The Anti-Aesthetic* (1983) jako odpowiedź na dwa zagrożenia, które zidentyfikował we współczesnej architekturze: globalizującą homogenizację International Style (produkującą identyczne szklane wieże w każdym klimacie i kulturze) oraz powierzchowny populizm postmodernistycznego historyzmu (naklejającego historyczny ornament na współczesne budynki bez głębokiego zaangażowania). Regionalizm krytyczny oferował trzecią drogę: zakorzenioną, opierającą się, taktylną. Linia teoretyczna wywodzi się z eseju Paula Ricoeura „Universal Civilisation and National Cultures" (1961) i fenomenologii Heideggera — szczególnie pojęcia *zamieszkiwania* jako formy bycia nieodłącznie związanej z konkretnym miejscem.
+Important distinction: the term had **two near-simultaneous origins with different emphases.** Tzonis & Lefaivre (1981, *Architecture in Greece*) coined it first, stressing de-familiarisation — elements stripped of context and used in unfamiliar ways to make visible the disruption of place. Frampton (1983) gave it a different, phenomenologically grounded meaning that subsequently dominated the discourse, emphasising topography, climate, light, and *tectonic form over scenography*.
+
+**PL:** Esej Framptona ukazał się w antologii *The Anti-Aesthetic* (1983). Linia teoretyczna wywodzi się z Ricoeura i fenomenologii Heideggera.
+
+Ważne rozróżnienie: termin miał **dwa niemal jednoczesne źródła o różnych akcentach.** Tzonis i Lefaivre (1981) przekonywali o wyobcowaniu — elementach pozbawionych kontekstu i użytych w nieznany sposób, by uwidocznić utratę miejsca. Frampton (1983) nadał pojęciu inne, fenomenologicznie zakorzenione znaczenie, kładąc nacisk na topografię, klimat, światło i *formę tektoniczną zamiast scenografii*.
 
 ## Key Proponents
 
-- **Kenneth Frampton** — theorist; articulated the concept.
-- **Jørn Utzon** — cited by Frampton; Danish architect who synthesised modernism with local material and topographic specificity in each project.
-- **Álvaro Siza** — Portuguese; work deeply rooted in the culture and climate of Portugal while remaining rigorously modern.
+- **Kenneth Frampton** — theorist; articulated the concept (1983); *Studies in Tectonic Culture* (1995) extended the argument.
+- **Alexander Tzonis & Liane Lefaivre** — coined the term (1981); different emphasis: de-familiarisation over rooting.
+- **Jørn Utzon** — cited by Frampton; Bagsværd Church (1976) as universal rationalist shell + locally inflected interior.
+- **Alvar Aalto** — cited by Frampton; Säynätsalo Town Hall (1952): tactile brick resisting universal technology.
+- **Álvaro Siza** — Portuguese; deeply rooted in the culture and climate of Portugal while rigorously modern. [[Álvaro Siza]]
 - **Sverre Fehn** — Norwegian; tectonic engagement with Scandinavian landscape and material.
-- **Tadao Ando** — Japanese; concrete modernism inflected by Japanese spatial and material culture.
+- **Tadao Ando** — Japanese; concrete modernism inflected by Japanese spatial culture.
+- **Peter Zumthor** — Swiss; phenomenological tactility, silence, local material culture.
+- **Wang Shu** — Chinese; Pritzker 2012; recycled local materials; rooted in Chinese spatial traditions.
+- **Carlo Scarpa** — Italian; joint as art; craft-intensive dialogue with Venetian material tradition. [[Carlo Scarpa]]
+- **Glenn Murcutt** — Australian variant; simple vernacular style adapted to climate.
+- **WOHA** — Singapore; climate-specific architectural vocabulary.
+- **Minnette de Silva** — Sri Lanka, 1950s; independent precursor; called the same approach "Regional Modernism."
 - [[Fuinneamh Workshop Architects]] — Irish practice that enacts Critical Regionalism at domestic scale without theorising it.
 
 **PL:**
-- **Kenneth Frampton** — teoretyk; sformułował pojęcie.
-- **Jørn Utzon** — cytowany przez Framptona; duński architekt syntezujący modernizm z lokalną specyfiką materiałową i topograficzną w każdym projekcie.
-- **Álvaro Siza** — Portugalia; twórczość głęboko zakorzeniona w kulturze i klimacie Portugalii, pozostając surowo nowoczesna.
-- **Sverre Fehn** — Norwegia; tektoniczne zaangażowanie w skandynawski krajobraz i materiał.
-- **Tadao Ando** — Japonia; betonowy modernizm nacechowany japońską kulturą przestrzenną i materiałową.
+- **Kenneth Frampton** — teoretyk; sformułował pojęcie (1983); *Studies in Tectonic Culture* (1995) rozszerzyło argument.
+- **Alexander Tzonis i Liane Lefaivre** — ukuli termin (1981); inny akcent: wyobcowanie zamiast zakorzenienia.
+- **Jørn Utzon** — cytowany przez Framptona; kościół w Bagsværd (1976): racjonalistyczna powłoka + lokalnie nacechowane wnętrze.
+- **Alvar Aalto** — Ratusz w Säynätsalo (1952): taktylna cegła opierająca się powszechności technologii.
+- **Álvaro Siza**, **Sverre Fehn**, **Tadao Ando**, **Peter Zumthor**, **Wang Shu**, **Carlo Scarpa**, **Glenn Murcutt**, **WOHA** — jak powyżej.
 - [[Fuinneamh Workshop Architects]] — irlandzka pracownia realizująca regionalizm krytyczny w skali mieszkalnej bez jego teoretyzowania.
 
 ## Key Examples
@@ -56,25 +68,30 @@ The theoretical lineage draws on Paul Ricoeur's essay "Universal Civilisation an
 ## Critiques & Alternatives
 
 - Frampton's original essay has been criticised for being primarily a critique (of what not to do) without a robust positive programme.
+- **Salingaros critique** (strongest internal dissent): despite supporting CR's goals, Salingaros argues it "willfully perpetuates the form languages of Modernism" — true regionalism "must free itself from any global form language imposed from above." If this is correct, CR is just sensitive modernism under a different name.
 - "Resistance" framing is arguably romantic — does a well-crafted regional building actually resist global capital?
 - Applied loosely, "critical regionalism" becomes a justification for any building that uses one local material.
 - Postcolonial critics note that the "region" and its traditions are often defined by the dominant culture — whose vernacular counts?
+- The Tzonis/Lefaivre version (de-familiarisation) and the Frampton version (tectonic rooting) are genuinely different theories sharing a name — using both without distinction creates confusion.
 
 **PL:**
 - Oryginalny esej Framptona jest krytykowany za to, że stanowi przede wszystkim krytykę (tego, czego nie robić) bez solidnego pozytywnego programu.
-- Rama „oporu" jest być może romantyczna — czy starannie wykonany budynek regionalny naprawdę opiera się globalnemu kapitałowi?
-- Stosowany luźno, „regionalizm krytyczny" staje się uzasadnieniem dla każdego budynku, który używa jednego lokalnego materiału.
-- Krytycy postkolonialni zauważają, że „region" i jego tradycje są często definiowane przez dominującą kulturę — czyjego wernakularu to dotyczy?
+- **Krytyka Salingarosa** (najsilniejsza wewnętrzna): pomimo sympatii dla celów regionalizmu krytycznego, twierdzi, że „celowo powiela języki formalne modernizmu" — prawdziwy regionalizm „musi wyzwolić się z każdego globalnego języka formy narzuconego z góry."
+- Rama „oporu" jest być może romantyczna. Stosowany luźno, „regionalizm krytyczny" staje się uzasadnieniem dla dowolnego budynku z jednym lokalnym materiałem.
+- Krytycy postkolonialni: „region" i jego tradycje są często definiowane przez dominującą kulturę.
+- Wersja Tzonis/Lefaivre (wyobcowanie) i wersja Framptona (tektoniczne zakorzenienie) to de facto różne teorie pod wspólną nazwą.
 
 ## In the Sources
 
 - [[fuinneamh-gort-ui-ghaoithin]]: Not named explicitly, but the project exemplifies the concept: contemporary spatial organisation + strict material and formal fidelity to Irish vernacular tradition.
-- [[heatherwick-east-beach-cafe]]: Not named explicitly, but Heatherwick's stated rejection of Art Deco nautical pastiche in favour of the actual, unglamorous British beach experience is precisely Frampton's critique of superficial regionalism enacted in a design decision.
+- [[heatherwick-east-beach-cafe]]: Not named explicitly, but Heatherwick's stated rejection of Art Deco nautical pastiche in favour of the actual British beach experience enacts Frampton's critique of superficial regionalism.
+- [[critical-regionalism-wiki|Critical Regionalism — Wikipedia]]: Provides the full theoretical landscape — two origins (Tzonis/Lefaivre vs. Frampton), Frampton's six points (topography, climate, light, tectonic form, sense of touch), the full practitioners list, and the Salingaros dissent. First source in the wiki to formally document the concept's theoretical foundations.
 
 **PL:**
-- [[fuinneamh-gort-ui-ghaoithin]]: Nie nazwany explicite, ale projekt exemplifikuje pojęcie: współczesna organizacja przestrzenna + ścisła materiałowa i formalna wierność irlandzkiej tradycji wernakularnej.
-- [[heatherwick-east-beach-cafe]]: Nie nazwany explicite, ale wyrażone przez Heatherwica odrzucenie Art Deco pastiszu nautycznego na rzecz autentycznego, nieromantycznego doświadczenia brytyjskiej plaży to dokładnie Framptonowska krytyka powierzchownego regionalizmu wcielona w decyzję projektową.
+- [[fuinneamh-gort-ui-ghaoithin]]: Nie nazwany explicite; projekt exemplifikuje pojęcie.
+- [[heatherwick-east-beach-cafe]]: Nie nazwany explicite; odrzucenie pastiszu Art Deco to Framptonowska krytyka w działaniu.
+- [[critical-regionalism-wiki|Critical Regionalism — Wikipedia]]: Pełny pejzaż teoretyczny — dwa źródła (Tzonis/Lefaivre vs. Frampton), sześć punktów Framptona, lista praktyków, dysent Salingarosa.
 
 ## See Also
 
-[[Vernacular Architecture]], [[Irish Vernacular Architecture]], [[Site-Specific Architecture]], [[Found-Object Aesthetics]], [[Fuinneamh Workshop Architects]], [[Heatherwick Studio]], [[Gort Uí Ghaoithín]], [[East Beach Café]]
+[[Vernacular Architecture]], [[Irish Vernacular Architecture]], [[Site-Specific Architecture]], [[Found-Object Aesthetics]], [[Tectonics]], [[Modernism]], [[Postmodernism]], [[Fuinneamh Workshop Architects]], [[Heatherwick Studio]], [[Álvaro Siza]], [[Gort Uí Ghaoithín]], [[East Beach Café]]

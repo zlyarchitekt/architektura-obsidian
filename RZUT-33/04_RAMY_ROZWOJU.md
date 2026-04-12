@@ -112,7 +112,6 @@ Przykładowe centrum dzielnicowe
 |---|---|
 | | |
 
-
 T
 
 T
@@ -160,7 +159,6 @@ n
 - N
 - O M
 
-
 zc arts
 
 ełot s ej
@@ -168,7 +166,6 @@ ełot s ej
 - I E
 - J S
 - K
-
 
 ini n
 
@@ -190,7 +187,6 @@ ie
 
 - o arki ,
 - p
-
 
 - e iej i n
 
@@ -288,7 +284,6 @@ I
 
 - E
 
-
 ś wności lokalnej ó
 
 - n
@@ -380,7 +375,6 @@ n
 - N
 - O M
 
-
 zc arts
 
 ełot s ej
@@ -388,7 +382,6 @@ ełot s ej
 - I E
 - J S
 - K
-
 
 ini n
 
@@ -410,7 +403,6 @@ ie
 
 - o arki ,
 - p
-
 
 - e iej i n
 
@@ -518,7 +510,6 @@ I
 
 - E
 
-
 ś
 
 Ważnym elementem Studium jest dążenie do zrównoważenia gospodarki wodami opadowymi. Możemy to proponować w różnej skali, np. dbając o to, żeby woda pozostała w miejscu opadu, czyli na przykład na posesji czy w przestrzeni publicznej. Stąd hasło „odbetonowywania” podwórek. Działania takie mają ogromne znaczenie dla łagodzenia zmian klimatu i adaptacji do nich.
@@ -597,7 +588,6 @@ Modelowe typy tkanki miejskiej
 | | | | |
 | | | | |
 
-
 MU10
 
 różnorodna zabudowa współczesna
@@ -605,10 +595,8 @@ różnorodna zabudowa współczesna
 | | | | | |
 |---|---|---|---|---|
 
-
 | | | |
 |---|---|---|
-
 
 | | | | | | | | |
 |---|---|---|---|---|---|---|---|
@@ -628,10 +616,8 @@ różnorodna zabudowa współczesna
 | | | | | | | | |
 | | | | | | | | |
 
-
 | | | | | |
 |---|---|---|---|---|
-
 
 | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|
@@ -639,13 +625,11 @@ różnorodna zabudowa współczesna
 | | | | | | | | | |
 | | | | | | | | | |
 
-
 | | | | | | | |
 |---|---|---|---|---|---|---|
 | | | | | | | |
 | | | | | | | |
 | | | | | | | |
-
 
 MU7 MU8 MU9
 
@@ -658,55 +642,42 @@ wielkoskalowe osiedla modernistyczne zróżnicowane ze względu na wysokość i 
 | | | |
 |---|---|---|
 
+| | | |
+|---|---|---|
 
 | | | |
 |---|---|---|
 
+| | | |
+|---|---|---|
 
 | | | |
 |---|---|---|
 
+| | | |
+|---|---|---|
 
 | | | |
 |---|---|---|
 
+| | | |
+|---|---|---|
 
 | | | |
 |---|---|---|
 
+| | | |
+|---|---|---|
 
 | | | |
 |---|---|---|
 
-
 | | | |
 |---|---|---|
-
-
-| | | |
-|---|---|---|
-
-
-| | | |
-|---|---|---|
-
-
-| | | |
-|---|---|---|
-
-
-| | | |
-|---|---|---|
-
-
-| | | |
-|---|---|---|
-
 
 - MU3
 
 - MU4
-
 
 MU5
 
@@ -717,19 +688,15 @@ zabudowa kwartałowa zamknięta lub otwarta i różnorodna zabudowa współczesn
 | | |
 |---|---|
 
-
 | | |
 |---|---|
-
 
 | |
 |---|
 | |
 
-
 | | |
 |---|---|
-
 
 MU2
 
@@ -758,16 +725,13 @@ MU10
 | | | | | |
 |---|---|---|---|---|
 
-
 | | | |
 |---|---|---|
-
 
 Jak najbardziej. To, co jest novum w samym dokumencie, to podejście do przeznaczenia terenów. Już nie mówimy
 
 | | | | | |
 |---|---|---|---|---|
-
 
 | | | | | | | | |
 |---|---|---|---|---|---|---|---|
@@ -775,17 +739,14 @@ Jak najbardziej. To, co jest novum w samym dokumencie, to podejście do przeznac
 | | | | | | | | |
 | | | | | | | | |
 
-
 | | | | | | | |
 |---|---|---|---|---|---|---|
 | | | | | | | |
 | | | | | | | |
 | | | | | | | |
 
-
 - o funkcji usługowej i mieszkaniowej jako
 - o osobnych bytach. W większości mamy tereny mieszkaniowo-usługowe, na których i jedno, i drugie jest możliwe. To jest właśnie ta elastyczność, o której myśleliśmy przy tworzeniu tego dokumentu. Produkowanie żywności może być usługą albo po prostu zagospodarowaniem podwórka, dachu czy balkonu.
-
 
 MU7 MU8 MU9
 
@@ -800,55 +761,42 @@ wielkoskalowe osiedla modernistyczne zróżnicowane ze względu na wysokość i 
 | | | |
 |---|---|---|
 
+| | | |
+|---|---|---|
 
 | | | |
 |---|---|---|
 
+| | | |
+|---|---|---|
 
 | | | |
 |---|---|---|
 
+| | | |
+|---|---|---|
 
 | | | |
 |---|---|---|
 
+| | | |
+|---|---|---|
 
 | | | |
 |---|---|---|
 
+| | | |
+|---|---|---|
 
 | | | |
 |---|---|---|
 
-
 | | | |
 |---|---|---|
-
-
-| | | |
-|---|---|---|
-
-
-| | | |
-|---|---|---|
-
-
-| | | |
-|---|---|---|
-
-
-| | | |
-|---|---|---|
-
-
-| | | |
-|---|---|---|
-
 
 - MU3
 
 - MU4
-
 
 MU5
 
@@ -861,19 +809,15 @@ zabudowa kwartałowa zamknięta lub otwarta i różnorodna zabudowa współczesn
 | | |
 |---|---|
 
-
 | | |
 |---|---|
-
 
 | |
 |---|
 | |
 
-
 | | |
 |---|---|
-
 
 MU2
 

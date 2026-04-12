@@ -103,6 +103,5 @@ Schrony stanowią obecnie namacalny aspekt trudnej przeszłości, o której nie 
 - Il. 4. Potrójna seria połączonych bunkrów QZ na albańskiej plaży
 - Il. 5. Bunkry w mieście Durres
 
-
 ![image 5](13_KRAJ_ZELBETOWYCH_GRZYBOW_images/imageFile5.png)
 

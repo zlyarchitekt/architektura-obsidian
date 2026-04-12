@@ -54,7 +54,6 @@ Zacznijmy od podstaw. Co to znaczy queer (kłir)? Osoby tak się nazywające nie
 
 - ją się w kilku pojęciach na raz albo nie identyfikują się z żadnym z nich. Często po prostu nie chcą w ogóle klasyfikować ludzi i kontestują wszelkie kulturowe gorsety, metrykalne uproszczenia, systemowe klasyfikacje i normatywność (a)społeczną.
 
-
 Teoria queer może odmienić polski krajobraz, o czym przekonuje Ewa Majewska w tekścieEkonomia w badaniach inspirowanych teorią queer w Polscew książceStrategie queer. Od teorii do praktyki:
 
 [...] badaczki i badacze queer mają do odegrania bardzo ważną rolę i nasze badania nad seksualnością, kulturą i subkulturami queer mogą przynieść niezwykle cenne rezultaty, […] dostarczają nam wiedzy o tym, jak trafnie intersekcjonalnie materialistycznie badać strukturę społeczną i generowane w niej wykluczenia, ale także umacniają naszą pozycję w ogólnych badaniach nad kulturą, w które możemy wnieść skuteczne strategie analizy społecznego, historycznego kształtowania się obecnych w niej norm, form dominacji oraz ucieleśnienia tych norm w konkretnym, prywatnym otoczeniu jednostek4.
@@ -63,7 +62,6 @@ Co także bardzo istotne, queerowa planistyka, podobnie jak teorie queer, kładz
 
 - 3 ARUP, Queering Public Space: Raport, www.youtube. com/watch?v=gbRUVSSARO4 (data dostępu: 13.03.2023).
 - 4 E. Majewska, Ekonomia w badaniach inspirowanych teorią queer w Polsce[w:] Strategie queer. Od teorii do praktyki, red. M. Kłosowska, M. Drozdowski, A. Stasińska, Warszawa 2012, s. 140.
-
 
 wyjątkowo rozwojowe. W jej centrum są mieszkanki i mieszkańcy z całą ich różnorodnością, a nie normy i standaryzacje. Sue Hendler i Michael Backs w tekście
 
@@ -98,7 +96,6 @@ Upublicznienie emocji, uczuć i seksualności jest naturalne tak samo jak ekspre
 - 6 W oryginale: from human being to human doing.
 - 7 S. Hendler, M. Backs, dz. cyt., s. 74.
 
-
 ProjektPublic feelingsAnn Cvetkovich jest świetnym przykładem tego, jak uczucia ze sfery prywatnej mogą być publicznie wyrażone i przez to wzbogacone o polityczny wymiar. Stało się tak choćby w czasie Dnia Politycznie Zdołowanych. W 2007 r. w Chicago ludzie wyszli na ulice w piżamach, koszulkach i szlafrokach z napisem „Zdołowany? To może być polityczne”. W ten sposób demonstrowali swój smumiast. Wraz z uczuciami przedmiotem emancypacji staje się ciałorelacyjność. Wszystkie przejawy miłości i bliskości są dozwolone. Wszystkie są naturalne, bo wszystko, co występuje w naturze, takie jest, analogicznie wszystko, co pojawia się w mieście, jest miejskie.
 
 ## 161 — — planowaniewrażliwość
@@ -127,7 +124,6 @@ Te refleksje doprowadzają mnie w końcu do bardzo ważnej cechy queerowych
 
 - 8 M. Dębińska, Queer i polityka cierpienia. Strategie narracyjne i polityczne osób trans w Polsce [w:] Strategie queer…, s. 226.
 
-
 miejscem manifestowania poglądów i wyrażania opinii, a nie tylko skomercjalizowanym miejscem hiperkonsumpcji. Zachęca do zgromadzeń i czynnego udziału w kontestowaniu lub/i wspieraniu rządzących miastem. Jest miejscem celebracji różnorodności oraz wyrażania pragnień zmiennością przeznaczeń terenów i hiperelastycznością tego, co wyliczone i wyrysowane.
 
 ## 16233 —RZUT+
@@ -141,7 +137,6 @@ Jeśli chcesz wyjść poza matrix heteroi cisseksistowskiej planistyki, to zadaj
 Sue Hendler i Michael Backs wspomina-
 
 - ją Judith Butler – jedną z głównych twórczyń queerowej teorii – i jej trafny opis przekory i eksperymentalnej natury queerowości, która burzy tradycyjne modele pojmowania własności i granic:
-
 
 1QMXPL ZAPRASZA PLANISTKI I PLANISTÓW, MIESZKANKI I MIESZKAŃCÓW MIAST DO REFLEKSJI NAD PŁYNNOŚCIĄ STRUKTURY
 
@@ -163,7 +158,6 @@ W queerowej planistyce rasa, ubóstwo, tożsamość nie są ignorowane. Daje to 
 
 - 9 S. Hendler, M. Backs, dz. cyt., s. 74.
 
-
 na odejście od powielanych cisnormatywnych i heteronormatywnych norm oraz neoliberalnej dystrybucji przywilejów. Co więcej, a może przede wszystkim, zmiana jest wymagana także w samych osobach zajmujących się planistyką. Czy wsłuchują się one w głosy zamieszkujacych miasta czy we własne poglądy i potrzeby? Petra L. Doan trafnie zauważa:
 
 stygmatyzację osób pracujących seksualnie. Nie tylko ograniczenie wyrażania seksualności i marginalizacja tych, którzy wykorzystują ją w celach zarobkowych, lecz także sztywny gorset wolnorynkowego wytresowania, wszystko to wymaga przeformatowania. Jak zauważa słusznie Krystin Wong-Tam we wstępie do książki
@@ -181,7 +175,6 @@ Czym jest „tożsamość” planowania i jak do tego doszło? Co mamy na myśli
 - o to, że pełne zrozumienie teorii queer w ramach planowania nie może pozostawić samego planowania bez kontroli. [...] ważne jest, aby pamiętać
 - o znaczeniu kwestionowania i problematyzowania przyjętych prawd w teorii queer. W planowaniu takie podejście może zakwestionować standardy stosowane przy opracowywaniu planów (np. X akrów parku na Y populacji) albo kwestionować modne użycie terminu „najlepsze praktyki” na rzecz pytania „najlepsze dla kogo, w jakich okolicznościach i dlaczego?”11.
 
-
 Nie zarabiasz w „moralny” sposób, nie kupujesz więcej, niż potrzebujesz, nie odnosisz sukcesu i nie obnosisz się z nim, nie jesteś modny, to wynocha z ugrzecznionego miasta! Przeciwieństwem takiego opresyjnego modelu ma być miasto queerowe, którego mieszkanki i mieszkańcy wyrzekają się szacowności, nadęcia, pogoni za wzrostem, nowoczesnością i dyscypliny kapitalistycznej. Kontestują hegemonię prywatyzacji i komercjalizacji. Chcą tworzyć miasto minispołeczności, poliamorycznych związków, rodzin patchworkowych, kooperatyw, kolektywów, miasto miksu socjalnego – mozaikową układankę. Miasto nonkonformistów, występujących przeciw, jak pisze Tomasz Sikora:
 
 Planistki i planiści dążący do stworzenia sprawiedliwszej, empatycznej społeczności miejskiej powinni strać się przyjąć krytyczne podejście do własnych uprzedzeń i założeń leżących u podstaw większości projektów.
@@ -196,7 +189,6 @@ Organizacja miasta 1QMXPL oparta jest na zrozumieniu zależności praktyk seksua
 
 - 12 T.K. Wong-Tam, Wstęp[w:] Any Other Way: How Toronto Got Queer, red. S. Chambers i in., Toronto 2017, s. 348, tłum. własne.
 - 13 T. Sikora, Queer jako (antyliberalna) polityka pożądania i różnicy[w:] Strategie queer…, s. 40.
-
 
 11 P.L. Doan, Conclusions and Reflections for the Future: Reframing Planning Practice [w:] Queerying Planning…, s. 230.
 

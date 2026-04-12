@@ -4,7 +4,7 @@ aliases: ["Modernism"]
 name: "Modernism"
 domain: architecture | theory
 tags: [architecture, history, style]
-source_count: 1
+source_count: 2
 ---
 
 ## Definition
@@ -22,6 +22,7 @@ The movement gained significant momentum in the early 20th century. It was initi
 
 ## Key Examples
 *   **Functional Design:** Buildings designed primarily around their intended use (e.g., a hospital's layout dictated by medical processes).
+*   **JEMS Architekci** (Warsaw, 1988–present) — Polish continuation of Modernism's structural honesty and functional clarity, inflected with High-Tech transparency; [[Agora Headquarters Warsaw]] (2001) as paradigmatic example.
 
 ## Critiques & Alternatives
 Critics argue that Modernism often led to sterile, dehumanizing environments and failed to account for the cultural or emotional needs of inhabitants, leading to subsequent movements like Postmodernism.
@@ -30,6 +31,7 @@ Critics argue that Modernism often led to sterile, dehumanizing environments and
 
 ## In the Sources
 *   **Source:** [[Dookoła, czyli typ i miasto]] (raw/RZUT - Dookoła, czyli typ i miasto.md) — The source notes that Modernism initially limited architectural typology to function (przeznaczenie).
+*   **Source:** [[jems-architekci-wikipedia|JEMS Architekci — Wikipedia]] — JEMS described as a continuation of Modernism with high-tech references; their buildings emphasise tektonika (tectonic clarity), natural material possibilities, and structural transparency.
 
 ## See Also
-[[Postmodernism]], [[Typology]], [[Function]]
+[[Postmodernism]], [[Typology]], [[Function]], [[High-Tech Architecture]], [[Tectonics]], [[JEMS Architekci]]

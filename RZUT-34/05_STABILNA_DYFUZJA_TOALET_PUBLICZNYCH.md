@@ -9,7 +9,6 @@ B.N.: Wciąż się uczymy (śmiech). To wyzwanie, z którym cały czas się mier
 - D.W.: To tak, jakby myśleć, że można nauczyć się być matką. Codziennie coś nowego cię zaskakuje. (śmiech)
 - E.J.: Pamiętam siebie sprzed posiadania dzieci. Mogłam całą dobę siedzieć i pracować, bo to uwielbiam. A teraz już nie mogę. Macierzyństwo przewraca wszystko do góry nogami.
 
-
 B.N.: A mnie fascynuje model pracy Janickiej. Nie wiem, czy wiecie, ale mieszkając w dwóch różnych miastach, od dwóch lat współpracujemy ze sobą tylko online. Widziałyśmy się zaledwie kilka razy i dopiero nasz ostatni wyjazd był pierwszą okazją, żeby się lepiej poznać. Okazało się, że Janicka jest bossówą, która wszystko ogarnia. Równolegle jest dyrektorką Instytutu Dizajnu, zarządza zespołem, prowadzi zajęcia na uczelni i robi kilka innych projektów na raz.
 
 D.J.: Ja się po prostu szybko nudzę i muszę mieć wiele bodźców. Cały czas potrzebuję nowych zadań i wyzwań. Od pewnego czasu, żebym wzięła nowe zlecenie, musi mi albo sprawiaćfun, albo dawać hajs. Nie wiem, czy można to nazwać modelem biznesowym, ale działam na trzech filarach. Comiesięczne wynagrodzenie z uczelni i Instytutu Dizajnu daje mi poczucie ekonomicznego bezpieczeństwa, więc w dodatkowych projektach mogę pracować, nad czym chcę, i projektować, co mi się podoba. Daje mi to też energię, więc dzieje się dużo i szybko.
@@ -21,7 +20,6 @@ Wiwat siostrzeństwo!
 - 7 https://www.mckinsey.com/featured-insights/diversity-and-inclusion/diversity-wins-how-inclusion-matters (data dostępu: 1.07.2023).
 - 8 https://onlinelibrary.wiley.com/doi/full/10.1002/ ijfe.2089 (data dostępu: 6.06.2023).
 - 9 https://www.theguardian.com/business/2022/ mar/06/companies-with-female-leaders-outperform-those-dominated-by-men-data-shows (data dostępu: 6.06.2023).
-
 
 33 — — płećwidzieć
 

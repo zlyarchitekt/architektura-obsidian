@@ -3,7 +3,7 @@ type: concept
 name: "Adaptive Reuse"
 domain: architecture, conservation, urbanism
 tags: [conservation, heritage, adaptive-reuse, conversion, sustainability]
-source_count: 1
+source_count: 2
 aliases: ["Adaptive Reuse"]
 ---
 
@@ -21,20 +21,24 @@ The term gained currency in the late 20th century as post-industrial landscapes 
 
 ## Key Proponents
 
-[[Heatherwick Studio]] ([[Zeitz MOCAA]], [[Coal Drops Yard]], [[Bombay Sapphire Distillery]])
+[[Heatherwick Studio]] ([[Zeitz MOCAA]], [[Coal Drops Yard]], [[Bombay Sapphire Distillery]]), [[JEMS Architekci]] ([[Hala Koszyki]], [[Browary Warszawskie]])
 
-**PL:** [[Heatherwick Studio]] ([[Zeitz MOCAA]], [[Coal Drops Yard]], [[Bombay Sapphire Distillery]])
+**PL:** [[Heatherwick Studio]] ([[Zeitz MOCAA]], [[Coal Drops Yard]], [[Bombay Sapphire Distillery]]), [[JEMS Architekci]] ([[Hala Koszyki]], [[Browary Warszawskie]])
 
 ## Key Examples
 
 - [[Zeitz MOCAA]] (Cape Town, 2017) — 42 concrete grain silo tubes carved into gallery volumes and a central atrium; cross-section derived from wheat-grain geometry
 - [[Coal Drops Yard]] (London, 2018) — 1850 coal freight buildings; two rooflines stretched and merged into a new covered level
 - [[Bombay Sapphire Distillery]] (Laverstoke, 2014) — historic banknote printing plant; 23 derelict buildings restored; River Test restored; first BREEAM Outstanding renovation
+- [[Hala Koszyki]] ([[JEMS Architekci]], Warsaw 2016) — 1906–1908 iron-and-glass market hall reconstructed as contemporary food hall; SARP jury award + Nagroda Prezydenta Warszawy
+- [[Browary Warszawskie]] ([[JEMS Architekci]], Warsaw 2022) — 19th-century brewery campus; mixed-use urban block; SARP Nagroda Roku 2021 + Grand Prix Nagrody Polityki 2021
 
 **PL:**
 - [[Zeitz MOCAA]] (Kapsztad, 2017) — 42 betonowe rury silosów zbożowych wydrążone w galerie i centralne atrium; przekrój wyprowadzony z geometrii ziarna pszenicy
 - [[Coal Drops Yard]] (Londyn, 2018) — budynki towarowe z 1850; dwie linie dachowe wyciągnięte i połączone w nowe piętro
 - [[Bombay Sapphire Distillery]] (Laverstoke, 2014) — historyczna wytwórnia banknotów; 23 odrestaurowane budynki; rzeka Test przywrócona; pierwsza renowacja BREEAM Outstanding
+- [[Hala Koszyki]] ([[JEMS Architekci]], Warszawa 2016) — hala targowa z 1906–1908 przekształcona w współczesny food hall
+- [[Browary Warszawskie]] ([[JEMS Architekci]], Warszawa 2022) — XIX-wieczny browar jako wielofunkcyjny kwartał miejski; SARP NR 2021
 
 ## Critiques & Alternatives
 
@@ -45,10 +49,12 @@ Adaptive reuse is not without tensions: heritage requirements may constrain spat
 ## In the Sources
 
 - [[thomas-heatherwick-wikipedia|Thomas Heatherwick — Wikipedia]]: three examples from Heatherwick Studio's portfolio demonstrate a recurring practice of engaging with historic industrial structures — each finds a distinct formal solution in the logic of the original building (silo tubes → atrium geometry; coal drop roofs → merged canopy; mill courtyard → glasshouses).
+- [[jems-architekci-wikipedia|JEMS Architekci — Wikipedia]]: Hala Koszyki (2016) and Browary Warszawskie (2022) establish adaptive reuse as a major strand of JEMS's practice — both historic Warsaw structures converted at urban scale, both awarded SARP's highest prizes.
 
 **PL:**
-- [[thomas-heatherwick-wikipedia|Thomas Heatherwick — Wikipedia]]: trzy przykłady z portfolio Heatherwick Studio — każdy odnajduje odrębne rozwiązanie formalne w logice oryginalnego budynku (rury silosów → geometria atrium; dachy węglowe → połączone zadaszenie; podwórze młyna → szklarnie).
+- [[thomas-heatherwick-wikipedia|Thomas Heatherwick — Wikipedia]]: trzy przykłady z portfolio Heatherwick Studio — każdy odnajduje odrębne rozwiązanie formalne w logice oryginalnego budynku.
+- [[jems-architekci-wikipedia|JEMS Architekci — Wikipedia]]: Hala Koszyki (2016) i Browary Warszawskie (2022) jako adaptacyjne ponowne użycie historycznych struktur warszawskich w skali miejskiej; obie nagrody SARP.
 
 ## See Also
 
-[[Site-Specific Architecture]], [[Vernacular Architecture]], [[Concrete as Craft]], [[Zeitz MOCAA]], [[Coal Drops Yard]], [[Bombay Sapphire Distillery]]
+[[Site-Specific Architecture]], [[Vernacular Architecture]], [[Concrete as Craft]], [[Zeitz MOCAA]], [[Coal Drops Yard]], [[Bombay Sapphire Distillery]], [[Hala Koszyki]], [[Browary Warszawskie]], [[JEMS Architekci]]

@@ -15,7 +15,6 @@ Większość rozmówców znaleźliśmy dzięki ankiecie internetowej. Miała ona
 - i nauczycielki, którzy potrafią słuchać, rozmawiać, kulturalnie prowadzić konsultacje. Jednak wybrane przez nas osoby wychodzą poza te podstawowe ramy empatii. Są odważne, oddane procesowi kształcenia, eksperymentu-
 - ją i pozostają otwarte na studenckie pomysły. Nasi rozmówcy reprezentują różne środowiska, regiony i podejścia do edukacji.
 
-
 Czytając przeprowadzone rozmowy, zrozumieliśmy, że przewija się przez nie jedna poruszająca idea – nauczyciele i nauczycielki próbują przede wszystkim dodać studentom i studentkom odwagi. Nie boją się ich chwalić oraz doceniać włożony przez nich wysiłek. Oceniają nie tylko to, co zostało stworzone przez każdą osobę w grupie, lecz także sam proces tworzenia. Doceniają, że ktoś odważył się popełnić błędy. Uczą umiejętności formułowania opinii i zabierania głosu. Dostrzegają, że to właśnie środowisko studenckie ma ostatecznie tworzyć przyszłość i że właśnie od niego będzie zależało, w jaki sposób zmieni się nasza rzeczywistość. Dlatego bohaterki i bohaterowie tego numeru robią wszystko, aby ich podopieczne i podopieczni nie bali się tworzyć.
 
 ~Kuba Snopek, Wojciech Mazan, Zofia Piotrowska

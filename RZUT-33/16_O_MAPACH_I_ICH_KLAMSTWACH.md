@@ -12,7 +12,6 @@ Architekci i urbaniści mogliby poprawić sytuację osób, które będą korzyst
 
 - 18 Rządowe Centrum Legislacji, Projekt ustawy o cmentarzach i chowaniu zmarłych, https://legislacja.rcl.gov.pl/projekt/12351755 (data dostępu: 5.02.2023).
 
-
 Zgodnie z tradycyjną definicją mapa to reprezentacja fragmentu powierzchni Ziemi. Jest obietnicą ujrzenia wiernej kopii rzeczywistości, prawdy na temat świata. Mapy są jednak silnie nacechowanymi politycznie obrazami, subiektywnymi i wybrakowanymi odwzorowaniami. Ich istnienie jest dla nas tak naturalne, a nasza wiara w ich „rację” tak bezwarunkowa, że nie zauważamy ich stronniczości. Kartografia stała się popularna w momencie, kiedy państwa szukały sposobów na ugruntowanie swojej pozycji w świecie i okazały się idealnym narzędziem do realizacji tego celu. Poręczały za istnienie i niejako tworzyły państwa, jednocześnie afirmując swoją rolę – obiektywnej prawdy o świecie. Skoro terytorium jest na papierze, to musi być prawdziwe. Jako że są nie tylko tworzywem, ale również twórcą rzeczywistości, mapy mają niezwykłą moc i siłę perswazji. Ich władzę dostrzegał np. George Orwell, który w Roku 1984 ukazywał techniki manipulacji populacją Oceanii między innymi przez zmienianie map świata:
 
 O MAPACH I ICH KŁAMSTWACH
@@ -55,14 +54,11 @@ MAPY Z ZAŁOŻENIA KŁAMIĄ. KAŻDE DWUWYMIAROWE ODWZOROWANIE TRÓJWYMIAROWEJ RZ
 - 6 To pytanie staje się początkiem eksploracji pustych miejsc na mapie Paryża, które doprowadzają Vasseta do odkrycia różnych pustkowi, porzuconych budynków, baraków i niewielkich siedlisk.
 - 7 B. Latour, Down to Earth: Politics in the New Climatic Regime, Cambridge 2018, tłum. własne.
 
-
 - i emocjach, uwzględniająca wszystko, co
-
 
 - 2 Ch.N. Adichie, The Danger of a Single Story, TED, https://www.youtube.com/watch?v=D9Ihs241zeg&ab_channel=TED (data dostępu: 6.03.2023).
 - 3 M.S. Monmonier, How to Lie with Maps, Chicago 2018, tłum. własne.
 - 4 D. Wood, Introducing the Cartography of Reality [w:] Humanistic Geography: Prospects and Problems, eds. M. Samuels, D. Ley, Chicago 1978, s. 207–219.
-
 
 relacji”9. Według Bureau d’Etudes, jednej z grup zajmujących się radykalną kartografią, opracowując nowe mapy, tworzymy kolektywną pamięć, a co za tym idzie zbiorowość. Mapy, w przeciwieństwie do suchego zbioru danych, pomagają się zorganizować, unaocznić pewne procesy
 
@@ -85,7 +81,6 @@ i dać narzędzie do walki o swoje prawa marginalizowanym społecznościom. Czę
 Dlaczego mapy? Skoro są one jedynie reprezentacją danych, w dodatku autorską, może wystarczyłoby całkowicie zaprzestać mapowania i skupić się na wypełnianiu luk informacyjnych? Do takich działań nawoływali anarchistyczni geografowie (między innymi Élisée Reclus), ale bardziej skuteczne może okazać się wykorzystanie wiarygodności, szacunku i zdolności narracyjnej map, aby tworzyć je na nowo – jako elementy kwestionujące rzeczywistość i dodające jej znaczeń i historii. Ostatecznie, cytując Denisa Wooda, „ludzie kochają mapy, więc z chęcią angażuMapowanie w kontrze jest więc częścią szerszej strategii, mającej na celu nie transformację, lecz wspomaganie społeczności, budowanie przestrzeni dialogu, w której doświadczenia z różnych środowisk przekładają się na wspólną pracę na rzecz zwalczania barier, przesuwania granic, stawiania oporu i wytworzenia retoryki troski w przestrzeni. Jeśli zacznie się od osobistej relacji z otoczeniem, a nie szerokiej, „uniwersalnej” perspektywy na przestrzeń, nowe głosy w kwestii zamieszkiwania i korzystania z przestrzeni mogą zostać usłyszane i wpłynąć na sposób jej planowania.
 
 - ją się w nie, jest to sposób na nawiązanie
-
 
 8 Nancy Lee Peluso użyła tego terminu, aby opisać sytuację indonezyjskiej części wyspy Borneo – Kalimantan. Lasy tego terenu zostały najpierw zmapowane przez organizację, którą można by określić naszym odpowiednikiem Lasów Państwowych, we współpracy z Bankiem Światowym i rządem, a następnie, niejako „w kontrze”, przez indonezyjskie organizacje pozarządowe, które próbowały tym sposobem przyznać prawo korzystania z lasów Dajakom autochtonicznym mieszkańcom Borneo. Kontrmapowanie pozwoliło w tym wypadku zablokować plany rządowe na przekształcenie terenów pod produkcję oleju palmowego.
 
@@ -119,7 +114,6 @@ Il. 2. Queering The Map, https://www.queeringthemap.com/; domena publiczna dośw
 
 - 11 S. Zaragocin, M.A. Caretta, Cuerpo-Territorio: A Decolonial Feminist Geographical Method for the Study of Embodiment, „Annals of the American Association of Geographers” 2020, vol. 111, no. 5, s. 1503–1518.
 
-
 Jai Sen udało się wynegocjować lepsze warunki dla mieszkańców i przede wszystkim poinformować ich o planie, o którym nie wiedzieli – najwyraźniej w interesie miasta nie było przeprowadzenie jakichkolwiek konsultacji czy chociażby spotkań informacyjnych. Te wydarzenia stały się katalizatorem najważniejszego projektu Unanyan – Unintended City – którego podstawą było umieszczenie na mapie marginalizowanych wspólnot, żyjących często w równie marginalizowanych przestrzeniach. Ostatecznym celem jego działalności miało być doprowadzenie do powstania organizacji działającej na rzecz praw przesiedlonych ludzi pracujących. Poza mapowaniem organizacji zdarzało się pomagać bardziej bezpośrednio w walce pomiędzy przesiedlonymi społecznościami a władzami miasta – poprzez proponowanie planów na legalne osiedlenie, organizację kampanii i protestów oraz nawiązanie dialogu z departamentem planowania12.
 
 opowieści o miłości, relacje z randek, wspomnienia coming-outów, banalne historie, traumy i tragedie. Wspomnienia nie mają dat, a wpisy są anonimowe, co wytwarza skomplikowaną i dezorientującą przestrzeń cyfrową, stojącą w opozycji do tradycyjnej roli mapy – orientowania w świecie. Stąd też nazwa, której nie należy łączyć jedynie ze społecznością LGBTQ2IA+. Jednym ze znaczeń słowa queering jest ‘psuć, niszczyć’, w tym kontekście tradycyjną rolę kartografii. Mapa w interesujący sposób zwraca uwagę na związek przestrzeni i czasu, który zwykle jest w niej pomijanym aspektem– cała platforma jest jak wielki palimpsest, który tworzy pożądaną przez kontrmapowanie wielogłosowość i wielowarstwowość. Z początku obejmowała jedynie przestrzeń Montrealu, z którego pochodzi Lucas LaRochelle, ale z czasem rozrosła się na cały świat. Platforma jest próbą zasygnalizowania potrzeby uwzględniania w przestrzeni ciał i potrzeb osób queer i udało jej się doprowadzić do powstania społeczności łączącej różne kraje, języki, środowiska i narracje.
@@ -135,5 +129,4 @@ Z kontrmapowaniem wiążą się pewne paradoksy i niebezpieczeństwa – żeby m
 Jak mapa może zakwestionować relację między twórcą i użytkownikiem, a także samą mapą i terytorium, pokazuje Lukas LaRochellle za pomocą platformy Queering The Map. Na tej różowej stronie można odkrywać historie społeczności LGBTQ2IA+:
 
 - 12 L. Mogel, A. Bhagat, An Atlas of Radical Cartography, Los Angeles 2007.
-
 

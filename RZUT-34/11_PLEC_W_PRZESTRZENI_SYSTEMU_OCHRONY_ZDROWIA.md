@@ -44,7 +44,6 @@ Obecnie (…) niepodlegająca dyskusji wydaje się konieczność »niebezpłciow
 
 - Il. 1. Akcja terapeutyczna szpital onkologiczny, im. M. Kopernika w Łodzi, 2020-2022, fot. M. Szwałek
 
-
 – pisze dr hab. n. med. Anna Posadzy-Małaczyńska, kierowniczka Katedry i Zakładu Medycyny Rodzinnej Uniwersytetu Medycznego im. Karola Marcinkowskiego w Poznaniu1.
 
 Osoby poza płciami męską i żeńską napotykają bariery w dostępie do opieki zdrowotnej, takie jak: unikanie czy odmowa jej udzielenia, problemy z uzyskaniem skierowań, brak informacji od lekarzy oraz niewygodne lub problematyczne interakcje interpersonalne2. Tymczasem osoby transpłciowe korzystają z usług we wszystkich obszarach opieki zdrowotnej i często nie są natychmiast rozpoznawane jako osoby trans przez personel medyczny. Wdrożenie praktyk i procedur przyjaznych dla nich ułatwia pacjentom szukanie opieki, samoidentyfikację oraz pomaga zaspokajać ich potrzeby zdrowotne3.
@@ -52,7 +51,6 @@ Osoby poza płciami męską i żeńską napotykają bariery w dostępie do opiek
 - 1 A. Posadzy-Małczyńska, Medycyna płci: Kobieta współczesna – zdrowie i zagrożenia, red. Bartłomiej Leśniewski.
 - 2 G.R. Bauer, R. Hammond i in., I don’t think this is theoretical; this is our lives: How erasure impacts health care for transgender people,“Journal of the Association of Nurses in AIDS Care” 2009, 20 (5), s 348–361.
 - 3 Tamże.
-
 
 Zagadnienie niuansowania spektrum płci biologicznej, społecznej i psychologicznej poruszam w tym tekście w niewielkim stopniu, choć temat funkcjonowania w przestrzeni medycznej osób nieidentyfikujących się z binarnym podziałem płciowym jest ważny i warty analizy.
 
@@ -64,7 +62,6 @@ Oddziały koedukacyjne to takie, które głównie świadczą podstawową opiekę
 
 - 4 W 2009 r. kobiety najczęściej korzystały z usług medycznych (pozaszpitalnych oraz poza podstawową opieką zdrowotną) typu laboratorium analityczne, pracownia radiologiczna (54,9%), a następnie usług pielęgniarki i położnej (9,5%). GUS, Urząd Statystyczny w Krakowie, Zdrowie kobiet w Polsce 2004–2009, Kraków 2012, s. 64.
 - 5 W 2009 r. 39,8% kobiet zdecydowało się na wykonanie mammografii. Dz. cyt., tamże, s. 50.
-
 
 103 — — płećdziałać
 
@@ -81,11 +78,9 @@ Przestrzenie, gdzie płeć może być istotnym parametrem, to oddziały specjali
 - • oddziały porodowe, ginekologiczne – damskie;
 - • oddziały urazowe – przewaga mężczyzn.
 
-
 ![image 4](11_PLEC_W_PRZESTRZENI_SYSTEMU_OCHRONY_ZDROWIA_images/imageFile4.png)
 
 - Il. 2. Piotr Sobczak, akcje terapeutyczne, szpital im. M. Kopernika w Łodzi, 2020-2022
-
 
 6 Pierwsze szpitale przeznaczone dla kobiet powstały w II połowie XIX w. (np. The New England Hospital for Women and Children w 1862 r. czy Woman’s Hospital w Nowym Jorku w 1855 r.).
 
@@ -120,7 +115,6 @@ Il. 6. ICZMP, poczekalnia porodowa, miejsce spotkań, kwietna łąka, proj. m+de
 ![image 9](11_PLEC_W_PRZESTRZENI_SYSTEMU_OCHRONY_ZDROWIA_images/imageFile9.png)
 
 - Il. 7. ICZMP, poczekalnia porodowa, kwietna łąka, proj. m+design, fot. HAWA
-
 
 ## 107 — — płećdziałać mają czynnik psychologiczny oraz „oswojenie” przestrzeni, do której wraca się cyklicznie – jak ma to miejsce podczas procesu tego typu leczenia.
 
@@ -204,5 +198,4 @@ Maggie’s Centres powstały w wyniku osobistych doświadczeń choroby onkologic
 
 - 7 Lęk przed operacją/leczeniem stanowił 21,1% przyczyn rezygnacji z leczenia szpitalnego przez kobiety w mieście i 25,6% na wsi. GUS, Urząd Statystyczny w Krakowie, dz. cyt., s. 61.
 - 8 Spośród wszystkich hospitalizowanych kobiet w polskich placówkach medycznych blisko 77% stanowiły pacjentki z długotrwałymi problemami zdrowotnymi (około 63% w 2004 r.), natomiast kobiety chorujące przewlekle – prawie 81%. GUS, Urząd Statystyczny w Krakowie, Tamże, s. 62.
-
 

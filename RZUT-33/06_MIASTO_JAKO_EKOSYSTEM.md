@@ -7,7 +7,6 @@ rozwija na własnych działkach. Na przykład tereny poprzemysłowe. Na takich o
 - o warunkach zabudowy, jeśli nie przekona się do tego miasta. Z drugiej strony duże firmy zainteresowane inwestowaniem na tych terenach wiedzą, że należy zacząć od inwestycji w miejski transport zbiorowy, aby przyciągnąć klientów do kupna mieszkań i zachęcić ich do rezygnacji z własnego pojazdu. Mamy też już takich inwestorów, którzy sami obniżają wskaźniki parkingowe. Starają się tak ukształtować przestrzenie swojego
 - osiedla, aby same w sobie zniechęcały do samochodu.
 
-
 Inwestorom bardzo trudno zejść poniżej jednego miejsca parkingowego na mieszkanie. To wciąż stanowi dla nich barierę psychologiczną. Nawet w tak oczywistych lokalizacjach jak Browary czy sąsiednia Towarowa. To jest sprzężenie między docelową klientelą a posiadaniem własnego pojazdu. Wynika to po części ze statusu materialnego i prestiżu, nie wypada nie mieć samochodu, jeśli ma się mieszkanie w centrum miasta za kilkadziesiąt tysięcy złotych za metr kwadratowy. Jednakże istnieją inwestorzy, którzy chętnie wychodzą naprzeciw naszym oczekiwaniom dotyczącym obniżenia wskaźników w miejscach dobrze skomunikowanych z transportem publicznym.
 
 ~ Czy ma pan samochód?

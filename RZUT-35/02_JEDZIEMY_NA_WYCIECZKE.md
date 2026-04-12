@@ -40,7 +40,6 @@ Kiedyś było więcej pracy sezonowej, zwłaszcza na Wyspach. W wakacje wszyscy 
 - Il. 2. Duisburg, Zagłębie Ruhry, 2002 r., fot. archiwum Gabrieli Rembarz
 - Il. 3. Warsztaty w Łebie, 2003 r., fot. archiwum Gabrieli Rembarz
 
-
 ![image 2](02_JEDZIEMY_NA_WYCIECZKE_images/imageFile2.png)
 
 ![image 3](02_JEDZIEMY_NA_WYCIECZKE_images/imageFile3.png)
@@ -105,7 +104,6 @@ Nie zastanawiałabym się, dokąd wyjechać, tylko z kim. Teraz wolałabym odby�
 
 - o taką reedukację w podróży, bardziej
 - odświeżającą niż to, co próbujemy robić z naszymi studentami, czyli obejrzenie miejsc, które już znamy, ale z lepszym zrozumieniem całego procesu ich powstawania. Celowałabym pewnie we wspomniany Hamburg, może z przejazdem przez małe miasteczka niemieckiego wybrzeża. Może Aachen z wypadem do Holandii, np. do Maastricht. Pewnie tamtejszych rozwiązań nie dałoby się zastosować w Polsce w stu procentach, ale byłoby to bardzo wartościowe doświadczenie. Jeśli miałabym wybierać spośród miast duńskich, to może nie Kopenhaga, ale raczej Aarhus. Nie rozumiem tylko, dlaczego studenci mają takie parcie na Erasmusaw krajach południowoeuropejskich.
-
 
 ~Lifestyle?
 
