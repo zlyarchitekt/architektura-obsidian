@@ -1,6 +1,6 @@
 # Wiki Index
 
-_Last updated: 2026-04-11 — 9 sources ingested_
+_Last updated: 2026-04-12 — 14 sources ingested_
 
 ---
 
@@ -17,6 +17,11 @@ _Last updated: 2026-04-11 — 9 sources ingested_
 | [[heatherwick-little-island]] | Little Island — Thomas Heatherwick / Timothy Schenck | Heatherwick Studio + MNLA + Arup | 2021 | 2026-04-10 |
 | [[thomas-heatherwick-wikipedia]] | Thomas Heatherwick — Wikipedia | Wikipedia contributors | 2005–2026 | 2026-04-11 |
 | [[rzut-sceny-stararchitekci]] | Sceny z życia stararchitektów — Kwartalnik RZUT | Katarzyna Kapusta | 2024-11-18 | 2026-04-11 |
+| [[rzut-dookola-czyli-typ-i-miasto]] | Dookoła, czyli typ i miasto — Kwartalnik RZUT no. 39 | Krzysztof Jaraczewski | 2026 | 2026-04-12 |
+| [[rzut-ustanowiony-chaos]] | Ustanowiony chaos, czyli planowanie przestrzenne w potransformacyjnej Polsce | Zofia Piotrowska / Piotr Uściński | 2022-09-18 | 2026-04-12 |
+| [[rzut-modele-zawlaszczania-ziemi]] | Modele zawłaszczania ziemi — Kwartalnik RZUT | Romea Muryń | 2022-06-29 | 2026-04-12 |
+| [[le-corbusier-wikipedia]] | Le Corbusier — Wikipedia | Wikipedia contributors | 2001–2026 | 2026-04-12 |
+| [[rzut-uspoleczniamy-berlin]] | Uspołeczniamy Berlin — Kwartalnik RZUT | Joanna Kusiak / Marcin Szczodry | 2022-09-15 | 2026-04-12 |
 
 ---
 
@@ -61,6 +66,20 @@ _Last updated: 2026-04-11 — 9 sources ingested_
 | [[casa-de-musica\|Casa de Música]] | building | OMA, Porto 2005; faceted polyhedron; concept recycled from rejected Dutch house; "fuck the context" | OMA, Porto 2005; wielościan; koncepcja z odrzuconego domu holenderskiego; „fuck the context" |
 | [[copenhill\|Copenhill]] | building | BIG, Copenhagen 2019; waste-to-energy plant with ski slope; smoke rings from chimney | BIG, Kopenhaga 2019; elektrociepłownia ze stokiem narciarskim; pierścienie dymu z komina |
 | [[muzeum-narodowe-poznan\|Muzeum Narodowe w Poznaniu]] | building | Poznań; modernist extension 1966–2001; Silvestrin bronze tube proposal (unrealised, 2005) | Poznań; modernistyczne skrzydło 1966–2001; niezrealizowana tuba Silvestrina (2005) |
+| [[krzysztof-jaraczewski\|Krzysztof Jaraczewski]] | person | Polish architect; author of "Dookoła, czyli typ i miasto"; London-trained; typology theorist | Polski architekt; autor "Dookoła, czyli typ i miasto"; wykształcony w Londynie; teoretyk typologii |
+| [[grzegorz-rytel\|Grzegorz Rytel]] | person | Polish architect; Warsaw Faculty of Architecture; invited Jaraczewski to lecture on typology | Polski architekt; Wydział Architektury PW; zaprosił Jaraczewskiego do wykładów o typologii |
+| [[umberto-eco\|Umberto Eco]] | person | Italian semiotician and novelist; *Szaleństwo katalogowania*; theory of signs and classification | Włoski semiotyk i powieściopisarz; *Szaleństwo katalogowania*; teoria znaków i klasyfikacji |
+| [[grant-hildebrand\|Grant Hildebrand]] | person | American architectural theorist; *Origins of Architectural Pleasure*; prospect and refuge theory | Amerykański teoretyk architektury; *Źródła przyjemności architektonicznej*; teoria prospect & refuge |
+| [[marc-antoine-laugier\|Marc-Antoine Laugier]] | person | French theorist; *Essai sur l'Architecture* (1753); primitive hut as origin of all architectural form | Francuski teoretyk; *Essai sur l'Architecture* (1753); prymitywna chata jako źródło architektury |
+| [[le-corbusier\|Le Corbusier]] | person | Swiss-French modernist; Villa Savoye, Unité d'Habitation; function-first typology | Szwajcarsko-francuski modernista; Villa Savoye, Unité d'Habitation; typologia przez funkcję |
+| [[aldo-rossi\|Aldo Rossi]] | person | Italian architect-theorist (1931–1997); *L'Architettura della città*; urban morphology; collective memory | Włoski architekt-teoretyk (1931–1997); *L'Architettura della città*; morfologia miejska; pamięć zbiorowa |
+| [[alvaro-siza\|Álvaro Siza]] | person | Portuguese architect (b. 1936); Quinta da Malagueira; context-sensitive urban integration | Portugalski architekt (ur. 1936); Quinta da Malagueira; wrażliwa integracja z kontekstem miejskim |
+| [[piotr-uscinski\|Piotr Uściński]] | person | Polish politician; Secretary of State MRiT; architect of 2022 spatial planning reform | Polski polityk; Sekretarz Stanu MRiT; autor reformy planowania przestrzennego 2022 |
+| [[tadeusz-tolwinski\|Tadeusz Tołwiński]] | person | Polish architect-urbanist (1887–1951); Ząbki garden city; *Urbanistyka* textbook | Polski architekt-urbanista (1887–1951); miasto-ogród Ząbki; podręcznik *Urbanistyka* |
+| [[romea-muryn\|Romea Muryń]] | person | Polish architect-researcher; land commodification, rural planning; "Modele zawłaszczania ziemi" (2022) | Polska architektka-badaczka; utowarowienie ziemi, planowanie wiejskie; "Modele zawłaszczania ziemi" (2022) |
+| [[saskia-sassen\|Saskia Sassen]] | person | Dutch-American sociologist; *Expulsions* (2014); global city; land commodification and state sovereignty | Holendersko-amerykańska socjolożka; *Expulsions* (2014); globalne miasto; utowarowienie ziemi |
+| [[joanna-kusiak\|Joanna Kusiak]] | person | Polish sociologist, Cambridge; *Chaos Warszawa*; DWE activist-researcher; "radical legality" | Polska socjolożka, Cambridge; *Chaos Warszawa*; aktywistka-badaczka DWE; "radykalna praworządność" |
+| [[deutsche-wohnen-und-co-enteignen\|Deutsche Wohnen und Co enteignen]] | organization | Berlin citizen initiative (2018–); Vergesellschaftung under Art. 15 GG; Sept. 2021 referendum majority | Berlińska inicjatywa obywatelska (2018–); Vergesellschaftung z art. 15 GG; referendum wrzesień 2021 |
 
 ---
 
@@ -88,6 +107,26 @@ _Last updated: 2026-04-11 — 9 sources ingested_
 | [[bilbao-effect\|Bilbao Effect]] | urbanism, cultural economics | Belief that one iconic building transforms a city; Guggenheim Bilbao as origin; proved unrepeatable | Przekonanie, że jeden ikoniczny budynek odmienia miasto; Guggenheim Bilbao jako źródło; okazał się niestosowalny |
 | [[bigness\|Bigness]] | theory, urbanism | Koolhaas 1995; buildings beyond scale of context; "fuck the context"; junk space as critique | Koolhaas 1995; budynki ponad skalę kontekstu; „fuck the context"; junk space jako krytyka |
 | [[deconstructivism\|Deconstructivism]] | theory, architecture | Late 1980s–90s; Derrida + Eisenman/Tschumi dialogue; MoMA 1988 exhibition; Gehry/Hadid/Libeskind | Późne lata 80.–90.; dialog Derrida + Eisenman/Tschumi; wystawa MoMA 1988; Gehry/Hadid/Libeskind |
+| [[typology\|Typology]] | architecture, theory | Classification of buildings/spaces by shared form; Laugier → Rossi → contemporary urban morphology | Klasyfikacja budynków/przestrzeni wg wspólnej formy; Laugier → Rossi → morfologia miejska |
+| [[city\|City]] | urbanism, theory | The city as overarching narrative "umbrella" giving meaning to individual buildings; Jaraczewski's core argument | Miasto jako nadrzędna narracja nadająca znaczenie budynkom; główna teza Jaraczewskiego |
+| [[modernism\|Modernism]] | architecture, history | Early 20th century; function-first; Le Corbusier; typology reduced to building use | Pocz. XX w.; funkcja pierwsza; Le Corbusier; typologia zredukowana do przeznaczenia |
+| [[postmodernism\|Postmodernism]] | architecture, theory | Reaction to Modernism; historical reference, ornament, context; return of typology as meaningful | Reakcja na modernizm; historyzm, ornament, kontekst; powrót typologii jako znaczącej |
+| [[storytelling\|Storytelling]] | theory, culture | Narrative structure underpinning film, cities, and human culture; Hollywood's structural "umbrella" | Struktura narracyjna leżąca u podstaw kina, miast i kultury; strukturalny "parasol" Hollywood |
+| [[classification\|Classification]] | theory, cognition | Human capacity to group and name; basis of language, science, and architectural typology | Ludzka zdolność grupowania i nazywania; podstawa języka, nauki i typologii |
+| [[genre\|Genre]] | theory, aesthetics | Blondel's *genre* as precursor to "type" in architecture; film genre as analogical model | *Genre* Blondela jako poprzednik "typu"; gatunek filmowy jako model analogiczny |
+| [[language\|Language]] | theory, semiotics | Partially universal, partially convention-bound; analogy for architecture's type system | Częściowo uniwersalny, częściowo konwencjonalny; analogia dla systemu typów w architekturze |
+| [[urbanism\|Urbanism]] | urbanism, theory | Design and planning of cities; in Jaraczewski: engineers/specialists should think "city-first" | Projektowanie i planowanie miast; u Jaraczewskiego: specjaliści powinni myśleć "miasto-first" |
+| [[narrative\|Narrative]] | theory, culture | Organising structure of stories and, by analogy, cities; the "umbrella" that frames components | Struktura organizująca opowieści i analogicznie miast; "parasol" nadający sens komponentom |
+| [[spatial-planning-poland\|Spatial Planning (Poland)]] | urbanism, law | Polish planning system; 2003 Act crisis; WZ instrument; 2022 reform; plan ogólny by 2026 | Polski system planowania; kryzys ustawy z 2003; WZ-tka; reforma 2022; plan ogólny do 2026 |
+| [[warunki-zabudowy\|Warunki Zabudowy]] | urbanism, law | Polish building conditions decision; planning bypass; hated by planners, loved by developers | Polska WZ-tka; obejście planistyczne; znienawidzona przez planistów, uwielbiana przez deweloperów |
+| [[urban-sprawl\|Urban Sprawl]] | urbanism, environment | Low-density periurban expansion; 84.3 bn PLN/year cost (PAN); Poland's post-2003 condition | Niskogęstościowa ekspansja podmiejska; koszt 84,3 mld zł/rok (PAN); efekt luki planistycznej |
+| [[land-commodification\|Land Commodification]] | economics, urbanism, politics | Transformation of land into a financial asset; Poland: 91.4% private ownership (2016); foreign capital 73% of purchases | Przekształcenie ziemi w aktyw finansowy; Polska: 91,4% własności prywatnej (2016); 73% zagranicznych zakupów |
+| [[pgr-state-farms\|PGR (State Agricultural Farms)]] | history, agriculture, Poland | Communist-era state farms 1947–1991; peak avg. 3,703 ha; post-1989 selloff → foreign land capture legacy | PGR-y PRL 1947–1991; szczyt śr. 3703 ha; prywatyzacja po 1989 → dziedzictwo przejęć zagranicznych |
+| [[rural-spatial-planning\|Rural Spatial Planning]] | urbanism, law, agriculture | Planning of rural/rural-urban municipalities; lowest local plan coverage in Poland; post-PGR spatial disorder | Planowanie gmin wiejskich; najniższe pokrycie planami w Polsce; nieład przestrzenny po PGR-ach |
+| [[financialization-of-housing\|Financialization of Housing]] | economics, urbanism, politics | Housing as financial asset; corporate landlords; shareholder primacy; rent extraction via tax havens | Mieszkania jako aktywa finansowe; korporacyjni landlordzi; prymat akcjonariuszy; ekstrakcja czynszów przez raje podatkowe |
+| [[socialization-vergesellschaftung\|Socialization (Vergesellschaftung)]] | law, urbanism, politics | Art. 15 German Basic Law; never invoked; sector-wide transfer; democratic management; DWE's legal mechanism | Art. 15 Ustawy Zasadniczej; nieużyty; sektorowe przejęcie; zarządzanie demokratyczne; mechanizm prawny DWE |
+| [[housing-crisis\|Housing Crisis]] | urbanism, economics, politics | Structural unaffordability caused by financialization; Berlin: +44% rent 2015–2020; 85% renters | Strukturalna niedostępność mieszkań; Berlin: +44% czynsze 2015–2020; 85% wynajmujących |
+| [[vienna-housing-model\|Vienna Housing Model]] | urbanism, housing, politics | Public land retention → political leverage → structural affordability; 60% subsidized housing; Gemeindebauten | Zachowanie publicznej ziemi → dźwignia polityczna → strukturalna dostępność; 60% subsydiowanych; Gemeindebauten |
 
 ---
 

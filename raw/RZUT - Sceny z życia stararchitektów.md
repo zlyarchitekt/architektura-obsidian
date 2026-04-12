@@ -1,13 +1,14 @@
 ---
-title: "Sceny z życia stararchitektów"
-source: "https://www.kwartalnikrzut.pl/sceny-z-zycia-stararchitektow/?v=288404204e3d"
+title: Sceny z życia stararchitektów
+source: https://www.kwartalnikrzut.pl/sceny-z-zycia-stararchitektow/?v=288404204e3d
 author:
   - "[[Katarzyna Kapusta]]"
+  - "[[Kwartalnik RZUT]]"
 published: 2024-11-18
 created: 2026-04-11
-description: "Tych, którzy stają po stronie postępu, spotyka chwała – nawet jeśli jest ona pośmiertna i okupiona finansową klęską. Każdy prawdziwy innowator ma przecież na względzie coś znacznie bardziej wzniosłego niż doraźny zysk – chce uczynić świat lepszym i do tego przez całe swoje życie dąży."
+description: Tych, którzy stają po stronie postępu, spotyka chwała – nawet jeśli jest ona pośmiertna i okupiona finansową klęską. Każdy prawdziwy innowator ma przecież na względzie coś znacznie bardziej wzniosłego niż doraźny zysk – chce uczynić świat lepszym i do tego przez całe swoje życie dąży.
 tags:
-  - "clippings"
+  - clippings
 ---
 Można powiedzieć, że kult stararchitektów, który rozkwitł w czasach szalonej giełdowej prosperity lat 90. i pierwszych lat XXI wieku, przepowiedziała Ayn Rand. Kontrowersyjna muza neoliberalizmu, znana z przekonania, że egoizm jest cnotą, bohaterem jednej ze swoich najpoczytniejszych książek – *The* *Fountainhead* (1943) [<sup>1</sup>](#easy-footnote-bottom-1-7917) – uczyniła właśnie architekta, fikcyjnego pioniera funkcjonalizmu, Howarda Roarka (inspirację luźno zaczerpnęła z sylwetki Franka Lloyda Wrighta). Dziwny to wzór dla przedsiębiorcy: Roark ze wzgardą odprawia potencjalnych klientów, jeśli tylko ośmielą się poprosić go o stylistyczny kompromis, za nic ma siły podaży i popytu, które każą mu szukać dopasowania do kaprysów rynku. Latami tkwi w biedzie, a w kulminacyjnym momencie powieści posuwa się do terroru, by zemścić się za nieautoryzowane interwencje w jego projekt. Wierność niedościgłemu ideałowi czystej, funkcjonalistycznej architektury nie przynosi bohaterowi nadzwyczajnych finansowych korzyści. A jednak przecież historia opowie się po jego stronie! Stąd wniosek, że ludzkość idealistów pokroju Howarda Roarka potrzebuje – nieważne, czy jest już świadoma, czy też jeszcze nie.
 

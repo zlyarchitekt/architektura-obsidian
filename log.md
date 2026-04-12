@@ -5,6 +5,49 @@ Parse tip: `grep "^## \[" log.md | tail -10`
 
 ---
 
+## [2026-04-12] ingest | Ustanowiony chaos — Zofia Piotrowska / Piotr Uściński / Kwartalnik RZUT
+
+- **Action**: Ingested `raw/RZUT - Ustanowiony chaos, czyli planowanie przestrzenne w potransformacyjnej Polsce.md` — interview conducted by Zofia Piotrowska with Piotr Uściński, Secretary of State at the Polish Ministry of Development and Technology, published 2022-09-18 on kwartalnikrzut.pl. Polish language. First source in the wiki dealing with planning law, policy, and Polish urban governance (as opposed to architectural theory or individual buildings).
+- **Pages created**:
+  - `wiki/sources/rzut-ustanowiony-chaos.md`
+  - `wiki/entities/piotr-uscinski.md`
+  - `wiki/entities/tadeusz-tolwinski.md` (stub — mentioned as designer of Ząbki garden city)
+  - `wiki/concepts/spatial-planning-poland.md`
+  - `wiki/concepts/warunki-zabudowy.md`
+  - `wiki/concepts/urban-sprawl.md`
+- **Pages updated**: `wiki/concepts/urbanism.md` (source_count 1→2; second source adds legal/political dimension), `index.md` (11 sources; 2 new entities; 3 new concepts)
+- **Notes**: Source is an insider policy interview — Uściński as both politician and practising local government official (former starost). Central diagnosis: the 2003 Act created a structural lose-lose: old plans invalidated, WZ filled the gap, chaos became entrenched across 19 years and multiple governments. Key mechanism documented: WZ is an administrative decision (not local law), therefore challengeable in court — municipalities have no effective planning veto over areas without an mpzp. The 84.3 billion PLN/year PAN figure is the most concrete quantification of spatial chaos in the wiki. Internal contradiction flagged: Uściński cites the PAN cost of dispersed settlement, then defends single-family suburban housing as a legitimate free choice — the two positions are in tension. Major gap in reform: metropolitan area governance is entirely absent. Political context: interview conducted under PiS-coalition government (2022); post-October 2023 elections, the reform's fate is an open question. Ząbki (Tołwiński) established as the wiki's reference point for Polish *ład przestrzenny*. Tołwiński stub created — potential future ingest of his *Urbanistyka* textbook.
+
+---
+
+## [2026-04-12] ingest | Dookoła, czyli typ i miasto — Krzysztof Jaraczewski / Kwartalnik RZUT no. 39
+
+- **Action**: Completed ingest of `raw/RZUT - Dookoła, czyli typ i miasto.md` — lecture-essay by Krzysztof Jaraczewski on architectural typology, published in Kwartalnik RZUT no. 39 (*Typologie*). Polish language. Argues that the City is the proper "umbrella" concept for architecture, analogous to narrative in cinema and language in semiotics. Source pages and entity/concept stubs were created in a prior interrupted session; this session corrected errors, added Quotes, and completed index.md + log.md.
+- **Pages created**:
+  - `wiki/sources/rzut-dookola-czyli-typ-i-miasto.md` (corrected: author, date, Quotes added)
+  - `wiki/entities/krzysztof-jaraczewski.md`
+  - `wiki/entities/grzegorz-rytel.md`
+  - `wiki/entities/umberto-eco.md` (corrected: book title *Szaleństwo katalogowania* = The Infinity of Lists)
+  - `wiki/entities/grant-hildebrand.md`
+  - `wiki/entities/marc-antoine-laugier.md`
+  - `wiki/entities/le-corbusier.md`
+  - `wiki/entities/aldo-rossi.md` (corrected: born 1931 not 1912; Key Works corrected)
+  - `wiki/entities/alvaro-siza.md`
+  - `wiki/concepts/typology.md`
+  - `wiki/concepts/city.md`
+  - `wiki/concepts/modernism.md`
+  - `wiki/concepts/postmodernism.md`
+  - `wiki/concepts/storytelling.md`
+  - `wiki/concepts/classification.md`
+  - `wiki/concepts/genre.md`
+  - `wiki/concepts/language.md`
+  - `wiki/concepts/urbanism.md`
+  - `wiki/concepts/narrative.md`
+- **Pages updated**: `index.md` (10 sources; 9 new entities; 9 new concepts)
+- **Notes**: Central argument — Jaraczewski draws a three-level analogy: (1) language/words : type/architecture :: local convention : universal category; (2) film genre : narrative :: architectural type : city; (3) the City as the "umbrella" that gives buildings meaning, just as storytelling gives cinema meaning. Three Vidler typologies traced: Laugier's primitive hut → Le Corbusier's production-based type → post-industrial traditional city (Rossi, Siza, Krier brothers). Key practical implication: specialists (engineers, ecologists, economists) must think "city-first", not system-by-system, because the city is always the end-product. Source is theoretical/essayistic — an architect (Jaraczewski, London-trained, end of 1970s) reflecting 50 years later on typology. Quinta da Malagueira (Siza, Évora 1977) cited as model case but not fully discussed in this text. Open question: Jaraczewski's own built work not mentioned anywhere in the source.
+
+---
+
 ## [2026-04-11] ingest | Sceny z życia stararchitektów — Katarzyna Kapusta / Kwartalnik RZUT
 
 - **Action**: Ingested `raw/RZUT - Sceny z życia stararchitektów.md` — critical cultural essay, RZUT quarterly no. 27 (theme: RYNEK), published 2024-11-18. Polish language. First critical/analytical source in the wiki (all previous sources were promotional or encyclopaedic).
@@ -158,3 +201,44 @@ Parse tip: `grep "^## \[" log.md | tail -10`
 - **Pages created**: CLAUDE.md, index.md, log.md
 - **Pages updated**: _(none)_
 - **Notes**: Fresh vault. Domain: Architecture — buildings, architects, firms, movements, theory, materials, urbanism. Ready for first ingest.
+
+---
+
+## [2026-04-12] ingest | Modele zawłaszczania ziemi — Kwartalnik RZUT
+
+- **Action**: Ingested `raw/RZUT - Modele zawłaszczania ziemi.md` — Romea Muryń's analysis of Polish agricultural land transformation across three phases: PRL nationalization/PGR system, post-1989 privatization selloff, and current foreign capital consolidation; with comparative spatial analysis of three village typologies and a proposal for a new agrarian reform based on state buyback and a lease model.
+- **Pages created**:
+  - `wiki/sources/rzut-modele-zawlaszczania-ziemi.md`
+  - `wiki/entities/romea-muryn.md`
+  - `wiki/entities/saskia-sassen.md`
+  - `wiki/concepts/land-commodification.md`
+  - `wiki/concepts/pgr-state-farms.md`
+  - `wiki/concepts/rural-spatial-planning.md`
+- **Pages updated**: `wiki/concepts/spatial-planning-poland.md` (added rural planning dimension; linked to new source and three new concepts), `index.md`
+- **Notes**: Key facts: 91.4% of Polish agricultural land is privately owned (2016), state retains only 8.6%; foreign capital (Dutch 35% + German 38% = 73% of foreign-purchased land) concentrated in former PGR regions (Zachodniopomorskie 32%, Warmińsko-Mazurskie 19%). The 2016 land trade act only covers the remaining 8.6% state land — the bulk is beyond legal reach. Three village typologies: small-scale individual farms (Osnowo/Brzozowo), balanced medium-scale (Michałówek), large-scale post-PGR foreign capture (Bieganów). Proposed reform: lease model separating use rights from ownership to eliminate speculation. Key contradiction: the proposal risks PRL-nationalization comparisons; Muryń's counter-argument is decentralization + use-rights rather than ownership. Saskia Sassen's *Expulsions* (2014) is the theoretical anchor — she is a new entity in the wiki. This source fills a rural/agricultural blind spot in the wiki's current urban-focused spatial planning coverage.
+
+---
+
+## [2026-04-12] ingest | Uspołeczniamy Berlin — Kwartalnik RZUT
+
+- **Action**: Ingested `raw/RZUT - Uspołeczniamy Berlin.md` — interview by Marcin Szczodry with Dr. Joanna Kusiak (Cambridge sociologist, DWE activist-researcher) about the Deutsche Wohnen und Co enteignen initiative in Berlin: its legal mechanics, political trajectory, structural diagnosis of the housing crisis, the Vienna model as counterexample, and the timeline through autumn 2022.
+- **Pages created**:
+  - `wiki/sources/rzut-uspoleczniamy-berlin.md`
+  - `wiki/entities/joanna-kusiak.md`
+  - `wiki/entities/deutsche-wohnen-und-co-enteignen.md`
+  - `wiki/concepts/financialization-of-housing.md`
+  - `wiki/concepts/socialization-vergesellschaftung.md`
+  - `wiki/concepts/housing-crisis.md`
+  - `wiki/concepts/vienna-housing-model.md`
+- **Pages updated**: `wiki/concepts/land-commodification.md` (added Berlin housing financialization as a parallel case to Polish agricultural land; DWE and Vienna model linked; See Also expanded), `index.md`
+- **Notes**: The central conceptual contribution is the *Enteignung* vs. *Vergesellschaftung* distinction (Art. 14 vs. Art. 15 GG) — a legal category that has never been tested in the Federal Republic. The housing crisis is diagnosed not as a supply problem but as a structural consequence of financialization: corporate landlords whose primary obligation runs to shareholders, routing rents through tax havens. Vienna model expanded substantially per user request — developed as a standalone concept page with the *Rotes Wien* historical foundation (Karl-Marx-Hof, Gemeindebauten), the structural mechanism (land leases to non-profit developers), the "double face" paradox (imperial aesthetic + radical social experiments), and the Vienna vs. Berlin comparison table. The Vienna model's key principle — "land ownership is the real possibility of practising politics" (Kusiak) — is the generalized lesson that bridges this source to the existing [[Land Commodification]] concept and [[Romea Muryń]]'s lease model for post-PGR agricultural land. Joanna Kusiak is a new entity whose work bridges Berlin housing activism and Warsaw reprywatyzacja — her *Chaos Warszawa* dissertation is flagged as a future ingest candidate. The compensation bonds proposal (40-year self-liquidating bonds from rental income) is a novel financial mechanism in the wiki. Andrej Holm (Berlin housing researcher) is cited by name but not given a full entity page — flagged as a future addition if further sources cite him.
+
+---
+
+## [2026-04-12] ingest | Le Corbusier — Wikipedia
+
+- **Action**: Ingested `raw/Le Corbusier - wiki.md` — comprehensive Wikipedia biography of Le Corbusier covering full life (1887–1965), architectural formation, key theoretical positions, built works, controversies, and critical legacy.
+- **Pages created**:
+  - `wiki/sources/le-corbusier-wikipedia.md`
+- **Pages updated**: `wiki/entities/le-corbusier.md` (source_count 1→2; Key Works expanded with Dom-Ino, Plan Voisin, La Ville Radieuse; Ideas & Influences rewritten with Purism/Ozenfant, L'Esprit Nouveau, Dom-Ino structural logic, promenade architecturale, Modulor, CIAM, Athens Charter, Perret/Behrens training; Contradictions expanded with specific fascist journals named, Le Faisceau connections, Vichy eugenics committee, verbatim antisemitic letter Oct 1940, Jane Jacobs and Rybczynski critiques; possible RIBA Gold Medal error flagged), `index.md`
+- **Notes**: Wikipedia is the most complete single source on Le Corbusier in the wiki. Key additions beyond the prior Dookoła ingest: Dom-Ino House as precursor to Five Points; CIAM (1928) and Athens Charter (1943) as the transmission vector from LC's urbanism to postwar housing policy; Modulor system; promenade architecturale; full controversy record (much more specific than previously — journals named, Le Faisceau, Vichy eugenics committee via Alexis Carrel, verbatim 1940 antisemitic letter). Jane Jacobs flagged as major critical voice — her book warrants a future ingest. Possible error: current entity page listed RIBA Gold Medal 1953, not confirmed by Wikipedia source which only lists AIA Gold Medal 1961. No new entity or concept pages created (all existing concepts sufficient); entity page now at depth appropriate for a major architect.
