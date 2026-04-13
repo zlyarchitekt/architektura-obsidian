@@ -6,7 +6,7 @@ aliases: ["Frank Gehry", "Frank O. Gehry", "Frank Owen Gehry"]
 born: 1929
 nationality: Canadian-American
 tags: [architecture, starchitecture, bilbao, titanium, catia, deconstructivism, pritzker]
-source_count: 1
+source_count: 2
 ---
 
 ## Overview
@@ -43,9 +43,12 @@ The "Bilbao effect" generated a paradox: clients began commissioning "a Frank Ge
 
 ## In the Sources
 
+- [[pritzker-architecture-prize-wiki]]: Documents his 1989 Pritzker Prize win.
 - [[rzut-sceny-stararchitekci]]: Kapusta frames Gehry as the starchitect who "felt the material under his fingers" rather than theorised. Philip Johnson's "greatest living architect" quote; titanium as market accident; CATIA from aerospace; the 2005 complaint about being asked for "a Gehry building." Note: Pritzker won in 1989, eight years before Bilbao — Kapusta's source via Leslie Sklair.
 
-**PL:** [[rzut-sceny-stararchitekci]]: Kapusta przedstawia Gehry'ego jako stararchitekta, który „czuł materiał pod palcami" zamiast teoretyzować. Cytat Johnsona; tytan jako przypadek rynkowy; CATIA z lotnictwa; narzekanie w 2005 na zamawianie „budynku Gehry'ego." Pritzker 1989 — osiem lat przed Bilbao.
+**PL:** 
+- [[pritzker-architecture-prize-wiki]]: Dokumentuje jego wygraną w 1989 roku.
+- [[rzut-sceny-stararchitekci]]: Kapusta przedstawia Gehry'ego jako stararchitekta, który „czuł materiał pod palcami" zamiast teoretyzować. Cytat Johnsona; tytan jako przypadek rynkowy; CATIA z lotnictwa; narzekanie w 2005 na zamawianie „budynku Gehry'ego." Pritzker 1989 — osiem lat przed Bilbao.
 
 ## Contradictions / Open Questions
 

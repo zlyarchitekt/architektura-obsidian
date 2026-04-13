@@ -7,7 +7,7 @@ born: 1917
 died: 2019
 nationality: Chinese-American
 tags: [architecture, modernism, pritzker, louvre, grands-projets, geometric-modernism]
-source_count: 1
+source_count: 2
 ---
 
 ## Overview
@@ -40,9 +40,12 @@ His architecture straddles modernism and cultural representation: the Bank of Ch
 
 ## In the Sources
 
+- [[pritzker-architecture-prize-wiki]]: Documents his 1983 Pritzker Prize win.
 - [[rzut-sceny-stararchitekci]]: Kapusta's Pei section documents the Louvre commission and controversy in detail: Mitterrand's Grands Projets program (1981); Pei commissioned 1983 without competition; public outcry 1984 ("Mitterramses" — the leftist statist Mitterrand building megalomaniacal monuments at French expense); 1:1 cable-and-steel-framework mockup to demonstrate the pyramid wouldn't dominate the courtyard; Ministry of Finance reluctance to vacate a Louvre wing; presidential intervention to source ultra-clear (not greenish) glass; triumphant opening 1989 with unanimous acclaim. Central question raised: who was the protagonist of the Battle of the Pyramid — Pei or Mitterrand?
 
-**PL:** [[rzut-sceny-stararchitekci]]: Kapusta dokumentuje zlecenie i kontrowersje Luwru: Grands Projets Mitterranda (1981); Pei powołany bez konkursu 1983; oburzenie publiczne 1984 („Mitterramzès"); makieta 1:1 z kabli; opór Ministerstwa Finansów; prezydencka interwencja w dostawy szkła; triumfalne otwarcie 1989.
+**PL:** 
+- [[pritzker-architecture-prize-wiki]]: Dokumentuje jego nagrodę w 1983 r.
+- [[rzut-sceny-stararchitekci]]: Kapusta dokumentuje zlecenie i kontrowersje Luwru: Grands Projets Mitterranda (1981); Pei powołany bez konkursu 1983; oburzenie publiczne 1984 („Mitterramzès"); makieta 1:1 z kabli; opór Ministerstwa Finansów; prezydencka interwencja w dostawy szkła; triumfalne otwarcie 1989.
 
 ## Contradictions / Open Questions
 

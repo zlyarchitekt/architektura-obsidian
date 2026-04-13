@@ -9,9 +9,9 @@ aliases: ["Spatial Planning (Poland)", "planowanie przestrzenne Polska", "planow
 
 ## Definition
 
-The Polish system of spatial planning governs land use and built development at municipal, regional, and national levels. Its key instruments at the municipal level are: *miejscowy plan zagospodarowania przestrzennego* (mpzp, local spatial development plan), *studium uwarunkowań i kierunków zagospodarowania przestrzennego* (study of conditions and directions), and *warunki zabudowy* (WZ, building conditions decision). Since 2003 the system has been structurally dysfunctional, producing what critics call *ustanowiony chaos* — "established chaos."
+The Polish system of spatial planning governs land use and built development at municipal, regional, and national levels. Its key instruments at the municipal level are: *miejscowy plan zagospodarowania przestrzennego* ([[MPZP]]), *studium uwarunkowań i kierunków zagospodarowania przestrzennego* ([[SUiKZP]]), and *warunki zabudowy* ([[Warunki Zabudowy]]). Since 2003 the system has been structurally dysfunctional, producing what critics call *ustanowiony chaos* — "established chaos." It suffers from severe institutional power imbalances, primarily between hyper-strong mayors (wójt/prezydent) and weakened municipal councils.
 
-**PL:** Polski system planowania przestrzennego reguluje użytkowanie gruntów i zabudowę na poziomie gminnym, regionalnym i krajowym. Jego kluczowymi instrumentami na poziomie gminy są: mpzp, studium uwarunkowań i kierunków zagospodarowania przestrzennego oraz WZ. Od 2003 roku system jest strukturalnie dysfunkcyjny, produkując to, co krytycy nazywają „ustanowionym chaosem".
+**PL:** Polski system planowania przestrzennego reguluje użytkowanie gruntów i zabudowę na poziomie gminnym, regionalnym i krajowym. Jego kluczowymi instrumentami na poziomie gminy są: mpzp, studium uwarunkowań i kierunków zagospodarowania przestrzennego oraz WZ. Od 2003 roku system jest dysfunkcyjny, cierpiąc na zaburzenia równowagi władzy między silnymi prezydentami/wójtami a osłabionymi radami gmin.
 
 ## Historical Context
 
@@ -41,6 +41,7 @@ The 2022 reform is widely seen as incomplete: it omits metropolitan area governa
 
 - [[Ustanowiony chaos, czyli planowanie przestrzenne w potransformacyjnej Polsce]] — primary source; detailed interview covering the 2003 Act's failure, the WZ instrument's pathologies, and the design of the 2022 reform.
 - [[Modele zawłaszczania ziemi]] — addresses the rural planning dimension: lowest local plan coverage in purely agricultural communes, failure to integrate land ownership reform with spatial planning, three village typologies illustrating how ownership structure determines spatial form.
+- [[rzut-nielad-w-prawie]] — highlights the institutional dysfunction, weak public participation, political obstruction by Voivodes and Conservators (WKZ), and the deregulation/incapacitation of the urbanist profession.
 
 ## See Also
 

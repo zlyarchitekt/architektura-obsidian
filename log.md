@@ -296,3 +296,124 @@ Parse tip: `grep "^## \[" log.md | tail -10`
   - `wiki/sources/le-corbusier-wikipedia.md`
 - **Pages updated**: `wiki/entities/le-corbusier.md` (source_count 1→2; Key Works expanded with Dom-Ino, Plan Voisin, La Ville Radieuse; Ideas & Influences rewritten with Purism/Ozenfant, L'Esprit Nouveau, Dom-Ino structural logic, promenade architecturale, Modulor, CIAM, Athens Charter, Perret/Behrens training; Contradictions expanded with specific fascist journals named, Le Faisceau connections, Vichy eugenics committee, verbatim antisemitic letter Oct 1940, Jane Jacobs and Rybczynski critiques; possible RIBA Gold Medal error flagged), `index.md`
 - **Notes**: Wikipedia is the most complete single source on Le Corbusier in the wiki. Key additions beyond the prior Dookoła ingest: Dom-Ino House as precursor to Five Points; CIAM (1928) and Athens Charter (1943) as the transmission vector from LC's urbanism to postwar housing policy; Modulor system; promenade architecturale; full controversy record (much more specific than previously — journals named, Le Faisceau, Vichy eugenics committee via Alexis Carrel, verbatim 1940 antisemitic letter). Jane Jacobs flagged as major critical voice — her book warrants a future ingest. Possible error: current entity page listed RIBA Gold Medal 1953, not confirmed by Wikipedia source which only lists AIA Gold Medal 1961. No new entity or concept pages created (all existing concepts sufficient); entity page now at depth appropriate for a major architect.
+
+---
+
+## [2026-04-13] ingest | Ścieżki londyńskich lisów — Dominika Trybe / Kwartalnik RZUT
+
+- **Action**: Ingested `raw/RZUT - Ścieżki londyńskich lisów.md` — an essay by Dominika Trybe from Kwartalnik RZUT exploring urban nature, London's urban foxes, and the shifting role of landscape design toward regenerative urbanism. 
+- **Pages created**: 
+  - `wiki/sources/rzut-sciezki-londynskich-lisow.md`
+  - `wiki/entities/dominika-trybe.md`
+  - `wiki/entities/gilles-clement.md`
+  - `wiki/entities/daniel-raven-ellison.md`
+  - `wiki/entities/periscope.md`
+  - `wiki/entities/camden-high-line.md`
+  - `wiki/entities/queen-elizabeth-olympic-park.md`
+  - `wiki/concepts/third-landscape.md`
+  - `wiki/concepts/national-park-city.md`
+  - `wiki/concepts/naturocene.md`
+- **Pages updated**: `index.md` (21 sources; 6 new entities; 3 new concepts)
+- **Notes**: Source frames the city as a shared ecosystem (human and non-human stakeholders). Key theoretical addition connects Gilles Clément's "Third Landscape" (untamed urban margins as biodiversity reservoirs) with Periscope's speculative "Naturocene" era (mutually supportive urbanization and nature). London is cited as a literal forest (21% tree cover) and the first National Park City. Note on an empty identical file (`raw/Thomas Heatherwick, Iwan Baan.md`) removed from the vault earlier in this session as a duplicate of Coal Drops Yard.
+
+---
+
+## [2026-04-13] ingest | Gra w dwa ognie — Mikołaj Smoleński / Kwartalnik RZUT
+
+- **Action**: Ingested `raw/RZUT - Gra w dwa ognie.md` — an essay by Mikołaj Smoleński critiquing the over-regulation of contemporary playgrounds and proposing design strategies to circumvent them.
+- **Pages created**:
+  - `wiki/sources/rzut-gra-w-dwa-ognie.md`
+  - `wiki/entities/mikolaj-smolenski.md`
+  - `wiki/entities/aldo-van-eyck.md`
+  - `wiki/entities/maja-brzozowska-brywczynska.md`
+  - `wiki/entities/pracownia-k.md`
+  - `wiki/entities/mirko-zardini.md`
+  - `wiki/entities/ch-plus-architekci.md`
+  - `wiki/entities/pieter-bruegel.md`
+  - `wiki/concepts/non-playground.md`
+  - `wiki/concepts/risk-in-play.md`
+  - `wiki/concepts/guantanamo-gardens.md`
+  - `wiki/concepts/4s-formula.md`
+- **Pages updated**: `index.md` (22 sources; 7 new entities; 4 new concepts)
+- **Notes**: Identifies the tension between safety regulations and creative play. Highlights concepts like "Guantanamo Gardens" (fenced micro-playgrounds) and the "4S Formula". Explores strategies such as "non-playgrounds" (art installations disguised as play areas) and using architectural surfaces (asphalt) to encourage spontaneous play. Pieter Bruegel added as a historical reference point for unstructured play.
+
+---
+
+## [2026-04-13] ingest | BAL zaprasza do tańca ARCHITEKTONICZKI — Kwartalnik RZUT
+
+- **Action**: Ingested `raw/RZUT - BAL zaprasza do tańca ARCHITEKTONICZKI.md` — dialogue between BAL architektek and Architektoniczki about equitable design, women in the profession, and the legacy of Iwona Buczkowska.
+- **Pages created**:
+  - `wiki/sources/rzut-bal-architektoniczki.md`
+  - `wiki/entities/bal-architektek.md`
+  - `wiki/entities/architektoniczki.md`
+  - `wiki/entities/iwona-buczkowska.md`
+  - `wiki/entities/le-blanc-mesnil.md`
+  - `wiki/entities/frauen-werk-stadt.md`
+  - `wiki/concepts/equitable-design.md`
+  - `wiki/concepts/football-centrism.md`
+  - `wiki/concepts/emotional-procrastination.md`
+  - `wiki/concepts/power-of-10-plus.md`
+- **Pages updated**: `index.md` (23 sources; 5 new entities; 4 new concepts)
+- **Notes**: Documents architectural practice through a feminist lens. Uncovers Iwona Buczkowska's Le Blanc-Mesnil timber estate as a hidden female-authored masterpiece. Differentiates "Feminist Architecture" from more palatable industry terms like "Equitable Design." Identifies "Football-centrism" as a primary spatial mechanism enforcing patriarchal hierarchy in schools. Also touches on "emotional procrastination" hindering female architects' visibility.
+
+---
+
+## [2026-04-13] ingest | Nieład w prawie — Grzegorz A. Buczek / Kwartalnik RZUT
+
+- **Action**: Ingested `raw/RZUT - Nieład w prawie.md` — interview with Grzegorz A. Buczek about the systemic dysfunction of Poland's spatial planning laws, the power imbalance in local government, and the legal paradoxes of *Warunki Zabudowy*.
+- **Pages created**:
+  - `wiki/sources/rzut-nielad-w-prawie.md`
+  - `wiki/entities/grzegorz-a-buczek.md`
+  - `wiki/entities/jerzy-regulski.md`
+  - `wiki/concepts/lad-przestrzenny.md`
+  - `wiki/concepts/mpzp.md`
+  - `wiki/concepts/suikzp.md`
+- **Pages updated**:
+  - `wiki/concepts/warunki-zabudowy.md` (added Buczek's argument that WZ should legally comply with the Studium based on the Municipal Self-Government Act)
+  - `wiki/concepts/spatial-planning-poland.md` (added context on institutional power imbalances and deregulation of urbanists)
+  - `index.md` (24 sources; 2 new entities; 3 new concepts)
+- **Notes**: A crucial legal/systemic source for the vault. Adds depth to the concept of *Warunki Zabudowy* by introducing the legal argument that dominant jurisprudence (which ignores the Municipal Act's hierarchy) is fundamentally flawed. Codifies *Ład Przestrzenny* not just as aesthetics but as a systemic requirement (Raumordnung) introduced by Jerzy Regulski. Highlights the marginalization of municipal councils and urbanists in favor of strong executive mayors (wójtowie/prezydenci).
+
+---
+
+## [2026-04-13] ingest | Powojenny modernizm na bakier z prawem — Zawiślak & Semeniuk / Kwartalnik RZUT
+
+- **Action**: Ingested `raw/RZUT - Powojenny modernizm na bakier z prawem.md` — essay analyzing how strict contemporary building regulations (fire safety, thermal insulation) inadvertently destroy the authenticity of post-war modernist architecture across Poland.
+- **Pages created**:
+  - `wiki/sources/rzut-powojenny-modernizm.md`
+  - `wiki/entities/marta-zawislak.md`
+  - `wiki/entities/marcin-semeniuk.md`
+  - `wiki/entities/tadeusz-witkowski.md`
+  - `wiki/entities/oskar-hansen.md`
+  - `wiki/entities/zofia-hansen.md`
+  - `wiki/entities/pdt-lublin.md`
+  - `wiki/entities/biblioteka-umcs.md`
+  - `wiki/entities/osiedle-slowackiego-lublin.md`
+  - `wiki/entities/teatr-formy-otwartej.md`
+  - `wiki/concepts/post-war-modernism.md`
+  - `wiki/concepts/open-form.md`
+  - `wiki/concepts/thermomodernization.md`
+  - `wiki/concepts/heritage-protection-poland.md`
+- **Pages updated**: `index.md` (25 sources; 9 new entities; 4 new concepts)
+- **Notes**: Excellent pragmatic source establishing the conflict between heritage and safety law. Essential introduction of Oskar and Zofia Hansen along with their "Open Form" theory via their masterpiece, Osiedle Słowackiego. Documented cases (PDT Lublin losing its original glass blocks to fire regulations; UMCS Library battling against thick exterior insulation altering its tectonic depth) serve as cautionary examples of modernization without formal register protection.
+
+## [2026-04-13] INGEST | Modern architecture
+
+- **Action**: Extracted massive wikipedia page about modern architecture
+- **Pages created**: 35 entities and concepts.
+- **Notes**: Skipped minor architects, preserved titans and major buildings.
+
+## [2026-04-13] INGEST | Pritzker Architecture Prize
+
+- **Action**: Ingested `raw/Pritzker Architecture Prize - wiki.md` — comprehensive overview of the prize's history, highlighting the evolution from the "lone male genius" model to collaborative practice, along with significant controversies around gender exclusion and moral standing.
+- **Pages created**:
+  - `wiki/sources/pritzker-architecture-prize-wiki.md`
+  - `wiki/concepts/pritzker-architecture-prize.md`
+  - `wiki/analyses/pritzker-prize-analysis.md`
+  - `wiki/entities/denise-scott-brown.md`
+  - `wiki/entities/robert-venturi.md`
+  - `wiki/entities/wang-shu.md`
+  - `wiki/entities/lu-wenyu.md`
+  - `wiki/entities/thomas-pritzker.md`
+- **Pages updated**: `index.md`, `wiki/entities/zaha-hadid.md`, `wiki/entities/frank-gehry.md`, `wiki/entities/rem-koolhaas.md`, `wiki/entities/im-pei.md`, `wiki/entities/aldo-rossi.md`, `wiki/entities/alvaro-siza.md`
+- **Notes**: Emphasized the critical tension between starchitecture's reliance on singular "heroes" and the reality of collaborative practice. Documented cases of Denise Scott Brown and Lu Wenyu being controversially excluded when their partners won. Mapped Thomas Pritzker's 2026 scandal which compromised the institution's ethical standing. Wrote dedicated analysis of the "myth of the lone genius".

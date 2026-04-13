@@ -7,7 +7,7 @@ born: 1950
 died: 2016
 nationality: Iraqi-British
 tags: [architecture, starchitecture, pritzker, deconstructivism, parametric, zha, controversies]
-source_count: 1
+source_count: 2
 ---
 
 ## Overview
@@ -45,9 +45,12 @@ Hadid was among the 19,000 signatories of the 2013 Denise Scott Brown Pritzker p
 
 ## In the Sources
 
+- [[pritzker-architecture-prize-wiki]]: Documents Hadid being the first female laureate in 2004, noting this as a significant milestone in a historically male-dominated award. The exclusion of women before her (most notably Denise Scott Brown in 1991) is a major critical context for her award.
 - [[rzut-sceny-stararchitekci]]: Kapusta's account covers Hadid's Pritzker (2004), RIBA Gold Medal (2016), Heydar Aliyev controversy (promoting an Azerbaijani autocrat's name), Al Wakrah Qatar construction deaths (BBC interview incident where all Qatari construction deaths were attributed to her project; she was in mid-sentence when the interview was cut), Arabic calligraphy in late forms (recent scholarship), and death March 2016. Also the broader gender shift: Pritzker now 75% women in last two rounds; jury 50% women.
 
-**PL:** [[rzut-sceny-stararchitekci]]: Kapusta omawia Pritzker (2004), RIBA Gold Medal (2016), kontrowersje Heydar Aliyev, Al Wakrah / BBC, arabską kaligrafię w późnych formach i śmierć w marcu 2016. Shift Pritzkera ku kobietom: 75% nagród w ostatnich dwóch edycjach.
+**PL:** 
+- [[pritzker-architecture-prize-wiki]]: Dokumentuje fakt, że Hadid była pierwszą laureatką w 2004 roku, co stanowiło kamień milowy w zdominowanej przez mężczyzn nagrodzie.
+- [[rzut-sceny-stararchitekci]]: Kapusta omawia Pritzker (2004), RIBA Gold Medal (2016), kontrowersje Heydar Aliyev, Al Wakrah / BBC, arabską kaligrafię w późnych formach i śmierć w marcu 2016. Shift Pritzkera ku kobietom: 75% nagród w ostatnich dwóch edycjach.
 
 ## Contradictions / Open Questions
 
