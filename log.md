@@ -417,3 +417,35 @@ Parse tip: `grep "^## \[" log.md | tail -10`
   - `wiki/entities/thomas-pritzker.md`
 - **Pages updated**: `index.md`, `wiki/entities/zaha-hadid.md`, `wiki/entities/frank-gehry.md`, `wiki/entities/rem-koolhaas.md`, `wiki/entities/im-pei.md`, `wiki/entities/aldo-rossi.md`, `wiki/entities/alvaro-siza.md`
 - **Notes**: Emphasized the critical tension between starchitecture's reliance on singular "heroes" and the reality of collaborative practice. Documented cases of Denise Scott Brown and Lu Wenyu being controversially excluded when their partners won. Mapped Thomas Pritzker's 2026 scandal which compromised the institution's ethical standing. Wrote dedicated analysis of the "myth of the lone genius".
+
+## [2026-04-13] INGEST | Modernizm (architektura) - Wikipedia (PL)
+
+- **Action**: Ingested `raw/Modernizm (architektura) – Wikipedia, wolna encyklopedia.md` as a supplement to the main Modern Architecture article, focusing strictly on its curation of Polish architectural achievements and local context.
+- **Pages created**:
+  - `wiki/sources/modernizm-architektura-wiki-pl.md`
+  - `wiki/entities/marek-leykam.md`
+  - `wiki/entities/okraglak-poznan.md`
+  - `wiki/entities/hans-poelzig.md`
+  - `wiki/entities/helena-syrkusowa.md`
+  - `wiki/entities/szymon-syrkus.md`
+  - `wiki/entities/wuwa-wroclaw.md`
+- **Pages updated**: `index.md`
+- **Notes**: Extracted Polish nuances from an otherwise international modernism overview. Secured key early modernism examples tied to former German territories (Wrocław/Breslau, Poznań) like work by Hans Poelzig and the WUWA exhibition, alongside leading post-war figures like Marek Leykam and the Praesens/CIAM activists Helena and Szymon Syrkus.
+
+## [2026-04-13] INGEST | Modernizm w Polsce – Wikipedia, wolna encyklopedia
+
+- **Action**: Ingested `raw/Modernizm w Polsce – Wikipedia, wolna encyklopedia.md` (resumed). Analyzed the trajectory from elite interwar avant-garde to monumental post-war modernism and the tragedy of "pasteloza".
+- **Pages created**:
+  - `wiki/entities/dom-lachertow.md`
+  - `wiki/entities/dom-brukalskich.md`
+  - `wiki/entities/szklany-dom.md`
+  - `wiki/entities/osiedle-plac-grunwaldzki.md`
+  - `wiki/entities/dworzec-centralny.md`
+  - `wiki/entities/cdt-warszawa.md`
+  - `wiki/entities/spodek.md`
+  - `wiki/entities/osiedle-za-zelazna-brama.md`
+  - `wiki/concepts/free-plan.md`
+  - `wiki/concepts/structuralism.md`
+  - `wiki/concepts/thermo-modernization-pasteloza.md`
+- **Pages updated**: `index.md`, `log.md`
+- **Notes**: Completed generation of specific building monuments and key concepts covering the duality of Polish modernism.
