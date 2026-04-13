@@ -1,6 +1,6 @@
 # Wiki Index
 
-_Last updated: 2026-04-13 — 27 sources ingested_
+_Last updated: 2026-04-13 — 28 sources ingested_
 
 ---
 
@@ -33,6 +33,7 @@ _Last updated: 2026-04-13 — 27 sources ingested_
 | [[bjarke-ingels-wikipedia]]                | Bjarke Ingels — Wikipedia                                                            | Wikipedia contributors (en)             | 2008–2026  | 2026-04-12 |
 | [[heatherwick-coal-drops-yard-divisare]]   | Coal Drops Yard — Divisare / Heatherwick Studio                                      | Heatherwick Studio                      | 2018       | 2026-04-12 |
 | [[pritzker-architecture-prize-wiki]]               | Pritzker Architecture Prize - Wikipedia                                              | Wikipedia contributors                  | 2026-04-13 | 2026-04-13 |
+| [[modernizm-architektura-wiki-pl]]                 | Modernizm (architektura) – Wikipedia, wolna encyklopedia                             | Wikipedia contributors (pl)             | 2026-04-13 | 2026-04-13 |
 
 ---
 
@@ -191,6 +192,28 @@ _Last updated: 2026-04-13 — 27 sources ingested_
 | [[wang-shu\|Wang Shu]] | architect | Chinese critical regionalist architect; Amateur Architecture Studio; won Pritzker 2012. | Chiński architekt, regionalista krytyczny; laureat Nagrody Pritzkera 2012. |
 | [[lu-wenyu\|Lu Wenyu]] | architect | Chinese critical regionalist architect; co-founder of Amateur Architecture Studio; controversially excluded from Pritzker in 2012. | Chińska architektka, kontrowersyjnie wykluczona z Nagrody Pritzkera w 2012. |
 | [[thomas-pritzker\|Thomas Pritzker]] | person | Chairman of Hyatt Hotels, Pritzker Prize patron; resigned amid 2026 Epstein scandal controversy. | Prezes Hyatt Hotels, zaangażowany w Nagrodę Pritzkera; ustąpił po skandalu z Epsteinem. |
+| [[marek-leykam\|Marek Leykam]] | architect | Polish modernist architect; author of Okrąglak in Poznań and Supersam in Warsaw; monumental concrete frames. | Polski architekt modernistyczny; autor Okrąglaka w Poznaniu i Supersamu; monumentalny żelbetowy strukturalizm. |
+| [[okraglak-poznan\|Okrąglak Poznań]] | building | Cylindrical department store in Poznań (1955) by Marek Leykam; icon of Polish modernist architecture. | Cylindryczny dom towarowy w Poznaniu (1955) Marka Leykama; ikona polskiego modernizmu. |
+| [[hans-poelzig\|Hans Poelzig]] | architect | German expressionist and early modernist architect; Großes Schauspielhaus, and pre-war Wrocław/Poznań works (Wieża Górnośląska). | Niemiecki architekt ekspresjonistyczny; Großes Schauspielhaus oraz wczesne prace wideo-wrocławskie i poznańskie. |
+| [[helena-syrkusowa\|Helena Syrkusowa]] | architect | Polish avant-garde modernist architect; Praesens, CIAM vice-president; co-designed WSM social housing estates. | Polska architektka awangardowa; Praesens, CIAM; współautorka lewicowych osiedli spójnych WSM. |
+| [[szymon-syrkus\|Szymon Syrkus]] | architect | Polish pioneering modernist theoretician and architect; Praesens; championed prefabrication and minimum dwelling. | Polski pionier modernizmu; Praesens; promotor prefabrykacji i mieszkania minimum. |
+| [[wuwa-wroclaw\|WUWA Wrocław]] | building | 1929 Werkbund avant-garde housing exhibition in Breslau (Wrocław) pioneering experimental minimum dwelling typologies. | Awangardowa wystawa mieszkaniowa Werkbund we Wrocławiu (1929) badająca typologię mieszkania minimum. |
+| [[bohdan-lachert\|Bohdan Lachert]] | architect | Polish avant-garde modernist architect; co-designer of Dom Lachertów; exponent of Free Plan. | Polski awangardowy architekt modernistyczny; współtwórca Domu Lachertów; propagator Wolnego Planu. |
+| [[jozef-szanajca\|Józef Szanajca]] | architect | Polish avant-garde modernist architect; frequent collaborator of Bohdan Lachert. | Polski awangardowy architekt modernistyczny; stały współpracownik Bohdana Lacherta. |
+| [[stanislaw-brukalski\|Stanisław Brukalski]] | architect | Polish avant-garde modernist; co-designer of Dom Brukalskich; combined De Stijl with domestic scale. | Polski awangardowy modernista; współtwórca Domu Brukalskich; łączył De Stijl z intymną skalą domową. |
+| [[juliusz-zorawski\|Juliusz Żórawski]] | architect | Polish modernist known for luxury functionalism and Szklany Dom in Warsaw. | Polski modernista znany z luksusowego funkcjonalizmu i Szklanego Domu w Warszawie. |
+| [[arseniusz-romanowicz\|Arseniusz Romanowicz]] | architect | Polish architect specializing in modernist railway infrastructure; designed Dworzec Centralny. | Polski architekt specjalizujący się w modernistycznej infrastrukturze kolejowej; projektant Dworca Centralnego. |
+| [[jadwiga-grabowska-hawrylak\|Jadwiga Grabowska-Hawrylak]] | architect | Prominent Polish modernist architect; designed the sculptural, brutalist Plac Grunwaldzki estate in Wrocław. | Wybitna polska architektka modernistyczna; zaprojektowała rzeźbiarskie, brutalistyczne osiedle Plac Grunwaldzki we Wrocławiu. |
+| [[maciej-nowicki\|Maciej Nowicki]] | architect | Polish architect known for post-war international modernism before his premature death. | Polski architekt znany z powojennego modernizmu międzynarodowego przed przedwczesną śmiercią. |
+| [[zbigniew-ihnatowicz\|Zbigniew Ihnatowicz]] | architect | Polish modernist architect; key designer of the uncompromising CDT Warsaw department store. | Polski architekt modernistyczny; główny projektant bezkompromisowego Centralnego Domu Towarowego w Warszawie. |
+| [[dom-lachertow\|Dom Lachertów]] | building | Avant-garde three-family villa in Warsaw by Lachert and Szanajca; manifesto of Corbusian principles. | Awangardowa willa trójrodzinna w Warszawie (Lachert i Szanajca); manifest corbusierowskich zasad. |
+| [[dom-brukalskich\|Dom Brukalskich]] | building | Seminal modernist private home and studio in Żoliborz linking functionalism with domesticity. | Przełomowy modernistyczny dom prywatny na Żoliborzu łączący funkcjonalizm z domową kameralnością. |
+| [[szklany-dom\|Szklany Dom]] | building | Luxurious modernist apartment building in Warsaw by Juliusz Żórawski with vast ribbon windows. | Luksusowy apartamentowiec w Warszawie zaprojektowany przez Juliusza Żórawskiego z wielkimi pasmowymi oknami. |
+| [[osiedle-plac-grunwaldzki\|Osiedle Plac Grunwaldzki]] | building | Iconic brutalist housing complex ("Manhattan") in Wrocław designed by Jadwiga Grabowska-Hawrylak. | Ikoniczny brutalistyczny zespół mieszkaniowy ("Manhattan") we Wrocławiu wg projektu Jadwigi Grabowskiej-Hawrylak. |
+| [[dworzec-centralny\|Dworzec Centralny]] | building | Masterpiece of late Polish modernism: a vast infrastructure hub in Warsaw by Romanowicz and Szymaniak. | Arcydzieło późnego polskiego modernizmu: gigantyczny węzeł w Warszawie wg projektu Romanowicza i Szymaniaka. |
+| [[cdt-warszawa\|CDT Warszawa]] | building | Landmark modernist department store by Ihnatowicz showcasing pure structural transparency before the Socialist Realism era. | Sztandarowy modernistyczny dom towarowy Ihnatowicza prezentujący czystą strukturalną transparentność sprzed epoki socrealizmu. |
+| [[spodek\|Spodek]] | building | Famous flying-saucer shaped arena in Katowice representing heroic post-war structuralism and space-age modernism. | Słynna hala w Katowicach w kształcie spodka reprezentująca heroiczny powojenny strukturalizm i modernizm ery kosmicznej. |
+| [[osiedle-za-zelazna-brama\|Osiedle Za Żelazną Bramą]] | building | Enormous housing estate in central Warsaw embodying the dogmatic Corbusian "tower in the park" urbanism. | Olbrzymie osiedle w centrum Warszawy uosabiające dogmatyczny corbusierowski urbanizm "wież w parku". |
 
 ---
 
@@ -268,7 +291,9 @@ _Last updated: 2026-04-13 — 27 sources ingested_
 | [[new-objectivity\|New Objectivity]] | architecture | movement | Also called Neue Sachlichkeit or Neues Bauen; it emerged in German-speaking Europe in the 1920s emphasizing utter functional sobriety and mass housing projects. | Znana również jako Neue Sachlichkeit lub Nowe Budownictwo (Neues Bauen); ruch, który wyłonił się w niemieckojęzycznej części Europy w latach 20., podkreślający całkowitą funkcjonalną trzeźwość i projekty mieszkalnictwa masowego. |
 | [[form-follows-function\|Form follows function]] | theory | Fundamental principle coined by Louis Sullivan stating that the shape of a building or object should primarily relate to its intended function or purpose. | Podstawowa zasada sformułowana przez Louisa Sullivana twierdząca, że kształt budynku lub przedmiotu powinien przede wszystkim wynikać z jego zamierzonej funkcji lub celu. |
 | [[rationalist-architecture\|Rationalist architecture]] | architecture | theory | A philosophy asserting that architecture should fundamentally be guided by reason, leading to clear, simple, and structurally logical forms lacking superfluous ornament. | Filozofia, według której architektura powinna przede wszystkim kierować się rozumem, co prowadzi do przejrzystych, prostych i konstrukcyjnie spójnych form pozbawionych zbędnej ornamentyki. |
-|Hedonistic Sustainability]] | architecture, theory, environmental design | BIG/Ingels concept; sustainability as gain not sacrifice; Amager Bakke ski slope as canonical example; critiqued as aestheticisation of pollution | Pojęcie BIG/Ingels; zrównoważoność jako zysk nie wyrzeczenie; stok narciarski Amager Bakke jako przykład kanoniczny; krytykowane jako estetyzacja zanieczyszczenia |
+| [[free-plan\|Free Plan]] | architecture | One of Le Corbusier's Five Points allowing internal layouts independent of load-bearing walls via a structural grid. | Jeden z Pięciu Punktów Le Corbusiera uniezależniający rzut od ścian nośnych dzięki niezależnej siatce słupów. |
+| [[structuralism\|Structuralism]] | architecture | Movement emphasizing underlying cellular grids and monumental frameworks over rigid functionalism. | Nurt kładący nacisk na leżące u podstaw budowli siatki komórkowe i monumentalne szkielety ponad rygorystyczny funkcjonalizm. |
+| [[thermo-modernization-pasteloza\|Thermo-modernization (Pasteloza)]] | architecture, conservation | The chaotic insulating and painting of modernist blocks in Poland, often destroying original tectonic depth. | Chaotyczne docieplanie i malowanie modernistycznych bloków w Polsce, niszczące pierwotną głębię tektoniczną elewacji. |
 
 ---
 
@@ -277,3 +302,4 @@ _Last updated: 2026-04-13 — 27 sources ingested_
 | Page | Created | Description |
 |------|---------|-------------|
 | [[pritzker-prize-analysis\|Pritzker Prize Analysis]] | 2026-04-13 | Analysis of the Pritzker Prize and how it reflects the evolving definition of architectural authorship and the "lone genius" myth. |
+| [[polish-modernism-analysis\|Polish Modernism Analysis]] | 2026-04-13 | Analysis of the trajectory of Polish Modernism from elite interwar avant-garde to mass post-war realizations and contemporary pasteloza degradation. |
