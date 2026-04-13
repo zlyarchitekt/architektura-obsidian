@@ -5,14 +5,14 @@ name: "Aldo Rossi"
 born: 1931
 died: 1997
 nationality: Italian
-tags: [architecture, urbanism]
-source_count: 1
+tags: [architecture, urbanism, pritzker]
+source_count: 2
 ---
 
 ## Overview
-Aldo Rossi was a key figure in the revival of architectural theory that moved beyond strict Modernist functionalism. He championed the idea that architecture should be rooted in the collective memory and historical typology of a place, arguing for the enduring power of the urban *type*.
+Aldo Rossi was a key figure in the revival of architectural theory that moved beyond strict Modernist functionalism. He championed the idea that architecture should be rooted in the collective memory and historical typology of a place, arguing for the enduring power of the urban *type*. He was awarded the Pritzker Architecture Prize in 1990.
 
-***PL:*** *Aldo Rossi był kluczową postacią w odrodzeniu teorii architektonicznej wykraczającej poza ścisły funkcjonalizm modernizmu. Popierał ideę, że architektura powinna być zakorzeniona w zbiorowej pamięci i typologii historycznej miejsca, argumentując o trwałej sile miejskiego typu.*
+***PL:*** *Aldo Rossi był kluczową postacią w odrodzeniu teorii architektonicznej wykraczającej poza ścisły funkcjonalizm modernizmu. Popierał ideę, że architektura powinna być zakorzeniona w zbiorowej pamięci i typologii historycznej miejsca, argumentując o trwałej sile miejskiego typu. Został nagrodzony Nagrodą Pritzkera w 1990 r.*
 
 ## Key Works / Projects
 *   ***L'Architettura della città*** **(1966):** Foundational theoretical text on urban morphology and the persistence of urban forms.
@@ -27,7 +27,8 @@ He was heavily influenced by the historical continuity of cities and the idea th
 [[Typology]], [[City]], [[Postmodernism]]
 
 ## In the Sources
-*   **Source:** [[Dookoła, czyli typ i miasto]] (raw/RZUT - Dookoła, czyli typ i miasto.md) — The source mentions Rossi alongside other theorists who identified architectural types as urban morphologies (e.g., row houses, blocks).
+*   **Source:** [[rzut-dookola-czyli-typ-i-miasto]] — The source mentions Rossi alongside other theorists who identified architectural types as urban morphologies (e.g., row houses, blocks).
+*   **Source:** [[pritzker-architecture-prize-wiki]] — Documents his 1990 Pritzker Prize win.
 
 ## See Also
 [[Typology]], [[City]]

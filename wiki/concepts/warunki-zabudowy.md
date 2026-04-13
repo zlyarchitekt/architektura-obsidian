@@ -15,9 +15,11 @@ aliases: ["Warunki Zabudowy", "WZ", "WZ-tka", "building conditions decision"]
 
 ## Historical Context
 
-Introduced by the 2003 Spatial Planning Act as a temporary substitute for the local plans (*mpzp*) that the same act had just invalidated. Instead of being temporary, WZ became the dominant mode of building permission in Poland for 20 years. Under the pre-reform system, a developer could request a WZ for virtually any plot — including those the municipality's own *studium* designated as non-buildable. If refused, the decision could be appealed to administrative courts and overturned. This meant municipalities had no effective planning veto over development in areas without a local plan.
+Introduced by the 2003 Spatial Planning Act as a temporary substitute for the local plans (*mpzp*) that the same act had just invalidated. Instead of being temporary, WZ became the dominant mode of building permission in Poland for 20 years. Under the pre-reform system, a developer could request a WZ for virtually any plot — including those the municipality's own *studium* (*SUiKZP*) designated as non-buildable. If refused, the decision could be appealed to administrative courts and overturned. This meant municipalities had no effective planning veto over development in areas without a local plan.
 
-**PL:** Wprowadzona ustawą z 2003 r. jako tymczasowy substytut planów miejscowych, które ta sama ustawa właśnie wygasiła. Zamiast być tymczasową, WZ-tka stała się dominującym trybem wydawania pozwoleń budowlanych w Polsce przez 20 lat. Deweloper mógł ubiegać się o WZ dla praktycznie każdej działki i wymóc ją sądownie na niechętnej gminie.
+According to experts like [[Grzegorz A. Buczek]], this was driven by a flawed "flat" interpretation of the law by administrative courts. Buczek argues that under the superior Act on Municipal Self-Government, a mayor is legally bound to execute the council's resolutions (which includes the *Studium*). Therefore, a WZ decision contradicting the *Studium* should be illegal. However, dominant jurisprudence ignored this hierarchy.
+
+**PL:** Wprowadzona ustawą z 2003 r. jako tymczasowy substytut planów miejscowych, które ta sama ustawa właśnie wygasiła. Zamiast być tymczasową, WZ-tka stała się dominującym trybem wydawania pozwoleń budowlanych w Polsce przez 20 lat. Według ekspertów (jak G. Buczek) sędziowie oparli się na "płaskiej" interpretacji prawa, ignorując fakt, że nadrzędna Ustawa o samorządzie gminnym nakazuje wójtowi realizację uchwał rady (w tym Studium). Zatem WZ sprzeczna ze Studium powinna być z definicji nielegalna.
 
 ## Key Proponents / Critics
 
@@ -38,6 +40,7 @@ The 2022 reform restricts WZ to "infill zones" (*obszary uzupełnienia zabudowy*
 ## In the Sources
 
 - [[Ustanowiony chaos, czyli planowanie przestrzenne w potransformacyjnej Polsce]] — central source; full diagnosis of WZ's role in the planning crisis, and explanation of the 2022 reform's constrained approach to limiting it.
+- Documented in [[rzut-nielad-w-prawie]] as a tool legally misinterpreted by courts to bypass the *SUiKZP*.
 
 ## See Also
 

@@ -6,7 +6,7 @@ aliases: ["Rem Koolhaas"]
 born: 1944
 nationality: Dutch
 tags: [architecture, theory, oma, bigness, starchitecture, urbanism, pritzker]
-source_count: 1
+source_count: 2
 ---
 
 ## Overview
@@ -50,9 +50,12 @@ He founded AMO as a research think-tank alongside OMA — allowing the firm to o
 
 ## In the Sources
 
+- [[pritzker-architecture-prize-wiki]]: Documents his 2000 Pritzker Prize win.
 - [[rzut-sceny-stararchitekci]]: Kapusta identifies Koolhaas as the only theorist in the "new architectural premier league" (alongside Gehry, Hadid, Libeskind). His journalism background vs. philosophy. "Junk Space" and "regime of ¥€$" quoted as the sharpest internal critique of starchitecture. "Fuck the context" cited as competitive competition strategy. Casa de Música anecdote: Dutch house concept → concert hall in 3 weeks → won.
 
-**PL:** [[rzut-sceny-stararchitekci]]: Kapusta wskazuje Koolhaasa jako jedynego teoretyka w „architektonicznej ekstralidze." *Junk Space* i „reżim ¥€$" cytowane jako najostrzejsza wewnętrzna krytyka stararchitektury. „Fuck the context" jako strategia konkursowa. Anegdota Casa de Música.
+**PL:** 
+- [[pritzker-architecture-prize-wiki]]: Dokumentuje jego nagrodę w roku 2000.
+- [[rzut-sceny-stararchitekci]]: Kapusta wskazuje Koolhaasa jako jedynego teoretyka w „architektonicznej ekstralidze." *Junk Space* i „reżim ¥€$" cytowane jako najostrzejsza wewnętrzna krytyka stararchitektury. „Fuck the context" jako strategia konkursowa. Anegdota Casa de Música.
 
 ## Contradictions / Open Questions
 
