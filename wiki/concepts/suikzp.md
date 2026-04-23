@@ -2,8 +2,8 @@
 type: concept
 name: "SUiKZP"
 domain: urbanism, law, Poland
-tags: [poland, planning]
-source_count: 1
+tags: [poland, planning, warsaw]
+source_count: 4
 aliases: ["SUiKZP", "Studium", "Studium uwarunkowań i kierunków zagospodarowania przestrzennego"]
 ---
 
@@ -20,11 +20,18 @@ Introduced to force municipalities to think about spatial policy holistically. H
 
 ## Key Examples
 
+- **Warsaw's new Studium (2018–2022/2023)**: the most extensive recent Polish example. Prepared by [[BAiPP]] under [[Marlena Happach]]; described as the "spatial constitution of Warsaw" for a 30-year horizon. Key innovations: [[Blue-Green Infrastructure]] (BZIW) as structural backbone; compact polycentric city; hierarchical local centre network; 10-minute city ideal; demographic bilans from mobile phone data. Under the 2022 planning reform, it will need to be converted into a *plan ogólny*.
+
+**PL:** Nowe Studium Warszawy (2018–2022/2023): przygotowane przez BAiPP pod kierownictwem Marleny Happach; "konstytucja przestrzenna Warszawy" na 30 lat. Kluczowe innowacje: BZIW, miasto zwarte policentryczne, bilans demograficzny z danych komórkowych. Będzie musiało być przekształcone w plan ogólny.
+
 ## Critiques & Alternatives
-The disconnect between the *Studium* and WZ decisions is considered the fundamental engine of Poland's spatial chaos. 
+The disconnect between the *Studium* and WZ decisions is considered the fundamental engine of Poland's spatial chaos. The 2022 planning reform replaces the *Studium* with the *Plan Ogólny* — a legally binding general plan — addressing this gap, but requiring all municipalities to redo their strategic spatial documents by 2026. Warsaw's new Studium was prepared simultaneously with the new act, creating uncertainty about format conversion.
+
+**PL:** Rozdźwięk między Studium a decyzjami WZ to fundamentalny mechanizm polskiego chaosu przestrzennego. Reforma 2022 zastępuje Studium Planem Ogólnym — aktorem prawa miejscowego — ale wymaga od gmin przerobienia dokumentów do 2026 r.
 
 ## In the Sources
 - Critiqued as being systematically bypassed by WZ decisions due to flawed legal interpretation by administrative courts, contributing to urban chaos in [[rzut-nielad-w-prawie]].
+- Warsaw's new Studium presented as a positive ambition — "spatial constitution" for 30 years, climate-first — in [[rzut-33-01-wstepniak]], [[rzut-33-02-nowe-studium-warszawy]], [[rzut-33-03-warszawa-przyszlosci]].
 
 ## See Also
-[[Spatial Planning (Poland)]], [[MPZP]], [[Warunki Zabudowy]]
+[[Spatial Planning (Poland)]], [[MPZP]], [[Warunki Zabudowy]], [[Blue-Green Infrastructure]], [[Marlena Happach]], [[BAiPP]]

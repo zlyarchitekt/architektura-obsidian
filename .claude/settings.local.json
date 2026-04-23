@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "Bash(findstr \"modele\")"
+      "Bash(findstr \"modele\")",
+      "mcp__ide__executeCode"
     ]
   }
 }

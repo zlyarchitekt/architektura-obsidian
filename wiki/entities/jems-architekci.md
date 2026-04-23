@@ -6,7 +6,7 @@ name: "JEMS Architekci"
 founded: 1988
 nationality: PL
 tags: [poland, warsaw, modernism, high-tech, architecture, firm]
-source_count: 1
+source_count: 2
 ---
 
 ## Overview
@@ -28,6 +28,7 @@ JEMS Architekci is a Warsaw-based architectural practice founded in 1988 by Olgi
 - **Hala Koszyki** (2016, Warsaw) — 1908 market hall adaptive reuse; SARP "Stołek" jury award 2016; Nagroda Prezydenta Warszawy 2017 [[Hala Koszyki]]
 - **Generation Park** (2021, Warsaw) — Mixed office complex
 - **Browary Warszawskie** (2022, Warsaw) — 19th-century brewery adaptive reuse; SARP Nagroda Roku 2021; Grand Prix Nagrody Polityki 2021; Grand Prix Nagrody Prezydenta Warszawy 2022 [[Browary Warszawskie]]
+- **[[Gmach BGK Warszawa]] interior renovation** (2020–present, Warsaw) — comprehensive refurbishment of interiors of the 1928–31 Bank Gospodarstwa Krajowego headquarters, a listed modernist monument at Al. Jerozolimskie 7.
 
 ## Ideas & Influences
 
@@ -44,6 +45,7 @@ The founding partners were trained at the Warsaw Faculty of Architecture (WAPW) 
 ## In the Sources
 
 - [[jems-architekci-wikipedia]] — comprehensive Wikipedia overview: history, style, selected works, competition record, full awards list through 2022.
+- [[bgk-warszawa-wikipedia|Gmach BGK Warszawa — Wikipedia]]: confirms JEMS Architekci as the architect for the 2020 interior renovation of the listed BGK headquarters.
 
 ## Contradictions / Open Questions
 

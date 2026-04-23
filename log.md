@@ -449,3 +449,85 @@ Parse tip: `grep "^## \[" log.md | tail -10`
   - `wiki/concepts/thermo-modernization-pasteloza.md`
 - **Pages updated**: `index.md`, `log.md`
 - **Notes**: Completed generation of specific building monuments and key concepts covering the duality of Polish modernism.
+
+---
+
+## [2026-04-23] ingest | Blisko 100-letni parking przemieni się w mieszkania — Muratorplus
+
+- **Action**: Ingested `raw/Blisko 100-letni, modernistyczny i zniszczony przez pożar parking przemieni się w tanie, komunalne i zdrowe mieszkania.md` — Muratorplus article (2026-04-13) on the conversion of a 1935 fire-damaged modernist garage at rue Lucien Sampaix, Paris 10e, into 16 social housing units by UR Architecture Urbanisme for Paris Habitat.
+- **Pages created**:
+  - `wiki/sources/muratorplus-parking-rue-lucien-sampaix.md`
+  - `wiki/entities/ur-architecture-urbanisme.md`
+  - `wiki/entities/parking-rue-lucien-sampaix.md`
+- **Pages updated**:
+  - `wiki/concepts/adaptive-reuse.md` (source_count 2→3; Parking rue Lucien Sampaix added to Key Examples EN + PL; muratorplus source citation added to In the Sources EN + PL)
+  - `index.md` (source row added; 2 new entity rows)
+- **Notes**: First French adaptive reuse case in the wiki — and the first example of policy-driven conversion (PLU bioclimatique, droit de préemption) rather than architect-preference or client-preference-driven. Key contrast with the existing Heatherwick adaptive reuse examples: those serve premium end uses (museums, retail); rue Lucien Sampaix serves social housing (PLAI/PLUS/PLS). UR Architecture Urbanisme received Palmarès des Jeunes Urbanistes 2024 — confirms the project as architecturally significant despite its modest programme. BBC Effinergie Rénovation + Biosourcé certification distinguishes it as a low-carbon renovation benchmark. Total cost 6.7M€ (63% Paris Habitat own funds). Completion planned before 2027. Original 1935 architect unnamed in source — open question.
+
+---
+
+## [2026-04-23] ingest | Gmach BGK Warszawa — Wikipedia (pl)
+
+- **Action**: Ingested `raw/Gmach Banku Gospodarstwa Krajowego w Warszawie – Wikipedia, wolna encyklopedia.md` — Polish Wikipedia article on the BGK headquarters at Al. Jerozolimskie 7, Warsaw; designed by Rudolf Świerczyński (1928–31); comprehensive technical and historical description.
+- **Pages created**:
+  - `wiki/sources/bgk-warszawa-wikipedia.md`
+  - `wiki/entities/rudolf-swierczynski.md`
+  - `wiki/entities/gmach-bgk-warszawa.md`
+- **Pages updated**:
+  - `wiki/entities/jems-architekci.md` (source_count 1→2; Gmach BGK interior renovation 2020– added to Key Works; bgk-warszawa-wikipedia citation added to In the Sources)
+  - `index.md` (source row added; 2 new entity rows)
+- **Notes**: The BGK building is one of the few Warsaw buildings that survived WWII intact — a rare case in a city where ~85% of the built fabric was destroyed. Its andezyt pieniński cladding (dark Pieniny volcanic stone) is an unusual material choice that gives the building its monumental gravity. Engineer Ludwik Tylbor's over-reinforced pile-supported foundations were technically innovative for the period. Jan Szczepkowski's bas-reliefs introduce figural ornament that sits in productive tension with the building's structural modernism. JEMS Architekci's 2020 renovation connects this pre-war monument to the firm's contemporary portfolio — a formal (not just client) link to adaptive reuse. Rudolf Świerczyński entity created; the Ministerstwo Komunikacji (1929–31) on Chałubińskiego is the primary parallel work, also a prestige public commission. Died 1943 — wartime casualty.
+
+---
+
+## [2026-04-23] ingest | Manifesto of the Third Landscape — Gilles Clément (TEH 2022)
+
+- **Action**: Converted `raw/tehpublicationmanifestoofthirdlandscape145x225mm2022webspreads.pdf` to markdown using opendataloader-pdf (hybrid=off); output saved as `raw/clement-manifesto-third-landscape.md`. Full ingest of 19-page manifesto — Clément's primary theoretical statement on the Third Landscape, published in 2004 and reissued in 2022 by Trans Europe Halles (TEH Series on new imaginaries #3).
+- **Pages created**:
+  - `wiki/sources/clement-manifesto-third-landscape.md`
+  - `wiki/concepts/planetary-garden.md` (new concept — planet as single enclosed garden; biosphere as enclosure)
+  - `wiki/concepts/biological-corridor.md` (new concept — linear Third Landscape fragments connecting reserves; urban mesh theory)
+- **Pages updated**:
+  - `wiki/entities/gilles-clement.md` (source_count 1→2; stub expanded to full entry: three-part theoretical framework, Lamarckian temporality, urban mesh concept, Parc André-Citroën, Jardin des tempêtes; full In the Sources and Contradictions)
+  - `wiki/concepts/third-landscape.md` (source_count 1→2; major enrichment: three-part taxonomy primary sets/neglected lands/reserves, Sieyès analogy, urban mesh and vacuoles, heritage-fixation critique, Lamarckian temporality, non-doing as principle; full policy programme structure added)
+  - `index.md` (33 sources; 1 new source row; Third Landscape description updated; 2 new concept rows)
+- **Notes**: This is the first primary theoretical source in the wiki — all previous ingests were secondary sources (Wikipedia, RZUT articles, promotional project descriptions). The manifesto's key additions beyond what the Trybe RZUT article conveyed: (1) the precise three-part taxonomy (primary sets / neglected lands / reserves) — each category has distinct ecological dynamics; (2) the political analogy to Sieyès's Third State — not rhetorical flourish but structural argument about power and visibility; (3) the urban mesh theory — closed meshes eliminate biological corridors between biodiversity vacuoles; (4) the critique of heritage fixation — fixing a Third Landscape as heritage condemns it to disappearance (resonates with Heritage Protection (Poland) concept and the adaptive reuse debates about conservation vs. evolution); (5) Lamarckian temporality — inconstancy as resilience; (6) non-doing as a political/design principle. The heritage-fixation critique creates a productive tension with the wiki's heritage protection entries (post-war modernism, BGK renovation) — a potentially rich cross-concept tension to develop. Two new concept pages created: Planetary Garden and Biological Corridor (the latter connects to Landscape Urbanism and the existing RZUT fox-path source). The PDF was 19 pages (parser reported 19, not 14 as the system suggested) and converted cleanly with hybrid=off — no server required.
+
+## [2026-04-23] maintenance | modern-architecture-wiki + modernizm-w-polsce-wiki-pl added to index.md
+
+- **Action**: Audit revealed that `wiki/sources/modern-architecture-wiki.md` and `wiki/sources/modernizm-w-polsce-wiki-pl.md`, both ingested 2026-04-13, were absent from `index.md` despite log entries claiming otherwise. Both source pages confirmed complete. Added missing rows to Sources table in `index.md`.
+- **Pages created**: _(none — source files already existed)_
+- **Pages updated**: `index.md` (2 missing source rows added; header updated from 28 → 32 sources; 4 new entity rows for Rudolf Świerczyński, Gmach BGK Warszawa, UR Architecture Urbanisme, Parking rue Lucien Sampaix)
+- **Notes**: Discrepancy between log claims ("Pages updated: index.md") and actual index.md state — likely a session interruption before the final write. Index.md now reflects all 32 ingested sources.
+
+## [2026-04-23] ingest | RZUT-33 Planowanie — artykuły 1–3 (Wstępniak, Nowe Studium, Happach)
+
+- **Action**: Ingested the first three articles from RZUT-33 (*Planowanie*). Source files read from `RZUT-33/` directory (converted previously from `raw/RZUT-33-PLANOWANIE-b0mjya.pdf` using `raw/skrypty_opendataloader/parse_rzut33.py`). All three articles are editorial and Warsaw-Studium focused; they introduce BZIW and Marlena Happach as the dominant figures of the issue.
+- **Pages created**:
+  - `wiki/sources/rzut-33-01-wstepniak.md` — editorial by Gąsiorowska/Kacperski/Łysiuk; planning under multiple crises; structure of the issue
+  - `wiki/sources/rzut-33-02-nowe-studium-warszawy.md` — Wojciech Kacperski (BAiPP); BZIW, green rings, compact/polycentric city, 10-minute ideal, demographic data from mobile phones
+  - `wiki/sources/rzut-33-03-warszawa-przyszlosci.md` — long-form interview with Marlena Happach; Studium as "spatial constitution," climate primacy, bilans methodology, developer cooperation, heritage (50+ buildings), legislative uncertainty
+  - `wiki/entities/marlena-happach.md` — new full entity page; Architect of the City of Warsaw; director BAiPP; climate-first Studium; ecosystem framing; market ambivalence
+  - `wiki/entities/baipp.md` — new entity page; Biuro Architektury i Planowania Przestrzennego; RZUT-33 co-producer; new Studium authors
+  - `wiki/concepts/blue-green-infrastructure.md` — new concept page; sponge city; BZIW as Polish operational example; green rings + linear parks + air ventilation corridors; soft = hard infrastructure; biodiversity link to Biological Corridor
+- **Pages updated**:
+  - `wiki/concepts/suikzp.md` (source_count 1→4; Warsaw Studium added as key example; 2022 reform context; new In the Sources entries; See Also expanded)
+  - `index.md` (36 sources; 3 new source rows; 2 new entity rows; 1 new concept row)
+- **Notes**: RZUT-33 is the planning (*planowanie*) issue, published 2022, co-produced with BAiPP. The three articles cluster around Warsaw's new Studium — a planning document that arrived simultaneously with Poland's 2022 planning reform, creating an immediate conversion problem (Studium → Plan Ogólny). Key intellectual contributions: (1) BZIW as a systemic concept connecting climate, water management, biodiversity, and active mobility in a single framework — a significant addition to the wiki's ecology cluster alongside Third Landscape, Biological Corridor, Landscape Urbanism; (2) Marlena Happach's ecosystem framing connects to Clément's Planetary Garden — an interesting cross-concept tension worth developing; (3) the demographic bilans methodology (mobile phone data vs. registry) is a practical planning tool not previously represented in the wiki; (4) the "wszędzie blisko" / 10-minute city ideal connects to Mixed-Use Development and Urban Sprawl concepts. Remaining RZUT-33 articles (4–18) to be ingested in subsequent sessions.
+
+## [2026-04-23] ingest | RZUT-33 articles 4–6 (Ramy Rozwoju, Równouprawnienie uczestników ruchu, Miasto jako Ekosystem)
+
+- **Action**: Ingest of three further articles from RZUT-33 Planowanie (2022): article 04 — interview with Monika Konrad (BAiPP chief designer) on the Studium's analytical methodology; article 05 — interview with Bartosz Rozbiewski (BAiPP deputy director for spatial policy) on transport and mobility; article 06 — short interview with Dr. Monika Wróbel (Fundacja Skwer Sportów Miejskich) as external commentator.
+- **Pages created**:
+  - `wiki/sources/rzut-33-04-ramy-rozwoju.md` — morphological typology (MU1–MU10, M1–M3); ecosystem services analysis (first in Poland); mixed-use flexibility; legal limitations; brownfield priority sites; metropolitan planning gap (Strategia 2040)
+  - `wiki/sources/rzut-33-05-rownouprawnienie-uczestnikow-ruchu.md` — inverted transport pyramid; metro M3–M5 strategy; 80% rail access target; dynamic parking policy; Warsaw's 800 cars/1000 residents paradox; transit value-capture gap (Spanish model)
+  - `wiki/sources/rzut-33-06-miasto-jako-ekosystem.md` — external validation of ecosystem framing and "wszędzie blisko"; car restriction predicted as main controversy axis
+  - `wiki/entities/monika-konrad.md` — BAiPP chief Studium designer; framework thinking; morphological typology; ecosystem services methodology
+  - `wiki/entities/bartosz-rozbiewski.md` — BAiPP spatial policy; inverted transport pyramid; metro strategy; parking reform; transit value-capture
+  - `wiki/entities/monika-wrobel.md` — external urbanist; Fundacja Skwer Sportów Miejskich; practice-based validation of Studium's greenery agenda
+  - `wiki/concepts/inverted-transport-pyramid.md` — modal hierarchy (pedestrian → bike → PT → car); Warsaw Studium application; parking as lever; space allocation as political act; critiques (no fiscal enforcement tools; developer resistance)
+- **Pages updated**:
+  - `wiki/entities/baipp.md` (source_count 3→6; In the Sources extended for articles 4–6; staff now link to own entity pages)
+  - `wiki/concepts/blue-green-infrastructure.md` (source_count 2→4; In the Sources extended: ecosystem services analysis as BZIW basis; street typologies as BZIW-mobility integration)
+  - `index.md` (39 sources; 3 new source rows; 3 new entity rows; 1 new concept row)
+- **Notes**: Articles 4–6 deepen the Warsaw Studium cluster significantly. Key intellectual contributions: (1) Konrad's morphological typology (MU1–MU10) provides the first detailed description of Warsaw's urban fabric classification in the wiki — connects to [[Typology]] and [[Aldo Rossi]]; (2) Rozbiewski's inverted transport pyramid is a named planning concept with specific Warsaw metrics (80% rail access, M3–M5 strategy, algorithmic parking) — sufficiently specific to warrant its own concept page; (3) the transit value-capture gap (no Spanish barter model in Polish law) is a structural planning problem not previously noted; (4) Wróbel's external perspective provides independent corroboration that the Studium's green priorities match observable resident demand — a useful methodological note about evidence sources. Remaining RZUT-33 articles (7–18) to be ingested in subsequent sessions.
