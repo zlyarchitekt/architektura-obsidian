@@ -1,6 +1,6 @@
 # Wiki Index
 
-_Last updated: 2026-04-13 — 28 sources ingested_
+_Last updated: 2026-04-23 — 39 sources ingested_
 
 ---
 
@@ -34,6 +34,17 @@ _Last updated: 2026-04-13 — 28 sources ingested_
 | [[heatherwick-coal-drops-yard-divisare]]   | Coal Drops Yard — Divisare / Heatherwick Studio                                      | Heatherwick Studio                      | 2018       | 2026-04-12 |
 | [[pritzker-architecture-prize-wiki]]               | Pritzker Architecture Prize - Wikipedia                                              | Wikipedia contributors                  | 2026-04-13 | 2026-04-13 |
 | [[modernizm-architektura-wiki-pl]]                 | Modernizm (architektura) – Wikipedia, wolna encyklopedia                             | Wikipedia contributors (pl)             | 2026-04-13 | 2026-04-13 |
+| [[muratorplus-parking-rue-lucien-sampaix]]         | Blisko 100-letni parking przemieni się w tanie, komunalne i zdrowe mieszkania        | Muratorplus                             | 2026-04-13 | 2026-04-23 |
+| [[bgk-warszawa-wikipedia]]                         | Gmach Banku Gospodarstwa Krajowego w Warszawie – Wikipedia                          | Wikipedia contributors (pl)             | 2026-04-13 | 2026-04-23 |
+| [[modern-architecture-wiki]]                       | Modern architecture — Wikipedia                                                      | Wikipedia contributors (en)             | 2026-04-13 | 2026-04-23 |
+| [[modernizm-w-polsce-wiki-pl]]                     | Modernizm w Polsce – Wikipedia, wolna encyklopedia                                  | Wikipedia contributors (pl)             | 2026-04-13 | 2026-04-23 |
+| [[clement-manifesto-third-landscape]]              | Manifesto of the Third Landscape                                                     | Gilles Clément                          | 2022       | 2026-04-23 |
+| [[rzut-33-01-wstepniak]]                           | Planowanie — Wstępniak (RZUT-33)                                                     | Matylda Gąsiorowska / Wojciech Kacperski / Igor Łysiuk | 2022 | 2026-04-23 |
+| [[rzut-33-02-nowe-studium-warszawy]]               | Nowe Studium Warszawy (RZUT-33)                                                      | Wojciech Kacperski                      | 2022       | 2026-04-23 |
+| [[rzut-33-03-warszawa-przyszlosci]]                | Warszawa Przyszłości Będzie Warszawą Naszych Marzeń (RZUT-33)                        | Redakcja RZUT / Marlena Happach         | 2022       | 2026-04-23 |
+| [[rzut-33-04-ramy-rozwoju]]                        | Ramy Rozwoju (RZUT-33)                                                               | Monika Konrad                           | 2022       | 2026-04-23 |
+| [[rzut-33-05-rownouprawnienie-uczestnikow-ruchu]]  | Równouprawnienie Wszystkich Uczestników Ruchu (RZUT-33)                              | Bartosz Rozbiewski                      | 2022       | 2026-04-23 |
+| [[rzut-33-06-miasto-jako-ekosystem]]               | Miasto jako Ekosystem (RZUT-33)                                                      | Monika Wróbel                           | 2022       | 2026-04-23 |
 
 ---
 
@@ -214,6 +225,15 @@ _Last updated: 2026-04-13 — 28 sources ingested_
 | [[cdt-warszawa\|CDT Warszawa]] | building | Landmark modernist department store by Ihnatowicz showcasing pure structural transparency before the Socialist Realism era. | Sztandarowy modernistyczny dom towarowy Ihnatowicza prezentujący czystą strukturalną transparentność sprzed epoki socrealizmu. |
 | [[spodek\|Spodek]] | building | Famous flying-saucer shaped arena in Katowice representing heroic post-war structuralism and space-age modernism. | Słynna hala w Katowicach w kształcie spodka reprezentująca heroiczny powojenny strukturalizm i modernizm ery kosmicznej. |
 | [[osiedle-za-zelazna-brama\|Osiedle Za Żelazną Bramą]] | building | Enormous housing estate in central Warsaw embodying the dogmatic Corbusian "tower in the park" urbanism. | Olbrzymie osiedle w centrum Warszawy uosabiające dogmatyczny corbusierowski urbanizm "wież w parku". |
+| [[rudolf-swierczynski\|Rudolf Świerczyński]] | architect | Polish interwar modernist architect (1887–1943); designed BGK Warsaw HQ (1928–31) and Ministry of Communications. | Polski architekt modernizmu międzywojennego (1887–1943); projektant gmachu BGK (1928–31) i Ministerstwa Komunikacji. |
+| [[gmach-bgk-warszawa\|Gmach BGK Warszawa]] | building | BGK headquarters, Al. Jerozolimskie 7, Warsaw (1928–31); Rudolf Świerczyński; andezyt pieniński; survived WWII; monument 1965; JEMS renovation 2020–. | Siedziba BGK, Al. Jerozolimskie 7 (1928–31); Świerczyński; andezyt pieniński; przetrwał wojnę; zabytek 1965; renowacja JEMS 2020–. |
+| [[ur-architecture-urbanisme\|UR Architecture Urbanisme]] | firm | Paris practice; low-carbon adaptive reuse; Palmarès des Jeunes Urbanistes 2024; Parking rue Lucien Sampaix. | Paryska pracownia; niskoemisyjne adaptive reuse; Palmarès des Jeunes Urbanistes 2024; Parking rue Lucien Sampaix. |
+| [[parking-rue-lucien-sampaix\|Parking rue Lucien Sampaix]] | building | 1935 modernist garage, Paris 10e; fire 2020; UR Architecture Urbanisme; 16 social housing units; completion 2027. | Modernistyczny parking 1935, Paryż 10.; pożar 2020; 16 mieszkań komunalnych; realizacja 2027. |
+| [[marlena-happach\|Marlena Happach]] | architect | Architect of the City of Warsaw; director BAiPP; led climate-first new Warsaw Studium 2018–2022 | Architektka Miasta Warszawy; dyrektorka BAiPP; kierowała nowym klimatycznym Studium 2018–2022 |
+| [[baipp\|BAiPP]] | organization | Biuro Architektury i Planowania Przestrzennego m.st. Warszawy; co-produced RZUT-33; new Studium (BZIW, compact city) | Biuro Architektury i Planowania Przestrzennego; współprodukowało RZUT-33; nowe Studium (BZIW, miasto zwarte) |
+| [[monika-konrad\|Monika Konrad]] | architect | BAiPP deputy director; chief designer of Warsaw's new Studium; morphological typology, ecosystem services analysis | Wicedyrektorka BAiPP; główna projektantka Studium; typologia morfologiczna, analiza usług ekosystemowych |
+| [[bartosz-rozbiewski\|Bartosz Rozbiewski]] | architect | BAiPP deputy director for spatial policy; inverted transport pyramid; metro strategy M3–M5 | Wicedyrektor BAiPP ds. polityki przestrzennej; odwrócona piramida transportowa; metro M3–M5 |
+| [[monika-wrobel\|Monika Wróbel]] | person | Architect/urbanist, Fundacja Skwer Sportów Miejskich; external commentator on Warsaw's Studium in RZUT-33 | Architektka/urbanistka, Fundacja Skwer Sportów Miejskich; zewnętrzna komentatorka Studium w RZUT-33 |
 
 ---
 
@@ -236,7 +256,11 @@ _Last updated: 2026-04-13 — 28 sources ingested_
 | [[risk-in-play\|Risk in Play]] | sociology, urban-design | Physical risk as crucial developmental need; removed by safety culture | Ryzyko fizyczne jako potrzeba rozwojowa; usuwane przez kulturę bezpieczeństwa |
 | [[guantanamo-gardens\|Guantanamo Gardens]] | urbanism, real-estate | Micro-playgrounds fenced solely to meet legal residential mandates | Mikro-place zabaw grodzone tylko po to, by spełnić wymogi prawne |
 | [[4s-formula\|4S Formula]] | urban-design | Baseline playground standard: Swing, See-saw, Slide, Sandbox | Standard placu zabaw: huśtawka, ważka, zjeżdżalnia, piaskownica |
-| [[third-landscape\|Third Landscape]] | theory, landscape | Clément's concept; abandoned urban margins as vital biodiversity refuges | Koncepcja Clémenta; porzucone marginesy miejskie jako ostoje bioróżnorodności |
+| [[third-landscape\|Third Landscape]] | theory, landscape | Clément's concept; undecided fragments of Planetary Garden; primary sets + neglected lands + reserves; biological corridors; anti-heritage-fixation | Koncepcja Clémenta; niezdecydowane fragmenty Ogrodu Planetarnego; zestawy pierwotne + porzucone tereny + rezerwaty; korytarze biologiczne |
+| [[planetary-garden\|Planetary Garden]] | theory, landscape | Clément's concept of the planet as a single enclosed garden; biosphere as enclosure; frame for Third Landscape | Koncepcja Clémenta: planeta jako jeden ogród; biosfera jako ogrodzenie; ramy dla Trzeciego Krajobrazu |
+| [[biological-corridor\|Biological Corridor]] | landscape, urbanism | Linear Third Landscape fragments (hedges, roadsides, riverbanks) connecting reserves; urban mesh permeability determines corridor survival | Liniowe fragmenty Trzeciego Krajobrazu (żywopłoty, pobocza, brzegi rzek) łączące rezerwaty; przepuszczalność siatki miejskiej decyduje o ich przetrwaniu |
+| [[blue-green-infrastructure\|Blue-Green Infrastructure]] | urbanism, ecology | Sponge city framework; water + greenery as "soft infrastructure" equal to roads and sewers; Warsaw BZIW (green rings, linear parks, air corridors) as key example | Ramy miasto-gąbka; woda + zieleń jako "miękka infrastruktura"; BZIW Warszawy (zielone pierścienie, parki linearne, korytarze powietrza) jako przykład kluczowy |
+| [[inverted-transport-pyramid\|Inverted Transport Pyramid]] | urbanism, transport | Modal hierarchy: pedestrian → bicycle → public transport → car; Warsaw Studium's organising transport principle; 80% within rail access by 2050 | Hierarchia modalna: pieszy → rower → transport → auto; zasada organizująca politykę transportową Studium Warszawy; cel 80% w zasięgu kolei do 2050 |
 | [[national-park-city\|National Park City]] | urbanism | Applying national park ethos to entire cities; London designated 2019 | Zastosowanie etosu parku narodowego do całych miast; Londyn jako pierwszy w 2019 |
 | [[naturocene\|Naturocene]] | theory | Periscope's concept; era of mutually supportive urbanization and nature | Koncepcja Periscope; epoka wzajemnie wspierającej się urbanizacji i natury |
 | [[rammed-earth\|Rammed Earth]] | materials, construction | Earth compacted in formwork; load-bearing; geological strata visible in cross-section | Ziemia ubijana w deskowaniu; nośna; geologiczne warstwy widoczne w przekroju |
