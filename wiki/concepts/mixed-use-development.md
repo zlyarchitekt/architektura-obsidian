@@ -4,7 +4,7 @@ name: "Mixed-Use Development"
 aliases: ["Mixed-Use Development", "Mixed Use"]
 domain: urbanism, architecture, real estate
 tags: [urbanism, programme, zoning, density, commercial, residential, public]
-source_count: 2
+source_count: 3
 ---
 
 ## Definition
@@ -56,10 +56,13 @@ The return to mixed-use was theorised by Jacobs and later became mainstream plan
 - [[capitaspring-cra-big]]: Office, serviced residence, hawker centre, restaurants, public space stacked in a 51-storey tower.
 - [[bund-finance-centre-foster-heatherwick]]: Offices, hotel, cultural centre, luxury retail, public plaza across 8 buildings.
 
+- [[rzut-33-07-madre-dogeszczanie]]: Kuba Snopek frames Warsaw's coming development generation as inherently mixed-use — as the city runs out of simple development plots, future projects will combine multiple functions and be negotiated between public and private actors (PPP, lex developer). The Studium unlocks former industrial, rail, and shopping-centre sites for intensive mixed-use development. The Warsaw context gives mixed-use a specific planning logic: not just an architectural choice but the structural consequence of urban infill pressure.
+
 **PL:**
 - [[capitaspring-cra-big]]: Biura, apartamenty serwisowane, hawker centre, restauracje, przestrzeń publiczna skumulowane w 51-piętrowej wieży.
 - [[bund-finance-centre-foster-heatherwick]]: Biura, hotel, centrum kultury, luksusowy handel, plaza publiczna w 8 budynkach.
+- [[rzut-33-07-madre-dogeszczanie]]: Snopek — zabudowa wielofunkcyjna jako strukturalna konsekwencja dogęszczania Warszawy; aktywacja terenów poprzemysłowych i kolejowych; PPP i lex developer jako przyszłe formaty.
 
 ## See Also
 
-[[CapitaSpring]], [[The Bund Finance Centre]], [[Biophilic Design]], [[Urban Masterplan]]
+[[CapitaSpring]], [[The Bund Finance Centre]], [[Biophilic Design]], [[Smart Densification]], [[Kuba Snopek]], [[BAiPP]], [[SUiKZP]]

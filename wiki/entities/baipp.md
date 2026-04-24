@@ -3,7 +3,7 @@ type: entity
 entity_type: organization
 name: "BAiPP"
 tags: [planning, urbanism, warsaw, architecture, public-sector]
-source_count: 6
+source_count: 8
 aliases: ["BAiPP", "Biuro Architektury i Planowania Przestrzennego"]
 ---
 
@@ -34,6 +34,8 @@ Key BAiPP staff active in RZUT-33: [[Wojciech Kacperski]] (author of overview ar
 - [[rzut-33-04-ramy-rozwoju]]: interview with Monika Konrad (BAiPP chief designer) on the Studium's analytical methodology — morphological typology, ecosystem services analysis, data gaps, legal limitations, and BZIW implementation logic.
 - [[rzut-33-05-rownouprawnienie-uczestnikow-ruchu]]: interview with Bartosz Rozbiewski (BAiPP deputy director for spatial policy) on the transport and mobility dimension — inverted transport pyramid, metro strategy (M3–M5), parking reform, and transit value-capture gap.
 - [[rzut-33-06-miasto-jako-ekosystem]]: BAiPP's Studium assessed from an external practitioner's perspective (Dr. Monika Wróbel); ecosystem framing endorsed as governance innovation; car restriction predicted as main controversy.
+- [[rzut-33-07-madre-dogeszczanie]]: BAiPP's Studium assessed by [[Kuba Snopek]] (external consultant on communication); smart densification framing; Studium as "spatial constitution"; quality imperative; future PPP + mixed-use landscape.
+- [[rzut-33-08-spoleczna-wrazliwosc]]: BAiPP's Studium assessed by [[Marek Krajewski]] (sociologist, UAM); diagnostic quality praised; class-insensitivity critique; polycentric city risks; aging society and temporal conflict as planning challenges.
 
 **PL:**
 - [[rzut-33-01-wstepniak]]: BAiPP jako współproducent RZUT-33.
@@ -42,6 +44,8 @@ Key BAiPP staff active in RZUT-33: [[Wojciech Kacperski]] (author of overview ar
 - [[rzut-33-04-ramy-rozwoju]]: wywiad z Konrad (główna projektantka) — metodologia, typologia morfologiczna, analiza usług ekosystemowych, luki danych, ograniczenia prawne.
 - [[rzut-33-05-rownouprawnienie-uczestnikow-ruchu]]: wywiad z Rozbiewskim (polityka przestrzenna) — odwrócona piramida, metro M3–M5, polityka parkingowa.
 - [[rzut-33-06-miasto-jako-ekosystem]]: zewnętrzna ocena Studium przez dr Wróbel; myślenie ekosystemowe jako innowacja zarządcza.
+- [[rzut-33-07-madre-dogeszczanie]]: ocena zewnętrzna przez Snopka (konsultant komunikacyjny); mądre dogęszczanie; Studium jako "konstytucja przestrzenna"; przyszłość PPP.
+- [[rzut-33-08-spoleczna-wrazliwosc]]: ocena zewnętrzna przez prof. Krajewskiego (socjolog UAM); wysoka jakość diagnostyczna; krytyka wrażliwości klasowej; ryzyko policentryczności; starzejące się społeczeństwo i konflikty temporalne.
 
 ## See Also
 

@@ -6,7 +6,7 @@ aliases: ["Arup", "Ove Arup & Partners"]
 founded: 1946
 nationality: "British (headquarters: London; global)"
 tags: [engineering, structures, infrastructure, multidisciplinary, consulting]
-source_count: 1
+source_count: 2
 ---
 
 ## Overview
@@ -47,8 +47,10 @@ Influences: Arup's involvement in the Sydney Opera House shell vaults helped est
 ## In the Sources
 
 - [[heatherwick-little-island]]: Named as co-designer (alongside [[MNLA]]) of Little Island. The pile-and-planter system — existing piles of varying heights used to generate the park's topography — is a structural and landscape concept jointly attributed to the design team.
+- [[rzut-33-17-wizja-pierwszego-queer-miastx-w-pl]]: Arup's *Queering Public Space* report cited as evidence that queer planning has entered the commercial mainstream of planning consultancy in high-income countries — cited by [[Michał Kowalski]] as the benchmark against which Polish urbanists' silence is judged.
 
-**PL:** [[heatherwick-little-island]]: Wymieniony jako współprojektant (wraz z [[MNLA]]) Little Island. System pale-doniczka — istniejące pale różnych wysokości użyte do generowania topografii parku — to koncepcja strukturalno-krajobrazowa przypisana wspólnie zespołowi projektowemu.
+**PL:** [[heatherwick-little-island]]: Wymieniony jako współprojektant (wraz z [[MNLA]]) Little Island. System pale-doniczka — to koncepcja strukturalno-krajobrazowa przypisana wspólnie zespołowi projektowemu.
+[[rzut-33-17-wizja-pierwszego-queer-miastx-w-pl]]: Raport ARUP *Queering Public Space* cytowany jako dowód, że queerowe planowanie weszło do mainstreamu konsultingowego w krajach wysokorozwiniętych; benchmark dla milczenia polskich urbanistów.
 
 ## Contradictions / Open Questions
 

@@ -3,7 +3,7 @@ type: concept
 name: "Blue-Green Infrastructure"
 domain: urbanism, ecology, climate adaptation
 tags: [ecology, urbanism, climate, water, greenery, infrastructure, warsaw, poland]
-source_count: 4
+source_count: 5
 aliases: ["Blue-Green Infrastructure", "Błękitno-Zielona Infrastruktura", "BGI", "BZIW"]
 ---
 
@@ -21,7 +21,7 @@ The concept emerged from European and North American urban ecology research in t
 
 ## Key Proponents
 
-[[Marlena Happach]], [[BAiPP]], [[Wojciech Kacperski]]
+[[Marlena Happach]], [[BAiPP]], [[Wojciech Kacperski]], [[Magdalena Krzoska-Hołody]] (cultural networks as BGI knowledge infrastructure)
 
 ## Key Examples
 
@@ -58,12 +58,15 @@ BGI is increasingly mandated in EU urban planning, but implementation depends on
 - [[rzut-33-04-ramy-rozwoju]]: Konrad describes the ecosystem services analysis (first in Poland; comparable to Barcelona, Berlin, New York) as the methodological basis for BZIW designations; explains the Green Rings logic — protect existing green areas first, then create connections between them.
 - [[rzut-33-05-rownouprawnienie-uczestnikow-ruchu]]: Rozbiewski presents the street typologies (*zielone aleje*, *ulice z parkami linearnymi*, *zielone pierścienie*) as integrated BZIW-mobility solutions — ecological corridors that simultaneously serve as active transport routes, operationalising the BZIW framework at street level.
 
+- [[rzut-33-09-wychodzenie-za-rog]]: Krzoska-Hołody identifies cultural institutions and NGOs (sieci kultury) as a ground-level mapping tool for BGI priorities — resident attachment to specific green fragments, including "architecture-free" undefined spaces (brownfields, railway margins), is documented through participatory observation of cultural-ecological events. The Łąki Golędzinowskie case shows that culturally-mediated attachment generates planning-relevant resistance to unwanted formalization. Cultural networks are proposed as a planning partner distinct from formal consultation surveys.
+
 **PL:**
 - [[rzut-33-02-nowe-studium-warszawy]]: Kacperski prezentuje BZIW jako szkielet strukturalny nowego Studium; zieleń i woda = "miękka infrastruktura".
 - [[rzut-33-03-warszawa-przyszlosci]]: Happach — BZIW w odporności klimatycznej; korytarze powietrza; bioróżnorodność.
 - [[rzut-33-04-ramy-rozwoju]]: Konrad — analiza usług ekosystemowych (pierwsza w Polsce) jako podstawa BZIW; logika zielonych pierścieni (chronić + łączyć).
 - [[rzut-33-05-rownouprawnienie-uczestnikow-ruchu]]: Rozbiewski — typologie ulic (zielone aleje, parki linearne, pierścienie) jako rozwiązania integrujące BZIW i mobilność.
+- [[rzut-33-09-wychodzenie-za-rog]]: Krzoska-Hołody — sieci kultury jako oddolne narzędzie mapowania priorytetów BZIW; Łąki Golędzinowskie; przestrzenie niedookreślone cenione wyżej niż parki.
 
 ## See Also
 
-[[Biological Corridor]], [[Landscape Urbanism]], [[Third Landscape]], [[Naturocene]], [[Spatial Planning (Poland)]], [[SUiKZP]], [[National Park City]], [[Marlena Happach]], [[Urban Sprawl]]
+[[Biological Corridor]], [[Landscape Urbanism]], [[Third Landscape]], [[Naturocene]], [[Spatial Planning (Poland)]], [[SUiKZP]], [[National Park City]], [[Marlena Happach]], [[Urban Sprawl]], [[Natureculture]], [[Magdalena Krzoska-Hołody]]
