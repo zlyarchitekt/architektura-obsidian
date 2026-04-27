@@ -1,6 +1,6 @@
 # Wiki Index
 
-_Last updated: 2026-04-24 — 51 sources ingested_
+_Last updated: 2026-04-25 — 54 sources ingested_
 
 ---
 
@@ -57,6 +57,9 @@ _Last updated: 2026-04-24 — 51 sources ingested_
 | [[rzut-33-16-o-mapach-i-ich-klamstwach]]           | O Mapach i Ich Kłamstwach — Kontrmapowanie (RZUT-33)                                  | Weronika Kozak                          | 2022       | 2026-04-24 |
 | [[rzut-33-17-wizja-pierwszego-queer-miastx-w-pl]]  | Wizja Pierwszego Queer Miastx w PL — 1QMXPL (RZUT-33)                                | Michał Kowalski                         | 2022       | 2026-04-24 |
 | [[rzut-33-18-podmiejskie-biografie]]               | Podmiejskie Biografie — wywiad z Katarzyną Kajdanek (RZUT-33)                         | Zofia Piotrowska / Katarzyna Kajdanek   | 2022       | 2026-04-24 |
+| [[rzut-34-01-plec-wstepniak]]                      | PŁEĆ — Wstępniak (RZUT-34)                                                            | Milena Trzcińska / Łukasz Stępnik / BAL architektek | 2023 | 2026-04-25 |
+| [[rzut-34-02-100-lat-architektek]]                 | 100 Lat Architektek: Architektura i 'Kwestia Kobieca' (RZUT-34)                       | Joanna Majczyk, Agnieszka Tomaszewicz   | 2023       | 2026-04-25 |
+| [[rzut-34-03-architektki-na-uczelniach]]           | Architektki na Uczelniach (RZUT-34)                                                   | Aleksandra Gryc                         | 2023       | 2026-04-25 |
 
 ---
 
@@ -263,6 +266,17 @@ _Last updated: 2026-04-24 — 51 sources ingested_
 | [[michal-kowalski\|Michał Kowalski]] | person | Polish urbanist-activist; queer planning; 1QMXPL manifesto; introduced queer urbanism to Polish discourse; "Wizja 1QMXPL" (RZUT-33) | Polski urbanista-aktywista; queerowa planistyka; manifest 1QMXPL; wprowadzenie queer urbanism do polskiego dyskursu |
 | [[katarzyna-kajdanek\|Katarzyna Kajdanek]] | person | Polish urban sociologist; suburbanisation; *Powrotnicy*; podmiejski nomad; state housing abdication thesis | Polska socjolożka miast; suburbanizacja; *Powrotnicy*; podmiejski nomad; teza o abdykacji państwa z polityki mieszkaniowej |
 | [[zofia-piotrowska\|Zofia Piotrowska]] | person | Polish urbanist/editor; RZUT; "Ustanowiony chaos" (with Uściński); "Podmiejskie Biografie" interviewer | Polska urbanistka/redaktorka; RZUT; "Ustanowiony chaos"; prowadząca wywiad "Podmiejskie Biografie" |
+| [[jadwiga-dobrzynska\|Jadwiga Dobrzyńska]] | architect | First female architecture graduate in Poland (1922, WA PW); competition laureate; "chodząca encyklopedia zawodu"; exception not rule | Pierwsza kobieta z dyplomem architektonicznym w Polsce (1922, WA PW); laureatka konkursów; ikona pionierek |
+| [[wanda-wierzbicka-nettowa\|Wanda Wierzbicka-Nettowa]] | architect | Co-first female architecture graduate in Poland (1922, WA PW); today largely forgotten | Współpierwsza kobieta z dyplomem architektonicznym w Polsce (1922); dziś zapomniana |
+| [[barbara-brukalska\|Barbara Brukalska]] | architect | Polish modernist architect (1899–1980); Dom Brukalskich; WSM Żoliborz; professor WA PW 1948; first-person testimony on interwar gender barriers | Polska architektka modernistyczna (1899–1980); Dom Brukalskich; WSM Żoliborz; profesura WA PW 1948; świadectwo barier zawodowych |
+| [[adrianna-gorska\|Adrianna Górska]] | architect | Polish avant-garde architect (1899–1969); interwar Paris; icon of progressive architectural milieu | Polska architektka awangardowa (1899–1969); Paryż lat 20.–30.; ikona postępowego środowiska architektonicznego |
+| [[ewa-kurylowicz\|Ewa Kuryłowicz]] | architect | Polish architect; SARP Honorowa Nagroda 2021 (only 3rd woman to receive it independently in 57 years) | Polska architektka; Honorowa Nagroda SARP 2021 (trzecia kobieta samodzielnie przez 57 lat) |
+| [[halina-skibniewska\|Halina Skibniewska]] | architect | Polish architect and MP (1921–2011); SARP Honorowa Nagroda 1978 (second woman independently) | Polska architektka i posłanka (1921–2011); Honorowa Nagroda SARP 1978 (druga kobieta samodzielnie) |
+| [[elzbieta-trocka-leszczynska\|Elżbieta Trocka-Leszczyńska]] | architect | First female dean at WA PWr (from 1993); 45 years after faculty founding | Pierwsza kobieta we władzach WA PWr (prodziekan od 1993); 45 lat po założeniu wydziału |
+| [[joanna-majczyk\|Joanna Majczyk]] | person | Architectural historian, PWr; "100 Lat Architektek" (RZUT-34); women in Polish architectural profession | Historyczka architektury, PWr; "100 Lat Architektek"; kobiety w polskim zawodzie architektonicznym |
+| [[agnieszka-tomaszewicz\|Agnieszka Tomaszewicz]] | person | Architectural historian, PWr; "100 Lat Architektek" (RZUT-34); Docomomo 2022 | Historyczka architektury, PWr; "100 Lat Architektek"; Docomomo 2022 |
+| [[aleksandra-gryc\|Aleksandra Gryc]] | person | Researcher; GCI and flow index analysis of Polish architecture faculties; "Architektki na Uczelniach" (RZUT-34) | Badaczka; analiza GCI i indeksu przepływów na polskich uczelniach architektonicznych |
+| [[milena-trzcinska\|Milena Trzcińska]] | person | Polish architect and editor; RZUT co-editor; co-edited RZUT-34 PŁEĆ issue with BAL architektek | Polska architektka i redaktorka; współredaktorka RZUT; RZUT-34 PŁEĆ z BAL architektek |
 
 ---
 
@@ -356,6 +370,8 @@ _Last updated: 2026-04-24 — 51 sources ingested_
 | [[funerary-planning\|Funerary Planning]] | urbanism, planning, social policy | Cemetery accessibility as spatial justice; Poland's 1959 law; Podlaskie case (68,901/communal cemetery); secularization gap; Danish model | Dostępność cmentarzy jako sprawiedliwość przestrzenna; ustawa 1959; Podlaskie (68 901 os./cmentarz); luka sekularyzacyjna |
 | [[counter-cartography\|Counter-cartography]] | urbanism, activism, political theory | Maps as political tools; counter-mapping (Peluso, Denis Wood, Bureau d'Etudes); AEMP, Port Said, Queering The Map, Unanyan Kolkata | Mapy jako narzędzia władzy; kontrmapowanie; AEMP, Port Said, Queering The Map, Unanyan Kalkuta |
 | [[queer-planning\|Queer Planning]] | urbanism, theory, social policy | Heteronormative planning critique; 1QMXPL manifesto; process over product; queer as verb; Butler; dispersed network vs. gay enclave | Krytyka heteronormatywnego planowania; manifest 1QMXPL; proces ponad produkt; queer jako czasownik; Butler |
+| [[feminization-of-architecture\|Feminization of Architecture]] | sociology, profession, gender | Paradox: majority of women in architecture education ≠ majority in professional power; GCI; leaky pipeline; Polish data 1922–2023 | Paradoks feminizacji: dominacja liczebna w edukacji ≠ władza zawodowa; GCI; dziurawy rurociąg; dane polskie 1922–2023 |
+| [[glass-ceiling-in-architecture\|Glass Ceiling in Architecture]] | sociology, profession, gender | GCI (architecture = 1.29); leaky pipeline; flow index; SARP 6/74 Honorowa Nagroda; structural barriers independent of pipeline size | GCI (architektura = 1,29); dziurawy rurociąg; indeks przepływów; 6/74 Honorowa Nagroda SARP; bariery strukturalne |
 
 ---
 

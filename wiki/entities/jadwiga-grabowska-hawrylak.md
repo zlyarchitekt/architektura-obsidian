@@ -7,7 +7,7 @@ born: 1920
 died: 2018
 nationality: Polish
 tags: [architecture, post-war-modernism, brutalism, wrocław]
-source_count: 1
+source_count: 2
 ---
 
 ## Overview
@@ -24,6 +24,11 @@ She famously stated that modernism is characterized by beautiful, white facades 
 
 ## In the Sources
 - [[modernizm-w-polsce-wiki-pl]]: Documented as a critical voice defending modernist original textures against destructive "pasteloza" thermo-modernization, and recognized for her radical, Corbusian-inspired housing solutions in Wrocław.
+- [[rzut-34-02-100-lat-architektek]]: Identified as one of the rare women who held leadership of small project teams at state design offices (Miastoprojekt); cited as 1974 SARP Honorowa Nagroda laureate — the first woman to receive the award independently.
+
+**PL:**
+- [[modernizm-w-polsce-wiki-pl]]: Obrona modernistycznej tektoniki przed "pastelozą".
+- [[rzut-34-02-100-lat-architektek]]: Jedna z nielicznych kobiet w kierownictwie małych zespołów projektowych; laureatka Honorowej Nagrody SARP 1974 — pierwsza kobieta samodzielnie.
 
 ## See Also
-[[Post-war Modernism]], [[Thermo-modernization]], [[Le Corbusier]]
+[[Post-war Modernism]], [[Thermo-modernization]], [[Le Corbusier]], [[Halina Skibniewska]], [[Ewa Kuryłowicz]], [[Feminization of Architecture]]
