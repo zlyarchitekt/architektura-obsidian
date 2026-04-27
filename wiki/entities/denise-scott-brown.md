@@ -6,7 +6,7 @@ aliases: ["Denise Scott Brown", "Scott Brown"]
 born: 1931
 nationality: American-Zambian
 tags: [architecture, theory, postmodernism, gender, pritzker-controversy]
-source_count: 1
+source_count: 2
 ---
 
 ## Overview
@@ -26,9 +26,11 @@ Scott Brown brought an urbanist, sociological, and pop-culture perspective to ar
 
 ## In the Sources
 - [[pritzker-architecture-prize-wiki]]: Her exclusion from her husband Robert Venturi's 1991 Pritzker Prize is cited as a prime example of the prize's historical structural bias and its promotion of the "single lone male genius" fallacy. A 2013 petition at Harvard GSD demanding her recognition garnered thousands of signatures, though the Pritzker jury refused to alter its historical decision.
+- [[rzut-34-01-plec-wstepniak]]: Cited as the canonical international example of the systemic invisibility of women's professional contributions — "Ach! To pan jest TYM architektem! O! Pani też jest architektem?" — the party-guest dynamic in which a famous architectural couple is read as one male genius and his wife.
 
 **PL:**
-- [[pritzker-architecture-prize-wiki]]: Wykluczenie jej z nagrody Pritzkera jej męża z 1991 roku jest podawane jako główny przykład historycznego błędu "samotnego geniusza". Petycja z 2013 r. (odrzucona przez jury).
+- [[pritzker-architecture-prize-wiki]]: Wykluczenie z nagrody Pritzkera jako przykład mitu "samotnego geniusza".
+- [[rzut-34-01-plec-wstepniak]]: Kanoniczny przykład systemowej niewidzialności wkładu kobiet: "To pan jest TYM architektem".
 
 ## Contradictions / Open Questions
 The Pritzker jury's refusal to retroactively recognize her, citing rules against changing past juries' decisions, highlights an ongoing conflict between contemporary ethics of collaborative authorship and institutional inertia.

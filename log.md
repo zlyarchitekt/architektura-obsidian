@@ -614,3 +614,35 @@ Parse tip: `grep "^## \[" log.md | tail -10`
   - `wiki/entities/arup.md` (source_count 1→2; In the Sources: rzut-33-17 added — ARUP's *Queering Public Space* report as evidence of queer planning entering commercial mainstream)
   - `index.md` (51 sources; 3 new source rows; 5 new entity rows; 2 new concept rows; urban-sprawl row unchanged as description was already accurate)
 - **Notes**: Articles 16–18 conclude RZUT-33 Planowanie (2022). Key intellectual contributions: (1) Article 16 introduces counter-cartography as a spatial-political methodology and applies it via five cases to show how maps can be tools of emancipation as well as control. The key tension — counter-maps inherit cartography's distortions; visibility enables community but endangers vulnerable people — adds a new epistemological strand to the wiki's spatial justice themes; (2) Article 17 is the wiki's first engagement with queer theory in urban planning. Kowalski's 1QMXPL is explicitly utopian but theoretically grounded: queer as verb (Butler), process over product (Hendler & Backs), dispersed network over territorial enclave, extreme characters design as a general-purpose design principle. The tension with the Polish political context (2022: anti-LGBTQ+ hostility at national policy level) gives the essay historical weight; (3) Article 18 provides the most sociologically rich account of suburbanisation in the wiki. Kajdanek's state-abdication thesis reframes urban sprawl not as cultural preference but as the structural consequence of housing policy failure — directly extending the housing crisis, spatial planning, and spatial justice themes already present. The podmiejski nomad figure and the air quality inversion finding are ethnographically striking and independently useful. RZUT-33 ingest now complete (articles 1–18 + authors list not ingested as content).
+
+---
+
+## [2026-04-25] ingest | RZUT-34 articles 01–03 (PŁEĆ wstępniak, 100 Lat Architektek, Architektki na Uczelniach)
+
+- **Action**: Ingest of first three articles from RZUT-34 (PŁEĆ, 2023) — co-production of RZUT and BAL architektek. Article 01: editorial by Milena Trzcińska / Łukasz Stępnik (RZUT) + BAL architektek framing the PŁEĆ issue around intersectional gender inequality in architecture; Article 02: Joanna Majczyk + Agnieszka Tomaszewicz's historical survey of 101 years of women in Polish architecture (1922–2023); Article 03: Aleksandra Gryc's statistical analysis of women on Polish architecture faculties using GCI and flow index methodology.
+- **Pages created**:
+  - `wiki/sources/rzut-34-01-plec-wstepniak.md` — editorial PŁEĆ; archidziadocen; purplewashing; intersectionality in architecture; RIBA 2003; Denise Scott Brown effect; cult of male name; LGBTQ+ urban islands
+  - `wiki/sources/rzut-34-02-100-lat-architektek.md` — 100 years of women in Polish architecture; Dobrzyńska + Wierzbicka-Nettowa 1922; Brukalska testimony; Manikowska 1939; WA PWr feminisation data; Miastoprojekt statistics; SARP Honorowa Nagroda 6 vs 68; IARP 45%; Poland 21./27 EU
+  - `wiki/sources/rzut-34-03-architektki-na-uczelniach.md` — GCI (architecture = 1.29); 70% women students; flow index 8.84; leaky pipeline; best-in-technical-sector but below parity
+  - `wiki/entities/jadwiga-dobrzynska.md` — first female architecture graduate in Poland (1922); "chodząca encyklopedia"; exception not rule
+  - `wiki/entities/wanda-wierzbicka-nettowa.md` — co-first female architecture graduate (1922); today largely forgotten; obscurity itself historically significant
+  - `wiki/entities/barbara-brukalska.md` — key modernist architect; WSM Żoliborz; professor WA PW 1948; direct testimony on interwar barriers; separated from Stanisław Brukalski's page
+  - `wiki/entities/adrianna-gorska.md` — Polish avant-garde architect; Paris 1920s–30s; icon of interwar progressive milieu
+  - `wiki/entities/ewa-kurylowicz.md` — 2021 SARP Honorowa Nagroda laureate; third woman independently; acceptance speech framing award as recognition of women architects as a group
+  - `wiki/entities/halina-skibniewska.md` — 1978 SARP Honorowa Nagroda; second woman independently; architect and MP
+  - `wiki/entities/elzbieta-trocka-leszczynska.md` — first female dean at WA PWr (from 1993); 45 years after faculty founding
+  - `wiki/entities/joanna-majczyk.md` — architectural historian, PWr; article 02 co-author; Docomomo 2022 paper
+  - `wiki/entities/agnieszka-tomaszewicz.md` — architectural historian, PWr; article 02 co-author
+  - `wiki/entities/aleksandra-gryc.md` — researcher; GCI and flow index analysis; article 03 author
+  - `wiki/entities/milena-trzcinska.md` — RZUT co-editor; RZUT-34 editorial co-author
+  - `wiki/concepts/feminization-of-architecture.md` — feminisation paradox (education majority ≠ professional power); Polish statistics; GCI; leaky pipeline; flow index; archidziadocen; interwar history; contemporary data
+  - `wiki/concepts/glass-ceiling-in-architecture.md` — GCI methodology; leaky pipeline; flow index; Polish award/jury/licensing data; structural barriers independent of pipeline size
+- **Pages updated**:
+  - `wiki/entities/bal-architektek.md` (source_count 1→2; RZUT-34-01 added to In the Sources; See Also expanded)
+  - `wiki/entities/helena-syrkusowa.md` (source_count 1→2; rzut-34-02 added)
+  - `wiki/entities/jadwiga-grabowska-hawrylak.md` (source_count 1→2; rzut-34-02 added — Miastoprojekt leadership + SARP 1974 Honorowa Nagroda context; See Also expanded)
+  - `wiki/entities/denise-scott-brown.md` (source_count 1→2; rzut-34-01 added — cited as canonical example of attributional invisibility in architecture couples)
+  - `wiki/entities/stanislaw-brukalski.md` (aliases: "Barbara Brukalska" removed — she now has her own page; See Also → Barbara Brukalska added)
+  - `wiki/concepts/equitable-design.md` (source_count 1→3; rzut-34-01 and rzut-34-02 added to In the Sources; See Also expanded)
+  - `index.md` (51→54 sources; 11 new entity rows; 2 new concept rows)
+- **Notes**: RZUT-34 opens a new thematic cluster in the wiki: gender and the architectural profession. The three articles together build a coherent argument: the interwar editorial sets the intersectional frame; the historical survey documents 101 years of structural inequality with archival specificity; the statistical analysis quantifies the contemporary glass ceiling. Key contributions to the wiki: (1) First detailed treatment of women's architectural history in Poland 1922–2023; (2) Introduction of GCI and flow index as quantitative tools for tracking glass ceiling; (3) Barbara Brukalska given her own page (previously merged into Stanisław Brukalski) — her testimony on interwar barriers is one of the most important first-person documents in the wiki on gender and professional discrimination; (4) The "purplewashing" concept and "archidziadocen" neologism add to the wiki's vocabulary for discussing the gap between symbolic and structural change. Remaining RZUT-34 articles (04–12) to be ingested in subsequent sessions.

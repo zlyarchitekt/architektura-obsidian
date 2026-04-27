@@ -2,7 +2,7 @@
 type: entity
 entity_type: person
 name: "Stanisław Brukalski"
-aliases: ["Stanisław Brukalski", "Barbara Brukalska"]
+aliases: ["Stanisław Brukalski"]
 born: 1894
 died: 1967
 nationality: Polish
@@ -26,4 +26,4 @@ The Brukalskis were profoundly influenced by the Dutch neoplasticism of De Stijl
 - [[modernizm-w-polsce-wiki-pl]]: Cited for the iconic 1927 private villa and for laying the groundwork for modernist cooperative housing in Żoliborz.
 
 ## See Also
-[[Modernism]], [[Free Plan]]
+[[Barbara Brukalska]], [[Modernism]], [[Free Plan]]

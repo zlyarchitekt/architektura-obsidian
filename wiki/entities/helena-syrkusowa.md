@@ -7,7 +7,7 @@ born: 1900
 died: 1982
 nationality: Polish
 tags: [architecture, modernism, wsm, praesens, ciam]
-source_count: 1
+source_count: 2
 ---
 
 ## Overview
@@ -27,9 +27,11 @@ Helena and Szymon Syrkus were deep believers in the social mission of architectu
 
 ## In the Sources
 - [[modernizm-architektura-wiki-pl]]: Mentioned alongside Szymon Syrkus in the list of select key representatives of modernism.
+- [[rzut-34-02-100-lat-architektek]]: Named as one of the icons of the interwar Polish avant-garde architectural milieu alongside [[Barbara Brukalska]], [[Adrianna Górska]], and Anatolia Piotrowska.
 
 **PL:**
 - [[modernizm-architektura-wiki-pl]]: Wymieniona wraz z Szymonem w ogólnym wykazie wyselekcjonowanych przedstawicieli modernizmu.
+- [[rzut-34-02-100-lat-architektek]]: Wymieniona jako ikona przedwojennego awangardowego środowiska architektonicznego (razem z Brukalską, Górską, Piotrowską).
 
 ## See Also
 [[Szymon Syrkus]], [[CIAM]], [[Post-war Modernism]]

@@ -3,7 +3,7 @@ type: concept
 name: "Equitable Design"
 domain: theory, urbanism
 tags: [feminism, sociology, gender-mainstreaming]
-source_count: 1
+source_count: 3
 aliases: ["Equitable Design", "Projektowanie Równoprawne", "Feminist Architecture", "Feministyczna Urbanistyka"]
 ---
 
@@ -25,7 +25,14 @@ Leslie Kern (*Feminist City*), [[BAL architektek]], [[Architektoniczki]]
 Often diluted by corporate developers into superficial inclusivity rather than addressing the structural power dynamics of space.
 
 ## In the Sources
-- Discussed as the central postulate of young female architectural collectives in Poland, negotiating between activism and the pragmatic reality of dealing with conservative clients in [[rzut-bal-architektoniczki]].
+- [[rzut-bal-architektoniczki]]: Discussed as the central postulate of young female architectural collectives in Poland, negotiating between activism and the pragmatic reality of dealing with conservative clients.
+- [[rzut-34-01-plec-wstepniak]]: Editorial positions equitable/inclusive design as grounded in intersectional feminism — attentive to reproductive labour, care work, LGBTQ+ spatial needs, and non-human nature. Purplewashing identified as the failure mode when symbolic reform substitutes for structural change.
+- [[rzut-34-02-100-lat-architektek]]: Historical evidence that equitable professional conditions for women architects in Poland have not been achieved despite 100+ years of presence in the profession.
+
+**PL:**
+- [[rzut-bal-architektoniczki]]: Projektowanie równoprawne jako postulat polskich kolektywów architektonicznych.
+- [[rzut-34-01-plec-wstepniak]]: Inkluzywne projektowanie zakorzenione w interssekcjonalnym feminizmie; purplewashing jako tryb niepowodzenia.
+- [[rzut-34-02-100-lat-architektek]]: Dowód historyczny: równościowe warunki zawodowe dla architektek w Polsce po 100+ latach wciąż nieosiągnięte.
 
 ## See Also
-[[Football-centrism]]
+[[Football-centrism]], [[Feminization of Architecture]], [[Glass Ceiling in Architecture]], [[BAL architektek]]
