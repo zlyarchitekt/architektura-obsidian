@@ -16,6 +16,7 @@ Od małego dziewczynki socjalizowane są tak, by się nie wychylały, nie przesz
 
 - 1 Her City, Cities for Girls, Cities for All. Report from the Vinnova Innovation for Gender Equality Project, Kenia 2022.
 
+
 ćwiczyć, ale najlepiej w przestrzeni domowej, w klubie fitness lub na grodzonym osiedlu. Z kolei chłopcy – przeciwnie, od dziecka mają większe przyzwolenie na uczenie się na własnych błędach, co jest dodatkowo gratyfikowane. Liczne
 
 PODNOSZENIE KWESTII PŁCI W PROJEKTOWANIU W WIELU KRAJACH STAJE SIĘ NORMĄ. TWORZONE SĄ JEDNOSTKI ADMINISTRACYJNE, KTÓRYCH CELEM JEST ZMNIEJSZENIE
@@ -35,7 +36,9 @@ Dostęp do publicznych przestrzeni sportowych, ograniczany kobietom od dziecka, 
 - 3 – nieopresyjna i przeciwdziałająca nękaniu,
 - 4 – zapewniająca przestrzeń do ćwiczeń dla dziewczynek, 5 – organizująca wydarzenia i kampanie skierowane do dziewczyn, 6 – kreująca bardziej atrakcyjne i pobudzające do działań przestrzenie włączające we współtworzenie”.
 
+
 - 3 WHO, Obesity and overweight, raport z 2021 r.
+
 
 ma charakter społeczny – zawiązywane wokół jednej zajawki relacje często pozostają na lata. Ograniczenia polegające na stereotypowym postrzeganiu ról prowadzą w przypadku kobiet i dziewczyn do wykluczenia uczestnictwa w wielu formach spędzania czasu w przestrzeni publicznej.
 
@@ -71,6 +74,7 @@ PRZEMOCĄ UNIEMOŻLIWIA POCZUCIE SWOBODY I TYM SAMYM ZNIECHĘCA DO KORZYSTANIA Z
 - 7 A. Holmes i in., What makes a park feel safe or unsafe? The views of women, girls and professionals in West Yorkshire, Leeds 2022.
 - 8 Yorkshire Sport Fundation, dz. cyt.
 
+
 ## 95 — — płećdziałać
 
 9634 —RZUT+
@@ -104,6 +108,7 @@ W odpowiedzi na pytanie o pomysły na udoskonalenie skateparku w taki sposób, �
 - - zapewnienie toalety publicznej,
 - - wyznaczenie osoby odpowiedzialnej za porządek na skateparku,
 - - wyznaczenie dni „tylko dla dziewczyn”.
+
 
 Skatepark to jednak nietypowa przestrzeń. O ile większość dziedzin sportu polega na rywalizacji, na skateparku chodzi bardziej o działanie w ramach społeczności, co było widoczne podczas olimpiady w Tokio, kiedy wszystkie zwyciężczynie stanęły razem na jednym podium i nawzajem cieszyły się ze swoich sukcesów. W naszej ankiecie zapytałyśmy dziewczyny także o to, co sprawia, że lubią spędzać czas na skateparku. Wśród odpowiedzi dominowała chęć integracji i wspólna zabawa.
 
@@ -161,6 +166,7 @@ Zapewnienie multifunkcjonalnej przestrzeni, w której każda grupa wiekowa, od m
 - 14 Badanie na temat molestowania seksualnego w miejscach publicznych przeprowadzone przez firmę Ipsos dla L’Oréal Polska na grupie 2000 osób w marcu 2021 r., www.lorealparis.pl/stand-up (data dostępu: 23.04 2023).
 - 15 Make space for girls, https://www.makespaceforgirls.co.uk/case-studies/umea
 
+
 ![image 6](10_SPORTPATRIARCHAT_images/imageFile6.png)
 
 99 — — płećdziałać
@@ -179,6 +185,7 @@ Poprawa infrastruktury w postaci toalet publicznych stanowi podstawę myślenia 
 
 - 16 Glasgow becomes ‚UK’s first feminist city’ as town planning motion from councillor Holly Bruce passes, scotsman.com (data dostępu: 23.04.2022).
 - 17 M. Sidorova i in., How to Design a Fair Shared City, Prague 2016.
+
 
 10034 —RZUT+
 

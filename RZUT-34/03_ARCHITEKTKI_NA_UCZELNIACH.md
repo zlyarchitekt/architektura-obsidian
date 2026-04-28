@@ -13,6 +13,7 @@ pełnoprawnego udziału kobiet w życiu publicznym jako samodzielnych i wolnych 
 - 19 https://www.designalive.pl/ewa-kurylowicz-laureatka-honorowej-nagrody-sarp-2021/ (data dostępu: 26.05.2023).
 - 20 https://eige.europa.eu/sites/default/files/the_index_press_release_final_pl.pdf (data dostępu: 29.05.2023).
 
+
 15 — — płećwidzieć
 
 ARCHITEKTKI NA UCZELNIACH
@@ -57,11 +58,13 @@ Il. 1. Procentowy udział kobiet wśród studentów publicznych uczelni na poszc
 
 - Il. 2. Procentowy udział kobiet wśród studentów publicznych uczelni na wydziałach architektury oraz wydziałach architektury i budownictwa w roku 2021
 
+
 ![image 6](03_ARCHITEKTKI_NA_UCZELNIACH_images/imageFile6.png)
 
 2034 —RZUT+
 
 - Il. 3. Procentowy udział kobiet wśród studentów polskich politechnik na wydziałach architektonicznych w roku 2018/2019
+
 
 ![image 7](03_ARCHITEKTKI_NA_UCZELNIACH_images/imageFile7.png)
 
@@ -71,6 +74,7 @@ Il. 1. Procentowy udział kobiet wśród studentów publicznych uczelni na poszc
 
 - Il. 4. Zmiany w procentowym udziale kobiet wśród studentów Wydziału Architektury Politechniki Wrocławskiej na przestrzeni lat
 
+
 ![image 9](03_ARCHITEKTKI_NA_UCZELNIACH_images/imageFile9.png)
 
 ![image 10](03_ARCHITEKTKI_NA_UCZELNIACH_images/imageFile10.png)
@@ -79,15 +83,18 @@ Il. 1. Procentowy udział kobiet wśród studentów publicznych uczelni na poszc
 
 - Il. 5. Udział kobiet wśród wszystkich studentów, naukowców i profesorów publicznych uczelni architektonicznych w Polsce w roku 2022
 
+
 ![image 11](03_ARCHITEKTKI_NA_UCZELNIACH_images/imageFile11.png)
 
 23 — — płećwidzieć
 
 - Il. 6. Indeks szklanego sufitu na publicznych uczelniach architektonicznych w Polsce w roku 2022
 
+
 2434 —RZUT+
 
 ![image 12](03_ARCHITEKTKI_NA_UCZELNIACH_images/imageFile12.png)
 
 - Il. 7. Udział kobiet wśród naukowców na publicznych uczelniach architektonicznych w Polsce w roku 2022 w zależności od posiadnego stopnia bądź tytułu naukowego
+
 

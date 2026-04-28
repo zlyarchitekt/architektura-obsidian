@@ -20,12 +20,15 @@ Barbara Brukalska (1899–1980) was one of the most significant Polish modernist
 
 - **[[Dom Brukalskich]]** (1927, Warsaw, with Stanisław Brukalski) — private residence; bronze medal, Paris World Exhibition 1937; first fully avant-garde modernist villa in the Second Polish Republic.
 - **WSM Żoliborz Estates** (1930s, Warsaw, with Stanisław Brukalski) — social housing for the Warszawska Spółdzielnia Mieszkaniowa; Colonies IV, VII, IX.
+- **Open kitchen annex for WSM Żoliborz** (1927) — Revolutionary social gesture: the kitchen was designed as an open annex flowing into the living room, treating cooking as part of family life rather than isolated laboratory work. The only "luxury" was a ventilated food-storage cabinet (a budget precursor to the refrigerator). Social reality later forced compromises: doors, then full walls, because one-third of residents still employed cooks. The idea was finally redeemed decades later through the kitchen island and open-plan living-cooking-dining zones.
+
+**PL:** *Otwarty aneks kuchenny dla WSM Żoliborz (1927) — rewolucyjny gest społeczny: kuchnia zaprojektowana jako otwarty aneks przechodzący w salon, traktujący gotowanie jako część życia rodzinnego, a nie izolowane laboratorium. Jedynym „luksusem" była wentylowana szafka do przechowywania żywności (budżetowa prekursorka lodówki). Realia społeczne wymusiły później kompromisy: drzwi, a potem pełne ściany, bo jedna trzecia mieszkańców nadal zatrudniała kucharki. Idea została ostatecznie zrealizowana dekadami później przez wyspę kuchenną i otwarte strefy dzienne.*
 
 ## Ideas & Influences
 
-Barbara Brukalska was influenced by the Dutch De Stijl movement (Gerrit Rietveld) and Le Corbusier's purist functionalism, combined with a strong social commitment to affordable, functional housing. She was also a critical voice on the condition of women in the architecture profession — her testimony (quoted in articles of the 1930s press and in contemporary research) documents the full range of structural barriers: financial exploitation ("są tacy, którzy sądzą, że kobietom można, czy należy nawet mniej płacić"), institutional ostracism at universities, investor distrust, and the attribution erasure built into architectural couples in which the husband's name absorbed all recognition.
+Barbara Brukalska was influenced by the Dutch De Stijl movement (Gerrit Rietveld) and Le Corbusier's purist functionalism, combined with a strong social commitment to affordable, functional housing. Her WSM Żoliborz kitchen was a spatial manifesto for egalitarian society: cooking integrated into family life, domestic labour shared without servants. She was also a critical voice on the condition of women in the architecture profession — her testimony documents structural barriers: financial exploitation, institutional ostracism, investor distrust, and attribution erasure in architectural couples.
 
-**PL:** De Stijl, puryzm corbusierowski, socjalne zaangażowanie. Jej świadectwo o warunkach pracy kobiet (lata 30.): wyzysk finansowy, ostracyzm uczelniany, brak zaufania inwestorów, kasowanie zasług w małżeństwach architektonicznych.
+**PL:** De Stijl, puryzm corbusierowski, socjalne zaangażowanie. Kuchnia WSM Żoliborz jako manifest przestrzenny dla egalitarnego społeczeństwa. Jej świadectwo o barierach: wyzysk finansowy, ostracyzm uczelniany, brak zaufania inwestorów, kasowanie zasług w małżeństwach architektonicznych.
 
 ## In the Sources
 

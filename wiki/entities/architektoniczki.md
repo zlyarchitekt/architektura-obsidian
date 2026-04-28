@@ -21,7 +21,7 @@ A Polish architectural research and design collective established in 2019 by Ewe
 They research spaces designed by women to identify whether a distinct "female design approach" exists. Practically, they advocate for "projektowanie równoprawne" (equitable design), often avoiding the stigmatized word "feminism" in business contexts to pragmatically implement social innovations in local governments and schools.
 
 ## In the Sources
-- Co-authors of a dialogue on the realities of being female architects and implementing egalitarian spatial strategies in [[rzut-bal-architektoniczki]].
+- Co-authors of a dialogue on the realities of being female architects and implementing egalitarian spatial strategies in [[rzut-bal-architektoniczki]]. The updated source adds: their tactical decision to use "projektowanie równoprawne" instead of "feminism" with conservative clients; detailed discussion of emotional procrastination research; and the citation of a licensing-board member who claimed that rising female licence numbers depress architectural fees.
 
 ## Contradictions / Open Questions
 
