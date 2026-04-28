@@ -17,6 +17,7 @@ Jedno z najbardziej mizoginistycznych pytań, jakie wciąż jeszcze można usły
 - 1 Fraza stosowana w przedwojennej publicystyce emancypacyjnej, por. Chcemy całego życia. Antologia polskich tekstów feministycznych z lat 1870–1939, zebrała A. Górnicka-Boratyńska, Warszawa 2018.
 - 2 W. Sawicka, Praca kobiet w architekturze, „Bluszcz. Społeczno-literacki ilustrowany tygodnik kobiecy” 1938, nr 27, s. 52.
 
+
 a w wersji bardziej oświeconej – „kobiety wolały wybierać inne zawody”. Wszyscy, którzy choć trochę znają historię, wiedzą, że to nieprawda. Nawet w tak pozornie równościowej instytucji, jaką był Bauhaus, studentkom oferowano głównie kursy tkackie i ceramiczne, by wkrótce ograniczyć ich przyjęcia do kobiet, które wykazywały – jak to ujął Walter Gropius – „niezwykłe talenty”3. Od mężczyzn „niezwykłych talentów” nie wymagano.
 
 Historia polskich architektoniczekrozpoczęła się 101 lat temu, kiedy Wydział Architektury Politechniki Warszawskiej ukończyły dwie pierwsze kobiety – Jadwiga Dobrzyńska (1898–1940) i Wanda Wierzbicka-Nettowa (1892–1975). Pierwsza z nich jako laureatka wielu konkursów i czynna projektantka zyskała status ikony, pionierki na rodzimym rynku zawodowym, tymczasem druga jest dziś postacią zapomnianą. Sukcesy zawodowe Jadwigi
@@ -37,6 +38,7 @@ Dobrzyńskiej, „chodzącej encyklopedii swojego zawodu” i „człowieka żel
 
 - o miejscu i roli kobiet w zawodzie. Pokazał to program X Międzynarodowego Kongresu Architektów, który odbył się we wrześniu tego właśnie roku w Brukseli. Wśród tematów obrad dotyczących takich spraw, jak: planowanie miast, tanie mieszkania,
 - ochrona zabytków czy obowiązki i prawa architektów, znalazł się też punkt zatytułowany „kobieta-architekt”. W polskiej prasie branżowej nie sposób znaleźć nawet
+
 
 W 1922 R. DWIE PIERWSZE KOBIETY
 
@@ -61,6 +63,7 @@ Ten pozytywny obraz nie znajdował jednak odzwierciedlenia w dalszych losach zaw
 - 6 W opracowaniu statystyk posługiwano się: dostępnymi publikacjami Politechnik Warszawskiej i Lwowskiej z lat 1918–1939 oraz Politechniki Wrocławskiej z okresu po 1945 r., rocznikami statystycznymi z lat 1958–1982, danymi za rok 1939 udostępnionymi przez Stowarzyszenie Architektów Polskich oraz wydanymi drukiem opracowaniami poświęconymi pracowni Miastoprojekt Wrocław.
 - 7 Sen. Prof. dr Kazimierz Bartel o studiach akademickich i szkołach technicznych, „Technik Polski” 1939, nr 3/4, s. 32.
 
+
 i Jadwiga Tittenbrun-Ostrowska). Zdecydowana większość miała doświadczenie w pracowniach prywatnych architektów dyplomowanych (71,7%) i w pracy administracyjnej (56,6%), które próbowała łączyć z elementami praktyki samodzielnej (49%). Jedna dziesiąta architektek nie miała innego doświadczenia niż urzędnicze, które w oczach współczesnych postrzegane było jako degradacja zawodowa8. Niemal 19% architektek terminowało także w przedsiębiorstwach budowlanych, a jedynie 5,6% miało praktykę w dydaktyce. Warto wspomnieć, że uczelnie nie otworzyły przed nimi realnej możliwości zatrudnienia, próżno zatem szukać architektek wśród wykładowczyń obu politechnik. Podobnie sytuacja rysowała się w założonym w 1934 r. SARP-ie, wówczas jedynym znaczącym stowarzyszeniu branżowym w Polsce. W zarządzie głównym organizacji oraz we władzach oddziałów lokalnych (Warszawa, Kraków, Łódź, Lwów, Wilno, Częstochowa, Gdynia, Kielce, Katowice, Lublin, Poznań, Toruń, Łuck) „szklanym sufitem” okazały się stanowiska sekretarki lub skarbniczki, pełnione zresztą przez garstkę kobiet, podczas gdy funkcje prezesów i wiceprezesów zarezerwowane były wyłącznie dla kolegów-architektów.
 
 Z czym mierzyły się pionierki zawodu w Polsce? Brukalska wspominała o braku właściwych warunków do rozwoju, ostracyzmie na uczelniach („bywało, że korporacyjna młodzież narodowa wystawiała kobietom rajsbrety z pracowni”9), wyzysku finansowym („są tacy, którzy sądzą, że kobietom można, czy należy nawet mniej płacić”10), braku zaufania inwestorów i współpracowników oraz stawianiu nieproporcjonalnie wyższych wymagań. W skrajnych przypadkach dochodziło do
@@ -68,6 +71,7 @@ Z czym mierzyły się pionierki zawodu w Polsce? Brukalska wspominała o braku w
 - 8 R. Piotrowski, 1926 [w:] Stulecie stowarzyszeniowej działalności architektów polskich: 1877–1977, red. T. Barucki, S. Pietraszek, Warszawa 1977, s. 369.
 - 9 M.P., Ciernista droga zawodowej pracy kobiet. Głos lekarki i architektki, „Kurjer Poranny” 1933, nr 138, s. 4.
 - 10 Tamże.
+
 
 ![image 3](02_100_LAT_ARCHITEKTEK_images/imageFile3.png)
 
@@ -83,6 +87,7 @@ Il. 2. Architekci i architektki z Biura Odbudowy Stolicy w pochodzie z okazji Dn
 
 - Il. 3. Anna Ptaszycka podczas prezentacji perspektywicznego planu zagospodarowania Krakowa, lata 50. XX w.
 - Il. 4. Architektka ze Stołecznego Biura Dokumentacji Technicznej Przemysłu Terenowego w czasie pracy,
+
 
 ![image 6](02_100_LAT_ARCHITEKTEK_images/imageFile6.png)
 
@@ -101,6 +106,7 @@ Szansą dla osiągnięcia sukcesu zawodowego były otwarte konkursy architektoni
 - 11 Pismo arch. Stanisławy Manikowskiej do Wydziału Technicznego Zarządu Miejskiego w Łodzi na ręce Pana Naczelnika Wydziału, Warszawa, dn. 6 listopada 1938 r., ze zbiorów Archiwum Państwowego w Łodzi.
 - 12 Sławny architekt-kobieta-Polka. Wywiad z p. Gorską w Paryżu, „ABC” 1933, nr 171, s. 3.
 - 13 N.J., O jednej architektce…, dz. cyt.
+
 
 okoliczności architektki były współtwórczyniami awangardowego środowiska branżowego, skupiającego artystów/tki i inżynierów/rki o zapatrywaniach progresywnych i lewicujących. Do dziś ikonami tego ruchu pozostają wspomniane Barbara Brukalska i Helena Syrkus, Anatolia Piotrowska i Adrianna Górska, która największe sukcesy osiągnęła w latach 20. i 30. XX w. w Paryżu.
 
@@ -125,6 +131,7 @@ Pierwszą architektką, która zasiadła we władzach wrocławskiego wydziału, 
 - 14 Więcej: A. Tomaszewicz, J. Majczyk, Pioneers. Polish modernist female architects. The centre and peripheries, Modern Design: Social Commitment & Quality of Life, Docomomo International, València 2022, s. 633–643.
 - 15 Zupełnie inaczej kształtował się obraz Wydziału Architektury Politechniki Warszawskiej, na którym już w 1948 r. Barbara Brukalska otrzymała nominację profesorską.
 
+
 (8 mężczyzn). Nieliczne, w tym Jadwiga Grabowska-Hawrylak (1920–2018), sprawowały funkcje kierowniczek małych zespołów projektowych. Nieco lepiej wyglądała sytuacja kobiet w strukturach Stowarzyszenia Architektów Polskich16. W ciągu pierwszych trzydziestu lat funkcjonowania wrocławskiego oddziału SARP we władzach zarządu zasiadło 11 kobiet (wobec około setki mężczyzn): dwie jako wiceprezeski (przez osiem lat), jedna jako sekretarz (przez rok), dwie jako skarbniczki (przez trzy lata), sześć jako członkinie zarządu (13 lat). Przez 11 lat (siedem kadencji) w zarządzie oddziału nie było jednak żadnej reprezentantki kobiet-architektek.
 
 #### * * *
@@ -135,4 +142,5 @@ Sielankowy obraz zaciemniają twarde dane. Liczebna dominacja architektek na ryn
 
 - 16 Skróconą nazwę przyjęto w 1952 r. i obowiązuje do dziś.
 - 17 https://uprawnieniabudowlane.pl/statystyki-i-liczebnosc-iarp/ (data dostępu: 26.05.2023).
+
 

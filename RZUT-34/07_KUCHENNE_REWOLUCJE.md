@@ -50,6 +50,7 @@ Leipzig 1924.
 
 - obywatela. Swoją nazwę i popularność projekt zawdzięcza wprowadzeniu go w standard 10 tys. frankfurckich mieszkań. Jego cena, rozłożona na raty, została wliczona do czynszu za lokale.
 
+
 W kontekście niemieckich projektów trzeba docenić także innowacyjność i pogłębiony wymiar feministyczny zaprojektowanej rok później kuchni Barbary Brukalskiej. Stworzyła ona modelowe rozwiązanie dla Warszawskiej Spółdzielni Mieszkaniowej, realizowane w mieszkaniach na Żoliborzu. Było ono oszczędne – jedynym luksusem była wentylowana szafka do przechowywania żywności, budżetowa prekursorka lodówki. Rewolucyjność kuchni Brukalskiej nie polegała na wykorzystaniu nowoczesnych urządzeń, tkwiła gdzie indziej. Pomieszczenie zaprojektowane było jako aneks otwarty na pokój dzienny. Dzięki temu gotowanie miało przestać być odizolowaną czynnością, wykonywaną jak w laboratorium przez osamotnioną panią domu. Miało stać się częścią życia rodzinnego. Wiązało się to z nowymi wartościami wprowadzanymi przez architektów na żoliborskich osiedlach. Propagowali równościowe społeczeństwo, w którym gospodarstwo miało być prowadzone bez wykorzystywania pomocy domowej. Trochę się jednak przeliczyli i pomysł trzeba było zrewidować
 
 ## 61 — — płećrozumieć

@@ -10,6 +10,7 @@ Elementy architektoniczne, które mogą wspierać miękkie kompetencje w procesi
 - • wewnątrzoddziałowe sale rehabilitacji (udarowe, onkologiczne, kardiologiczne), jako miejsca przywoływania ulubionych czynności, ćwiczeń rehabilitacyjnych podczas pracy na neuronach lustrzanych;
 - • pokoje pożegnań noworodków na oddziałach porodowych projektowanych z empatią, pozbawione symboli religijnych, jako miejsce rozmów z psychologiem, proces leczenia traumy jeszcze w przestrzeni medycznej.
 
+
 Powyższe rozwiązania można implementować w projektach oddziałów neutralnych płciowo lub przeznaczonych dla mężczyzn, jak np. pomieszczenia pro mortewzorowane na przestrzeniach pożegnań noworodków, wyłożone okładziną drewnianą czy wyposażone w siedziska dla rodziny.
 
 Architektura feministyczna (uwzględniająca m.in. to, że pacjent ma dzieci, rodzinę) nie leczy, natomiast może wspomóc personel medyczny w tym procesie. Odpowiednio zaprojektowane, przyjazne, „miękkie”, „kobiece” przestrzenie mogą zachęcić pacjentki i pacjentów do diagnostyki i rehabilitacji czy po prostu do pobytu w placówce leczniczej. Mam nadzieję, że te feministyczne, pełne troski o użytkowniczki rozwiązania architektoniczne stopniowo przenikną z oddziałów damskich do męskich.
@@ -106,6 +107,7 @@ A.vR.: Walka jest bardzo wyczerpująca. Nie wierzę, że istnieje coś takiego j
 
 - 4 Potocznie o ulicy Kurfürstendamm w berlińskiej dzielnicy Charlottenburg-Wilmersdorf.
 - 5 Berliner Schloss, Berliner Stadtschloss, odbudowany w latach 2013–2020 w swojej oryginalnej lokalizacji. Jego ruiny z czasów II wojny światowej zostały w latach 50. zrównane z ziemią na polecenie władz NRD, a na jego miejscu powstał tzw. Pałac Republiki pełniący funkcję siedziby Izby Ludowej, parlamentu Niemieckiej Republiki Demokratycznej.
+
 
 kobieca architektura. Istnieje może architektura, którą tworzą kobiety. Wszyscy mamy w sobie część żeńską i męską. Różnica polega na tym, że jako kobiety jesteśmy bardziej zaznajomione z tym rozległym obszarem tematycznym. To znaczy, że wiemy, jak to jest jeździć z wózkiem dziecięcym, z wózkiem inwalidzkim, opiekować się starszymi. Kiedy to wiesz, twoja perspektywa się zmienia. Gdyby mężczyźni częściej wykonywali prace pielęgnacyjne, architektura by się zmieniła. W książceNiewidzialne kobiety, napisanej przez Caroline Criado Perez, pokazane jest, jak świat został stworzony przez mężczyzn dla mężczyzn.
 

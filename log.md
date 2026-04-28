@@ -646,3 +646,97 @@ Parse tip: `grep "^## \[" log.md | tail -10`
   - `wiki/concepts/equitable-design.md` (source_count 1→3; rzut-34-01 and rzut-34-02 added to In the Sources; See Also expanded)
   - `index.md` (51→54 sources; 11 new entity rows; 2 new concept rows)
 - **Notes**: RZUT-34 opens a new thematic cluster in the wiki: gender and the architectural profession. The three articles together build a coherent argument: the interwar editorial sets the intersectional frame; the historical survey documents 101 years of structural inequality with archival specificity; the statistical analysis quantifies the contemporary glass ceiling. Key contributions to the wiki: (1) First detailed treatment of women's architectural history in Poland 1922–2023; (2) Introduction of GCI and flow index as quantitative tools for tracking glass ceiling; (3) Barbara Brukalska given her own page (previously merged into Stanisław Brukalski) — her testimony on interwar barriers is one of the most important first-person documents in the wiki on gender and professional discrimination; (4) The "purplewashing" concept and "archidziadocen" neologism add to the wiki's vocabulary for discussing the gap between symbolic and structural change. Remaining RZUT-34 articles (04–12) to be ingested in subsequent sessions.
+
+---
+
+## [2026-04-27] ingest | RZUT-34 articles 04–06 (BAL zaprasza do tańca ARCHITEKTONICZKI — updated, Stabilna dyfuzja toalet publicznych, Spalcie tę tęczę!)
+
+- **Action**: Ingest of articles 04–06 from RZUT-34 (PŁEĆ, 2023). Article 04 — updated version of the BAL/Architektoniczki dialogue (already ingested from a shorter clipping on 2026-04-13); the RZUT-34 PDF version is significantly fuller and replaces the prior source file. Article 05 — Noviki's AI-generated visual essay deconstructing gendered public toilets. Article 06 — Magdalena Gauden's scholarly-activist analysis of Warsaw's LGBTQ+ spatial conflicts.
+- **Pages created**:
+  - `wiki/sources/rzut-34-05-stabilna-dyfuzja-toalet-publicznych.md` — Noviki; Stable Diffusion; gendered WC critique; usage statistics; toilet as social space
+  - `wiki/sources/rzut-34-06-spalcie-te-tecze.md` — Gauden; sexual citizenship (Binnie/Bell); minority stress (Meyer); Tęcza history; Vogue Polska posters; Gang SamZamęt monuments; queer visibility; right to the city
+  - `wiki/entities/noviki.md` — Polish art/design collective; generative AI; gender-critical spatial practice
+  - `wiki/entities/magdalena-gauden.md` — researcher/activist; queer urbanism; Warsaw spatial conflicts
+  - `wiki/entities/julita-wojcik.md` — artist; Tęcza installation (2012–2015); public art as LGBTQ+ symbol
+  - `wiki/entities/gang-samzamet.md` — feminist-queer activist group; Warsaw monument interventions (2020)
+  - `wiki/entities/marta-warchol.md` — TVN reporter; Instagram counter-action; 2022 kiss-in protest catalyst
+  - `wiki/concepts/gendered-public-toilets.md` — binary restroom design as oppressive spatial practice; AI critique; non-gendered alternatives
+  - `wiki/concepts/generative-ai-in-architecture.md` — Stable Diffusion/Midjourney as critical design medium; dataset bias; estrangement potential
+  - `wiki/concepts/sexual-citizenship.md` — Binnie & Bell; cities as sites of sexual-citizenship formation; LGBTQ+ visibility as territorial claim
+  - `wiki/concepts/minority-stress-theory.md` — Ilan Meyer; additive stress from stigma; social support as protective factor
+  - `wiki/concepts/queer-visibility-in-public-space.md` — strategic presence of LGBTQ+ symbols; target effect vs. normalisation; pinkwashing risk
+  - `wiki/concepts/right-to-the-city.md` — Lefebvre 1968; collective right to appropriate urban space; creative reclamation as assertion
+- **Pages updated**:
+  - `wiki/sources/rzut-bal-architektoniczki.md` — fully rewritten using RZUT-34 PDF version; source_count unchanged (same article, fuller text); new Key Points: prototype methodology of Le Blanc-Mesnil, examination-board sexism quote, motherhood as structural turning point, McKinsey diversity data, Dominika Janicka's online collaboration model
+  - `wiki/entities/bal-architektek.md` (In the Sources updated with RZUT-34 details: online collaboration, motherhood, intersectional feminism)
+  - `wiki/entities/architektoniczki.md` (In the Sources updated with tactical terminology, emotional procrastination research, licensing-board quote)
+  - `wiki/entities/iwona-buczkowska.md` (Key Works expanded: prototype methodology, interior-to-macro design, community centre)
+  - `wiki/entities/le-blanc-mesnil.md` (Key Works expanded: prototype test houses, community building, unfenced porous design, Nouvel/Piano petition)
+  - `wiki/concepts/equitable-design.md` (Critiques expanded: tactical tension between "feminism" and "equitable design"; business risk-aversion note; In the Sources updated)
+  - `wiki/concepts/emotional-procrastination.md` (Historical Context expanded: biological and socio-psychological factors; male networking advice anecdote; In the Sources updated)
+  - `index.md` (54→56 sources; 5 new entity rows; 6 new concept rows; ingested date updated for rzut-bal-architektoniczki)
+- **Notes**: Article 04 is a rare case of source replacement — the earlier ingest (2026-04-13) drew on a shorter Markdown clipping that lacked roughly 30% of the dialogue (motherhood, McKinsey data, online work model, detailed emotional procrastination research, the examination-board quote). The RZUT-34 PDF version is now the canonical source. Article 05 introduces the first AI-art project in the wiki; the Noviki collective treats Stable Diffusion not as a design tool but as a critical medium — a methodological stance that enriches the digital-design cluster. Article 06 is the first scholarly analysis of queer spatial politics in Warsaw, bridging the theoretical gap between Kowalski's utopian 1QMXPL manifesto (RZUT-33) and the empirical reality of homophobic violence in public space. Key cross-concept links: Sexual Citizenship ↔ Right to the City (both Lefebvrian); Minority Stress ↔ Queer Visibility (Meyer's social-support factor); Tęcza as counter-monument ↔ Clément's heritage-fixation critique (fixing a symbol can condemn it to disappearance). Remaining RZUT-34 articles (07–12) to be ingested in subsequent sessions.
+
+---
+
+## [2026-04-27] ingest | RZUT-34 articles 07–09 (Kuchenne rewolucje, Bezpieczeństwo i higiena pracy, Wolna przestrzeń)
+
+- **Action**: Ingest of articles 07–09 from RZUT-34 (PŁEĆ, 2023). Article 07 — Zofia Piotrowska's historical genealogy of the kitchen as gendered political space (Frederick's taylorism → Frankfurt Kitchen → Brukalska's open annex → Narkomfin's kitchen abolition → kitchen island). Article 08 — Iga Mazur and Marta Wróblewska's survey of European sex-work spatial typologies (Zurich, Amsterdam, Basel, Cologne, Antwerp, Moke Architecten). Article 09 — interview with Tatiana Bilbao on non-prescriptive architecture and housing for non-nuclear families.
+- **Pages created**:
+  - `wiki/sources/rzut-34-07-kuchenne-rewolucje.md` — Piotrowska; kitchen as gendered political space; Christine Frederick; Margarete Schütte-Lihotzky; Erna Meyer; Barbara Brukalska; Moisei Ginzburg; Narkomfin
+  - `wiki/sources/rzut-34-08-bezpieczenstwo-i-higiena-pracy.md` — Mazur/Wróblewska; sex-work spaces; Zurich drive-in; Amsterdam windows; Basel Laufhaus; Cologne Pascha; Antwerp Villa Tinto; Moke Architecten erotic centre
+  - `wiki/sources/rzut-34-09-wolna-przestrzen.md` — Trzcińska/Stępnik interview with Bilbao; non-prescriptive architecture; standard housing for nuclear families; shared childcare failure; flexible housing
+  - `wiki/entities/margarete-schutte-lihotzky.md` — Austrian architect; Frankfurt Kitchen 1926; first fitted kitchen; political ambivalence
+  - `wiki/entities/erna-meyer.md` — German architect; Frankfurt Kitchen modifications; collective housing kitchens
+  - `wiki/entities/moisei-ginzburg.md` — Russian constructivist architect; Narkomfin; kitchen abolition
+  - `wiki/entities/narkomfin.md` — Narkomfin Communal House Moscow (1930); kitchen abolition; communal dining; collective housing icon
+  - `wiki/entities/iga-mazur.md` — Polish architect; feminism and spatial forms; article 08 co-author
+  - `wiki/entities/marta-wroblewska.md` — Polish architect; article 08 co-author
+  - `wiki/entities/tatiana-bilbao.md` — Mexican architect; non-prescriptive architecture; flexible housing; shared childcare experiment
+  - `wiki/entities/alejandro-aravena.md` — Chilean architect; Pritzker 2016; incremental housing; referenced by Bilbao
+  - `wiki/concepts/frankfurt-kitchen.md` — first fitted kitchen; taylorism; feminist ambivalence; global export
+  - `wiki/concepts/gendered-kitchen.md` — kitchen as gendered political space; modernist rationalisation; kitchen island as compromise
+  - `wiki/concepts/collective-housing.md` — housing as socialisation of domestic labour; Narkomfin; Soviet constructivism; feminist demand
+  - `wiki/concepts/sex-work-spaces.md` — spatial typologies of sex work; Europe; worker exclusion from design
+  - `wiki/concepts/red-light-district.md` — concentrated vs. dispersed models; Amsterdam; Antwerp; urban planning
+  - `wiki/concepts/flexible-housing.md` — housing not assigned to fixed functions; Tatiana Bilbao; non-prescriptive architecture
+  - `wiki/concepts/non-nuclear-housing.md` — housing for non-nuclear families; only 18% of society; standard housing mismatch
+  - `wiki/concepts/non-prescriptive-architecture.md` — rooms without fixed functions; user determines use; Bilbao; Aravena
+- **Pages updated**:
+  - `wiki/entities/barbara-brukalska.md` (Key Works expanded: WSM Żoliborz kitchen annex as social revolution; compromise with doors/walls because one-third employed servants)
+  - `wiki/entities/zofia-piotrowska.md` (source_count 2→3; In the Sources updated with article 07)
+  - `index.md` (56→59 sources; 10 new entity rows; 8 new concept rows)
+- **Notes**: Article 07 provides the wiki's first deep historical treatment of the kitchen as architectural type, tracing five episodes from 19th-century taylorism to the contemporary kitchen island. Key insight: Brukalska's 1927 open annex was a genuine social revolution that was partially reversed by doors and walls because one-third of residents still employed servants — showing how class interest can defeat feminist spatial innovation. Article 08 is the first treatment of sex-work architecture in the wiki, documenting a systematic exclusion of workers from design decisions across European cities. The tension between health/safety regulation and worker autonomy is the central unresolved conflict. Article 09 introduces Tatiana Bilbao's non-prescriptive architecture as a critique of standard housing designed for nuclear families (only 18% of society). Her failed shared-childcare experiment across six flats during the pandemic is a rare case of an architect documenting the gap between spatial intention and social reality. Remaining RZUT-34 articles (10–13) to be ingested in subsequent sessions.
+
+---
+
+## [2026-04-27] ingest | RZUT-34 articles 10–12 (SPORTPATRIARCHAT, Płeć w przestrzeni systemu ochrony zdrowia, Budownictwo w tkance istniejącej)
+
+- **Action**: Ingest of articles 10–12 from RZUT-34 (PŁEĆ, 2023). Article 10 — Martyna Kędrzyńska and Anna Kotowska's essay on gendered public sports spaces and feminist design principles. Article 11 — Marta Czachorowska's analysis of gender in healthcare architecture based on 11 years of hospital observation. Article 12 — Katarzyna Dolecińska's interview with Annabelle von Reutern and Diana Anastasija Radke on circular construction and building in existing fabric. Article 13 (author bios) skipped as non-substantive.
+- **Pages created**:
+  - `wiki/sources/rzut-34-10-sportpatriarchat.md` — Kędrzyńska/Kotowska; Her City; Yorkshire Sport Foundation; JAZ+Miasto consultations; Julianów; skatepark survey; feminist design principles
+  - `wiki/sources/rzut-34-11-plec-w-przestrzeni-systemu-ochrony-zdrowia.md` — Czachorowska; ICZMP Łódź; WWCOiT Łódź; feminist architecture of care; Yentl syndrome; Maggie's Centres; transferable ward solutions
+  - `wiki/sources/rzut-34-12-budownictwo-w-tkance-istniejacej.md` — von Reutern/Radke; Concular; KVL Bauconsult; circular house; Verband für Bauen im Bestand; demolition as arrogance
+  - `wiki/entities/martyna-kedrzynska.md` — architect; feminist; JAZ+Miasto; SPORTPATRIARCHAT co-author
+  - `wiki/entities/anna-kotowska.md` — architect; Jaz+Architekci; Miasto Jest Nasze; SPORTPATRIARCHAT co-author
+  - `wiki/entities/jaz-plus-miasto.md` — practice; participatory public space; feminist urban design
+  - `wiki/entities/marta-czachorowska.md` — architect; m+design; healthcare; feminist architecture of care; Red Dot
+  - `wiki/entities/m-plus-design.md` — practice; healthcare; therapeutic; spa; wellness
+  - `wiki/entities/katarzyna-dolecinska.md` — architect; Berlin; heritage conservation; interviewer
+  - `wiki/entities/annabelle-von-reutern.md` — architect; Concular; circular construction; Architects for Future
+  - `wiki/entities/diana-anastasija-radke.md` — managing partner; KVL Bauconsult; existing-fabric advocate
+  - `wiki/entities/concular.md` — start-up; digital marketplace; reclaimed materials; Berlin
+  - `wiki/entities/kvl-bauconsult.md` — consultancy; ecological construction; carbon accounting; existing-fabric focus
+  - `wiki/concepts/feminist-urban-design.md` — 8 design principles; case studies; intersectional critique
+  - `wiki/concepts/gendered-sports-space.md` — documented gap; socialisation vs. design; integration vs. separation
+  - `wiki/concepts/sport-patriarchy.md` — socialisation, spatial defaults, and social enforcement as triad
+  - `wiki/concepts/inclusive-public-space.md` — universal design expanded; amenities, choice, programmes
+  - `wiki/concepts/participatory-design.md` — methodology; tokenism critique; institutional override risk
+  - `wiki/concepts/healthcare-architecture.md` — gender-critical dimension; hospital typologies; evidence-based design
+  - `wiki/concepts/feminist-architecture-of-care.md` — care as primary objective; soft therapeutic spaces; transferable solutions
+  - `wiki/concepts/circular-construction.md` — urban mine; component circulation; digital platforms; barriers
+  - `wiki/concepts/building-in-existing-fabric.md` — Bauen im Bestand; care for material history; carbon reduction; preservation politics
+- **Pages updated**:
+  - `wiki/entities/zofia-piotrowska.md` (source_count 3→4; In the Sources updated with article 12 interview)
+  - `index.md` (59→62 sources; 10 new entity rows; 9 new concept rows)
+- **Notes**: Article 10 is the wiki's most comprehensive treatment of gendered public sports space, combining international research data, European municipal case studies, and original Polish participatory practice. The 84% catcalling figure (Ipsos 2021) is the most concrete quantification of street harassment in the wiki. Article 11 introduces the first healthcare architecture analysis, with the "feminist architecture of care" framework arguing that soft spatial solutions from women's wards should be standard across all hospital departments. The tension between biological and social gender as design drivers is unresolved. Article 12 brings circular construction and existing-fabric building into the wiki through the German start-up and consultancy perspective. The interviewees' essentialist claims about women (reproduction vs. monuments, care work) exist in productive tension with their explicit rejection of "female architecture". The demolition-as-arrogance argument is a powerful ethical framing but needs to be balanced against structural and energy-efficiency realities. With articles 10–12, RZUT-34 (PŁEĆ, 2023) is now fully ingested (articles 01–12; article 13 author bios skipped). The issue has added 31 sources to the wiki (01–03, 04 updated, 05–12) and significantly expanded the gender-and-architecture cluster.

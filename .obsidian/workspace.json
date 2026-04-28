@@ -8,21 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "17b01642740053f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "raw/Blisko 100-letni, modernistyczny i zniszczony przez pożar parking przemieni się w tanie, komunalne i zdrowe mieszkania.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Blisko 100-letni, modernistyczny i zniszczony przez pożar parking przemieni się w tanie, komunalne i zdrowe mieszkania"
-            }
-          },
-          {
-            "id": "b59f03015c4e2a76",
+            "id": "84cbc79b9ec561b4",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -31,8 +17,7 @@
               "title": "Podgląd grafu"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,6 +167,16 @@
               "icon": "lucide-info",
               "title": "Atrybuty"
             }
+          },
+          {
+            "id": "dacb2203ea80ca23",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 5
@@ -202,34 +197,34 @@
       "bases:Stwórz nową bazę danych": false
     }
   },
-  "active": "b59f03015c4e2a76",
+  "active": "84cbc79b9ec561b4",
   "lastOpenFiles": [
-    "wiki/sources/modernizm-w-polsce-wiki-pl.md",
-    "raw/Blisko 100-letni, modernistyczny i zniszczony przez pożar parking przemieni się w tanie, komunalne i zdrowe mieszkania.md",
-    "wiki/sources/rzut-powojenny-modernizm.md",
-    "wiki/entities/maciej-nowicki.md",
-    "wiki/entities/zbigniew-ihnatowicz.md",
-    "wiki/entities/juliusz-zorawski.md",
-    "wiki/entities/arseniusz-romanowicz.md",
-    "wiki/entities/jadwiga-grabowska-hawrylak.md",
-    "wiki/entities/stanislaw-brukalski.md",
-    "wiki/entities/jozef-szanajca.md",
-    "wiki/entities/bohdan-lachert.md",
-    "wiki/analyses/polish-modernism-analysis.md",
-    "wiki/concepts/socialization-vergesellschaftung.md",
-    "wiki/sources/critical-regionalism-wiki.md",
-    "wiki/concepts/critical-regionalism.md",
-    "wiki/analyses/pritzker-prize-analysis.md",
-    "wiki/entities/wuwa-wroclaw.md",
-    "wiki/entities/szymon-syrkus.md",
-    "wiki/entities/helena-syrkusowa.md",
-    "wiki/entities/hans-poelzig.md",
-    "wiki/entities/okraglak-poznan.md",
-    "wiki/entities/marek-leykam.md",
-    "wiki/sources/modernizm-architektura-wiki-pl.md",
-    "wiki/entities/fallingwater.md",
-    "wiki/entities/thomas-pritzker.md",
-    "wiki/entities/lu-wenyu.md",
+    "wiki/entities/annabelle-von-reutern.md",
+    "wiki/entities/katarzyna-dolecinska.md",
+    "wiki/entities/m-plus-design.md",
+    "wiki/entities/marta-czachorowska.md",
+    "wiki/entities/jaz-plus-miasto.md",
+    "wiki/entities/anna-kotowska.md",
+    "wiki/entities/martyna-kedrzynska.md",
+    "wiki/sources/rzut-34-12-budownictwo-w-tkance-istniejacej.md",
+    "wiki/sources/rzut-34-11-plec-w-przestrzeni-systemu-ochrony-zdrowia.md",
+    "wiki/sources/rzut-34-10-sportpatriarchat.md",
+    "wiki/concepts/non-prescriptive-architecture.md",
+    "wiki/concepts/non-nuclear-housing.md",
+    "wiki/concepts/flexible-housing.md",
+    "wiki/concepts/red-light-district.md",
+    "wiki/concepts/sex-work-spaces.md",
+    "wiki/concepts/collective-housing.md",
+    "wiki/concepts/gendered-kitchen.md",
+    "wiki/concepts/frankfurt-kitchen.md",
+    "wiki/entities/alejandro-aravena.md",
+    "wiki/entities/tatiana-bilbao.md",
+    "wiki/entities/marta-wroblewska.md",
+    "wiki/entities/iga-mazur.md",
+    "wiki/entities/narkomfin.md",
+    "wiki/entities/moisei-ginzburg.md",
+    "wiki/entities/erna-meyer.md",
+    "wiki/entities/margarete-schutte-lihotzky.md",
     "scratch/crosslink.js",
     "scratch/fix_index.js",
     "scratch/ingest.js",
