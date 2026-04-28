@@ -1,6 +1,111 @@
 # Wiki Log
 
 Append-only. Do not edit past entries.
+
+---
+
+## [2026-04-28] ingest | RZUT-35 articles 10–12 (Na przekór utartym ścieżkom, Tutaj nie chodzi o bryk, Spotkania)
+
+- **Action**: Ingested articles 10–12 from RZUT-35 (*Kształcenie*, 2023). Article 10 — interview with Małgorzata Kuciewicz and Simone De Iacobis (CENTRALA) by Mariia Kolomiitseva: architecture as process, Amplification of Nature, performative models, non-anthropocentrism, altermodernism, and the Kharkiv School of Architecture workshops. Article 11 — interview with Jacek Damięcki by Kuciewicz/De Iacobis: topology, macro-installations, organic modelling, watch-schedule creativity, collaboration with Jan Goots, and the rejection of textbook learning. Article 12 — interview with the Domicz family (Antoni, Małgorzata, Jan) by Aleksandra Gryc: history of OSSA, student-led interdisciplinary workshops, father-son tutoring duo, tempo alignment, and critique of Polish architecture schools for lacking practising architects. Article 13 (bios) was skipped per precedent but used to enrich existing entity pages (Gryc, Snopek, Łątka, Twardoch, Wypusz).
+- **Pages created**:
+  - `wiki/sources/rzut-35-10-na-przekor-utartym-sciezkom.md`
+  - `wiki/sources/rzut-35-11-tutaj-nie-chodzi-o-bryk.md`
+  - `wiki/sources/rzut-35-12-spotkania.md`
+  - `wiki/entities/malgorzata-kuciewicz.md`
+  - `wiki/entities/simone-de-iacobis.md`
+  - `wiki/entities/mariia-kolomiitseva.md`
+  - `wiki/entities/jacek-damiecki.md`
+  - `wiki/entities/antoni-domicz.md`
+  - `wiki/entities/malgorzata-domicz.md`
+  - `wiki/entities/jan-domicz.md`
+  - `wiki/concepts/ossa.md`
+  - `wiki/concepts/amplification-of-nature.md`
+  - `wiki/concepts/architecture-as-process.md`
+- **Pages updated**:
+  - `wiki/entities/aleksandra-gryc.md` (source_count 1→2; bio enriched with Vienna/Berlin/Tokyo/Sou Fujimoto/OSSA guardian details)
+  - `wiki/entities/kuba-snopek.md` (source_count 2→3; Kharkiv School curriculum co-authorship and Direction firm added)
+  - `wiki/entities/jerzy-latka.md` (source_count 2→3; archi-tektura.eu platform added)
+  - `wiki/entities/agata-twardoch.md` (source_count 1→2; TUP/Affordable Housing Forum/44STO/Architektki book added)
+  - `wiki/entities/magda-wypusz.md` (source_count 1→2; SARP Poznań/KOTydż/Domokrążcy/Punkt Wspólny added)
+  - `index.md` (74 sources; 7 new entity rows; 3 new concept rows)
+- **Notes**: Article 10 introduces the most radical pedagogical model in the wiki: architecture as metabolic process, non-anthropocentric design, and the rejection of static representation. The Kharkiv School of Architecture is flagged as a uniquely alternative institution that enabled this approach. Article 11 is the first deep biographical source on Jacek Damięcki, a major but under-recognised figure in Polish architecture; his topology-based, experience-driven practice offers a counter-model to both modernist rationalism and postmodern irony. Article 12 is the first detailed documentation of OSSA, a uniquely Polish student-led workshop phenomenon; the father-son tutoring duo and the critique of university tempo misalignment are notable. The Domicz family stopped tutoring after 10 editions, citing the need for institutional renewal — a rare case of self-aware finite tenure. Bio source (article 13) provided substantial enrichment for 5 existing entity pages. RZUT-35 is now complete (articles 01–12 ingested; 13 bios skipped). Next: remaining uningested raw sources or next RZUT issue.
+
+---
+
+## [2026-04-28] ingest | RZUT-35 articles 07–09 (Perfekcja ma źródło w praktyce, Edukacja obywatelska, Wysiłek)
+
+- **Action**: Ingested articles 07–09 from RZUT-35 (*Kształcenie*, 2023). Article 07 — interview with Marcel Bilow (TU Delft, Bucky Lab) by Jerzy Łątka: hands-on iterative prototyping, perfectionism as enemy, teacher as "older brother," elevator pitch, two-week build, and the one-man-show vulnerability. Article 08 — interview with Agata Twardoch (PŚ Gliwice) by Sebastian Dziedzic: civic education gap in Polish architecture schools, housing as politics, marketization critique, discussion-based pedagogy, no grades, and the women-in-architecture class as manifesto. Article 09 — photographic essay documenting Karol Żurawski's student studio "Projekt architektoniczny w krajobrazie" at PW, winter semester 2023/2024.
+- **Pages created**:
+  - `wiki/sources/rzut-35-07-perfekcja-ma-zrodlo-w-praktyce.md`
+  - `wiki/sources/rzut-35-08-edukacja-obywatelska.md`
+  - `wiki/sources/rzut-35-09-wysilek.md`
+  - `wiki/entities/marcel-bilow.md`
+  - `wiki/entities/ulrich-knaack.md`
+  - `wiki/entities/mick-eekhout.md`
+  - `wiki/entities/adam-savage.md`
+  - `wiki/entities/agata-twardoch.md`
+  - `wiki/entities/sebastian-dziedzic.md`
+  - `wiki/entities/filip-springer.md`
+  - `wiki/concepts/bucky-lab.md`
+  - `wiki/concepts/perfectionism-in-architectural-education.md`
+  - `wiki/concepts/civic-education-in-architecture.md`
+- **Pages updated**:
+  - `wiki/entities/jerzy-latka.md` (source_count 1→2; rzut-35-07 added to In the Sources)
+  - `wiki/entities/karol-zurawski.md` (source_count 1→2; PW studio project added to Key Works; rzut-35-09 added to In the Sources)
+  - `index.md` (71 sources; 7 new entity rows; 3 new concept rows)
+- **Notes**: Article 07 is the most detailed pedagogical source in the wiki on design-build methodology (Bucky Lab). The perfectionism critique is a rare explicit admission by a teacher and connects to broader psychology-of-design debates. Article 08 is the first source in the wiki to explicitly frame architecture education as lacking civic/political literacy; Twardoch's course methodology (no grades, open assignments, discussion-based) is the most radical pedagogical model documented. Article 09 is the second purely photographic source (after article 05), documenting student effort rather than arguing a position. Key tension: both Twardoch's civic education and Bilow's Bucky Lab are optional/fakultet courses — can transformative pedagogy survive outside the compulsory curriculum? The dean of PŚ Gliwice still citing Dubai as the ideal reveals institutional resistance. Remaining RZUT-35 articles (10–13) to be ingested in subsequent sessions.
+
+---
+
+## [2026-04-28] ingest | RZUT-35 articles 04–06 (Doświadczać rzeczywistości, Szkoła, Pracować zespołowo)
+
+- **Action**: Ingested articles 04–06 from RZUT-35 (*Kształcenie*, 2023). Article 04 — interview with Magda Wypusz on Mood for Wood workshops: 12-day design-build education, institutional critique of SARP, and the pedagogy of making. Article 05 — photographic essay by Bartosz Kowal documenting the spatial environment of an architecture faculty in Nysa. Article 06 — interview with Jerzy Łątka (PWr) on teamwork pedagogy, interdisciplinary deficits, ProtoLAB, and the "harówka" culture in architecture schools.
+- **Pages created**:
+  - `wiki/sources/rzut-35-04-doswiadczanie-rzeczywistosci.md`
+  - `wiki/sources/rzut-35-05-szkola.md`
+  - `wiki/sources/rzut-35-06-pracowac-zespolowo.md`
+  - `wiki/entities/magda-wypusz.md`
+  - `wiki/entities/marcin-stepien.md`
+  - `wiki/entities/jerzy-latka.md`
+  - `wiki/entities/szymon-ciupinski.md`
+  - `wiki/entities/agata-jasiolek.md`
+  - `wiki/entities/shigeru-ban.md`
+  - `wiki/entities/bartosz-kowal.md`
+  - `wiki/entities/karol-zurawski.md`
+  - `wiki/entities/karol-szparkowski.md`
+  - `wiki/concepts/experience-based-architectural-education.md`
+  - `wiki/concepts/teamwork-in-architectural-education.md`
+  - `wiki/concepts/socially-engaged-architecture.md`
+- **Pages updated**:
+  - `wiki/entities/mikolaj-smolenski.md` (source_count 1→2; Bujaki przy Bramie Poznania added to Key Works; rzut-35-04 added to In the Sources)
+  - `index.md` (68 sources; 10 new entity rows; 3 new concept rows)
+- **Notes**: Article 05 is the first purely photographic source in the wiki; it functions as visual evidence of pedagogical space rather than textual argument. The "harówka" critique in article 06 is the most explicit diagnosis of burnout culture in Polish architectural education in the wiki. The SARP demographic warning in article 04 (aging membership, branch isolation, statutory function collapse) adds an institutional dimension to the education cluster. Shigeru Ban is a major international addition to the wiki’s humanitarian-architecture thread. Remaining RZUT-35 articles (07–13) to be ingested in subsequent sessions.
+
+---
+
+## [2026-04-28] ingest | RZUT-35 articles 01–03 (Odwagi!, Jedziemy na wycieczkę, Pomiędzy dzieckiem a dorosłym)
+
+- **Action**: Ingested the first three articles from RZUT-35 (*Kształcenie*, 2023). Article 01 — editorial by Snopek/Mazan/Piotrowska framing architectural education as teacher-centric and courage as the core pedagogical gift. Article 02 — interview with Gabriela Rembarz (PG) on two decades of field-trip pedagogy, the neurocognitive argument for embodied learning, and the shift from scarcity to abundance in student travel. Article 03 — interview with Karolina Dobrzyńska-Szefer (Poznań vocational schools) on manual-first design education, the *Kształtowanie przestrzeni* programme, and competition-based pedagogy.
+- **Pages created**:
+  - `wiki/sources/rzut-35-01-odwagi-wstep.md`
+  - `wiki/sources/rzut-35-02-jedziemy-na-wycieczke.md`
+  - `wiki/sources/rzut-35-03-pomiedzy-dzieckiem-a-doroslym.md`
+  - `wiki/entities/gabriela-rembarz.md`
+  - `wiki/entities/monika-arczynska.md`
+  - `wiki/entities/wojciech-mazan.md`
+  - `wiki/entities/karolina-dobrzynska-szefer.md`
+  - `wiki/entities/danuta-kochanowska.md`
+  - `wiki/entities/mieczyslaw-kochanowski.md`
+  - `wiki/entities/katarzyna-wronska.md`
+  - `wiki/entities/kevin-lynch.md`
+  - `wiki/concepts/architectural-field-trip.md`
+  - `wiki/concepts/vocational-design-education.md`
+- **Pages updated**:
+  - `wiki/entities/kuba-snopek.md` (source_count 1→2; rzut-35-01 added to In the Sources)
+  - `wiki/entities/zofia-piotrowska.md` (source_count 3→5; rzut-35-01 and rzut-35-03 added to In the Sources)
+  - `index.md` (65 sources; 8 new entity rows; 2 new concept rows)
+- **Notes**: First RZUT-35 ingest opens the *kształcenie* (education) thematic cluster. Key pedagogical tension: the manual-before-digital hierarchy is asserted as self-evident but lacks empirical defence; may need revision in the generative-AI era (cf. Noviki in RZUT-34). OSSA is mentioned as uniquely Polish but remains undefined in this source — flagged for future clarification. Kevin Lynch is a major addition to the wiki's theoretical canon; his connection to the Stuttgart Städtebauliches Institut provides a previously missing link between American cognitive urbanism and Polish field-trip pedagogy. The demographic downturn in Polish secondary education is framed as an opportunity for curricular innovation, but the market-manager model of school directors risks commodifying education. Remaining RZUT-35 articles (04–13) to be ingested in subsequent sessions.
+
 Parse tip: `grep "^## \[" log.md | tail -10`
 
 ---
