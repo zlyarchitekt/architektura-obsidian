@@ -6,7 +6,7 @@ born:
 died:
 nationality: PL
 tags: [urbanism, journalism, planning, spatial-planning, poland]
-source_count: 3
+source_count: 5
 aliases: ["Zofia Piotrowska"]
 ---
 
@@ -22,6 +22,8 @@ Zofia Piotrowska is a Polish urbanist and editor associated with the RZUT quarte
 - [[rzut-33-18-podmiejskie-biografie]]: Interviewer; conversation with Katarzyna Kajdanek on Polish suburbanisation, *Powrotnici*, and the *podmiejski nomad* figure.
 - [[rzut-34-07-kuchenne-rewolucje]]: Author; historical essay on the kitchen as a gendered political space — from Frederick's taylorist domesticity through Schütte-Lihotzky, Brukalska and Narkomfin to the open-plan kitchen island.
 - [[rzut-34-12-budownictwo-w-tkance-istniejacej]]: Interviewer; conversation with Annabelle von Reutern and Diana Anastasija Radke on circular construction and building in existing fabric.
+- [[rzut-35-01-odwagi-wstep]]: Co-editor; editorial framing architectural education as teacher-centric and defining courage as the core gift teachers give students.
+- [[rzut-35-03-pomiedzy-dzieckiem-a-doroslym]]: Co-interviewer; conversation with Karolina Dobrzyńska-Szefer on vocational design education, manual pedagogy, and the transformative power of empathetic teaching.
 
 ## See Also
 

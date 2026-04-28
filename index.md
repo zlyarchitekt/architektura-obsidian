@@ -1,6 +1,6 @@
 # Wiki Index
 
-_Last updated: 2026-04-27 — 62 sources ingested_
+_Last updated: 2026-04-28 — 74 sources ingested_
 
 ---
 
@@ -68,6 +68,18 @@ _Last updated: 2026-04-27 — 62 sources ingested_
 | [[rzut-34-10-sportpatriarchat]]                    | SPORTPATRIARCHAT (RZUT-34)                                                            | Martyna Kędrzyńska / Anna Kotowska      | 2023       | 2026-04-27 |
 | [[rzut-34-11-plec-w-przestrzeni-systemu-ochrony-zdrowia]] | Płeć w przestrzeni systemu ochrony zdrowia (RZUT-34)                           | Marta Czachorowska                      | 2023       | 2026-04-27 |
 | [[rzut-34-12-budownictwo-w-tkance-istniejacej]]    | Budownictwo w tkance istniejącej (RZUT-34)                                           | Annabelle von Reutern / Diana Anastasija Radke | 2023 | 2026-04-27 |
+| [[rzut-35-01-odwagi-wstep]]                        | Odwagi! — wstęp (RZUT-35)                                                            | Kuba Snopek / Wojciech Mazan / Zofia Piotrowska | 2023 | 2026-04-28 |
+| [[rzut-35-02-jedziemy-na-wycieczke]]               | Jedziemy na wycieczkę (RZUT-35)                                                      | Gabriela Rembarz / Monika Arczyńska             | 2023 | 2026-04-28 |
+| [[rzut-35-03-pomiedzy-dzieckiem-a-doroslym]]       | Pomiędzy dzieckiem a dorosłym (RZUT-35)                                              | Karolina Dobrzyńska-Szefer / Wojciech Mazan / Zofia Piotrowska | 2023 | 2026-04-28 |
+| [[rzut-35-04-doswiadczanie-rzeczywistosci]]        | Doświadczać rzeczywistości (RZUT-35)                                                 | Magda Wypusz / Marcin Stępień                   | 2023 | 2026-04-28 |
+| [[rzut-35-05-szkola]]                              | Szkoła (RZUT-35)                                                                     | Bartosz Kowal                                   | 2023 | 2026-04-28 |
+| [[rzut-35-06-pracowac-zespolowo]]                  | Pracować zespołowo (RZUT-35)                                                         | Jerzy Łątka / Szymon Ciupiński / Agata Jasiołek | 2023 | 2026-04-28 |
+| [[rzut-35-07-perfekcja-ma-zrodlo-w-praktyce]]      | Perfekcja ma źródło w praktyce (RZUT-35)                                             | Marcel Bilow / Jerzy Łątka                      | 2023 | 2026-04-28 |
+| [[rzut-35-08-edukacja-obywatelska]]                | Edukacja obywatelska (RZUT-35)                                                       | Agata Twardoch / Sebastian Dziedzic             | 2023 | 2026-04-28 |
+| [[rzut-35-09-wysilek]]                             | Wysiłek (RZUT-35)                                                                    | Karol Żurawski / students PW                    | 2023 | 2026-04-28 |
+| [[rzut-35-10-na-przekor-utartym-sciezkom]]         | Na przekór utartym ścieżkom (RZUT-35)                                                | Małgorzata Kuciewicz / Simone De Iacobis / Mariia Kolomiitseva | 2023 | 2026-04-28 |
+| [[rzut-35-11-tutaj-nie-chodzi-o-bryk]]             | Tutaj nie chodzi o bryk (RZUT-35)                                                    | Jacek Damięcki / Małgorzata Kuciewicz / Simone De Iacobis | 2023 | 2026-04-28 |
+| [[rzut-35-12-spotkania]]                           | Spotkania (RZUT-35)                                                                  | Aleksandra Gryc / Antoni Domicz / Małgorzata Domicz / Jan Domicz | 2023 | 2026-04-28 |
 
 ---
 
@@ -308,6 +320,37 @@ _Last updated: 2026-04-27 — 62 sources ingested_
 | [[diana-anastasija-radke\|Diana Anastasija Radke]] | person | German managing partner of KVL Bauconsult; existing-fabric building advocate; co-founder of Verband für Bauen im Bestand | Niemiecka partnerka zarządzająca KVL Bauconsult; rzeczniczka budownictwa w istniejącej tkance |
 | [[concular\|Concular]] | firm | German start-up; digital marketplace for reclaimed building materials; circular house pilot in Berlin-Neukölln | Niemiecki start-up; cyfrowy rynek odzyskanych materiałów budowlanych; pilot domu cyrkularnego w Berlinie-Neukölln |
 | [[kvl-bauconsult\|KVL Bauconsult]] | firm | German ecological construction consultancy; 270 employees; carbon accounting; existing-fabric focus | Niemiecka firma konsultingowa ekologicznego budownictwa; 270 pracowników; bilansowanie węgla; focus na istniejącą tkankę |
+| [[gabriela-rembarz\|Gabriela Rembarz]] | person | Polish urbanist and adjunct at PG; 20+ years of field-trip pedagogy; Urban Safari; Stadtgestaltung | Polska urbanistka i adiunktka PG; ponad 20 lat pedagogiki wyjazdów studialnych; Urban Safari; Stadtgestaltung |
+| [[monika-arczynska\|Monika Arczyńska]] | person | Polish urbanist and journalist; interviewer of Gabriela Rembarz in RZUT-35 | Polska urbanistka i dziennikarka; rozmawiająca z Gabrielą Rembarz w RZUT-35 |
+| [[wojciech-mazan\|Wojciech Mazan]] | person | Polish editor/journalist; RZUT; co-author of RZUT-35 editorial and interviewer | Polski redaktor/dziennikarz; RZUT; współautor wstępniaka RZUT-35 i współprowadzący wywiad |
+| [[karolina-dobrzynska-szefer\|Karolina Dobrzyńska-Szefer]] | person | Polish interior architect and teacher; vocational design education in Poznań; manual-first pedagogy | Polska architektka wnętrz i nauczycielka; zawodowa edukacja projektowa w Poznaniu; pedagogika manualna |
+| [[danuta-kochanowska\|Danuta Kochanowska]] | person | Polish professor of urbanism at PG; co-founder of Zakład Rozwoju Miasta; mentor to Rembarz | Polska profesor urbanistyki PG; współzałożycielka Zakładu Rozwoju Miasta; mentor Rembarz |
+| [[mieczyslaw-kochanowski\|Mieczysław Kochanowski]] | person | Polish professor of urbanism at PG; co-founder of Zakład Rozwoju Miasta; anti-tabula-rasa pedagogy | Polski profesor urbanistyki PG; współzałożyciel Zakładu Rozwoju Miasta; pedagogika anty-tabula-rasa |
+| [[katarzyna-wronska\|Katarzyna Wrońska]] | person | Polish architect; Wielkopolska Chamber of Architects; founder of Kształtowanie przestrzeni programme | Polska architektka; Wielkopolska Izba Architektów; założycielka programu Kształtowanie przestrzeni |
+| [[kevin-lynch\|Kevin Lynch]] | person | American urban planner and theorist; The Image of the City (1960); cognitive mapping; guest-taught Stuttgart | Amerykański urbanista i teoretyk; The Image of the City (1960); kognitywne mapowanie; gościnnie w Stuttgarcie |
+| [[magda-wypusz\|Magda Wypusz]] | person | Founder of Mood for Wood workshops; experiential design-build education; Poznań; SARP institutional critique | Założycielka warsztatów Mood for Wood; doświadczalna edukacja projektowo-budowlana; Poznań; krytyka SARP |
+| [[marcin-stepien\|Marcin Stępień]] | person | Polish architect and journalist; interviewer of Magda Wypusz; four-time Mood for Wood participant | Polski architekt i dziennikarz; rozmawiający z Magdą Wypusz; czterokrotny uczestnik Mood for Wood |
+| [[jerzy-latka\|Jerzy Łątka]] | person | Lecturer at PWr; 16 years running Humanizacja Środowiska Miejskiego; ProtoLAB; socially engaged pedagogy | Wykładowca PWr; 16 lat koła Humanizacja Środowiska Miejskiego; ProtoLAB; pedagogika społecznie zaangażowana |
+| [[szymon-ciupinski\|Szymon Ciupiński]] | person | Polish architect; co-interviewer of Jerzy Łątka; advocate for interdisciplinary education | Polski architekt; współprowadzący wywiad z Jerzym Łątką; rzecznik edukacji interdyscyplinarnej |
+| [[agata-jasiolek\|Agata Jasiołek]] | person | Polish architect; co-interviewer of Jerzy Łątka; critic of hustle culture in architecture schools | Polska architektka; współprowadząca wywiad z Jerzym Łątką; krytyczka kultury harówki w szkołach architektonicznych |
+| [[shigeru-ban\|Shigeru Ban]] | person | Japanese architect; Pritzker 2014; paper-tube humanitarian shelters; Paper Nursery School | Japoński architekt; Pritzker 2014; humanitarne schronienia z rur papierowych; Paper Nursery School |
+| [[bartosz-kowal\|Bartosz Kowal]] | person | Polish photographer; author of photographic essay *Szkoła* in RZUT-35 | Polski fotograf; autor fotograficznego eseju *Szkoła* w RZUT-35 |
+| [[karol-zurawski\|Karol Żurawski]] | person | Polish architect; Mood for Wood tutor; Point of Blue platform over Olza river (Cieszyn) | Polski architekt; tutor Mood for Wood; platforma Point of Blue nad Olzą w Cieszynie |
+| [[karol-szparkowski\|Karol Szparkowski]] | person | Polish architect; Mood for Wood tutor; bird observatory at Lake Rusałka; Strzelnica platforms | Polski architekt; tutor Mood for Wood; obserwatorium ptaków nad Rusałką; platformy Strzelnicy |
+| [[marcel-bilow\|Marcel Bilow]] | person | Leader of Bucky Lab at TU Delft; hands-on design-build pedagogy; iterative prototyping | Kierownik Bucky Lab na TU Delft; praktyczna pedagogika projektowo-budowlana; iteracyjne prototypowanie |
+| [[ulrich-knaack\|Ulrich Knaack]] | person | Professor at TU Delft; mentor to Marcel Bilow; future-creation pedagogy | Profesor TU Delft; mentor Marcela Bilowa; pedagogika tworzenia przyszłości |
+| [[mick-eekhout\|Mick Eekhout]] | person | Professor at TU Delft; PhD supervisor to Bilow and Łątka; research-as-exploration metaphor | Profesor TU Delft; promotor Bilowa i Łątki; metafora badania jako eksploracji |
+| [[adam-savage\|Adam Savage]] | person | American maker and TV host (MythBusters); "failure is always an option" motto | Amerykański maker i prezenter (MythBusters); motto "porażka zawsze wchodzi w grę" |
+| [[agata-twardoch\|Agata Twardoch]] | person | Urbanist and professor at PŚ Gliwice; civic education in architecture; housing politics | Urbanistka i profesorka PŚ Gliwice; edukacja obywatelska w architekturze; polityka mieszkaniowa |
+| [[sebastian-dziedzic\|Sebastian Dziedzic]] | person | Polish architect and journalist; interviewer of Agata Twardoch | Polski architekt i dziennikarz; rozmówca Agaty Twardoch |
+| [[filip-springer\|Filip Springer]] | person | Polish journalist and author; *13 pięter* (2015); housing reportage | Polski dziennikarz i autor; *13 pięter* (2015); reportaże mieszkaniowe |
+| [[malgorzata-kuciewicz\|Małgorzata Kuciewicz]] | person | Polish architect; co-founder of CENTRALA; Amplification of Nature; Kharkiv School workshops | Polska architektka; współzałożycielka CENTRALA; Amplifikacja natury; warsztaty w Charkowie |
+| [[simone-de-iacobis\|Simone De Iacobis]] | person | Italian architect; co-founder of CENTRALA; reciprocity; altermodernism; sensory architecture | Włoski architekt; współzałożyciel CENTRALA; wzajemność; altermodernizm; architektura zmysłowa |
+| [[mariia-kolomiitseva\|Mariia Kolomiitseva]] | person | Ukrainian architect; EASA representative; Kharkiv School graduate; WXCA Warsaw | Ukraińska architektka; reprezentantka EASA; absolwentka Charkowskiej Szkoły Architektury; WXCA Warszawa |
+| [[jacek-damiecki\|Jacek Damięcki]] | person | Polish architect and inventor; macro-installations; topology; *Chmura* (1994); organic modelling | Polski architekt i wynalazca; makroinstalacje; topologia; *Chmura* (1994); modelowanie organiczne |
+| [[antoni-domicz\|Antoni Domicz]] | person | Polish architect; OSSA tutor since 2005; father-son tutoring duo; passion-based learning | Polski architekt; tutor OSSY od 2005; duet ojciec-syn; uczenie oparte na pasji |
+| [[malgorzata-domicz\|Małgorzata Domicz]] | person | Polish architect; OSSA tutor; co-runs practice with Antoni Domicz in Opole | Polska architektka; tutor OSSY; współprowadzi pracownię z Antonim Domiczem w Opolu |
+| [[jan-domicz\|Jan Domicz]] | person | Polish visual artist; OSSA tutor; father-son duo; Berlin/Basel/Venice/Vienna exhibitions | Polski artysta wizualny; tutor OSSY; duet ojciec-syn; wystawy w Berlinie/Bazylei/Wenecji/Wiedniu |
 
 ---
 
@@ -426,6 +469,17 @@ _Last updated: 2026-04-27 — 62 sources ingested_
 | [[feminist-architecture-of-care\|Feminist Architecture of Care]] | theory, architecture | Architectural approach treating care as primary design objective; soft, social, ritualised spaces as therapeutic | Podejście architektoniczne traktujące opiekę jako podstawowy cel projektowy; miękkie, społeczne, rytualne przestrzenie jako terapeutyczne |
 | [[circular-construction\|Circular Construction]] | architecture, sustainability | Building practice eliminating waste and maximising reuse of materials, components, and existing structures | Praktyka budowlana eliminująca odpady i maksymalizująca ponowne użycie materiałów, komponentów i istniejących struktur |
 | [[building-in-existing-fabric\|Building in Existing Fabric]] | architecture, conservation | Constructing, renovating, adapting within existing city fabric; minimising demolition; carbon-reduction and care strategy | Budowanie, remontowanie, adaptacja w istniejącej tkance miasta; minimalizacja rozbiórki; strategia redukcji węgla i troski |
+| [[architectural-field-trip\|Architectural Field Trip]] | pedagogy | Pedagogical practice of physical travel to built environments for embodied spatial learning; Urban Safari; Grand Tour | Pedagogiczna praktyka fizycznej podróży do zbudowanych środowisk w celu ucieleśnionego uczenia się przestrzennego; Urban Safari; Grand Tour |
+| [[vocational-design-education\|Vocational Design Education]] | pedagogy | Design teaching in secondary vocational/technical schools; manual-before-digital; competition-based; Kształtowanie przestrzeni | Nauczanie projektowania w zawodowych szkołach średnich; najpierw ręce; oparte na konkursach; Kształtowanie przestrzeni |
+| [[experience-based-architectural-education\|Experience-Based Architectural Education]] | pedagogy | Learning architecture through designing and building real objects; Mood for Wood; ProtoLAB; full project cycle | Uczenie się architektury przez projektowanie i budowanie realnych obiektów; Mood for Wood; ProtoLAB; pełny cykl projektowy |
+| [[teamwork-in-architectural-education\|Teamwork in Architectural Education]] | pedagogy | Collaborative group work in architectural pedagogy; interdisciplinary; role-based teams; PWr Pavilion | Zespołowa praca w pedagogice architektonicznej; interdyscyplinarna; zespoły z rolami; Pawilon PWr |
+| [[socially-engaged-architecture\|Socially Engaged Architecture]] | architecture | Design driven by social need; architect as facilitator; homeless shelters; displacement housing; community furniture | Projektowanie napędzane potrzebą społeczną; architekt jako facylitator; noclegownie; mieszkalnictwo dla przesiedleńców |
+| [[bucky-lab\|Bucky Lab]] | education | Hands-on design-build course at TU Delft; iterative prototyping; two-week build; Bilow | Praktyczny kurs projektowo-budowlany na TU Delft; iteracyjne prototypowanie; dwutygodniowa budowa; Bilow |
+| [[perfectionism-in-architectural-education\|Perfectionism in Architectural Education]] | theory | Psychological disposition in design schools; enemy of creativity; cure through iterative practice | Psychologiczna dyspozycja w szkołach projektowych; wróg kreatywności; lekarstwo przez praktykę iteracyjną |
+| [[civic-education-in-architecture\|Civic Education in Architecture]] | theory | Training architects as citizens; housing as politics; marketization critique; Twardoch | Kształcenie architektów jako obywateli; mieszkalnictwo jako polityka; krytyka urynkowienia; Twardoch |
+| [[ossa\|OSSA]] | education | Student-led architecture workshops in Poland; interdisciplinary; passion-based; no authority | Studenckie warsztaty architektoniczne w Polsce; interdyscyplinarne; oparte na pasji; bez hierarchii |
+| [[amplification-of-nature\|Amplification of Nature]] | architecture | Architecture as part of natural processes; performative models; non-anthropocentrism; CENTRALA | Architektura jako część procesów przyrodniczych; modele performatywne; non-antropocentryzm; CENTRALA |
+| [[architecture-as-process\|Architecture as Process]] | theory | Dynamic, metabolic architecture; rejects static object; demands new design methods | Dynamiczna, metaboliczna architektura; odrzuca statyczny obiekt; wymaga nowych metod projektowania |
 
 ---
 

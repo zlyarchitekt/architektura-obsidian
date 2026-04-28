@@ -4,7 +4,7 @@ entity_type: person
 name: "Kuba Snopek"
 nationality: PL
 tags: [urbanism, research, densification, warsaw, mixed-use, planning]
-source_count: 1
+source_count: 3
 aliases: ["Kuba Snopek"]
 ---
 
@@ -20,6 +20,8 @@ In RZUT-33, Snopek is presented as a critical but broadly supportive external vo
 
 - **External consultation, Warsaw Studium** (2018–2022) — communication advising on the new Studium Uwarunkowań i Kierunków Zagospodarowania Przestrzennego.
 - **Collaboration, UC Berkeley Real Estate Development and Design** — comparative urbanism; cross-sector collaboration in complex development projects.
+- **Kharkiv School of Architecture** — Co-author of the curriculum and first programme director.
+- **Direction** — Founder of the urban consultancy firm.
 
 ## Ideas & Influences
 
@@ -34,9 +36,12 @@ His Berkeley connection informs a cautionary parallel: California cities' pathol
 ## In the Sources
 
 - [[rzut-33-07-madre-dogeszczanie]]: extended interview; central argument on smart densification; Berkeley parallel; the Studium as "spatial constitution" vs. political manifesto; three planks of densification strategy; future mixed-use PPP landscape.
+- [[rzut-35-01-odwagi-wstep]]: Co-editor; framing architectural education as teacher-centric and introducing courage as the core pedagogical gift.
+- [[rzut-35-13-autorzy-i-rozmowcy]]: Bio notes his role as co-author of the Kharkiv School of Architecture curriculum and first programme director; Strelka and Berkeley graduate; founder of Direction.
 
 **PL:**
 - [[rzut-33-07-madre-dogeszczanie]]: wywiad o mądrym dogęszczaniu, Berkeley, Studium jako konstytucji przestrzennej i trzech filarach strategii dogęszczeniowej.
+- [[rzut-35-01-odwagi-wstep]]: Współredaktor; ujęcie edukacji architektonicznej jako zależnej od kadry i wprowadzenie odwagi jako rdzennego daru pedagogicznego.
 
 ## Contradictions / Open Questions
 
