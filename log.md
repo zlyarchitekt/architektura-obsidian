@@ -4,6 +4,32 @@ Append-only. Do not edit past entries.
 
 ---
 
+## [2026-04-29] ingest | Low-Rise, High-Density Housing: Chapters 4–5 (BME, 2013)
+
+- **Action**: Ingested Chapters 4 (20th-century introduction) and 5 (International Projects, First Half of 20th Century) of Perényi's *Low-Rise, High-Density Housing*. Chapter 4 frames modern low-rise high-density housing through three forces: functionalist break, Dutch Structuralist critique, and the enduring concepts of presence/garden. Chapter 5 surveys 14 projects: British garden cities (Letchworth, Hampstead), Amsterdam School (de Klerk), Dutch modernism (Oud ×3), American modernism (Schindler, Wright), German modernism (Taut, Gropius, May), Austrian modernism (Werkbundsiedlung Vienna), Nordic modernism (Aalto), and Swiss modernism (Werkbundsiedlung Zürich).
+- **Pages created**:
+  - `wiki/sources/low-rise-high-density-housing-chapters-04-05.md`
+  - `wiki/entities/jjp-oud.md`
+  - `wiki/entities/raymond-unwin.md`
+  - `wiki/entities/barry-parker.md`
+  - `wiki/entities/rudolph-schindler.md`
+  - `wiki/entities/michael-de-klerk.md`
+  - `wiki/entities/ebenezer-howard.md`
+  - `wiki/entities/ernst-may.md`
+  - `wiki/entities/letchworth-garden-city.md`
+  - `wiki/entities/hampstead-garden-suburb.md`
+  - `wiki/concepts/garden-city.md`
+- **Pages updated**:
+  - `wiki/entities/bruno-taut.md` (source_count 1→2; added Onkel-Toms-Hütte)
+  - `wiki/entities/walter-gropius.md` (source_count 1→2; added Törten Siedlung)
+  - `wiki/entities/alvar-aalto.md` (source_count 1→2; added Kauttua Terrace Houses)
+  - `wiki/entities/frank-lloyd-wright.md` (source_count 1→2; added Suntop Homes)
+  - `wiki/entities/adolf-loos.md` (source_count 1→2; added Werkbundsiedlung Vienna)
+  - `index.md` (77 sources; 9 new entity rows; 1 new concept row)
+- **Notes**: This ingest significantly expands the wiki's coverage of early 20th-century housing modernism. Notable gaps filled: J.J.P. Oud (previously absent despite 3 major projects), Raymond Unwin (garden-city pioneer), Ebenezer Howard (theoretical founder), and Ernst May (Frankfurt programme). The 14 projects in Chapter 5 represent a nearly complete survey of canonical interwar low-rise high-density housing; only the Hungarian projects (Chapter 6) and latter-half 20th-century projects (Chapters 7–8) remain for future ingests. The tension between garden-city regulation and modernist functionalism — a central theme of Chapter 5 — connects directly to the Polish spatial-order debates documented in Twardoch's article.
+
+---
+
 ## [2026-04-29] ingest | Low-Rise, High-Density Housing: Chapters 1–2 (BME, 2013)
 
 - **Action**: Ingested the theoretical introduction (Chapters 1–2) of Tamás Perényi's edited volume *Low-Rise, High-Density Housing* (Budapest University of Technology and Economics, 2013). Chapter 1 defines the conceptual triad of contemporariness-as-presence, garden-as-enclosure, and densification/tracery. Chapter 2 introduces a 2×3 typological matrix (Fill/Growth × Pattern/Lane/Cohesion) for classifying historic low-rise, high-density developments, drawing on Tamás Tomay's continuity thesis.

@@ -1,6 +1,6 @@
 # Wiki Index
 
-_Last updated: 2026-04-29 — 76 sources ingested_
+_Last updated: 2026-04-29 — 77 sources ingested_
 
 ---
 
@@ -82,6 +82,7 @@ _Last updated: 2026-04-29 — 76 sources ingested_
 | [[rzut-35-11-tutaj-nie-chodzi-o-bryk]]             | Tutaj nie chodzi o bryk (RZUT-35)                                                    | Jacek Damięcki / Małgorzata Kuciewicz / Simone De Iacobis | 2023 | 2026-04-28 |
 | [[rzut-35-12-spotkania]]                           | Spotkania (RZUT-35)                                                                  | Aleksandra Gryc / Antoni Domicz / Małgorzata Domicz / Jan Domicz | 2023 | 2026-04-28 |
 | [[polityka-mieszkaniowa-w-kontekscie-ladu-przestrzennego]] | Polityka mieszkaniowa w kontekście kształtowania ładu przestrzennego w Polsce | Agata Twardoch | 2021 | 2026-04-29 |
+| [[low-rise-high-density-housing-chapters-04-05]]   | Low-Rise, High-Density Housing: Chapters 4–5 (20th Century & International Projects) | Tamás Perényi et al.                            | 2013 | 2026-04-29 |
 
 ---
 
@@ -362,6 +363,15 @@ _Last updated: 2026-04-29 — 76 sources ingested_
 | [[tamas-perenyi\|Tamás Perényi]] | person | Hungarian architect and professor at BME; editor of *Low-Rise, High-Density Housing* (2013); typology of housing forms | Węgierski architekt i profesor BME; redaktor *Low-Rise, High-Density Housing* (2013); typologia form mieszkaniowych |
 | [[kalman-timon\|Kálmán Timon]] | person | Hungarian architectural theorist; author of "modern developments with gardens"; precedent for Perényi's classification | Węgierski teoretyk architektury; autor "współczesnych osiedli z ogrodami"; precedens klasyfikacji Perényiego |
 | [[tamas-tomay\|Tamás Tomay]] | person | Hungarian architectural theorist; "each building is a continuation"; ontogenesis of architecture | Węgierski teoretyk architektury; "każdy budynek jest kontynuacją"; ontogeneza architektury |
+| [[jjp-oud\|J. J. P. Oud]] | architect | Dutch modernist; De Stijl; poetic functionalism; Mathenesse, Kiefhoek, Weissenhof | Holenderski modernista; De Stijl; poetycki funkcjonalizm; Mathenesse, Kiefhoek, Weissenhof |
+| [[raymond-unwin\|Raymond Unwin]] | architect | British garden-city pioneer; Letchworth and Hampstead Garden Suburb | Brytyjski pionier miast-ogrodów; Letchworth i Hampstead Garden Suburb |
+| [[barry-parker\|Barry Parker]] | architect | British architect; co-designer of Letchworth Garden City | Brytyjski architekt; współprojektant Letchworth Garden City |
+| [[rudolph-schindler\|Rudolph M. Schindler]] | architect | Austrian-American modernist; concrete courtyard housing; Pueblo Ribera Court | Austriacko-amerykański modernista; żelbetowe mieszkalnictwo dziedzińcowe; Pueblo Ribera Court |
+| [[michael-de-klerk\|Michael de Klerk]] | architect | Dutch Expressionist; Amsterdam School; "The Ship" (Spaarndammerplantsoen) | Holenderski ekspresjonista; Szkoła Amsterdamska; "Statek" |
+| [[ebenezer-howard\|Ebenezer Howard]] | person | British urbanist; founder of the garden-city movement; *Garden Cities of To-morrow* | Brytyjski urbanista; założyciel ruchu miast-ogrodów; *Garden Cities of To-morrow* |
+| [[ernst-may\|Ernst May]] | architect | German modernist; Frankfurt social housing programme; Praunheim Estate; New Frankfurt | Niemiecki modernista; frankfurcki program mieszkaniowy; osiedle Praunheim; Neues Frankfurt |
+| [[letchworth-garden-city\|Letchworth Garden City]] | building | First garden city (1903); Unwin & Parker; vernacular-modern synthesis | Pierwsze miasto-ogród (1903); Unwin i Parker; synteza wernakularno-modernistyczna |
+| [[hampstead-garden-suburb\|Hampstead Garden Suburb]] | building | Garden suburb in London (1905); Unwin; strict regulatory planning | Przedmieście ogrodowe w Londynie (1905); Unwin; ścisłe planowanie regulacyjne |
 
 ---
 
@@ -499,6 +509,7 @@ _Last updated: 2026-04-29 — 76 sources ingested_
 | [[low-rise-high-density-housing\|Low-Rise High-Density Housing]] | architecture, urbanism | Residential developments of limited height orchestrated into high-density systems through compact tracery and shared boundaries; not reducible to quantitative metrics | Osiedla mieszkaniowe o ograniczonej wysokości zorganizowane w systemy wysokiej gęstości poprzez zwartą ażurowość i wspólne granice; nie sprowadzalne do wskaźników ilościowych |
 | [[contemporariness\|Contemporariness]] | theory, architecture | Presence: responsive attachment to here-and-now; deliberately distinguished from novelty or modernism by Perényi | Obecność: responsywne przywiązanie do tu-i-teraz; celowo odróżniane od nowatorstwa czy modernizmu przez Perényiego |
 | [[garden-as-architectural-enclosure\|Garden as Architectural Enclosure]] | architecture, landscape | Garden defined by its fence as an architectural category (enclosure), not a landscape; essential compositional element in housing | Ogród definiowany przez płot jako kategoria architektoniczna (zamknięcie), nie krajobraz; istotny element kompozycyjny w mieszkalnictwie |
+| [[garden-city\|Garden City]] | urbanism, housing | Planned settlement blending town and country; limited size; green belt; cooperative ownership; Ebenezer Howard | Planowane osiedle łączące miasto i wieś; ograniczony rozmiar; zielony pas; własność spółdzielcza; Ebenezer Howard |
 
 ---
 
