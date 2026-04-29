@@ -6,7 +6,7 @@ born:
 died:
 nationality: PL
 tags: [sociology, suburbanization, urbanism, housing, poland, reurbanization]
-source_count: 1
+source_count: 2
 aliases: ["Katarzyna Kajdanek"]
 ---
 
@@ -34,7 +34,8 @@ She also documents the **air quality inversion**: cities that invested in distri
 
 ## In the Sources
 
-- [[rzut-33-18-podmiejskie-biografie]]: Kajdanek's interview with Zofia Piotrowska — linguistic disambiguation (suburbanizacja vs. przedmieścia); Polish statistical gap (no functional urban area category); two phases of Polish suburbanisation; cultural + economic logic of the suburban house; Polish suburban specificity (built on old village cores); *Powrotnicy* life-cycle (euphoria → dissonance → crisis → return); podmiejski nomad; shopping centres as substitute public space; air quality inversion.
+- [[rzut-33-18-podmiejskie-biografie]]: Kajdanek's interview with Zofia Piotrowska — linguistic disambiguation (suburbanizacja vs. przedmieścia); Polish statistical gap (no functional urban area category); two phases of Polish suburbanisation; cultural + economic logic of the suburban house; Polish suburban specificity (built on old village cores); *Powrotnici* life-cycle (euphoria → dissonance → crisis → return); podmiejski nomad; shopping centres as substitute public space; air quality inversion.
+- [[polityka-mieszkaniowa-w-kontekscie-ladu-przestrzennego]]: Twardoch cites Kajdanek's thesis that "urban sprawl became virtually the only response to the state's abdication from shaping housing policy" as a foundational framing for understanding the structural (rather than cultural) drivers of Polish suburbanisation and the need for spatial-order-compatible housing policy.
 
 ## See Also
 

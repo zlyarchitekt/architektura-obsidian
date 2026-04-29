@@ -4,7 +4,7 @@ aliases: ["Typology"]
 name: "Typology"
 domain: architecture | urbanism | theory
 tags: [architecture, classification, form]
-source_count: 1
+source_count: 2
 ---
 
 ## Definition
@@ -18,7 +18,7 @@ The concept of typology is ancient, but its formal application in architecture g
 ***PL:*** *Idea typologii jest stara, ale jej formalne zastosowanie w architekturze zyskało na znaczeniu podczas Oświecenia i zostało później sformalizowane przez teoretyków takich jak Marc-Antoine Laugier. Zawsze była narzędziem do zrozumienia, jak ludzka działalność strukturyzuje środowisko zbudowane.*
 
 ## Key Proponents
-[[Marc-Antoine Laugier]], [[Le Corbusier]], [[Aldo Rossi]]
+[[Marc-Antoine Laugier]], [[Le Corbusier]], [[Aldo Rossi]], [[Tamás Perényi]], [[Tamás Tomay]]
 
 ## Key Examples
 *   **The Primitive Hut:** The earliest model of architectural typology, suggesting a basic structural unit for all buildings.
@@ -31,6 +31,7 @@ Critics argue that focusing too heavily on type risks reducing complex, unique w
 
 ## In the Sources
 *   **Source:** [[Dookoła, czyli typ i miasto]] (raw/RZUT - Dookoła, czyli typ i miasto.md) — The source discusses how typology is used to organize thought and structure understanding in both architecture and language.
+*   **Source:** [[low-rise-high-density-housing-chapters-01-02]] — Perényi and Tomay develop a 2×3 typological matrix (Fill/Growth × Pattern/Lane/Cohesion) for historic low-rise, high-density housing, arguing that typologies convey the "genome of continuity" in architectural form.
 
 ## See Also
 [[City]], [[Architecture]]

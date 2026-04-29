@@ -4,7 +4,7 @@ entity_type: person
 name: "Agata Twardoch"
 nationality: PL
 tags: [architecture, urbanism, education, housing, civic-education]
-source_count: 2
+source_count: 3
 aliases: ["Agata Twardoch"]
 ---
 
@@ -17,12 +17,14 @@ Agata Twardoch is a Polish urbanist and professor at the Department of Urban Pla
 ## Key Works / Projects
 
 - **System do mieszkania. Perspektywy rozwoju dostępnego budownictwa mieszkaniowego** (Fundacja Bęc Zmiana, 2nd ed. 2023) — Book on accessible housing development.
+- **"Polityka mieszkaniowa w kontekście kształtowania ładu przestrzennego w Polsce"** (*Studia BAS* 2(66)/2021) — Peer-reviewed article evaluating Polish housing policy against spatial-order criteria through document analysis and case studies of Katowice, Wrocław, and Warsaw.
 - **"Tereny mieszkaniowe" course** (PŚ Gliwice, ongoing) — Optional course replacing lectures with discussion, open assignments, and no grades.
 - **44STO** — Co-runs the design studio.
 - **Architektki. Czy kobiety zaprojektują lepsze miasta** — Book on women in architecture.
 
 **PL:**
 - **System do mieszkania. Perspektywy rozwoju dostępnego budownictwa mieszkaniowego** (Fundacja Bęc Zmiana, II wyd. 2023) — Książka o rozwoju dostępnego budownictwa mieszkaniowego.
+- **"Polityka mieszkaniowa w kontekście kształtowania ładu przestrzennego w Polsce"** (*Studia BAS* 2(66)/2021) — Artykuł naukowy ewaluujący polską politykę mieszkaniową pod kątem wymogów ładu przestrzennego na podstawie analizy dokumentów i studiów przypadków z Katowic, Wrocławia i Warszawy.
 - **Przedmiot "Tereny mieszkaniowe"** (PŚ Gliwice, trwający) — Fakultet zastępujący wykłady dyskusją, otwartymi zadaniami i brakiem ocen.
 
 ## Ideas & Influences
@@ -42,11 +44,15 @@ Agata Twardoch is a Polish urbanist and professor at the Department of Urban Pla
 
 ## In the Sources
 
-What do ingested sources say about this entity? Cite: [[rzut-35-08-edukacja-obywatelska]].
+What do ingested sources say about this entity? Cite: [[rzut-35-08-edukacja-obywatelska]], [[polityka-mieszkaniowa-w-kontekscie-ladu-przestrzennego]].
 
 Interviewed by Sebastian Dziedzic about the absence of civic education in architecture schools, her personal intellectual journey, her course methodology, and her views on housing politics, financialization, and gender inequality in architecture. Bio in RZUT-35 notes her memberships in TUP, Affordable Housing Forum, and Rada Fundacji Rynku Najmu.
 
+- [[polityka-mieszkaniowa-w-kontekscie-ladu-przestrzennego]]: Twardoch's 2021 peer-reviewed article operationalising spatial order into five requirement categories and evaluating the National Housing Programme and three housing estates (Nowy Nikiszowiec, Nowe Żerniki, Bliska Wola) against them. The article introduces international policy instruments (UGBs, housing quotas, anti-vacancy taxes) as applicable to Poland.
+
 **PL:** Przeprowadzony wywiad przez Sebastiana Dziedzica na temat braku edukacji obywatelskiej na wydziałach architektury, jej osobistej drogi intelektualnej, metodologii prowadzonych zajęć oraz poglądów na politykę mieszkaniową, finansjalizację i nierówność płciową w architekturze.
+
+- [[polityka-mieszkaniowa-w-kontekscie-ladu-przestrzennego]]: Artykuł naukowy Twardoch z 2021 r. operacjonalizujący ład przestrzenny w pięć kategorii wymagań i ewaluujący Narodowy Program Mieszkaniowy oraz trzy osiedla (Nowy Nikiszowiec, Nowe Żerniki, Bliska Wola). Artykuł proponuje międzynarodowe instrumenty polityczne (UGB, prowizje mieszkaniowe, podatki antypustostanowe) jako stosowalne w Polsce.
 
 - [[rzut-35-13-autorzy-i-rozmowcy]]: Bio notes her memberships in TUP, Affordable Housing Forum, and Rada Fundacji Rynku Najmu; co-runs 44STO studio; author of *Architektki. Czy kobiety zaprojektują lepsze miasta*.
 

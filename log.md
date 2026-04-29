@@ -4,6 +4,49 @@ Append-only. Do not edit past entries.
 
 ---
 
+## [2026-04-29] ingest | Low-Rise, High-Density Housing: Chapters 1–2 (BME, 2013)
+
+- **Action**: Ingested the theoretical introduction (Chapters 1–2) of Tamás Perényi's edited volume *Low-Rise, High-Density Housing* (Budapest University of Technology and Economics, 2013). Chapter 1 defines the conceptual triad of contemporariness-as-presence, garden-as-enclosure, and densification/tracery. Chapter 2 introduces a 2×3 typological matrix (Fill/Growth × Pattern/Lane/Cohesion) for classifying historic low-rise, high-density developments, drawing on Tamás Tomay's continuity thesis.
+- **Pages created**:
+  - `wiki/sources/low-rise-high-density-housing-chapters-01-02.md`
+  - `wiki/entities/tamas-perenyi.md`
+  - `wiki/entities/kalman-timon.md`
+  - `wiki/entities/tamas-tomay.md`
+  - `wiki/concepts/low-rise-high-density-housing.md`
+  - `wiki/concepts/contemporariness.md`
+  - `wiki/concepts/garden-as-architectural-enclosure.md`
+- **Pages updated**:
+  - `wiki/concepts/typology.md` (source_count 1→2; added Perényi and Tomay to Key Proponents; added new source citation)
+  - `index.md` (76 sources; 3 new entity rows; 3 new concept rows)
+- **Notes**: This is the first Hungarian source in the wiki and the first systematic typology of low-rise, high-density housing. The "presence" concept offers a useful counterpoint to the Polish wiki's strong modernist bias — it valorises continuity over rupture. The 2×3 matrix (Fill/Growth × Pattern/Lane/Cohesion) is a genuinely novel analytical tool that could be applied to Polish vernacular housing (e.g., Podhale, Zalipie) or socialist estates. The authors' explicit rejection of scientific method in favour of intuition is methodologically provocative; it sits in productive tension with Twardoch's highly systematic spatial-order grid. The "garden as enclosure" concept connects to existing wiki pages on courtyard houses, biophilic design, and blue-green infrastructure, but shifts the emphasis from ecology to architectural composition.
+
+---
+
+## [2026-04-29] ingest | Polityka mieszkaniowa w kontekście kształtowania ładu przestrzennego w Polsce (Studia BAS 2(66)/2021)
+
+- **Action**: Ingested Agata Twardoch's 2021 peer-reviewed article analysing Polish housing policy against spatial-order criteria. The source evaluates the National Housing Programme (NPM), the 2018 Act on Facilitating Residential Investments, and three housing estates (Nowy Nikiszowiec — Katowice, Nowe Żerniki — Wrocław, Bliska Wola — Warsaw) using a five-category analytical grid derived from the statutory definition of spatial order. The article surveys international instruments (UGBs, mixed-tenure quotas, anti-vacancy taxes, binding urban design standards) as applicable to Poland.
+- **Pages created**:
+  - `wiki/sources/polityka-mieszkaniowa-w-kontekscie-ladu-przestrzennego.md`
+  - `wiki/entities/warsaw.md`
+  - `wiki/entities/wroclaw.md`
+  - `wiki/entities/katowice.md`
+  - `wiki/entities/nowy-nikiszowiec.md`
+  - `wiki/entities/nowe-zerniki.md`
+  - `wiki/entities/bliska-wola.md`
+  - `wiki/concepts/housing-policy.md`
+  - `wiki/concepts/narodowy-program-mieszkaniowy.md`
+  - `wiki/concepts/mieszkanie-plus.md`
+  - `wiki/concepts/ustawa-o-ulatwieniach-inwestycji-mieszkaniowych-2018.md`
+  - `wiki/concepts/mixed-tenure.md`
+- **Pages updated**:
+  - `wiki/concepts/lad-przestrzenny.md` (source_count 1→2; added Twardoch, Markowski, Gwiazdowicz to Key Proponents; added new source citation)
+  - `wiki/entities/agata-twardoch.md` (source_count 2→3; added 2021 *Studia BAS* article to Key Works; added source citation)
+  - `wiki/entities/katarzyna-kajdanek.md` (source_count 1→2; added Twardoch's citation of Kajdanek's "state abdication from housing policy" thesis)
+  - `index.md` (75 sources; 7 new entity rows; 5 new concept rows)
+- **Notes**: The article exposes a fundamental policy contradiction: the NPM nominally supports spatial order while the 2018 Act destroys the primary local instrument (MPZP) for achieving it. Nowe Żerniki emerges as the only positive case — but its success depends on exceptional public leadership (master plan, city architect, workshops), not on systemic rules. Bliska Wola is the most detailed negative case of market-failure housing in the wiki to date. The ingest significantly expands the wiki's coverage of Polish housing policy, spatial planning law, and comparative urbanism instruments.
+
+---
+
 ## [2026-04-28] ingest | RZUT-35 articles 10–12 (Na przekór utartym ścieżkom, Tutaj nie chodzi o bryk, Spotkania)
 
 - **Action**: Ingested articles 10–12 from RZUT-35 (*Kształcenie*, 2023). Article 10 — interview with Małgorzata Kuciewicz and Simone De Iacobis (CENTRALA) by Mariia Kolomiitseva: architecture as process, Amplification of Nature, performative models, non-anthropocentrism, altermodernism, and the Kharkiv School of Architecture workshops. Article 11 — interview with Jacek Damięcki by Kuciewicz/De Iacobis: topology, macro-installations, organic modelling, watch-schedule creativity, collaboration with Jan Goots, and the rejection of textbook learning. Article 12 — interview with the Domicz family (Antoni, Małgorzata, Jan) by Aleksandra Gryc: history of OSSA, student-led interdisciplinary workshops, father-son tutoring duo, tempo alignment, and critique of Polish architecture schools for lacking practising architects. Article 13 (bios) was skipped per precedent but used to enrich existing entity pages (Gryc, Snopek, Łątka, Twardoch, Wypusz).

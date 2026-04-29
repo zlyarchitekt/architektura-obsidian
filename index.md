@@ -1,6 +1,6 @@
 # Wiki Index
 
-_Last updated: 2026-04-28 — 74 sources ingested_
+_Last updated: 2026-04-29 — 76 sources ingested_
 
 ---
 
@@ -77,9 +77,11 @@ _Last updated: 2026-04-28 — 74 sources ingested_
 | [[rzut-35-07-perfekcja-ma-zrodlo-w-praktyce]]      | Perfekcja ma źródło w praktyce (RZUT-35)                                             | Marcel Bilow / Jerzy Łątka                      | 2023 | 2026-04-28 |
 | [[rzut-35-08-edukacja-obywatelska]]                | Edukacja obywatelska (RZUT-35)                                                       | Agata Twardoch / Sebastian Dziedzic             | 2023 | 2026-04-28 |
 | [[rzut-35-09-wysilek]]                             | Wysiłek (RZUT-35)                                                                    | Karol Żurawski / students PW                    | 2023 | 2026-04-28 |
+| [[low-rise-high-density-housing-chapters-01-02]]   | Low-Rise, High-Density Housing: Chapters 1–2 (Introduction & Historic Forms)         | Tamás Perényi et al.                            | 2013 | 2026-04-29 |
 | [[rzut-35-10-na-przekor-utartym-sciezkom]]         | Na przekór utartym ścieżkom (RZUT-35)                                                | Małgorzata Kuciewicz / Simone De Iacobis / Mariia Kolomiitseva | 2023 | 2026-04-28 |
 | [[rzut-35-11-tutaj-nie-chodzi-o-bryk]]             | Tutaj nie chodzi o bryk (RZUT-35)                                                    | Jacek Damięcki / Małgorzata Kuciewicz / Simone De Iacobis | 2023 | 2026-04-28 |
 | [[rzut-35-12-spotkania]]                           | Spotkania (RZUT-35)                                                                  | Aleksandra Gryc / Antoni Domicz / Małgorzata Domicz / Jan Domicz | 2023 | 2026-04-28 |
+| [[polityka-mieszkaniowa-w-kontekscie-ladu-przestrzennego]] | Polityka mieszkaniowa w kontekście kształtowania ładu przestrzennego w Polsce | Agata Twardoch | 2021 | 2026-04-29 |
 
 ---
 
@@ -341,7 +343,13 @@ _Last updated: 2026-04-28 — 74 sources ingested_
 | [[ulrich-knaack\|Ulrich Knaack]] | person | Professor at TU Delft; mentor to Marcel Bilow; future-creation pedagogy | Profesor TU Delft; mentor Marcela Bilowa; pedagogika tworzenia przyszłości |
 | [[mick-eekhout\|Mick Eekhout]] | person | Professor at TU Delft; PhD supervisor to Bilow and Łątka; research-as-exploration metaphor | Profesor TU Delft; promotor Bilowa i Łątki; metafora badania jako eksploracji |
 | [[adam-savage\|Adam Savage]] | person | American maker and TV host (MythBusters); "failure is always an option" motto | Amerykański maker i prezenter (MythBusters); motto "porażka zawsze wchodzi w grę" |
-| [[agata-twardoch\|Agata Twardoch]] | person | Urbanist and professor at PŚ Gliwice; civic education in architecture; housing politics | Urbanistka i profesorka PŚ Gliwice; edukacja obywatelska w architekturze; polityka mieszkaniowa |
+| [[agata-twardoch\|Agata Twardoch]] | person | Urbanist and professor at PŚ Gliwice; civic education in architecture; housing politics; author of 2021 *Studia BAS* article on housing policy vs spatial order | Urbanistka i profesorka PŚ Gliwice; edukacja obywatelska w architekturze; polityka mieszkaniowa; autorka artykułu z 2021 r. w *Studia BAS* o polityce mieszkaniowej a ładzie przestrzennym |
+| [[warsaw\|Warsaw]] | city | Capital of Poland; site of Bliska Wola and BAiPP planning reforms | Stolica Polski; miejsce osiedla Bliska Wola i reform planistycznych BAiPP |
+| [[wroclaw\|Wrocław]] | city | Fourth-largest Polish city; site of Nowe Żerniki and WUWA modernist heritage | Czwarte co do wielkości miasto Polski; miejsce Nowych Żerników i modernistycznego dziedzictwa WUWA |
+| [[katowice\|Katowice]] | city | Capital of Silesian Voivodeship; site of Nowy Nikiszowiec and post-industrial transformation | Stolica województwa śląskiego; miejsce Nowego Nikiszowca i transformacji postindustrialnej |
+| [[nowy-nikiszowiec\|Nowy Nikiszowiec]] | building | TBS estate in Katowice (Mieszkanie Plus); 513 dwellings; compositional quality but poor location | Osiedle TBS w Katowicach (Mieszkanie Plus); 513 mieszkań; jakość kompozycyjna, ale słaba lokalizacja |
+| [[nowe-zerniki\|Nowe Żerniki]] | building | Mixed-tenure district in Wrocław; master-plan-first model; best-practice spatial-order housing | Mieszana dzielnica we Wrocławiu; model "najpierw master plan"; wzorcowe mieszkalnictwo z ładem przestrzennym |
+| [[bliska-wola\|Bliska Wola]] | building | High-density private estate in Warsaw; 3,998 dwellings; symbol of market-driven spatial disorder | Wysokogęstościowe prywatne osiedle w Warszawie; 3998 mieszkań; symbol rynkowego nieładu przestrzennego |
 | [[sebastian-dziedzic\|Sebastian Dziedzic]] | person | Polish architect and journalist; interviewer of Agata Twardoch | Polski architekt i dziennikarz; rozmówca Agaty Twardoch |
 | [[filip-springer\|Filip Springer]] | person | Polish journalist and author; *13 pięter* (2015); housing reportage | Polski dziennikarz i autor; *13 pięter* (2015); reportaże mieszkaniowe |
 | [[malgorzata-kuciewicz\|Małgorzata Kuciewicz]] | person | Polish architect; co-founder of CENTRALA; Amplification of Nature; Kharkiv School workshops | Polska architektka; współzałożycielka CENTRALA; Amplifikacja natury; warsztaty w Charkowie |
@@ -351,6 +359,9 @@ _Last updated: 2026-04-28 — 74 sources ingested_
 | [[antoni-domicz\|Antoni Domicz]] | person | Polish architect; OSSA tutor since 2005; father-son tutoring duo; passion-based learning | Polski architekt; tutor OSSY od 2005; duet ojciec-syn; uczenie oparte na pasji |
 | [[malgorzata-domicz\|Małgorzata Domicz]] | person | Polish architect; OSSA tutor; co-runs practice with Antoni Domicz in Opole | Polska architektka; tutor OSSY; współprowadzi pracownię z Antonim Domiczem w Opolu |
 | [[jan-domicz\|Jan Domicz]] | person | Polish visual artist; OSSA tutor; father-son duo; Berlin/Basel/Venice/Vienna exhibitions | Polski artysta wizualny; tutor OSSY; duet ojciec-syn; wystawy w Berlinie/Bazylei/Wenecji/Wiedniu |
+| [[tamas-perenyi\|Tamás Perényi]] | person | Hungarian architect and professor at BME; editor of *Low-Rise, High-Density Housing* (2013); typology of housing forms | Węgierski architekt i profesor BME; redaktor *Low-Rise, High-Density Housing* (2013); typologia form mieszkaniowych |
+| [[kalman-timon\|Kálmán Timon]] | person | Hungarian architectural theorist; author of "modern developments with gardens"; precedent for Perényi's classification | Węgierski teoretyk architektury; autor "współczesnych osiedli z ogrodami"; precedens klasyfikacji Perényiego |
+| [[tamas-tomay\|Tamás Tomay]] | person | Hungarian architectural theorist; "each building is a continuation"; ontogenesis of architecture | Węgierski teoretyk architektury; "każdy budynek jest kontynuacją"; ontogeneza architektury |
 
 ---
 
@@ -480,6 +491,14 @@ _Last updated: 2026-04-28 — 74 sources ingested_
 | [[ossa\|OSSA]] | education | Student-led architecture workshops in Poland; interdisciplinary; passion-based; no authority | Studenckie warsztaty architektoniczne w Polsce; interdyscyplinarne; oparte na pasji; bez hierarchii |
 | [[amplification-of-nature\|Amplification of Nature]] | architecture | Architecture as part of natural processes; performative models; non-anthropocentrism; CENTRALA | Architektura jako część procesów przyrodniczych; modele performatywne; non-antropocentryzm; CENTRALA |
 | [[architecture-as-process\|Architecture as Process]] | theory | Dynamic, metabolic architecture; rejects static object; demands new design methods | Dynamiczna, metaboliczna architektura; odrzuca statyczny obiekt; wymaga nowych metod projektowania |
+| [[housing-policy\|Housing Policy]] | urbanism, politics | Government actions ensuring housing supply, affordability, and quality; inherently spatial according to Twardoch | Działania rządowe zapewniające podaż, dostępność i jakość mieszkań; z natury przestrzenne według Twardoch |
+| [[narodowy-program-mieszkaniowy\|Narodowy Program Mieszkaniowy]] | urbanism, law | Central Polish housing strategy (2016); contains contradictory instruments vis-à-vis spatial order | Centralna polska strategia mieszkaniowa (2016); zawiera sprzeczne instrumenty względem ładu przestrzennego |
+| [[mieszkanie-plus\|Mieszkanie Plus]] | urbanism, housing | National rental housing programme on state land; bypasses local planning; produces tenure monocultures | Krajowy program mieszkań na wynajem na gruntach państwowych; omija planowanie lokalne; produkuje monocentry własnościowe |
+| [[ustawa-o-ulatwieniach-inwestycji-mieszkaniowych-2018\|Ustawa o Ułatwieniach w Przygotowaniu i Realizacji Inwestycji Mieszkaniowych 2018]] | law, urbanism | 2018 Act deregulating residential development; overrides MPZP height and use restrictions; most damaging recent instrument to spatial order | Ustawa z 2018 r. zderegulowująca budownictwo mieszkaniowe; nadpisuje ograniczenia MPZP; najbardziej szkodliwy akt dla ładu przestrzennego |
+| [[mixed-tenure\|Mixed Tenure]] | urbanism, housing, sociology | Deliberate integration of ownership and rental forms within one neighbourhood; key socio-economic spatial-order requirement | Celowa integracja form własności i wynajmu w jednej dzielnicy; kluczowe społeczno-gospodarcze wymaganie ładu przestrzennego |
+| [[low-rise-high-density-housing\|Low-Rise High-Density Housing]] | architecture, urbanism | Residential developments of limited height orchestrated into high-density systems through compact tracery and shared boundaries; not reducible to quantitative metrics | Osiedla mieszkaniowe o ograniczonej wysokości zorganizowane w systemy wysokiej gęstości poprzez zwartą ażurowość i wspólne granice; nie sprowadzalne do wskaźników ilościowych |
+| [[contemporariness\|Contemporariness]] | theory, architecture | Presence: responsive attachment to here-and-now; deliberately distinguished from novelty or modernism by Perényi | Obecność: responsywne przywiązanie do tu-i-teraz; celowo odróżniane od nowatorstwa czy modernizmu przez Perényiego |
+| [[garden-as-architectural-enclosure\|Garden as Architectural Enclosure]] | architecture, landscape | Garden defined by its fence as an architectural category (enclosure), not a landscape; essential compositional element in housing | Ogród definiowany przez płot jako kategoria architektoniczna (zamknięcie), nie krajobraz; istotny element kompozycyjny w mieszkalnictwie |
 
 ---
 

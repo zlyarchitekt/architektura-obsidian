@@ -3,7 +3,7 @@ type: concept
 name: "Ład Przestrzenny"
 domain: urbanism, law
 tags: [planning, poland]
-source_count: 1
+source_count: 2
 aliases: ["Ład Przestrzenny", "Spatial Order"]
 ---
 
@@ -16,7 +16,7 @@ Spatial order. In Polish law, it constitutes the very first statutory "own task"
 Introduced into the 1990 Act by prof. Jerzy Regulski without an explicit definition, as the legislators deemed the concept self-evident. A statutory definition was only added in the 2003 Spatial Planning Act, leading to a decade where municipalities interpreted it freely.
 
 ## Key Proponents
-[[Jerzy Regulski]], [[Grzegorz A. Buczek]]
+[[Jerzy Regulski]], [[Grzegorz A. Buczek]], [[Agata Twardoch]], [[Tadeusz Markowski]], [[Marek Gwiazdowicz]]
 
 ## Key Examples
 "Integrated order" (ład zintegrowany) as codified in the 2011 Koncepcja Przestrzennego Zagospodarowania Kraju 2030, showing that spatial order does not inherently conflict with socio-economic investment.
@@ -26,6 +26,7 @@ Oftentimes misunderstood by local mayors solely as a matter of aesthetics, which
 
 ## In the Sources
 - Discussed thoroughly distinguishing deep spatial order from superficial aesthetics, and noting its neglect by municipal authorities in [[rzut-nielad-w-prawie]].
+- Extensive operationalisation into five requirement categories (functional, socio-economic, environmental, cultural, compositional-aesthetic) and evaluation of housing policy against these criteria in [[polityka-mieszkaniowa-w-kontekscie-ladu-przestrzennego]].
 
 ## See Also
 [[Spatial Planning (Poland)]]
