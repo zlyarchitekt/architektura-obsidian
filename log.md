@@ -4,6 +4,71 @@ Append-only. Do not edit past entries.
 
 ---
 
+## [2026-04-30] lint | Post-Chapter-3 health check
+
+- **Action**: Ran LINT on the full wiki after the Chapter 3 ingest (502 pages, 78 sources, 2 analyses).
+- **Issues found**:
+  1. **29 entity pages missing from index.md** — All 29 Chapter 3 project/person entities were created as files but not listed in the `index.md` Entities table, violating the "no orphan pages" rule.
+  2. **Le Corbusier — unverified RIBA Gold Medal 1953** — Entity page claimed RIBA Gold Medal (1953); Wikipedia source only confirms AIA Gold Medal (1961). Cross-checked with live Wikipedia; no RIBA medal listed. Claim removed.
+  3. **Garden vs. Courtyard conceptual gap** — Chapter 1 defines "garden" as requiring a fence; Chapter 3 shows numerous settlements (Çatal Hüyük, Ghadames, Kasbah) with courtyards/terraces that function as outdoor space without physical enclosure. Created new concept page `Courtyard` to resolve this tension.
+- **Pages created**:
+  - `wiki/concepts/courtyard.md`
+- **Pages updated**:
+  - `index.md` — Added 29 missing entity rows + 1 new concept row (Courtyard)
+  - `wiki/entities/le-corbusier.md` — Removed erroneous RIBA Gold Medal 1953 claim; updated awards to AIA Gold Medal 1961 + Grand Officier Légion d'honneur 1964
+  - `wiki/sources/le-corbusier-wikipedia.md` — Contradiction note updated to reflect verification
+- **Notes**: Zero broken wiki links detected. All Chapter 3 project entities correctly include "In the Sources" back-link to the source summary. The 2×3 matrix's strictness remains an open question — several projects blur categories (Machu Picchu = Growth-Cohesion + terraced agriculture; Lindos = Growth-Pattern + Growth-Lane). The gendered spatial division at Ghadames deserves deeper treatment with additional sources.
+
+---
+
+## [2026-04-30] ingest | Low-Rise, High-Density Housing: Chapter 3 — Historic Projects (BME, 2013)
+
+- **Action**: Ingested Chapter 3 of Perényi's *Low-Rise, High-Density Housing*, which applies the 2×3 typological matrix to 24 historic and prehistoric settlements from all inhabited continents. The chapter spans from the Neolithic (Çatal Hüyük, c. 7500 BCE) to the 18th century (Majk Hermitage, 1753–1770), demonstrating the universal recurrence of low-rise high-density housing across climates, materials, and social structures.
+- **Pages created**:
+  - `wiki/sources/low-rise-high-density-housing-chapter-03.md`
+  - `wiki/entities/pueblo-bonito.md`
+  - `wiki/entities/mourabtine-ksar.md`
+  - `wiki/entities/bath-royal-circus.md`
+  - `wiki/entities/kraals-ba-ila.md`
+  - `wiki/entities/barumini-su-nuraxi.md`
+  - `wiki/entities/great-zimbabwe.md`
+  - `wiki/entities/olynthos.md`
+  - `wiki/entities/kasbah-of-algiers.md`
+  - `wiki/entities/biskupin.md`
+  - `wiki/entities/kahun-el-lahun.md`
+  - `wiki/entities/fuggerei.md`
+  - `wiki/entities/majk-camaldulian-hermitage.md`
+  - `wiki/entities/lake-dwellings-bodensee.md`
+  - `wiki/entities/chuandixia.md`
+  - `wiki/entities/machu-picchu.md`
+  - `wiki/entities/trulli-alberobello.md`
+  - `wiki/entities/catal-huyuk.md`
+  - `wiki/entities/ghadames.md`
+  - `wiki/entities/dogon-village.md`
+  - `wiki/entities/lindos.md`
+  - `wiki/entities/acoma-pueblo.md`
+  - `wiki/entities/nyboder-quarter.md`
+  - `wiki/entities/henan-underground-dwellings.md`
+  - `wiki/entities/takrouna.md`
+  - `wiki/entities/john-wood-the-elder.md`
+  - `wiki/entities/john-wood-the-younger.md`
+  - `wiki/entities/franz-anton-pilgram.md`
+  - `wiki/entities/christian-iv-of-denmark.md`
+  - `wiki/entities/philip-de-lange.md`
+  - `wiki/concepts/defensive-settlement.md`
+  - `wiki/concepts/dry-stone-masonry.md`
+  - `wiki/concepts/corbelled-dome.md`
+  - `wiki/concepts/courtyard-house.md`
+  - `wiki/concepts/stilt-house.md`
+  - `wiki/concepts/earth-sheltered-housing.md`
+  - `wiki/concepts/terraced-settlement.md`
+  - `wiki/concepts/fractal-settlement-pattern.md`
+- **Pages updated**:
+  - `index.md` (78 sources; 29 new entity rows; 8 new concept rows)
+- **Notes**: This is the largest single ingest in the wiki's history: 24 project entities, 5 person entities, 8 concept pages, and 1 source summary. The defensive imperative emerges as the most universal generator of low-rise high-density form — most settlements are fortified. The "garden" concept is highly variable: absent in Çatal Hüyük, minimal in the kasbahs, productive in Fuggerei/Nyboder, contemplative in Majk. Dry-stone masonry appears independently on five continents, pointing to convergent structural solutions. Open questions: (1) Does the 2×3 matrix strictly classify or merely describe? Several projects blur categories. (2) The source relies heavily on image captions and web links rather than scholarly citations; several claims need cross-checking. (3) The gendered spatial division at Ghadames deserves deeper treatment with additional sources.
+
+---
+
 ## [2026-04-29] ingest | Low-Rise, High-Density Housing: Chapters 4–5 (BME, 2013)
 
 - **Action**: Ingested Chapters 4 (20th-century introduction) and 5 (International Projects, First Half of 20th Century) of Perényi's *Low-Rise, High-Density Housing*. Chapter 4 frames modern low-rise high-density housing through three forces: functionalist break, Dutch Structuralist critique, and the enduring concepts of presence/garden. Chapter 5 surveys 14 projects: British garden cities (Letchworth, Hampstead), Amsterdam School (de Klerk), Dutch modernism (Oud ×3), American modernism (Schindler, Wright), German modernism (Taut, Gropius, May), Austrian modernism (Werkbundsiedlung Vienna), Nordic modernism (Aalto), and Swiss modernism (Werkbundsiedlung Zürich).

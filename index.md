@@ -1,6 +1,6 @@
 # Wiki Index
 
-_Last updated: 2026-04-29 — 77 sources ingested_
+_Last updated: 2026-04-30 — 78 sources ingested_
 
 ---
 
@@ -83,6 +83,7 @@ _Last updated: 2026-04-29 — 77 sources ingested_
 | [[rzut-35-12-spotkania]]                           | Spotkania (RZUT-35)                                                                  | Aleksandra Gryc / Antoni Domicz / Małgorzata Domicz / Jan Domicz | 2023 | 2026-04-28 |
 | [[polityka-mieszkaniowa-w-kontekscie-ladu-przestrzennego]] | Polityka mieszkaniowa w kontekście kształtowania ładu przestrzennego w Polsce | Agata Twardoch | 2021 | 2026-04-29 |
 | [[low-rise-high-density-housing-chapters-04-05]]   | Low-Rise, High-Density Housing: Chapters 4–5 (20th Century & International Projects) | Tamás Perényi et al.                            | 2013 | 2026-04-29 |
+| [[low-rise-high-density-housing-chapter-03]]       | Low-Rise, High-Density Housing: Chapter 3 (Historic Projects)                        | Tamás Perényi et al.                            | 2013 | 2026-04-30 |
 
 ---
 
@@ -372,6 +373,35 @@ _Last updated: 2026-04-29 — 77 sources ingested_
 | [[ernst-may\|Ernst May]] | architect | German modernist; Frankfurt social housing programme; Praunheim Estate; New Frankfurt | Niemiecki modernista; frankfurcki program mieszkaniowy; osiedle Praunheim; Neues Frankfurt |
 | [[letchworth-garden-city\|Letchworth Garden City]] | building | First garden city (1903); Unwin & Parker; vernacular-modern synthesis | Pierwsze miasto-ogród (1903); Unwin i Parker; synteza wernakularno-modernistyczna |
 | [[hampstead-garden-suburb\|Hampstead Garden Suburb]] | building | Garden suburb in London (1905); Unwin; strict regulatory planning | Przedmieście ogrodowe w Londynie (1905); Unwin; ścisłe planowanie regulacyjne |
+| [[pueblo-bonito\|Pueblo Bonito]] | building | Largest Ancestral Puebloan great house in Chaco Canyon; ~700 rooms; defensive D-shaped block; ceremonial kivas | Największy "wielki dom" Pra-Pueblojczyków w Kanionie Chaco; ~700 pomieszczeń; obronna półokrągła forma; kivy ceremonialne |
+| [[mourabtine-ksar\|Mourabtine Ksar]] | building | Berber fortified village + granary complex in Tunisia; shared-wall ghorfas; adobe and stone | Berberyjska wioska-twierdza + zespół spichrzowy w Tunezji; wspólne ściany ghorfów; adobe i kamień |
+| [[bath-royal-circus\|Bath Royal Circus]] | building | Circular Palladian housing ensemble in Bath (1754–1768); John Wood Sr/Jr; communal garden | Okrągły palladiański zespół kamienic w Bath (1754–1768); John Wood Sr/Jr; wspólny ogród |
+| [[kraals-ba-ila\|Kraals (Ba-ila)]] | building | Fractal African pastoral villages; hut → family kraal → village circle; defensive corrals | Fraktalne afrykańskie wioski pastercze; chata → rodzinny kraal → okrąg wioski; obronne zagrody |
+| [[barumini-su-nuraxi\|Barumini Su Nuraxi]] | building | Nuragic settlement in Sardinia (1500–500 BCE); dry-stone corbelled domes; UNESCO World Heritage | Osiedle nuragiczne na Sardynii (1500–500 p.n.e.); kopuły krzyżowe z kamienia suchego; UNESCO |
+| [[great-zimbabwe\|Great Zimbabwe]] | building | Largest pre-colonial stone structure south of Sahara; Shona; dry-stone granite walls to 11 m | Największa przedkolonialna konstrukcja kamienna na południe od Sahary; Shona; mury granitowe do 11 m |
+| [[olynthos\|Olynthos]] | building | Ancient Greek town with dual organic/orthogonal plan; courtyard houses with *pastas* porch | Starożytne greckie miasto z dualnym planem organicznym/ortogonalnym; domy z dziedzińcem i gankiem *pastas* |
+| [[kasbah-of-algiers\|Kasbah of Algiers]] | building | High-density trapezoidal medina in Algiers; whitewashed courtyard houses; terrace gardens | Wysokogęstościowa trapezoidalna medyna w Algierze; bielone domy z dziedzińcami; ogrody tarasowe |
+| [[biskupin\|Biskupin]] | building | Iron Age fortified settlement in Poland (6th c. BCE); 100 identical units; wooden rampart; lake island | Żelazna osada obronna w Polsce (VI w. p.n.e.); 100 identycznych jednostek; drewniany wał; wyspa jeziorna |
+| [[kahun-el-lahun\|Kahun (El Lahun)]] | building | Middle Kingdom pyramid town in Egypt (c. 1880 BCE); orthogonal grid; social zoning by internal wall | Miasto piramidowe Średniego Państwa w Egipcie (ok. 1880 p.n.e.); siatka ortogonalna; strefy wg muru wewnętrznego |
+| [[fuggerei\|Fuggerei]] | building | World's oldest social housing complex (1516); 106 units; integrated gardens and community facilities | Najstarszy zachowany kompleks mieszkaniowy socjalny (1516); 106 jednostek; zintegrowane ogrody i obiekty wspólne |
+| [[majk-camaldulian-hermitage\|Majk Camaldulian Hermitage]] | building | Hungarian hermitage (1753–1770); 17 cells with 1:1 garden ratio; Franz Anton Pilgram | Węgierska pustelnia kamaldulska (1753–1770); 17 cel w stosunku 1:1 do ogrodu; Franz Anton Pilgram |
+| [[lake-dwellings-bodensee\|Lake Dwellings (Bodensee)]] | building | Reconstructed Neolithic/Bronze Age stilt houses on Lake Constance; aquatic low-rise high-density | Zrekonstruowane neolityczne/brązowe domy na palach na Jeziorze Bodeńskim; wodna niska wysoka gęstość |
+| [[chuandixia\|Chuandixia]] | building | Terraced mountain village in Beijing region; stone counterforts; courtyard houses on slopes | Tarasowa wioska górska w regionie Pekinu; kamienne kontrforsy; domy z dziedzińcami na zboczach |
+| [[machu-picchu\|Machu Picchu]] | building | Inca royal estate (c. 1450); terraced agriculture + sacred architecture; dry-stone; UNESCO | Królewska posiadłość Inków (ok. 1450); tarasowe rolnictwo + architektura sakralna; kamień suchy; UNESCO |
+| [[trulli-alberobello\|Trulli (Alberobello)]] | building | Apulian dry-stone houses with conical corbelled roofs (16th–19th c.); UNESCO World Heritage | Apulijskie domy z kamienia suchego ze stożkowymi dachami krzyżowymi (XVI–XIX w.); UNESCO |
+| [[catal-huyuk\|Çatal Hüyük]] | building | Neolithic streetless city in Anatolia (c. 7500 BCE); roof-access; extreme density; sacred/domestic fusion | Neolityczne miasto bez ulic w Anatolii (ok. 7500 p.n.e.); dostęp przez dach; ekstremalna gęstość; fuzja sakralno-domowa |
+| [[ghadames\|Ghadames]] | building | Ancient Saharan oasis town in Libya; gendered vertical space; ground-floor shops, rooftop terraces | Starożytne miasto-oaza na Saharze w Libii; zróżnicowana pionowo przestrzeń płciowa; sklepy na parterze, tarasy na dachu |
+| [[dogon-village\|Dogon Village]] | building | Fractal settlement pattern in Mali; adobe compounds; gendered and ritual building functions | Fraktalny wzorzec osadniczy w Mali; zagrody z adobe; funkcje budynków wg płci i rytuału |
+| [[lindos\|Lindos]] | building | Ancient Greek town on Rhodes; organic beehive clustering; versatile courtyard positioning | Starożytne greckie miasto na Rodos; organiczne skupiska ulowate; wszechstronne pozycjonowanie dziedzińców |
+| [[acoma-pueblo\|Acoma Pueblo]] | building | "Sky City" Pueblo on New Mexico mesa; ladder-access vertical density; defensive adobe architecture | "Miasto na Niebie" Pueblo na mesie w Nowym Meksyku; pionowa gęstość z dostępem przez drabinę; obronna architektura adobe |
+| [[nyboder-quarter\|Nyboder Quarter]] | building | Danish naval housing (1631–1758); 600 units; state-planned; vegetable gardens; Christian IV | Duńskie osiedle marynarskie (1631–1758); 600 jednostek; planowane państwowo; ogródki warzywne; Chrystian IV |
+| [[henan-underground-dwellings\|Henan Underground Dwellings]] | building | Chinese yaodong cave dwellings in loess; sunken courtyards; passive thermal stability | Chińskie jaskinie yaodong w lessie; zanurzone dziedzińce; pasywna stabilność termiczna |
+| [[takrouna\|Takrouna]] | building | Berber village on Tunisian rock; barrel-vaulted adobe; 4 levels; mosque and saint's tomb; damaged 1943 | Berberyjska wioska na skale w Tunezji; sklepione beczkowo adobe; 4 poziomy; meczet i grób świętego; zniszczona 1943 |
+| [[john-wood-the-elder\|John Wood the Elder]] | architect | English Palladian architect (1704–1754); designer of Bath Royal Circus; cosmological urbanism | Angielski architekt palladiański (1704–1754); projektant Bath Royal Circus; kosmologiczna urbanistyka |
+| [[john-wood-the-younger\|John Wood the Younger]] | architect | English architect (1728–1782); completed Royal Circus; designed Royal Crescent; Georgian Bath | Angielski architekt (1728–1782); ukończył Royal Circus; zaprojektował Royal Crescent; georgiańskie Bath |
+| [[franz-anton-pilgram\|Franz Anton Pilgram]] | architect | Austrian Baroque architect (1699–1761); designer of Majk Camaldulian Hermitage; monastic gardens | Austriacki architekt barokowy (1699–1761); projektant Pustelni Kamaldulskiej w Majku; ogrody klasztorne |
+| [[christian-iv-of-denmark\|Christian IV of Denmark]] | person | Danish king (1577–1648); founder of Nyboder Quarter; royal patron of early social housing | Duński król (1577–1648); założyciel dzielnicy Nyboder; królewski mecenas wczesnego budownictwa socjalnego |
+| [[philip-de-lange\|Philip de Lange]] | architect | Dutch-Danish architect (c. 1705–1766); enlarged Nyboder to two storeys; Baroque/Rococo | Holendersko-duński architekt (ok. 1705–1766); rozbudował Nyboder do dwóch kondygnacji; barok/rokoko |
 
 ---
 
@@ -510,6 +540,15 @@ _Last updated: 2026-04-29 — 77 sources ingested_
 | [[contemporariness\|Contemporariness]] | theory, architecture | Presence: responsive attachment to here-and-now; deliberately distinguished from novelty or modernism by Perényi | Obecność: responsywne przywiązanie do tu-i-teraz; celowo odróżniane od nowatorstwa czy modernizmu przez Perényiego |
 | [[garden-as-architectural-enclosure\|Garden as Architectural Enclosure]] | architecture, landscape | Garden defined by its fence as an architectural category (enclosure), not a landscape; essential compositional element in housing | Ogród definiowany przez płot jako kategoria architektoniczna (zamknięcie), nie krajobraz; istotny element kompozycyjny w mieszkalnictwie |
 | [[garden-city\|Garden City]] | urbanism, housing | Planned settlement blending town and country; limited size; green belt; cooperative ownership; Ebenezer Howard | Planowane osiedle łączące miasto i wieś; ograniczony rozmiar; zielony pas; własność spółdzielcza; Ebenezer Howard |
+| [[defensive-settlement\|Defensive Settlement]] | architecture, urbanism | Settlement whose primary organising principle is protection from external threat; enclosure, density, topographical advantage | Osiedle, którego podstawową zasadą organizacyjną jest ochrona przed zewnętrznym zagrożeniem; zamknięcie, gęstość, przewaga topograficzna |
+| [[dry-stone-masonry\|Dry Stone Masonry]] | architecture, materials | Building without mortar; friction and gravity; convergent solution across Sardinia, Zimbabwe, Peru, Italy, USA | Budowanie bez zaprawy; tarcie i grawitacja; zbieżne rozwiązanie na Sardynii, w Zimbabwe, Peru, Włoszech, USA |
+| [[corbelled-dome\|Corbelled Dome]] | architecture, structures | Dome built by projecting successive stone courses inward; no centering, no mortar; nuraghi, trulli, Zimbabwe | Kopuła zbudowana przez wystawanie kolejnych warstw kamienia do wewnątrz; bez deskowania, bez zaprawy; nuragi, trulli, Zimbabwe |
+| [[courtyard-house\|Courtyard House]] | architecture, housing | Dwelling organised around central open-air court; light, air, privacy; universal across climates and eras | Mieszkanie zorganizowane wokół centralnego otwartego dziedzińca; światło, powietrze, prywatność; uniwersalne w każdym klimacie i erze |
+| [[stilt-house\|Stilt House]] | architecture, vernacular | Building raised on piles over water or unstable ground; pier as street; terrace as garden; prehistoric to present | Budynek wzniesiony na palach nad wodą lub niestabilnym gruntem; molo jako ulica; taras jako ogród; od prehistorii do dziś |
+| [[earth-sheltered-housing\|Earth-Sheltered Housing]] | architecture, sustainability | Structure embedded in earth; soil as thermal mass and envelope; Chinese yaodong as historic precedent | Konstrukcja osadzona w ziemi; gleba jako masa termiczna i otoczka; chiński yaodong jako historyczny precedens |
+| [[terraced-settlement\|Terraced Settlement]] | architecture, landscape | Built environment organised as horizontal platforms on slopes; agriculture + architecture + ritual inseparable | Środowisko zbudowane zorganizowane jako poziome platformy na zboczach; rolnictwo + architektura + rytuał nierozerwalne |
+| [[fractal-settlement-pattern\|Fractal Settlement Pattern]] | architecture, mathematics | Self-similar geometric rule repeated at multiple scales; hut → compound → village; African vernacular | Samopodobna reguła geometryczna powtarzana w wielu skalach; chata → zagroda → wioska; wernakular afrykański |
+| [[courtyard\|Courtyard]] | architecture, urbanism | Unroofed enclosed void surrounded by building walls; light well, social anchor, climatic buffer; distinct from fenced garden | Niezadaszona zamknięta pustka otoczona ścianami budynku; szyb świetlny, kotwica społeczna, bufor klimatyczny; odrębny od ogrodzonego ogrodu |
 
 ---
 

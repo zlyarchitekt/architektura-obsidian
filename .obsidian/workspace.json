@@ -199,6 +199,8 @@
   },
   "active": "84cbc79b9ec561b4",
   "lastOpenFiles": [
+    "wiki/concepts/courtyard.md",
+    "wiki/entities/biskupin.md",
     "wiki/entities/annabelle-von-reutern.md",
     "wiki/entities/katarzyna-dolecinska.md",
     "wiki/entities/m-plus-design.md",
@@ -223,8 +225,6 @@
     "wiki/entities/iga-mazur.md",
     "wiki/entities/narkomfin.md",
     "wiki/entities/moisei-ginzburg.md",
-    "wiki/entities/erna-meyer.md",
-    "wiki/entities/margarete-schutte-lihotzky.md",
     "scratch/crosslink.js",
     "scratch/fix_index.js",
     "scratch/ingest.js",

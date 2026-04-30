@@ -47,7 +47,7 @@ The source is also the fullest single account of Le Corbusier's controversies. I
 ## Contradictions / Open Questions
 
 - The Wikipedia source confirms specific details of Le Corbusier's fascist associations that the current entity page describes vaguely: *Plans*, *Prélude*, *L'Homme Réel* journals named; Le Faisceau connections 1925–28; Vichy eugenics committee via Alexis Carrel; verbatim antisemitic letter Oct 1940.
-- The claim in the current entity page that Le Corbusier "received the RIBA Gold Medal (1953)" is not confirmed by this Wikipedia article, which only lists the AIA Gold Medal (1961) under Awards — possible error to investigate.
+- **Verified**: The claim that Le Corbusier "received the RIBA Gold Medal (1953)" is **false**. Live Wikipedia cross-check (April 2026) confirms no RIBA Gold Medal; his listed awards are AIA Gold Medal (1961) and Grand Officier of the Légion d'honneur (1964). The entity page has been corrected.
 - Jane Jacobs as a critical voice is mentioned but her full counter-argument (*The Death and Life of Great American Cities*, 1961) deserves its own source ingest given its importance for the [[City]] concept.
 - The relation between Le Corbusier's urbanism and Polish postwar housing (Pruitt–Igoe is American, but the tower-in-a-park model was extensively applied in Poland) is an open research thread connecting this entity to [[Spatial Planning (Poland)]].
 
