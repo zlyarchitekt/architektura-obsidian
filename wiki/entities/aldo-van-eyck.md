@@ -6,7 +6,7 @@ born: 1918
 died: 1999
 nationality: NL
 tags: [modernism, structuralism, playgrounds]
-source_count: 1
+source_count: 2
 aliases: ["Aldo van Eyck"]
 ---
 
@@ -17,6 +17,7 @@ Dutch architect, a leading protagonist of the Structuralist movement and a key m
 
 ## Key Works / Projects
 - **Amsterdam Playgrounds** (1947–1978) — a network of over 700 public playgrounds utilizing minimal, abstract geometric elements.
+- **Burgenweeshuis Orphanage, Amsterdam** (1955-59) — Defining work of Dutch Structuralism; cellular units with cupola roofs arranged along diagonal lines within a perpendicular system, inspired by Dogon villages [[burgenweeshuis-orphanage-amsterdam|Burgenweeshuis Orphanage, Amsterdam]]
 - **Municipal Orphanage** (Amsterdam, 1960) — defining work of structuralist architecture.
 
 ## Ideas & Influences
@@ -24,6 +25,7 @@ Believed that architecture should facilitate social interaction. His playgrounds
 
 ## In the Sources
 - Cited as an example of designing playgrounds based on simple, geometric aesthetics and understanding that children appropriate architectural elements organically in [[rzut-gra-w-dwa-ognie]].
+- [[low-rise-high-density-housing-chapter-07]]: Detailed analysis of Burgenweeshuis Orphanage as the masterpiece of Dutch Structuralism, with explicit borrowing from Dogon village morphology and van Eyck's principle "The city is a large dwelling place, the dwelling place is a large city."
 
 ## Contradictions / Open Questions
 

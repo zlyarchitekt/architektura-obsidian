@@ -7,7 +7,7 @@ born: 1886
 died: 1969
 nationality: DE
 tags: ["modernism", "international-style", "bauhaus"]
-source_count: 1
+source_count: 2
 ---
 
 ## Overview
@@ -19,6 +19,7 @@ Pioneer of modernist architecture and Bauhaus director; known for "less is more"
 ## Key Works / Projects
 - [[Barcelona Pavilion]] (1929)
 - [[Farnsworth House]] (1951)
+- [[Lafayette Park, Detroit]] (1955) — Large-scale urban renewal combining towers, row houses, and bungalows in a Miesian park composition [[lafayette-park-detroit|Lafayette Park, Detroit]]
 
 
 ## Ideas & Influences
@@ -27,3 +28,4 @@ Pioneer of modernist architecture and Bauhaus director; known for "less is more"
 
 ## In the Sources
 * **Source:** [[modern-architecture-wiki]]
+* [[low-rise-high-density-housing-chapter-07]]: Analysis of Lafayette Park as the most orthodox modernist project in the chapter, noted for its compositional rhythm of park system and graduated privacy (public park to semi-private green to private garden).

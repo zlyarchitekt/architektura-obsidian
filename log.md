@@ -4,6 +4,145 @@ Append-only. Do not edit past entries.
 
 ---
 
+## [2026-05-01] ingest | Low-Rise, High-Density Housing: Chapter 8 — Hungarian Projects from the Latter Half of the 20th Century (BME, 2013)
+
+- **Action**: Ingested Chapter 8 of Perényi's *Low-Rise, High-Density Housing*, documenting 14 Hungarian low-rise high-density housing projects built between 1957 and 1987 under Communism. Key themes: OTP/building-society financing as alternative to state provision, artist housing as cultural policy instrument, terrain-responsive terracing across hillside sites, Western influences despite the Iron Curtain, prefab panel technology applied to low-rise chain houses, and accessible social housing for disabled people.
+- **Pages created**:
+  - `wiki/sources/low-rise-high-density-housing-chapter-08.md`
+  - `wiki/entities/farkaslyuk-miners-apartments-ozd.md`
+  - `wiki/entities/semi-detached-group-houses-komlo.md`
+  - `wiki/entities/row-houses-csabagyongye-street-szentendre.md`
+  - `wiki/entities/row-houses-eger.md`
+  - `wiki/entities/terraced-houses-with-studios-kalvaria-road-szentendre.md`
+  - `wiki/entities/artists-apartments-with-studios-hodmezovasarhely.md`
+  - `wiki/entities/two-storey-terraced-houses-perbal.md`
+  - `wiki/entities/chain-houses-kapolnasnyek.md`
+  - `wiki/entities/terraced-houses-with-studios-miskolc.md`
+  - `wiki/entities/jankovits-estate-atrium-houses-veszprem.md`
+  - `wiki/entities/collective-house-miskolc.md`
+  - `wiki/entities/terraced-apartment-buildings-pecs.md`
+  - `wiki/entities/prefab-apartment-buildings-szabadhegy-gyor.md`
+  - `wiki/entities/housing-estate-for-disabled-people-budapest.md`
+  - `wiki/entities/jozsef-szekeres.md`
+  - `wiki/entities/janos-szigetvari.md`
+  - `wiki/entities/geza-penzes.md`
+  - `wiki/entities/zoltan-veres.md`
+  - `wiki/entities/peter-gaborjani.md`
+  - `wiki/entities/bela-borvendeg.md`
+  - `wiki/entities/ferenc-szabo-architect.md`
+  - `wiki/entities/tamas-maros.md`
+  - `wiki/entities/judit-hamory.md`
+  - `wiki/entities/antal-csikvari.md`
+  - `wiki/entities/miklos-novak.md`
+  - `wiki/entities/antal-plesz.md`
+  - `wiki/entities/jozsef-bihari.md`
+  - `wiki/entities/ildiko-sz-buzas.md`
+  - `wiki/entities/csaba-bodonyi.md`
+  - `wiki/entities/arpad-weiler.md`
+  - `wiki/entities/karoly-jurcsik.md`
+  - `wiki/entities/tamas-devenyi.md`
+  - `wiki/entities/peter-hegedus-architect.md`
+  - `wiki/concepts/artist-housing.md`
+  - `wiki/concepts/building-society-housing.md`
+  - `wiki/concepts/chain-house.md`
+  - `wiki/concepts/accessible-housing.md`
+  - `wiki/concepts/communist-housing-policy.md`
+- **Pages updated**:
+  - `wiki/concepts/low-rise-high-density-housing.md` (source_count 4→5; added Chapter 8 reference)
+  - `wiki/concepts/company-housing.md` (source_count 1→2; added Chapter 8 reference)
+  - `wiki/concepts/prefabricated-housing.md` (source_count 1→2; added Chapter 8 reference)
+  - `wiki/concepts/social-housing.md` (source_count 1→2; added Chapter 8 reference)
+  - `wiki/concepts/collective-housing.md` (source_count 1→2; added Chapter 8 reference)
+  - `index.md` (81 sources; 32 new entity rows; 5 new concept rows)
+- **Notes**: This ingest significantly expands the wiki's coverage of Communist-era Hungarian housing, documenting how low-rise typologies survived as a marginal but persistent strand. The artist-housing sub-theme reveals state patronage for cultural workers. Csaba Bodonyi's 1978 Collective House is a rare architectural-communal experiment. Károly Jurcsik's 1983 prefab chain houses represent a unique Hungarian technological hybrid. The 1987 Pesthidegkút estate for disabled people is Hungary's first consciously designed accessible housing development. Open questions: (1) How did Western influences (separate parking, modern conveniences) penetrate Hungary despite the Iron Curtain? (2) Was the 1987 disabled housing a genuine welfare innovation or a propaganda project? (3) What is the long-term thermal and structural performance of Jurcsik's prefab panels?
+
+---
+
+## [2026-05-01] analysis | Three open questions from Chapter 7
+
+- **Action**: Filed three analysis pages addressing open questions identified during the Chapter 7 ingest.
+- **Pages created**:
+  - `wiki/analyses/hertzberger-function-follows-form-analysis.md` — Hertzberger's "function follows form" inversion: genuine methodological shift or rhetorical provocation? Synthesis: both/and — the methodology is real at the building scale but strategic at the discursive scale.
+  - `wiki/analyses/blom-kasbah-analogy-analysis.md` — Blom's Kasbah Complex: productive analogy or exoticising gesture? Synthesis: productive but unmarked — the spatial complexity is genuine, but the proper-noun title "Kasbah" imports cultural associations without acknowledging the climatic and social specificity of North African originals.
+  - `wiki/analyses/utzon-espansiva-failure-analysis.md` — Utzon's Espansiva modular system: why did early prefab fail? Synthesis: prophet without honour — the concept was correct but technologically premature (needed digital fabrication, design-literate users, and a flexible construction industry that did not exist in 1969).
+- **Pages updated**:
+  - `index.md` — Added 3 analysis rows; updated last-updated date to 2026-05-01
+- **Notes**: All three analyses draw on Chapter 7 plus cross-referenced Chapter 3 entities (kasbahs, Dogon villages) and existing concept pages. The Hertzberger analysis compares Diagoon to van Eyck's orphanage and Bakema's Eindhoven't Hool to establish that the inversion is Hertzberger's individual contribution, not a universal Structuralist tenet.
+
+---
+
+## [2026-05-01] ingest | Low-Rise, High-Density Housing: Chapter 7 — International Projects from the Latter Half of the 20th Century (BME, 2013)
+
+- **Action**: Ingested Chapter 7 of Perényi's *Low-Rise, High-Density Housing*, documenting 24 international low-rise high-density housing projects built between 1950 and 1984 across Scandinavia, Western Europe, North Africa, and Japan. Key themes: post-WWII housing shortage, Scandinavian prefab + nature integration, Dutch Structuralism (van Eyck, Bakema, Hertzberger, Blom), climate-responsive design in Africa/Peru/Japan, private-vs-communal balance, car storage challenges, evolution toward larger apartments but smaller service rooms, living rooms upstairs in Denmark, modular/prefab experiments, and the tension between "form follows function" and growing/compositional patterns.
+- **Pages created**:
+  - `wiki/sources/low-rise-high-density-housing-chapter-07.md`
+  - `wiki/entities/soholm-klampenborg.md`
+  - `wiki/entities/lafayette-park-detroit.md`
+  - `wiki/entities/burgenweeshuis-orphanage-amsterdam.md`
+  - `wiki/entities/kingo-atrium-houses-helsingor.md`
+  - `wiki/entities/atrium-houses-espoo.md`
+  - `wiki/entities/corner-green-london.md`
+  - `wiki/entities/bellevue-bay-klampenborg.md`
+  - `wiki/entities/halen-estate-bern.md`
+  - `wiki/entities/eindhoven-t-hool-housing-estate.md`
+  - `wiki/entities/cansado-new-town-mauritania.md`
+  - `wiki/entities/row-houses-with-patios-agadir.md`
+  - `wiki/entities/hillerod-denmark-exner.md`
+  - `wiki/entities/mauerberg-vienna.md`
+  - `wiki/entities/haka-houses-tapiola.md`
+  - `wiki/entities/diagoon-experimental-apartments-delft.md`
+  - `wiki/entities/atrium-row-house-complex-hoevelaken.md`
+  - `wiki/entities/espansiva-modular-apartment-hallebaek.md`
+  - `wiki/entities/kasbah-complex-hengelo.md`
+  - `wiki/entities/le-mirail-estate-toulouse.md`
+  - `wiki/entities/gassehaven-estate-holte.md`
+  - `wiki/entities/terrace-houses-pasadena-japan.md`
+  - `wiki/entities/el-naranjal-experimental-housing-lima.md`
+  - `wiki/entities/quinta-de-malagueira-evora.md`
+  - `wiki/entities/cube-houses-rotterdam.md`
+  - `wiki/entities/arne-jacobsen.md`
+  - `wiki/entities/jorn-utzon.md`
+  - `wiki/entities/toivo-korhonen.md`
+  - `wiki/entities/jaakko-laapotti.md`
+  - `wiki/entities/eric-lyons.md`
+  - `wiki/entities/atelier-5.md`
+  - `wiki/entities/jakob-berend-bakema.md`
+  - `wiki/entities/guy-lagneau.md`
+  - `wiki/entities/michel-weil.md`
+  - `wiki/entities/jean-dimitrijevic.md`
+  - `wiki/entities/jean-francois-zevaco.md`
+  - `wiki/entities/inger-exner.md`
+  - `wiki/entities/johannes-exner.md`
+  - `wiki/entities/roland-rainer.md`
+  - `wiki/entities/pentti-ahola.md`
+  - `wiki/entities/herman-hertzberger.md`
+  - `wiki/entities/jan-verhoeven.md`
+  - `wiki/entities/piet-blom.md`
+  - `wiki/entities/candilis-josic-woods.md`
+  - `wiki/entities/palle-suensons.md`
+  - `wiki/entities/kiyonori-kikutake.md`
+  - `wiki/entities/alvaro-siza.md`
+  - `wiki/concepts/prefabricated-housing.md`
+  - `wiki/concepts/dutch-structuralism.md`
+  - `wiki/concepts/atrium-house.md`
+  - `wiki/concepts/modular-architecture.md`
+  - `wiki/concepts/additive-architecture.md`
+  - `wiki/concepts/patio-house.md`
+  - `wiki/concepts/climate-responsive-design.md`
+  - `wiki/concepts/experimental-housing.md`
+  - `wiki/concepts/social-housing.md`
+  - `wiki/concepts/infill-development.md`
+- **Pages updated**:
+  - `wiki/entities/ludwig-mies-van-der-rohe.md` (source_count 1→2; added Lafayette Park to Key Works; added Chapter 7 source link)
+  - `wiki/entities/aldo-van-eyck.md` (source_count 1→2; added Burgenweeshuis Orphanage to Key Works; added Chapter 7 source link)
+  - `wiki/entities/alvaro-siza.md` (source_count 3→4; added Quinta de Malagueira details and Chapter 7 source link)
+  - `wiki/concepts/low-rise-high-density-housing.md` (source_count 1→4; added Chapter 7 source reference)
+  - `wiki/concepts/courtyard.md` (source_count 1→2; added Chapter 7 source reference)
+  - `index.md` (80 sources; 47 new entity rows; 11 new concept rows)
+- **Notes**: This is the largest single ingest in the wiki's history by entity count: 24 project entities + 23 architect/firm entities + 11 concept pages + 1 source summary = 59 new pages, plus 6 updated pages. Key tensions documented: (1) Hertzberger's "function follows form" vs modernist dogma; (2) Blom's Kasbah vs actual North African kasbahs (cultural appropriation question); (3) Siza's 18-year construction period — patient growth or bureaucratic delay? (4) Utzon's Espansiva failure — conceptually successful but commercially premature. Open questions: Why did Scandinavian prefab succeed where Utzon's additive architecture failed? Did the car-storage challenge ultimately undermine the density ambitions of these projects? How did gendered domestic practices shape the patio/courtyard designs in Morocco and Portugal?
+
+---
+
 ## [2026-04-30] ingest | Low-Rise, High-Density Housing: Chapter 6 — Hungarian Projects from the First Half of the 20th Century (BME, 2013)
 
 - **Action**: Ingested Chapter 6 of Perényi's *Low-Rise, High-Density Housing*, documenting six Hungarian low-rise high-density housing projects built between 1895 and 1939 under state supervision. All projects were publicly funded, targeting railway workers (MÁV), urban migrants (Wekerle), social-security beneficiaries (OTI Albertfalva), and mine labourers (Böhm, Füredi, Lehoczky). The chapter reveals two parallel currents: garden-city estates (Wekerle, Albertfalva) and modernist experiments (Böhm, Füredi).

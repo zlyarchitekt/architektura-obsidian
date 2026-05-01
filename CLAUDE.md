@@ -192,7 +192,7 @@ Triggered when the human drops a file into `raw/` and says "ingest" (or similar)
 3. **Write** `wiki/sources/<slug>.md` — full source summary page.
 4. **Update** existing entity pages (or create new ones) for every significant entity in the source.
 5. **Update** existing concept pages (or create new ones) for every significant concept in the source.
-6. **Update** `index.md` — add the new source and any new wiki pages.
+6. **Update** `index.md` — add the new source and any new wiki pages. Also update the HTML comment block at the top that records the line ranges of each section (Sources, Entities, Concepts, Analyses) so it remains accurate after additions.
 7. **Append** to `log.md` — one entry recording the ingest.
 8. Report to the human: list of pages created or updated, any contradictions found, any open questions.
 
@@ -261,6 +261,17 @@ _Last updated: YYYY-MM-DD — N sources ingested_
 | Page | Created | Description |
 |------|---------|-------------|
 | [[slug]] | Date | One-line description |
+```
+
+**Line-number header (required).** Immediately after the `_Last updated:_` line, include an HTML comment block that records the current line ranges of the four sections. This lets both humans and scripts jump directly to the right section. Update this comment block every time `index.md` is edited (new rows shift line numbers).
+
+```markdown
+<!-- File structure (auto-updated on every edit):
+- Sources:    lines 7   – 92
+- Entities:   lines 93  – 501
+- Concepts:   lines 502 – 666
+- Analyses:   lines 667 – end
+-->
 ```
 
 ---

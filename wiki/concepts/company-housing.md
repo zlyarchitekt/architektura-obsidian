@@ -3,7 +3,7 @@ type: concept
 name: "Company Housing"
 domain: architecture, housing, urbanism, labour history
 tags: [company-housing, worker-housing, corporate, paternalism, industrial, estate, social-housing, history]
-source_count: 1
+source_count: 2
 aliases: ["Company Housing", "Mieszkalnictwo Zakładowe"]
 ---
 
@@ -42,6 +42,7 @@ Company housing has been criticised as a tool of social control: the employer's 
 ## In the Sources
 
 - [[low-rise-high-density-housing-chapter-06]]: The MÁV estate is analysed as a paradigmatic example of company housing, with explicit social hierarchy encoded in building height and location.
+- [[low-rise-high-density-housing-chapter-08]]: The Farkaslyuk miners' apartments (1957–59) and the Kápolnásnyék oil-pipeline chain houses (1976–77) demonstrate the persistence of company housing under Communism, now serving state industrial enterprises rather than private corporations.
 
 ## See Also
 

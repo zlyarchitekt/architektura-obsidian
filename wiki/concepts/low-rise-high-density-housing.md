@@ -3,7 +3,7 @@ type: concept
 name: "Low-Rise High-Density Housing"
 domain: architecture, urbanism, housing
 tags: [housing, density, typology, history, garden, urban-form]
-source_count: 1
+source_count: 5
 aliases: ["Low-Rise High-Density Housing", "Niskokondygnacyjna Zabudowa o Wysokiej Gęstości"]
 ---
 
@@ -41,6 +41,8 @@ Perényi notes that the type is often misunderstood as merely "houses with garde
 ## In the Sources
 
 - [[low-rise-high-density-housing-chapters-01-02]]: Foundational theoretical definition; introduction of the typological matrix (Fill/Growth × Pattern/Lane/Cohesion).
+- [[low-rise-high-density-housing-chapter-07]]: Survey of 24 international projects from 1950-1984, demonstrating post-WWII evolutions in Scandinavian prefab, Dutch Structuralism, climate-responsive design, and the tension between private and communal space.
+- [[low-rise-high-density-housing-chapter-08]]: Survey of 14 Hungarian projects from 1957-1987, documenting Communist-era low-rise high-density housing financed by building societies and OTP, including artist housing, prefab chain houses, and accessible housing estates.
 
 ## See Also
 

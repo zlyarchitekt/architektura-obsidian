@@ -6,7 +6,7 @@ born: 1936
 died:
 nationality: PT
 tags: [architecture, urbanism, pritzker, portugal, social-housing, participation, critical-regionalism]
-source_count: 3
+source_count: 4
 aliases: ["Álvaro Siza", "Álvaro Siza Vieira"]
 ---
 
@@ -41,6 +41,7 @@ His influences include: Fernando Távora (Porto School's critical regionalism); 
 - [[rzut-dookola-czyli-typ-i-miasto]]: Siza's Quinta da Malagueira cited as a canonical modern example of how new construction can contribute positively to the urban context by reading and responding to existing typologies rather than ignoring them.
 - [[pritzker-architecture-prize-wiki]]: documents his 1992 Pritzker win.
 - [[rzut-33-14-planowanie-dla-rewolucji-program-saal]]: [[Wiktor Martin]]'s essay provides the most detailed account of Siza's SAAL work (São Victor and Bouça), his design philosophy during the programme ("In the end there is no such thing as revolutionary architecture"), his resistance to passive execution of residents' demands, and the architectural character of both projects. Also notes Eduardo Souto de Moura's involvement as a 22-year-old student who helped initiate São Victor.
+- [[low-rise-high-density-housing-chapter-07]]: Detailed analysis of Quinta de Malagueira as low-rise high-density social housing (1977-95, 1,200 units); 18-year construction period; Roman aqueduct references; user-extensible courtyard houses; white rendering; density as climate response.
 
 ## Contradictions / Open Questions
 

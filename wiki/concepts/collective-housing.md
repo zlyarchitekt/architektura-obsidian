@@ -3,7 +3,7 @@ type: concept
 name: "Collective Housing"
 domain: architecture, urbanism
 tags: [housing, collectivism, modernism, soviet-architecture, feminism]
-source_count: 1
+source_count: 2
 aliases: ["Collective Housing", "Mieszkalnictwo Kolektywne", "Communal Housing"]
 ---
 
@@ -29,6 +29,7 @@ The idea flourished in early Soviet Constructivism (Narkomfin, 1930) and interwa
 
 ## In the Sources
 - [[rzut-34-07-kuchenne-rewolucje]]: Narkomfin as the most radical case; co-living as its compromised descendant.
+- [[low-rise-high-density-housing-chapter-08]]: Csaba Bodonyi's 1978 Collective House in Miskolc is a rare late-Communist Hungarian experiment in architectural communal living, combining private "hotel-room" cells with shared design studios and courtyards.
 
 ## See Also
 [[Narkomfin]], [[Gendered Kitchen]], [[Participatory Housing]], [[Non-Nuclear Housing]]
