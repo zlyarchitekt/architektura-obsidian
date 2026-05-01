@@ -4,6 +4,32 @@ Append-only. Do not edit past entries.
 
 ---
 
+## [2026-04-30] ingest | Low-Rise, High-Density Housing: Chapter 6 — Hungarian Projects from the First Half of the 20th Century (BME, 2013)
+
+- **Action**: Ingested Chapter 6 of Perényi's *Low-Rise, High-Density Housing*, documenting six Hungarian low-rise high-density housing projects built between 1895 and 1939 under state supervision. All projects were publicly funded, targeting railway workers (MÁV), urban migrants (Wekerle), social-security beneficiaries (OTI Albertfalva), and mine labourers (Böhm, Füredi, Lehoczky). The chapter reveals two parallel currents: garden-city estates (Wekerle, Albertfalva) and modernist experiments (Böhm, Füredi).
+- **Pages created**:
+  - `wiki/sources/low-rise-high-density-housing-chapter-06.md`
+  - `wiki/entities/wekerle-housing-estate.md`
+  - `wiki/entities/mav-estate-budapest.md`
+  - `wiki/entities/oti-estate-albertfalva.md`
+  - `wiki/entities/viktor-bohm-row-houses-miskolc-tapolca.md`
+  - `wiki/entities/oszkar-furedi-mine-retirement-house-sopron.md`
+  - `wiki/entities/gyorgy-lehoczky-manor-workers-housing-kaposztasmegyer.md`
+  - `wiki/entities/karoly-kos.md`
+  - `wiki/entities/ede-novak.md`
+  - `wiki/entities/bela-barat.md`
+  - `wiki/entities/viktor-bohm.md`
+  - `wiki/entities/oszkar-furedi.md`
+  - `wiki/entities/gyorgy-lehoczky.md`
+  - `wiki/concepts/company-housing.md`
+  - `wiki/concepts/state-subsidised-housing.md`
+  - `wiki/concepts/bedsitter.md`
+- **Pages updated**:
+  - `index.md` (79 sources; 12 new entity rows; 3 new concept rows)
+- **Notes**: Wekerle is the largest and most significant project (~4,500 units, 11 architects, still popular). The Böhm bedsitters without private wet areas represent the extreme edge of low-rise high-density habitability. The chapter confirms that Hungarian state-subsidised housing blurred the line between company housing and social housing, with estates targeting specific employment categories rather than the general poor. Open questions: (1) Is Wekerle a true garden city or a garden suburb? Its density exceeds Howard's prescriptions. (2) How did residents actually use Lehoczky's triangular garden bays? (3) The gender dimension of company-housing hierarchy deserves deeper treatment.
+
+---
+
 ## [2026-04-30] lint | Post-Chapter-3 health check
 
 - **Action**: Ran LINT on the full wiki after the Chapter 3 ingest (502 pages, 78 sources, 2 analyses).

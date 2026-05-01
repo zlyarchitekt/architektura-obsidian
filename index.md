@@ -1,6 +1,6 @@
 # Wiki Index
 
-_Last updated: 2026-04-30 — 78 sources ingested_
+_Last updated: 2026-04-30 — 79 sources ingested_
 
 ---
 
@@ -84,6 +84,7 @@ _Last updated: 2026-04-30 — 78 sources ingested_
 | [[polityka-mieszkaniowa-w-kontekscie-ladu-przestrzennego]] | Polityka mieszkaniowa w kontekście kształtowania ładu przestrzennego w Polsce | Agata Twardoch | 2021 | 2026-04-29 |
 | [[low-rise-high-density-housing-chapters-04-05]]   | Low-Rise, High-Density Housing: Chapters 4–5 (20th Century & International Projects) | Tamás Perényi et al.                            | 2013 | 2026-04-29 |
 | [[low-rise-high-density-housing-chapter-03]]       | Low-Rise, High-Density Housing: Chapter 3 (Historic Projects)                        | Tamás Perényi et al.                            | 2013 | 2026-04-30 |
+| [[low-rise-high-density-housing-chapter-06]]       | Low-Rise, High-Density Housing: Chapter 6 (Hungarian Projects from the First Half of the 20th Century) | Tamás Perényi et al.            | 2013 | 2026-04-30 |
 
 ---
 
@@ -402,6 +403,18 @@ _Last updated: 2026-04-30 — 78 sources ingested_
 | [[franz-anton-pilgram\|Franz Anton Pilgram]] | architect | Austrian Baroque architect (1699–1761); designer of Majk Camaldulian Hermitage; monastic gardens | Austriacki architekt barokowy (1699–1761); projektant Pustelni Kamaldulskiej w Majku; ogrody klasztorne |
 | [[christian-iv-of-denmark\|Christian IV of Denmark]] | person | Danish king (1577–1648); founder of Nyboder Quarter; royal patron of early social housing | Duński król (1577–1648); założyciel dzielnicy Nyboder; królewski mecenas wczesnego budownictwa socjalnego |
 | [[philip-de-lange\|Philip de Lange]] | architect | Dutch-Danish architect (c. 1705–1766); enlarged Nyboder to two storeys; Baroque/Rococo | Holendersko-duński architekt (ok. 1705–1766); rozbudował Nyboder do dwóch kondygnacji; barok/rokoko |
+| [[wekerle-housing-estate\|Wekerle Housing Estate]] | building | Largest Hungarian garden-city estate (1909–1925); ~4,500 units; 11 architects; 200 m² gardens; central square | Największe węgierskie osiedle garden-city (1909–1925); ~4 500 jednostek; 11 architektów; ogrody 200 m²; centralny plac |
+| [[mav-estate-budapest\|MÁV Estate Budapest]] | building | Royal Hungarian Railways company housing (1895); standardised designs; social hierarchy by building height | Mieszkalnictwo zakładowe Królewskich Węgierskich Kolei (1895); standardowe projekty; hierarchia społeczna przez wysokość budynków |
+| [[oti-estate-albertfalva\|OTI Estate Albertfalva]] | building | OTI social housing in Albertfalva (1929–33); terraced houses; paired porches; front/rear gardens | Mieszkalnictwo socjalne OTI w Albertfalvii (1929–33); domy szeregowe; sparowane ganeczki; ogrody przednie/tylne |
+| [[viktor-bohm-row-houses-miskolc-tapolca\|Viktor Böhm Row Houses Miskolc-Tapolca]] | building | Modernist row houses (1933); 8 substandard bedsitters; no private wet areas; communal facilities | Modernistyczne domy szeregowe (1933); 8 substandardowych kawalerek; brak prywatnych pomieszczeń mokrych; obiekty komunalne |
+| [[oszkar-furedi-mine-retirement-house-sopron\|Oszkár Füredi Mine Retirement House Sopron]] | building | Bauhaus-influenced retirement home for miners (1933); crystalline massing; vertical recess façades | Dom emerytów górniczych pod wpływem Bauhausu (1933); krystaliczna bryła; elewacje z pionowymi wycięciami |
+| [[gyorgy-lehoczky-manor-workers-housing-kaposztasmegyer\|György Lehoczky Manor Workers' Housing Káposztásmegyer]] | building | Zigzag workers' housing (1939); 20 units; communal courtyard + private triangular garden bays | Zygzakowate mieszkalnictwo robotników (1939); 20 jednostek; dziedziniec wspólnotowy + prywatne trójkątne zatoki ogrodowe |
+| [[karoly-kos\|Károly Kós]] | architect | Hungarian organic architect (1883–1977); Wekerle gateways; vernacular-modern synthesis | Węgierski architekt organiczny (1883–1977); bramy Wekerle; synteza wernakularno-nowoczesna |
+| [[ede-novak\|Ede Novák]] | architect | Hungarian architect; Wekerle central square; OTI Albertfalva estate with Béla Barát | Węgierski architekt; centralny plac Wekerle; osiedle OTI Albertfalva z Béla Barátem |
+| [[bela-barat\|Béla Barát]] | architect | Hungarian architect; Wekerle central square; OTI Albertfalva estate with Ede Novák | Węgierski architekt; centralny plac Wekerle; osiedle OTI Albertfalva z Ede Novákiem |
+| [[viktor-bohm\|Viktor Böhm]] | architect | Hungarian modernist architect; Miskolc-Tapolca row houses (1933); emigrated to USA 1939 | Węgierski architekt modernistyczny; domy szeregowe Miskolc-Tapolca (1933); emigrował do USA w 1939 |
+| [[oszkar-furedi\|Oszkár Füredi]] | architect | Hungarian Bauhaus-influenced architect; Sopron mine retirement house (1933); worked in Munich | Węgierski architekt pod wpływem Bauhausu; dom emerytów górniczych w Sopronie (1933); pracował w Monachium |
+| [[gyorgy-lehoczky\|György Lehoczky]] | architect | Hungarian architect; Káposztásmegyer zigzag workers' housing (1939); moved to Saarland 1945 | Węgierski architekt; zygzakowate mieszkalnictwo robotników w Káposztásmegyer (1939); przeniósł się do Saary w 1945 |
 
 ---
 
@@ -549,6 +562,9 @@ _Last updated: 2026-04-30 — 78 sources ingested_
 | [[terraced-settlement\|Terraced Settlement]] | architecture, landscape | Built environment organised as horizontal platforms on slopes; agriculture + architecture + ritual inseparable | Środowisko zbudowane zorganizowane jako poziome platformy na zboczach; rolnictwo + architektura + rytuał nierozerwalne |
 | [[fractal-settlement-pattern\|Fractal Settlement Pattern]] | architecture, mathematics | Self-similar geometric rule repeated at multiple scales; hut → compound → village; African vernacular | Samopodobna reguła geometryczna powtarzana w wielu skalach; chata → zagroda → wioska; wernakular afrykański |
 | [[courtyard\|Courtyard]] | architecture, urbanism | Unroofed enclosed void surrounded by building walls; light well, social anchor, climatic buffer; distinct from fenced garden | Niezadaszona zamknięta pustka otoczona ścianami budynku; szyb świetlny, kotwica społeczna, bufor klimatyczny; odrębny od ogrodzonego ogrodu |
+| [[company-housing\|Company Housing]] | architecture, housing, labour history | Residential architecture built by employers for workforce; encodes corporate hierarchy; 19th–20th century | Architektura mieszkaniowa budowana przez pracodawców dla siły roboczej; koduje hierarchię korporacyjną; XIX–XX w. |
+| [[state-subsidised-housing\|State-Subsidised Housing]] | architecture, housing, policy | State-funded residential construction for targeted social groups; below-market rents; garden-city and modernist vehicle | Państwowe finansowane budownictwo mieszkaniowe dla wskazanych grup; czynsze poniżej rynkowych; narzędzie garden-city i modernizmu |
+| [[bedsitter\|Bedsitter]] | architecture, housing, sociology | Minimal single-room dwelling without private wet areas; shared facilities; threshold of habitability | Minimalne jednopokojowe mieszkanie bez prywatnych pomieszczeń mokrych; współdzielone obiekty; próg habitability |
 
 ---
 
