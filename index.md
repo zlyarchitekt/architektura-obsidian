@@ -1,12 +1,12 @@
 # Wiki Index
 
-_Last updated: 2026-05-01 — 81 sources ingested_
+_Last updated: 2026-05-01 — 83 sources ingested_
 
 <!-- File structure (auto-updated on every edit):
-- Sources:    lines 7   – 92
-- Entities:   lines 93  – 501
-- Concepts:   lines 502 – 666
-- Analyses:   lines 667 – end
+- Sources:    lines 14  – 100
+- Entities:   lines 101 – 549
+- Concepts:   lines 550 – 714
+- Analyses:   lines 715 – end
 -->
 
 ---
@@ -94,6 +94,8 @@ _Last updated: 2026-05-01 — 81 sources ingested_
 | [[low-rise-high-density-housing-chapter-06]]       | Low-Rise, High-Density Housing: Chapter 6 (Hungarian Projects from the First Half of the 20th Century) | Tamás Perényi et al.            | 2013 | 2026-04-30 |
 | [[low-rise-high-density-housing-chapter-07]]       | Low-Rise, High-Density Housing: Chapter 7 — International Projects from the Latter Half of the 20th Century | Tamás Perényi et al.      | 2013 | 2026-05-01 |
 | [[low-rise-high-density-housing-chapter-08]]       | Low-Rise, High-Density Housing: Chapter 8 — Hungarian Projects from the Latter Half of the 20th Century | Tamás Perényi et al.      | 2013 | 2026-05-01 |
+| [[low-rise-high-density-housing-chapter-09]]       | Low-Rise, High-Density Housing: Chapter 9 — Contemporary Low-Rise, High-Density Developments: International Examples | Tamás Perényi et al.      | 2013 | 2026-05-01 |
+| [[low-rise-high-density-housing-chapter-10]]       | Low-Rise, High-Density Housing: Chapter 10 — Contemporary Low-Rise High-Density Developments: Hungarian Projects | Tamás Perényi et al.      | 2013 | 2026-05-01 |
 
 ---
 
@@ -503,6 +505,46 @@ _Last updated: 2026-05-01 — 81 sources ingested_
 | [[karoly-jurcsik\|Károly Jurcsik]] | architect | Hungarian architect; Győr prefab chain houses; panel technology in low-rise | Węgierski architekt; prefabrykowane chain houses w Győr; technologia panelowa w niskiej zabudowie |
 | [[tamas-devenyi\|Tamás Dévényi]] | architect | Hungarian architect; Budapest accessible housing; social design for disabled | Węgierski architekt; dostępne mieszkalnictwo w Budapeszcie; projektowanie socjalne |
 | [[peter-hegedus-architect\|Péter Hegedűs]] | architect | Hungarian architect; co-designer of Budapest accessible housing | Węgierski architekt; współprojektant dostępnego mieszkalnictwa w Budapeszcie |
+| [[spittelhof-estate\|Spittelhof Estate]] | building | Peter Zumthor; Swiss material minimalism in low-rise housing estate; 1996 | Szwajcarski minimalizm materiałowy w niskiej zabudowie; Peter Zumthor; 1996 |
+| [[atrium-houses-mathosinos\|Atrium Houses, Mathosinos]] | building | Eduardo Souto de Moura; contemporary atrium houses in Portugal; 2001 | Współczesne domy z atrium w Portugalii; Eduardo Souto de Moura; 2001 |
+| [[borneo-island-amsterdam\|Borneo Island, Amsterdam]] | building | West 8; multi-architect masterplan; harbour water as blue green space; 1997 | Wieloarchitektoniczny masterplan; woda portowa jako niebieska zieleń; West 8; 1997 |
+| [[hageneiland-ypenburg\|Hageneiland, Ypenburg]] | building | MVRDV; single material per house; variegated streetscape; 2004 | MVRDV; jeden materiał na dom; zróżnicowana sceneria uliczna; 2004 |
+| [[donnybrook-quarter\|Donnybrook Quarter]] | building | Peter Barber; colourful infill row houses; London urbanism; 2004 | Peter Barber; kolorowe domy szeregowe infill; londyński urbanizm; 2004 |
+| [[cyclops-rotterdam\|Cyclops, Rotterdam]] | building | Maurice Nio; covered parking under ledge; rhythmic uniformity; 1997 | Maurice Nio; parking pod okapem; rytmiczna jednolitość; 1997 |
+| [[groenoord-zuid-schiedam\|Groenoord-Zuid, Schiedam]] | building | Joke Vos; courtyard houses with stoops; Dutch urban infill; 2002 | Joke Vos; domy dziedzińcowe z gankami; holenderski infill; 2002 |
+| [[patio-island-ypenburg\|Patio Island, Ypenburg]] | building | Joke Vos; contemporary patio houses; on-street parking; 2004 | Joke Vos; współczesne domy z patio; parking uliczny; 2004 |
+| [[kanoya-fukuoka\|Kanoya, Fukuoka]] | building | NKS Architects; 25–45 m² micro-units; concrete umbilical cords; 2003 | NKS Architects; mikrojednostki 25–45 m²; betonowe pępowiny; 2003 |
+| [[la-mareta-tenerife\|La Mareta, Tenerife]] | building | Eustaquio Martinez Garcia; sculptural massing responding to sun; 1989-91 | Eustaquio Martinez Garcia; rzeźbiarska bryła odpowiadająca na słońce; 1989-91 |
+| [[periscope-houses-rotterdam\|Periscope Houses, Rotterdam]] | building | Joke Vos; jetties and floating docks; waterfront housing; 1997 | Joke Vos; nabrzeża i pływające doki; mieszkalnictwo nadwodne; 1997 |
+| [[bom-successo-group-obidos\|Bom Successo Group, Óbidos]] | building | Aires Mateus; De Stijl–inflected roof plans; megalithic walls; 2004 | Aires Mateus; plany dachów w duchu De Stijl; megalityczne ściany; 2004 |
+| [[row-houses-madrid\|Row Houses, Madrid]] | building | Cano y Escario Arquitectura; sculptural massing; climate-responsive patios; 2001 | Cano y Escario; rzeźbiarska bryła; patio responsywne klimatycznie; 2001 |
+| [[row-houses-cadiz\|Row Houses, Cadiz]] | building | Rafael Otero Gonzalez; rhythmic uniformity; Mediterranean row houses; 2002 | Rafael Otero Gonzalez; rytmiczna jednolitość; śródziemnomorskie domy szeregowe; 2002 |
+| [[peter-zumthor\|Peter Zumthor]] | architect | Swiss architect; Pritzker 2009; material minimalism; Therme Vals; Spittelhof | Szwajcarski architekt; Pritzker 2009; minimalizm materiałowy; Therme Vals; Spittelhof |
+| [[eduardo-souto-de-moura\|Eduardo Souto de Moura]] | architect | Portuguese architect; Pritzker 2011; tectonic severity; Atrium Houses Mathosinos | Portugalski architekt; Pritzker 2011; surowość tektoniczna; Atrium Houses Mathosinos |
+| [[west-8\|West 8]] | firm | Dutch landscape and urban design firm; Borneo Island masterplan; Adriaan Geuze | Holenderska pracownia krajobrazu i urbanistyki; masterplan Borneo Island; Adriaan Geuze |
+| [[mvrdv\|MVRDV]] | firm | Dutch architectural firm; Hageneiland; experimental density; Winy Maas | Holenderska pracownia architektoniczna; Hageneiland; eksperymentalna gęstość; Winy Maas |
+| [[peter-barber\|Peter Barber]] | architect | British architect; Donnybrook Quarter; infill urbanism; colourful social housing | Brytyjski architekt; Donnybrook Quarter; urbanizm infill; kolorowe mieszkalnictwo socjalne |
+| [[maurice-nio\|Maurice Nio]] | architect | Dutch architect; Cyclops Rotterdam; NIO Architects; covered parking under ledge | Holenderski architekt; Cyclops Rotterdam; NIO Architects; parking pod okapem |
+| [[nio-architects\|NIO Architects]] | firm | Dutch architectural firm; Cyclops Rotterdam; Maurice Nio | Holenderska pracownia architektoniczna; Cyclops Rotterdam; Maurice Nio |
+| [[nks-architects\|NKS Architects]] | firm | Japanese architectural firm; Kanoya Fukuoka; micro-living; concrete umbilical cords | Japońska pracownia architektoniczna; Kanoya Fukuoka; mikromieszkanie; betonowe pępowiny |
+| [[eustaquio-martinez-garcia\|Eustaquio Martinez Garcia]] | architect | Spanish architect; La Mareta Tenerife; sculptural massing; Canary Islands | Hiszpański architekt; La Mareta Tenerife; rzeźbiarska bryła; Wyspy Kanaryjskie |
+| [[virgilio-gutierrez-herreros\|Virgilio Gutierrez Herreros]] | architect | Spanish architect; La Mareta Tenerife; co-designer | Hiszpański architekt; La Mareta Tenerife; współprojektant |
+| [[joke-vos-architecten\|Joke Vos Architecten]] | firm | Dutch architectural firm; Patio Island; Periscope Houses; Groenoord-Zuid | Holenderska pracownia architektoniczna; Patio Island; Periscope Houses; Groenoord-Zuid |
+| [[aires-mateus\|Aires Mateus]] | firm | Portuguese architectural firm; Bom Successo Group; De Stijl references; tectonic severity | Portugalska pracownia architektoniczna; Bom Successo Group; odniesienia do De Stijl; surowość tektoniczna |
+| [[cano-y-escario-arquitectura\|Cano y Escario Arquitectura]] | firm | Spanish architectural firm; Row Houses Madrid; climate-responsive patios | Hiszpańska pracownia architektoniczna; Row Houses Madrid; patio responsywne klimatycznie |
+| [[rafael-otero-gonzalez\|Rafael Otero Gonzalez]] | architect | Spanish architect; Row Houses Cadiz; rhythmic uniformity; Mediterranean | Hiszpański architekt; Row Houses Cadiz; rytmiczna jednolitość; śródziemnomorski |
+| [[atrium-houses-viznyelo-street-budapest\|Atrium Houses at Víznyelő Street, Budapest]] | building | Self-managed twelve-unit atrium estate by Mónus, Szőke, Nagy (1992); inward-turning spiral composition | Samodzielnie zarządzane dwunastojednostkowe osiedle atrium (1992); kompozycja spiralna |
+| [[terraced-houses-barlang-street-budapest\|Terraced Houses at Barlang Street, Budapest]] | building | Cságoly & Keller (2001); twenty units on a cave-pierced hillside; contour-following green roofs | Cságoly i Keller (2001); dwadzieścia jednostek na wzgórzu z jaskiniami; zielone dachy |
+| [[apartment-house-pecs-pelenyi\|Apartment House, Pécs]] | building | Margit Pelényi (2003); four-unit corner courtyard development on a steep hillside | Margit Pelényi (2003); czterojednostkowy narożny zespół dziedzińcowy na stromym zboczu |
+| [[csevi-street-houses-budapest\|Csévi Street Houses, Budapest]] | building | Tamás Tomay (2008); four exposed-brick houses on a triangular leftover site | Tamás Tomay (2008); cztery domy z cegły na trójkątnej działce resztkowej |
+| [[venezia-villa-residence-velence\|Venezia Villa Residence, Velence]] | building | Perényi & Fülöp (2008); garden-city ensemble across 71+ sites; 10 apartment types | Perényi i Fülöp (2008); zespół garden-city na 71+ działkach; 10 typów mieszkań |
+| [[janos-monus\|János Mónus]] | architect | Hungarian architect; self-managed Víznyelő Street Atrium Houses (1992) | Węgierski architekt; samodzielnie zarządzane Domy z Atrium przy ul. Víznyelő (1992) |
+| [[zsuzsanna-szoke\|Zsuzsanna Szőke]] | architect | Hungarian architect; co-designer of Víznyelő Street Atrium Houses (1992) | Węgierska architektka; współprojektantka Domów z Atrium przy ul. Víznyelő (1992) |
+| [[sandor-nagy-architect\|Sándor Nagy]] | architect | Hungarian architect; co-designer of Víznyelő Street Atrium Houses (1992) | Węgierski architekt; współprojektant Domów z Atrium przy ul. Víznyelő (1992) |
+| [[ferenc-csagoly\|Ferenc Cságoly]] | architect | Hungarian architect; Barlang Street terraced houses integrated with caves and hillside (2001) | Węgierski architekt; tarasowe domy przy ul. Barlang zintegrowane z jaskiniami i zboczem (2001) |
+| [[ferenc-keller-architect\|Ferenc Keller]] | architect | Hungarian architect; co-designer of Barlang Street Terraced Houses (2001) | Węgierski architekt; współprojektant Domów Tarasowych przy ul. Barlang (2001) |
+| [[margit-pelenyi\|Margit Pelényi]] | architect | Hungarian architect; Pécs corner courtyard apartment house (2003) | Węgierska architektka; narożna kamienica dziedzińcowa w Peczu (2003) |
+| [[gyula-fulop\|Gyula Fülöp]] | architect | Hungarian architect; co-designer of Venezia Villa Residence garden-city ensemble (2008) | Węgierski architekt; współprojektant zespołu garden-city Venezia Villa Residence (2008) |
 
 ---
 
@@ -668,6 +710,19 @@ _Last updated: 2026-05-01 — 81 sources ingested_
 | [[chain-house\|Chain House]] | architecture, housing | Low-rise typology with units linked in open-ended sequence; intermediate density with streetscape rhythm | Typologia niskiej zabudowy z jednostkami w otwartej sekwencji; pośrednia gęstość z rytmem ulicznym |
 | [[accessible-housing\|Accessible Housing]] | architecture, housing, disability | Design enabling independent living for impaired residents; level thresholds, short distances, durable materials | Projektowanie umożliwiające samodzielne życie osobom z ograniczeniami; niskie progi, krótkie dystanse |
 | [[communist-housing-policy\|Communist Housing Policy]] | urbanism, housing, politics | State-directed housing in Marxist-Leninist regimes; prefab high-rise dominance; centralised allocation | Państwowe mieszkalnictwo w reżimach komunistycznych; dominacja prefabrykatów; centralna alokacja |
+| [[row-house\|Row House]] | architecture, housing | Residential units sharing side walls in continuous block; maximises density with individual access | Domy szeregowe dzielące ściany boczne; maksymalizacja gęstości przy indywidualnym dostępie |
+| [[minimalism\|Minimalism]] | architecture, theory, aesthetics | Reduction to essential elements; structure, light, material; Japanese and European variants | Redukcja do elementarnych składników; konstrukcja, światło, materiał; warianty japońskie i europejskie |
+| [[de-stijl\|De Stijl]] | architecture, art, theory | Dutch avant-garde movement; orthogonal grids, primary colours, abstraction; van Doesburg, Mondrian | Holenderski ruch awangardowy; ortogonalne siatki, kolory podstawowe, abstrakcja; van Doesburg, Mondrian |
+| [[neo-plasticism\|Neo-Plasticism]] | art, architecture, theory | Theoretical foundation of De Stijl; universal beauty through straight lines and primary colours | Teoretyczne fundamenty De Stijl; uniwersalne piękno przez proste linie i kolory podstawowe |
+| [[parking-in-low-rise-housing\|Parking in Low-Rise Housing]] | architecture, urbanism, mobility | Integration of automobile parking into dense low-rise developments; design crisis and strategies | Integracja parkingu w gęstą niską zabudowę; kryzys projektowy i strategie |
+| [[privacy-vs-communal-space\|Privacy vs Communal Space]] | architecture, housing, sociology | Tension between seclusion and shared space; privacy increasing while communal space shrinks | Napięcie między odosobnieniem a przestrzenią wspólną; rosnąca prywatność, kurcząca się przestrzeń |
+| [[globalisation-in-architecture\|Globalisation in Architecture]] | theory, practice, cultural criticism | Cross-border circulation of ideas and starchitects; homogenisation vs local specificity | Transgraniczna cyrkulacja idei i stararchitektów; homogenizacja vs specyfika lokalna |
+| [[waterfront-housing\|Waterfront Housing]] | architecture, urbanism, landscape | Residential development at water's edge; water as garden substitute; jetties and floating docks | Mieszkalnictwo nadwodne; woda jako substytut ogrodu; nabrzeża i pływające doki |
+| [[material-identity\|Material Identity]] | architecture, materials, theory | Use of distinctive material to confer recognisability and character; single material per unit | Użycie charakterystycznego materiału dla rozpoznawalności; jeden materiał na jednostkę |
+| [[monotony-and-rhythm\|Monotony and Rhythm]] | architecture, theory, aesthetics | Compositional problem in serial housing; breaking monotony vs fortifying rhythmic uniformity | Problem kompozycyjny w szeregowym mieszkalnictwie; łamanie monotonii vs wzmacnianie rytmu |
+| [[architect-as-developer\|Architect as Developer]] | practice, economics | Architect assumes full project lifecycle from land purchase to sale; rare but design-pure model | Architekt jako deweloper; rzadki, ale czysty projektowo model |
+| [[residual-site-development\|Residual Site Development]] | architecture, urbanism | Housing built on small irregular "leftover" plots; Csévi Street as paradigmatic case | Mieszkalnictwo na małych, nieforemnych działkach resztkowych; przypadek Csévi |
+| [[post-communist-housing-transition\|Post-Communist Housing Transition]] | urbanism, housing, history | Radical restructuring of Eastern European housing after 1989: privatisation, marketisation, scarcity of low-rise | Radykalna restrukturyzacja mieszkalnictwa w Europie Wschodniej po 1989 r. |
 
 ---
 

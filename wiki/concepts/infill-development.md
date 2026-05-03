@@ -4,7 +4,7 @@ name: "Infill Development"
 domain: urbanism, architecture, housing
 tags: [infill, densification, urban, brownfield, regeneration, land-use]
 aliases: ["Infill Development", "Rozwój Infill"]
-source_count: 1
+source_count: 2
 ---
 
 ## Definition
@@ -31,6 +31,7 @@ Infill development is often constrained by small parcel sizes, complex ownership
 
 ## In the Sources
 - [[low-rise-high-density-housing-chapter-07]]: Corner Green and Cube Houses are presented as infill models, demonstrating that low-rise high-density housing can be inserted into existing urban gaps rather than consuming greenfield land.
+- [[low-rise-high-density-housing-chapter-10]]: The Csévi Street Houses (Tomay, 2008) exemplify infill on a triangular "leftover" plot deep within a city block — a residual-site approach that turns urban gaps into architecturally rich housing.
 
 ## See Also
 [[Smart Densification]], [[Brownfield]], [[Urban Regeneration]], [[Compact City]], [[Land Use]]

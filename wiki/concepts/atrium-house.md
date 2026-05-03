@@ -4,7 +4,7 @@ name: "Atrium House"
 domain: architecture, housing, climate
 tags: [atrium, housing, courtyard, climate, scandinavia, mediterranean, light]
 aliases: ["Atrium House", "Dom z Atrium"]
-source_count: 1
+source_count: 3
 ---
 
 ## Definition
@@ -26,6 +26,7 @@ The atrium house has ancient roots in Roman domestic architecture (the *atrium* 
 - **Haka Houses, Tapiola** (1963-65) — Ahola; asymmetrical U-plan with sauna wing [[haka-houses-tapiola|Haka Houses, Tapiola]]
 - **Eindhoven't Hool Housing Estate** (1961) — Bakema; single-storey atrium houses alternating with row houses [[eindhoven-t-hool-housing-estate|Eindhoven't Hool Housing Estate]]
 - **Le Mirail Estate, Toulouse** (1971-73) — Candilis-Josic-Woods; 89 atrium houses with Tetris-like rotation [[le-mirail-estate-toulouse|Le Mirail Estate, Toulouse]]
+- **Atrium Houses, Mathosinos** (2001) — Souto de Moura; contemporary atrium houses in Portugal demonstrating the type's evolution [[atrium-houses-mathosinos|Atrium Houses, Mathosinos]]
 
 ## Critiques & Alternatives
 The atrium house can be criticised for its inwardness: it often turns the building's back on the street, reducing urban vitality. In high-density development, the atrium is frequently sacrificed to maximise floor area, or reduced to a light well too small for social use. Alternatives include the "patio house" (open on one side), the "cluster courtyard" (shared by multiple units), and the "winter garden" (glazed atrium).
@@ -34,6 +35,8 @@ The atrium house can be criticised for its inwardness: it often turns the buildi
 
 ## In the Sources
 - [[low-rise-high-density-housing-chapter-07]]: Atrium houses appear as a recurring type across Scandinavian, Dutch, and French projects, demonstrating the type's adaptability to multiple climates and social contexts.
+- [[low-rise-high-density-housing-chapter-09]]: Atrium Houses in Mathosinos (Souto de Moura, 2001) and the atrium-like organisation of Kanoya's compact units demonstrate the type's continued relevance in contemporary practice.
+- [[low-rise-high-density-housing-chapter-10]]: The Víznyelő Street Atrium Houses (Mónus, Szőke, Nagy, 1992) add the architect-as-developer model to the atrium-house tradition, using level-high atrium walls and spiral approaches to create an inward-turning pedestrian sanctuary.
 
 ## See Also
 [[Courtyard House]], [[Patio House]], [[Courtyard]], [[Low-Rise High-Density Housing]], [[Climate-Responsive Design]]

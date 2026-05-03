@@ -3,7 +3,7 @@ type: concept
 name: "Starchitecture"
 domain: theory, cultural criticism, practice
 tags: [starchitecture, celebrity-architecture, bilbao-effect, globalization, branding]
-source_count: 1
+source_count: 2
 aliases: ["Starchitecture", "Stararchitektura"]
 ---
 
@@ -58,6 +58,7 @@ Alternatives now foregrounded by Pritzker and critical discourse: contextual, so
 ## In the Sources
 
 - [[rzut-sceny-stararchitekci]]: Katarzyna Kapusta's critical essay traces the full arc — Rand/Roark as founding myth, Bilbao 1997 as the moment, Pei/Pyramid as precursor, the Bilbao Effect's limits, authoritarian patronage crisis, Zaha Hadid's career and death, Pritzker shift, BIG as next generation. Most thorough critical source on starchitecture in the wiki.
+- [[low-rise-high-density-housing-chapter-09]]: Perényi notes that "instead of architectural schools, we rather speak of star architects," documenting how global communications technology accelerated starchitect culture even in low-rise housing. Projects by Zumthor (Spittelhof), Souto de Moura (Mathosinos), and Aires Mateus (Bom Successo) demonstrate starchitect attention to housing typologies.
 
 **PL:** [[rzut-sceny-stararchitekci]]: Esej Kapusty śledzi pełen łuk — mit Rand/Roarka, Bilbao 1997 jako moment, Pei/Piramida jako poprzednik, granice efektu Bilbao, kryzys patronatu autorytarnego, kariera i śmierć Hadid, shift Pritzkera, BIG jako nowa generacja.
 

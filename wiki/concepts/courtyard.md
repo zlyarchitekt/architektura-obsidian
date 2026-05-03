@@ -3,7 +3,7 @@ type: concept
 name: "Courtyard"
 domain: architecture, urbanism, history
 tags: [courtyard, space, housing, climate, privacy, mediterranean, islamic, history, low-rise-high-density]
-source_count: 2
+source_count: 3
 aliases: ["Courtyard", "Dziedziniec"]
 ---
 
@@ -45,6 +45,7 @@ The courtyard has been critiqued for its inwardness: it often turns the building
 
 - [[low-rise-high-density-housing-chapter-03]]: The courtyard is identified as the spatial heart of the majority of the 24 projects, though its size, enclosure, and function vary dramatically. The chapter exposes a tension with Chapter 1's "garden as enclosure" definition: many courtyards lack physical fences.
 - [[low-rise-high-density-housing-chapter-07]]: Courtyards appear as a universal mediator between private and communal space across all 24 projects — from Scandinavian atrium houses to North African kasbah-inspired developments to Portuguese social housing. The chapter reveals the courtyard's adaptability to climates ranging from the Scandinavian north to the Sahelian south.
+- [[low-rise-high-density-housing-chapter-10]]: The Víznyelő Street Atrium Houses use the central atrium as a private outdoor room extended by a turfed roof terrace; the Pécs Apartment House turns a corner hillside into an enclosure-type courtyard development with a shared terraced court.
 - [[Courtyard House]]: The building type organised around a courtyard.
 - [[Garden as Architectural Enclosure]]: Perényi's competing definition, which requires a fence.
 

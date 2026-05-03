@@ -3,7 +3,7 @@ type: concept
 name: "Flexible Housing"
 domain: architecture, housing
 tags: [housing, flexibility, adaptive-architecture, non-prescriptive, domestic-space]
-source_count: 1
+source_count: 2
 aliases: ["Flexible Housing", "Elastyczne Mieszkalnictwo", "Adaptable Housing"]
 ---
 
@@ -22,6 +22,7 @@ Modernism's free plan (Le Corbusier's Five Points) was an early structural flexi
 - **Tatiana Bilbao's Monterrey housing** — attempted modular same-size rooms interweaving atypically; compromised to conventional layouts but retained unprogrammed shared spaces.
 - **Reconstruir MX indigenous housing** — communities chose layouts; one family refused street-facing windows.
 - **Traditional Mexican / Polish rural housing** — seasonal room-use shifts (sleeping in different rooms by season) as pre-modern flexibility.
+- **Kanoya, Fukuoka** (2003) — NKS Architects; 25–45 m² Tetris-like micro-units with adaptable plans and American-style open kitchens [[kanoya-fukuoka|Kanoya, Fukuoka]]
 
 ## Critiques & Alternatives
 - **Building codes**: Most jurisdictions mandate kitchens, bathrooms, and bedrooms, making legal flexibility difficult.
@@ -30,6 +31,7 @@ Modernism's free plan (Le Corbusier's Five Points) was an early structural flexi
 
 ## In the Sources
 - [[rzut-34-09-wolna-przestrzen]]: Bilbao's core design philosophy — rooms should not be named; technology enables movable services.
+- [[low-rise-high-density-housing-chapter-09]]: Contemporary projects show flat sizes have not grown; instead, adaptable plans and American-style open kitchens predominate. Japanese minimalism appears in Kanoya's 25–45 m² Tetris-like units.
 
 ## See Also
 [[Non-Nuclear Housing]], [[Non-Prescriptive Architecture]], [[Open Plan Living]], [[Participatory Housing]]

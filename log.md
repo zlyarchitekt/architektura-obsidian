@@ -4,6 +4,40 @@ Append-only. Do not edit past entries.
 
 ---
 
+## [2026-05-01] ingest | Low-Rise, High-Density Housing: Chapter 10 — Contemporary Low-Rise High-Density Developments: Hungarian Projects (BME, 2013)
+
+- **Action**: Ingested Chapter 10 of Perényi's *Low-Rise, High-Density Housing*, documenting 5 Hungarian low-rise high-density housing projects built between 1992 and 2008 in the post-communist transition period. Key themes: architect-as-developer self-management (Víznyelő Street), terrain-responsive design integrating caves and hillside (Barlang Street), corner-site courtyard intelligence (Pécs), residual-site typological ingenuity (Csévi Street), and multi-site garden-city integration across 71+ plots (Venezia Villa Residence).
+- **Pages created**:
+  - `wiki/sources/low-rise-high-density-housing-chapter-10.md`
+  - `wiki/entities/atrium-houses-viznyelo-street-budapest.md`
+  - `wiki/entities/terraced-houses-barlang-street-budapest.md`
+  - `wiki/entities/apartment-house-pecs-pelenyi.md`
+  - `wiki/entities/csevi-street-houses-budapest.md`
+  - `wiki/entities/venezia-villa-residence-velence.md`
+  - `wiki/entities/janos-monus.md`
+  - `wiki/entities/zsuzsanna-szoke.md`
+  - `wiki/entities/sandor-nagy-architect.md`
+  - `wiki/entities/ferenc-csagoly.md`
+  - `wiki/entities/ferenc-keller-architect.md`
+  - `wiki/entities/margit-pelenyi.md`
+  - `wiki/entities/gyula-fulop.md`
+  - `wiki/concepts/architect-as-developer.md`
+  - `wiki/concepts/residual-site-development.md`
+  - `wiki/concepts/post-communist-housing-transition.md`
+- **Pages updated**:
+  - `wiki/entities/tamas-perenyi.md` (source_count 1→2; added Chapter 10 source link and Venezia Villa Residence)
+  - `wiki/entities/tamas-tomay.md` (source_count 1→2; added Csévi Street Houses to Key Works; added Chapter 10 source link)
+  - `wiki/concepts/low-rise-high-density-housing.md` (source_count 6→7; added Chapter 10 reference)
+  - `wiki/concepts/infill-development.md` (source_count 1→2; added Csévi Street reference)
+  - `wiki/concepts/site-specific-architecture.md` (source_count 4→5; added Barlang Street reference)
+  - `wiki/concepts/courtyard.md` (source_count 2→3; added Víznyelő and Pécs references)
+  - `wiki/concepts/atrium-house.md` (source_count 2→3; added Víznyelő Street reference)
+  - `wiki/concepts/garden-city.md` (source_count 1→2; added Venezia Villa Residence reference)
+  - `index.md` (83 sources; 13 new entity rows; 3 new concept rows; updated line-number header)
+- **Notes**: This ingest completes the wiki's coverage of Perényi's volume (Chapters 1–2, 3, 4–5, 6, 7, 8, 9, 10 now all ingested). The post-communist transition emerges as a sharp break: whereas Communist-era low-rise housing was state-financed and socially targeted, the 1992–2008 projects are market-driven, upper-middle-class, and architect-dependent. The Víznyelő Street project is the only documented case in the wiki of the architect-as-developer model in post-communist Hungary. Barlang Street's "reclamation by nature" strategy is a unique ecological gesture among the Perényi case studies. Open questions: (1) Was the Venezia Villa Residence's multi-site integration enabled by a regulatory loophole or political connections? (2) Can the architect-as-developer model survive in Hungary's now-mature property market? (3) How do residents actually experience the "village green" openness of Barlang Street versus the enclosed atrium privacy of Víznyelő Street?
+
+---
+
 ## [2026-05-01] ingest | Low-Rise, High-Density Housing: Chapter 8 — Hungarian Projects from the Latter Half of the 20th Century (BME, 2013)
 
 - **Action**: Ingested Chapter 8 of Perényi's *Low-Rise, High-Density Housing*, documenting 14 Hungarian low-rise high-density housing projects built between 1957 and 1987 under Communism. Key themes: OTP/building-society financing as alternative to state provision, artist housing as cultural policy instrument, terrain-responsive terracing across hillside sites, Western influences despite the Iron Curtain, prefab panel technology applied to low-rise chain houses, and accessible social housing for disabled people.
@@ -1144,3 +1178,58 @@ Parse tip: `grep "^## \[" log.md | tail -10`
   - `wiki/entities/zofia-piotrowska.md` (source_count 3→4; In the Sources updated with article 12 interview)
   - `index.md` (59→62 sources; 10 new entity rows; 9 new concept rows)
 - **Notes**: Article 10 is the wiki's most comprehensive treatment of gendered public sports space, combining international research data, European municipal case studies, and original Polish participatory practice. The 84% catcalling figure (Ipsos 2021) is the most concrete quantification of street harassment in the wiki. Article 11 introduces the first healthcare architecture analysis, with the "feminist architecture of care" framework arguing that soft spatial solutions from women's wards should be standard across all hospital departments. The tension between biological and social gender as design drivers is unresolved. Article 12 brings circular construction and existing-fabric building into the wiki through the German start-up and consultancy perspective. The interviewees' essentialist claims about women (reproduction vs. monuments, care work) exist in productive tension with their explicit rejection of "female architecture". The demolition-as-arrogance argument is a powerful ethical framing but needs to be balanced against structural and energy-efficiency realities. With articles 10–12, RZUT-34 (PŁEĆ, 2023) is now fully ingested (articles 01–12; article 13 author bios skipped). The issue has added 31 sources to the wiki (01–03, 04 updated, 05–12) and significantly expanded the gender-and-architecture cluster.
+
+---
+
+## [2026-05-01] ingest | Low-Rise, High-Density Housing: Chapter 9 — Contemporary Low-Rise, High-Density Developments: International Examples (BME, 2013)
+
+- **Action**: Ingested Chapter 9 of Perényi's *Low-Rise, High-Density Housing*, documenting 14 international low-rise high-density housing projects built between 1989 and 2004 across Switzerland, Portugal, Netherlands, UK, Japan, and Spain. Key themes: globalisation vs. local specificity, starchitecture in housing, breaking monotony vs. fortifying rhythmic uniformity, parking as design crisis, privacy increasing while communal space shrinks, Japanese minimalism, De Stijl resurgence, and waterfront housing.
+- **Pages created**:
+  - `wiki/sources/low-rise-high-density-housing-chapter-09.md`
+  - `wiki/entities/spittelhof-estate.md`
+  - `wiki/entities/atrium-houses-mathosinos.md`
+  - `wiki/entities/borneo-island-amsterdam.md`
+  - `wiki/entities/hageneiland-ypenburg.md`
+  - `wiki/entities/donnybrook-quarter.md`
+  - `wiki/entities/cyclops-rotterdam.md`
+  - `wiki/entities/groenoord-zuid-schiedam.md`
+  - `wiki/entities/patio-island-ypenburg.md`
+  - `wiki/entities/kanoya-fukuoka.md`
+  - `wiki/entities/la-mareta-tenerife.md`
+  - `wiki/entities/periscope-houses-rotterdam.md`
+  - `wiki/entities/bom-successo-group-obidos.md`
+  - `wiki/entities/row-houses-madrid.md`
+  - `wiki/entities/row-houses-cadiz.md`
+  - `wiki/entities/peter-zumthor.md`
+  - `wiki/entities/eduardo-souto-de-moura.md`
+  - `wiki/entities/west-8.md`
+  - `wiki/entities/mvrdv.md`
+  - `wiki/entities/peter-barber.md`
+  - `wiki/entities/maurice-nio.md`
+  - `wiki/entities/nio-architects.md`
+  - `wiki/entities/nks-architects.md`
+  - `wiki/entities/eustaquio-martinez-garcia.md`
+  - `wiki/entities/virgilio-gutierrez-herreros.md`
+  - `wiki/entities/joke-vos-architecten.md`
+  - `wiki/entities/aires-mateus.md`
+  - `wiki/entities/cano-y-escario-arquitectura.md`
+  - `wiki/entities/rafael-otero-gonzalez.md`
+  - `wiki/concepts/row-house.md`
+  - `wiki/concepts/minimalism.md`
+  - `wiki/concepts/de-stijl.md`
+  - `wiki/concepts/neo-plasticism.md`
+  - `wiki/concepts/parking-in-low-rise-housing.md`
+  - `wiki/concepts/privacy-vs-communal-space.md`
+  - `wiki/concepts/globalisation-in-architecture.md`
+  - `wiki/concepts/waterfront-housing.md`
+  - `wiki/concepts/material-identity.md`
+  - `wiki/concepts/monotony-and-rhythm.md`
+- **Pages updated**:
+  - `wiki/concepts/low-rise-high-density-housing.md` (source_count 6; added Chapter 9 reference)
+  - `wiki/concepts/atrium-house.md` (source_count 2; added Chapter 9 reference and Mathosinos example)
+  - `wiki/concepts/patio-house.md` (source_count 2; added Chapter 9 reference and Patio Island/Madrid/Cadiz examples)
+  - `wiki/concepts/flexible-housing.md` (source_count 2; added Chapter 9 reference and Kanoya example)
+  - `wiki/concepts/starchitecture.md` (source_count 2; added Chapter 9 reference)
+  - `wiki/concepts/climate-responsive-design.md` (source_count 2; added Chapter 9 reference and La Mareta/Cadiz/Madrid examples)
+  - `index.md` (82 sources; 28 new entity rows; 10 new concept rows; updated line-number header)
+- **Notes**: First contemporary chapter in the Perényi sequence. All 14 architects/firms were new to the wiki. The three cross-cutting themes (monotony/rhythm, parking, privacy/communal space) are now captured as dedicated concept pages. The Kanoya "umbilical cord" parking critique is a rare example of satirical infrastructure in housing. Aires Mateus's Bom Successo is the only contemporary project in the wiki explicitly invoking De Stijl / Neo-Plasticism. The line-number HTML comment header in index.md was updated as per new CLAUDE.md convention.

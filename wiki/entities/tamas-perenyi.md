@@ -4,7 +4,7 @@ entity_type: person
 name: "Tamás Perényi"
 nationality: HU
 tags: [architecture, housing, education, hungary, residential-design]
-source_count: 1
+source_count: 2
 aliases: ["Tamás Perényi"]
 ---
 
@@ -39,6 +39,7 @@ Tamás Perényi is a Hungarian architect and professor at the Budapest Universit
 ## In the Sources
 
 - [[low-rise-high-density-housing-chapters-01-02]]: Lead author of the theoretical introduction (Ch. 1) and the typological framework for historic forms (Ch. 2); credited as editor of the entire volume.
+- [[low-rise-high-density-housing-chapter-10]]: Co-designer (with Gyula Fülöp) of the Venezia Villa Residence, Velence (2008), featured as Project 5 in the chapter on contemporary Hungarian projects.
 
 ## See Also
 

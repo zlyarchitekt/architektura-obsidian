@@ -4,7 +4,7 @@ name: "Site-Specific Architecture"
 aliases: ["Site-Specific Architecture"]
 domain: theory, design methodology
 tags: [context, landscape, vernacular, sustainability, topography]
-source_count: 4
+source_count: 5
 ---
 
 ## Definition
@@ -59,6 +59,7 @@ The idea is as old as vernacular building, where local materials, climate, and t
 - [[fuinneamh-gort-ui-ghaoithin]]: Gort Uí Ghaoithín uses materials "of the locality" — wet dash plaster, drystone, black slate — and references early 20th century Irish farmhouse opening patterns.
 - [[heatherwick-learning-hub-ntu]]: Learning Hub NTU — Singapore building codes mandated concrete; tropical climate mandated passive ventilation strategy. Regulatory and climatic constraints became the design generators.
 - [[heatherwick-east-beach-cafe]]: East Beach Café is entirely shaped by its site's constraints — a 40-metre strip between promenade and sewage line; the need for roller shutters generates the building's entire form. The building is designed to read as a found object on that specific beach.
+- [[low-rise-high-density-housing-chapter-10]]: The Barlang Street Terraced Houses (Cságoly & Keller, 2001) demonstrate extreme site-specificity: the hillside caves and contour lines generate the entire composition, with buildings reading as "pierced limestone blocks" emerging from the terrain.
 
 **PL:**
 - [[big-not-a-hotel-setouchi]]: Setouchi jest explicite site-responsive — ziemia z terenu, zachowane warstwice, istniejące drogi, przywrócona rodzima roślinność. Centralnym celem planu był „restoration of the undulating terrain."

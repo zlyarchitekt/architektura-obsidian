@@ -267,10 +267,10 @@ _Last updated: YYYY-MM-DD — N sources ingested_
 
 ```markdown
 <!-- File structure (auto-updated on every edit):
-- Sources:    lines 7   – 92
-- Entities:   lines 93  – 501
-- Concepts:   lines 502 – 666
-- Analyses:   lines 667 – end
+- Sources:    lines 14  – 99
+- Entities:   lines 100 – 508
+- Concepts:   lines 509 – 673
+- Analyses:   lines 674 – end
 -->
 ```
 

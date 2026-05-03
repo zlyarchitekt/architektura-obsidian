@@ -4,7 +4,7 @@ name: "Climate-Responsive Design"
 domain: architecture, sustainability, climate
 tags: [climate, sustainability, housing, energy, shading, ventilation, passive-design]
 aliases: ["Climate-Responsive Design", "Projektowanie Responsywne Klimatycznie"]
-source_count: 1
+source_count: 2
 ---
 
 ## Definition
@@ -25,6 +25,9 @@ Climate-responsive strategies are as old as architecture itself — from the nor
 - **Row Houses with Patios, Agadir** (1962-64) — Two-directional ventilation, shaded patios, gender-segregated outdoor spaces [[row-houses-with-patios-agadir|Row Houses with Patios, Agadir]]
 - **Quinta de Malagueira, Evora** (1977-95) — White rendering, courtyard organisation for shading, density as climate response [[quinta-de-malagueira-evora|Quinta de Malagueira, Social Housing, Evora]]
 - **Gassehaven Estate, Holte** (1973) — Glazed suntrap spans capturing solar energy in cold climate [[gassehaven-estate-holte|Gassehaven Estate, Holte]]
+- **La Mareta, Tenerife** (1989-91) — Eustaquio Martinez Garcia; sculptural massing responding to Canary Islands sun and wind [[la-mareta-tenerife|La Mareta, Tenerife]]
+- **Row Houses, Cadiz** (2002) — Rafael Otero; rhythmic patio organisation for Mediterranean climate moderation [[row-houses-cadiz|Row Houses, Cadiz]]
+- **Row Houses, Madrid** (2001) — Cano y Escario; patios and massing responding to dense urban solar conditions [[row-houses-madrid|Row Houses, Madrid]]
 
 ## Critiques & Alternatives
 Critics note that climate-responsive design can become a pretext for cultural determinism — the argument that "traditional" forms are the only valid response to climate. Others point out that globalisation and climate change are making historically stable climatic conditions increasingly unpredictable, requiring adaptive rather than fixed design strategies.
@@ -33,6 +36,7 @@ Critics note that climate-responsive design can become a pretext for cultural de
 
 ## In the Sources
 - [[low-rise-high-density-housing-chapter-07]]: Climate-responsive design is a major theme across non-European projects (Mauritania, Morocco, Peru) and Mediterranean projects (Portugal), as well as Scandinavian sun-capture strategies.
+- [[low-rise-high-density-housing-chapter-09]]: Spanish projects (La Mareta, Cadiz, Madrid) use sculptural massing and patio organisation to respond to sun and climate. Portuguese and Dutch projects also demonstrate climate-specific strategies in contemporary low-rise high-density housing.
 
 ## See Also
 [[Sustainable Architecture]], [[Passive Design]], [[Courtyard]], [[Shading]], [[Natural Ventilation]], [[Thermal Mass]]

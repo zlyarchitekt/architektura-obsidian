@@ -3,7 +3,7 @@ type: concept
 name: "Garden City"
 domain: urbanism, housing, politics
 tags: [urbanism, housing, garden, uk, town-planning, social-reform, ebenezer-howard]
-source_count: 1
+source_count: 2
 aliases: ["Garden City", "Miasto-Ogród"]
 ---
 
@@ -41,6 +41,7 @@ The garden-city model has been criticised for: (1) low overall density consuming
 
 - [[low-rise-high-density-housing-chapters-04-05]]: Identified as the foundational 20th-century housing type; Letchworth and Hampstead analysed as exemplars.
 - [[tadeusz-tolwinski]]: Polish interwar garden-city adaptations.
+- [[low-rise-high-density-housing-chapter-10]]: The Venezia Villa Residence (Perényi & Fülöp, 2008) is presented as a contemporary Hungarian reinterpretation of garden-city principles — low-rise, green-connected, socially mixed — realised across 71+ individual sites within a market framework.
 
 ## See Also
 

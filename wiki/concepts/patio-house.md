@@ -4,7 +4,7 @@ name: "Patio House"
 domain: architecture, housing, climate
 tags: [patio, housing, courtyard, mediterranean, islamic, climate, privacy]
 aliases: ["Patio House", "Dom z Patio"]
-source_count: 1
+source_count: 2
 ---
 
 ## Definition
@@ -25,6 +25,9 @@ The patio house has deep roots in Mediterranean and Islamic architecture, where 
 - **Soholm, Klampenborg** (1950-55) — Jacobsen; split-level gardens and patio-like external areas [[soholm-klampenborg|Soholm, Klampenborg]]
 - **Bellevue Bay, Klampenborg** (1960-61) — Jacobsen; three distinct external zones including patio between garage and children's rooms [[bellevue-bay-klampenborg|Bellevue Bay, Klampenborg]]
 - **Kasbah Complex, Hengelo** (1969-73) — Blom; small patios and terraces as outdoor rooms in dense Dutch housing [[kasbah-complex-hengelo|Kasbah Complex, Hengelo]]
+- **Patio Island, Ypenburg** (2004) — Joke Vos; contemporary patio houses in Dutch suburban context [[patio-island-ypenburg|Patio Island, Ypenburg]]
+- **Row Houses, Madrid** (2001) — Cano y Escario; patios as climate-responsive private outdoor space in dense urban conditions [[row-houses-madrid|Row Houses, Madrid]]
+- **Row Houses, Cadiz** (2002) — Rafael Otero; rhythmic patio organisation in Mediterranean climate [[row-houses-cadiz|Row Houses, Cadiz]]
 
 ## Critiques & Alternatives
 The patio house can be criticised for consuming more floor area per unit than row-house alternatives, potentially reducing overall density. In dense urban contexts, patios may become overlooked by neighbouring units, compromising privacy. Alternatives include the fully enclosed courtyard, the roof terrace, and the winter garden (glazed patio).
@@ -33,6 +36,7 @@ The patio house can be criticised for consuming more floor area per unit than ro
 
 ## In the Sources
 - [[low-rise-high-density-housing-chapter-07]]: Patios appear across projects from Morocco (Zevaco) to Denmark (Jacobsen) to the Netherlands (Blom), demonstrating the type's versatility across climates and cultures.
+- [[low-rise-high-density-housing-chapter-09]]: Patio Island Ypenburg (Joke Vos, 2004) is explicitly organised around patio houses, while Spanish row houses (Madrid, Cadiz) use patios as climate-responsive private outdoor space in dense urban conditions.
 
 ## See Also
 [[Courtyard House]], [[Atrium House]], [[Courtyard]], [[Climate-Responsive Design]], [[Privacy]]
